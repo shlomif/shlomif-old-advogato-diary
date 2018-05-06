@@ -74,7 +74,7 @@ submitted the project again. This time they:
 <li> Complained that it was not clear what license it is.
 
 <p> <li> Specified that every source file should have a
-legalese header specifiying the license and the disclaimer.
+legalese header specifying the license and the disclaimer.
 
 <p> <li>
 Criticized me for mocking the GPL in the COPYING file. (it
@@ -100,7 +100,7 @@ legally.
 <p> <p>
 If I have to take all this crap just to register a project,
 I'd hate to think what I'll have to put up with as the
-projects' progress. I talked to an E-correspondant of mine,
+projects' progress. I talked to an E-correspondent of mine,
 and he said that he encountered similar paranoia from other
 FSF activists. Meanwhile, I'll probably turn to ibiblio, or
 some other service out there. Maybe I can get perl.org to
@@ -123,7 +123,7 @@ project in SF or BerliOS is straightforward even if you
 don't have any intention to actively pursue it. I realize
 they don't want to be bother by "dead on arrival" projects
 and actually make sure the project is usable to them. But
-if a hacker sais the project is PD/MIT X11/GPL/LGPL/GPL and
+if a hacker says the project is PD/MIT X11/GPL/LGPL/GPL and
 Modified Artistic, etc. they should give him a break, tell
 him to include a COPYING file that says so, accept his
 project and let him start doing actually useful with
