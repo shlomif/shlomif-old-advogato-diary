@@ -1,0 +1,55 @@
+<p><b>RPM Spec for LM-Solve</b>
+
+<p> <p> <p>
+I started writing an RPM Spec tempalte for it based on the SPECs of a few Perl packages from Mandrake Cooker. I got
+a few building errors, and eventually contemplated that
+they were incompatible with older versions of Mandrake. By
+using a stable version from RPM-Find, I was able to complete it, and it worked beutifully, at least on my system.
+
+
+<p> <p> <p>
+LM-Solve 0.5.4 is now RPM-enabled. I posted an announcement on Linux-IL for people to test that it works well on their RPM-based systems. So far I received one reply.
+
+
+<p> <p> <p><b>Freecell Solver</b>
+
+<p> <p> <p>
+Adrian encountered a different behaviour of presets with 
+the --prelude feature. Eventually, it turned out that the
+quotes in the preset string confused the command line chopper, as it does not support them. Once removed, it worked the same as for me.
+
+
+<p> <p> <p>
+Now, we agreed to add support for these quotes into the chopper, to avoid such further annoyances. Now that I think of it, I think I'll prototype it in Perl, first.
+
+
+<p> <p> <p>
+As a side note, I should add that I asked Adrian whether he would wish to receive intermediate versions of the book, and he said he would. I think I should ask more people privately like this.
+
+
+<p> <p> <p><b>A diagram</b>
+
+<p> <p> <p>
+My mother needed me to prepare a block diagram for her. I used Dia for the job. It took us some time to get it just right. Then, when I printed it, it came out very blocky. But then I opened the EPS, converted it to a PNG with a resolution of 600 DPI, and so got a much larger and accurate image. Then, it printed fine.
+
+
+<p> <p> <p>
+Dia is a nice program, but has some quirks. I would have used Visio if I could, but we don't have a copy of it on our Windows system. I have it at the Technion, though, but now I'm in Tel-Aviv.
+
+<p> <p><b>Freecell Solver Site</b>
+
+<p> <p>
+I discovered that the XHTML 1.0 validation image had a border, so I removed it. Now what I would like to do is create some macros to encapsulate some of the common patterns there.
+
+
+<p> <p><b>Studies</b>
+
+<p> <p>
+The project is progressing. Not very quickly, but there's progress nonetheless. I set up to meet Roy on Monday, and hopefully pair programming would let me have some more discipline. I talked with my apartment owner, and he said
+that Yaron is not going to renew his contract next year. That means I'll have to hang some ads looking for an apartment partner.
+
+
+<p> <p>
+Eran and I got 94 in EE Lab 3, and I'm really glad for it.
+
+2002-07-28 03:08:43

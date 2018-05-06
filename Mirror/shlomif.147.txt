@@ -1,0 +1,51 @@
+<p><b>Browsers Incompatiblity</b>
+
+<p> <p>
+While working on the Perl Beginners site, I discovered an incompatibility
+between MSIE and Mozilla and between Opera and Konqueror. Apparently, when
+specifying <tt>"background : none"</tt> in the CSS stylesheet, Mozilla makes
+the background transparent, while Konqueror and Opera only modify the
+background-image if existent. After I changed it to 
+<tt>"background-color : transparent"</tt> it resolved itself in both
+browsers (and still displayed fine in the others).
+
+
+<p> <p>
+For more information refer to <a href="http://my.opera.com/forums/showthread.php?s=162de0c88480c40c0fb70923d0261278&postid=123075#post123075">this discussion
+in the Opera Forum</a> and 
+<a href="http://bugs.kde.org/show_bug.cgi?id=57502">this KDE bug report</a>.
+
+
+<p> <p><b>Haifux Meeting</b>
+
+<p> <p>
+Eli Billauer gave a nice lecture about IP Masquerading using IP-Tables this
+Monday. I met Orna there, and gave her some money to join the Hamakor Amuta. 
+(Muli confirmed he received the money from her, and will pass it to the
+NPO's treasurer). I also met someone who started using Linux not long ago,
+and asked on GNUbies-IL what can we recommend as a Linux replacement for
+Front Page or Dreamweaver. I asked him what exactly he would like to do,
+and only then replied. In the meeting he said that "if I ask you to recommend 
+a car, you should not ask me 'What kind of car do you want?'". I told
+him there were many kind of cars... In any case, I told him a little about
+the HTML writing tools and we had a nice discussion.
+
+
+<p> <p><b>Studies</b>
+
+<p> <p>
+I met with my partner yesterday to prepare the Micro-computers exercise
+and we finished it in a couple of hours. Yesterday I also had to give in
+the Mamat exercise, which forced me to stay a bit late to print it, because
+the printer in the UNIX farm had a problem. We still have some time left to 
+prepare the Financial Management one, and I'll probably sit with my 
+"Software Systems" partner on the weekend for the project.
+
+
+<p> <p>
+Yesterday I studied in Micro about the FPU and MMX instructions of the Pentium
+processor. It was quite interesting.
+
+
+
+2003-05-01 08:10:27

@@ -1,0 +1,28 @@
+<p><b>Subversion</b>
+
+<p> <p>
+I wrote and submitted <a href="http://subversion.tigris.org/servlets/ReadMsg?list=dev&msgNo=24211">a patch to one of Subversion's tests</a>. So far I did not receive any reply or got information about its integration status. Still, it's a start and I may find myself contributing more to Subversion in the future. I really like working with Subversion.
+
+
+<p> <p>
+I posted <a href="http://developer.berlios.de/forum/message.php?msg_id=2778">a message</a> to the BerliOS forum asking if it is possible to set up Subversion hosting there. It really would be nice working with it over the network.
+
+
+<p> <p><b>Freecell Solver</b>
+
+<p> <p>
+Another bug creeped out which I discovered as I worked on the Win32 compilation script: prefix.h and config.h are included in the archive, while they should not be. Hmmpff.
+
+
+<p> <p>
+I also did some work on getting a generic derived states order into FCS. The code runs well now, but does not do anything beyond what existed before.
+
+
+<p> <p><b>Studies</b>
+
+<p> <p>
+I now have several pieces of homework that I need to prepare: in Compilation (which I did most of it), in Thermo, in Tools for Analysis of Computer System (two assignments) and in Set Theory. When it rains it pours.
+
+
+
+2002-10-26 03:55:54

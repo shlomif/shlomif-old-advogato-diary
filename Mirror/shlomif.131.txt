@@ -1,0 +1,157 @@
+<p><b>SCMs for Linux</b>
+
+<p> <p> <p> <p>
+I was recently contacted by <a href="http://www.linuxmafia.com/~rick/">Rick
+    Moen</a> regarding the configuration management :: tools category of
+dmoz. We discussed whether we should use the word proprietary and commercial
+and he also mentioned he had constructed a list of SCMs which I may link to.
+Since the list was in plaintext, I volunteered to convert it to HTML. I did
+and I sent it to him.
+
+
+<p> <p> <p> <p>
+I did not hear from him since until I E-mailed him yesterday. He immediately
+replied that he had received my page, and modified it a bit since. He gave me 
+the URL and I placed it in Dmoz. Moen used quite a lot of Hebrew phrases in his
+messages, and I found out from him that he's been studying in the Hebrew 
+university campus and also volunteered in a kibuttz. :-) From his homepage and
+a Google search I understood he was quite a Linux hot-shot. Man, I'm honoured.
+
+
+<p> <p> <p> <p><b>Freecell Solver</b>
+
+<p> <p> <p> <p>
+Someone contacted me regarding Freecell Solver. He said he wrote his own solver
+and asked if I want to take a look. His solver was a rather crude C program,
+which stored the current position in global variables, used a stack of moves.
+When it recursed into a new position it applied the current move on the state,
+and when it back-tracked, it undo the move.
+
+
+<p> <p> <p> <p>
+This could have been quite smart, but there is one problem. To be solved 
+effectively Freecell and most game AI programs in general, need to keep track 
+of the previously encountered state, to determine (preferably with a good 
+complexity) if a state has been visited or not. His architecture did not have
+a state collection, and so did not work properly.
+
+
+<p> <p> <p> <p>
+I gave him this advice, and referred him to some Freecell Solver documentation
+where he can learn about it, which is a fairly complete Freecell solving 
+package. As much as I support re-inventing your own wheel for fun, it is 
+usually faster to improve an existing wheel. He said he'll have some reading
+to do, and maybe will have the mood to contribute to Freecell Solver.
+
+
+<p> <p> <p> <p>
+On a slightly different note, I should say that I had a chat with 
+<a href="/person/rms/">rms</a> about making Freecell Solver a GNU package. He dispelled
+some myths I acquired regarding it, but eventually concluded that it may not
+be of wide-spread usefulness enough to justify GNUing it. Hopefully, I'll be
+able to talk to him some more on the event on Wednesday.
+
+
+<p> <p> <p> <p><b>Syscalltrack Homepage</b>
+
+<p> <p> <p> <p>
+Wow! A lot of talk and a lot of decisions passed either between Muli, Orna and
+I or on the Syscalltrack-hackers mailing list. So much, that Muli and I decided
+to start a separate mailing list - syscalltrack-website.
+
+
+<p> <p> <p> <p>
+After everything, there was finally some hacking. I changed the stylesheet a 
+bit to agree more with other browsers beside Mozilla. It seems that Konq 3.1.x
+and MSIE 6.0 have buggy CSS 2 support. The new stylesheet is still valid CSS 2,
+but is simple enough to be processed correctly there. Maybe I should install
+Opera to have yet another browser to check on.
+
+
+<p> <p> <p> <p>
+I had lesser luck with the screenshot of the console. Since it was compressed
+as jpeg it now has some compression noise in it, and I had a bad time 
+compressing it as a 256-bit png. Reducing the jpeg quality made it look much
+worse in natural size. I hope the original loss-less image exists somewhere or 
+that Muli can quickly produce another one. I suggested taking the text, 
+putting it in a &lt;pre&gt; block and using some CSS styles to make it 
+resemeble a console Window. I'm still not sure it's a good idea.
+
+
+<p> <p> <p> <p><b>Reading</b>
+
+<p> <p> <p> <p>
+I decided I did not like "Emily of New Moon" so far, and began to read Daniel
+Handler's "The Basic Eight" instead. It's a very funny book, which tells about 
+a gang of teenagers in San-Fransisco, and one girl who decides to write a 
+book out of her diary. (or so I understood). Very amusing, so far.
+
+
+<p> <p> <p> <p>
+Daniel Handler also uses the pseudonym "Lemoney Snicket" when writing the 
+"Series of Unfortunate Events". I read the first one which was quite OK, but
+a bit depressing. I decided I won't go on, because the rest of the book are
+pretty much of the same vain, (sad ending, and this Count Olaf character 
+terrorizing the protagonists).
+
+
+<p> <p> <p> <p><b>Women in Linux</b>
+
+<p> <p> <p> <p>
+I have already replied to <a href="/person/kilmo/">kilmo</a>'s response to my comment on the
+HOWTO in private. Maybe he misunderstood what I meant to say, or maybe takes
+a completely different opinion. I still, however, take the stand that the 
+HOWTO's proposed strategy was deficient despite the fact that some parts of it 
+were good and enlightening.
+
+
+<p> <p> <p> <p>
+BTW, kilmo's entry was quite funny, and this time I was more amused than angry.
+
+
+<p> <p> <p>
+<b>Update:</b> There's now an on-going discussion between <a href="/person/kilmo/">kilmo</a>, <a href="/person/ladypine/">ladypine</a> and I. I'd rather not comment on it too much until the final conclusions are reached.
+
+
+<p> <p> <p>
+But here are a few clarifications:
+
+
+<p> <p> <ol>
+<li>
+I did not say abuse or what is interpreted as abuse is desirable or good. I just said there wasn't an effective top-down way of enforcing it. (at least not without trampeling the more important ideals of liberalism.)
+
+<p> <li>
+I did not mean to offend any woman Linuxer, or any other woman. My critique was strictly directed at the contents of the HOWTO. I by all means support the woman liberation movement, and hope to see many female hackers become active in the Linux community.
+
+<p> <li>
+I believe abuse, similar to the one described in the HOWTO, can be encountered in other fields where women have achieved greater in-roads. It is possible that in the Linux world it is more dominant, due to the fact that as of today almost everybody are men.
+
+<p> <li>
+A person needs to learn to handle abuse, both racist and personal. Blaming the male Linux community at large for "abusing" the few women who are trying to join it, is not going to be effective. (even statistically). Similarly, an afro-American trying to advance in the U.S. cannot blame the white community at large for any abuse he may take. It is much easier to adapt oneself to reality, than to expect reality to adapt itself to you.
+
+<p> <li>
+"Abuse" is by no means discrimination. I think I can safely say that among the voluntary Linux communities, discrimination against Women is virtually non-existent. And like I said, women should learn how to handle some abuse.
+
+<p> <li>
+I believe that some parts of the HOWTO were correct and enlightening. I just criticized its general strategy for trying to solve the issue.
+
+<p> </ol>
+
+<p> <p> <p>
+I sent an E-mail to the issues Linux-Chix mailing list with a reference to my original diary entry. I received the regular reply of a post from a non-subscriber that needs to be verified by the administrator. &lt;sigh /&gt; In any case, this issue has strengthened my desire to write an "Howto become a Hackeress" document, that will complement ESR's "Howto become a Hacker" and the "Encouraging Women in Linux Howto".  I am not a woman and do not claim to understand them,  but I'm as good a person to start with it as any.
+
+
+<p> <p> <p><b>My stories</b>
+
+<p> <p> <p>
+Right now I'm flooded with ideas regarding two of my stories, or rather story ideas. One is "The Blue Rabbit's Log" which is a trilogy of movies that parodies Role-Playing Games. The other is "Who the hell is Qoheleth?" which describes some days in the life of the guy who wrote Ecclesiastes (which is "Qoheleth" in Hebrew). The latter
+now acquires flesh and bones and I have many situations present.
+
+
+<p> <p> <p>
+However, I need to do some research regarding life in Damascus the time it was written. According to <a href="http://www.geocities.com/Athens/Thebes/8331/dates.htm">this page</a> it was written in the 200's BCE, which means somewhere between 299 BC - 200 BC (that's negative dates for you). Hmmm. Better start looking at history books and resources.
+
+<p> <p><b>Update:</b> changed a renegade "take abuse" to "handle abuse". a fatal typo...
+
+2003-01-06 07:12:44

@@ -1,0 +1,75 @@
+<p><b>Linux Events</b>
+
+<p> <p>
+On Friday there was the conference and installation party. I spent most of the
+time installing RedHat on a few computers. One installation was done through
+VMWare which gave some problems in installing the xpdf RPM. Other than that,
+a guy I tried to install a system for him, brought his computer there
+and we again failed to install it. Then he drove back home and brought his
+new computer, on which the installation went fine. (he also drove me back
+home).
+
+
+<p> <p>
+Then there was a raffle, which I did not took part in and so did not earn
+anything, but it was fun to watch, especially as one name (of someone who
+wasn't there) came up three times.
+
+
+<p> <p>
+On Sunday, I went to the Hertzlia Inter-Discplinary Center to hear a lecture
+about Mono (the open-source .NET implementation), and also was able to give
+a lecture about The Cathedral and the Bazaar series. We were about 10 people
+there.
+
+
+<p> <p>
+Finally, on Monday, there was a coordination meeting for the Haifa Linux Club
+Welcome to Linux series, which I volunteered to be responsible for some of
+the tasks there. They rejected my suggestion to make a shorter "Linux in 
+Action" series, claiming that the first lecture was about that already. I 
+still think the W2L as it is, wastes too much of our time, while giving
+very little in return to the beginners.
+
+
+<p> <p><b>Hacktivity</b>
+
+<p> <p>
+This and that. I worked on implementing the Patsolve logic into Freecell 
+Solver. It is working now, but does not give as good results as Patsolve
+has. I'll have to analyze the results to see if there's a bug.
+
+
+<p> <p>
+I also worked on <a href="http://t2.technion.ac.il/~shlomif/Devel-LineTrace/">
+    Devel::LineTrace</a> - a Perl module to assign callbacks to lines in the
+code without modifying it. (for debugging purposes, like adding prints). 
+
+
+<p> <p>
+I also went over the CatB lecture and fixed typos. There were quite a few of
+them and two of which (one which I forgot) crept up during the lecture. :-)
+
+
+<p> <p><b>Vipe is Disconnected</b>
+
+<p> <p>
+vipe.technion.ac.il is disconnected because it's lying in the Technion's
+dormitories network which was entirely disconnected to facilitate dealing with 
+the worms attack. This means part of my homepage and the Haifa Linux Club 
+homepage and mailing lists are inaccessible, and I cannot read my primary
+E-mail account. The Technion staff is now on vacation so it's not going to
+be fixed until Sunday.
+
+
+<p> <p><b>Reading</b>
+
+<p> <p>
+I read a lot from "The Art of Unix Programming", as well as some chapters 
+out of "The House of Arden". I also advanced a little in "Apache : The 
+Definitive Guide". The latter seems a bit boring and technical to me,
+and I'm not entirely sure I need this information.
+
+
+
+2003-08-27 15:55:34

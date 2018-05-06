@@ -1,0 +1,50 @@
+<p><b>Studies</b>
+
+<p> <p>
+I had the test of Financial Management yesterday. I did not understand the 
+first part at first so I decided to move to the second part, which was easier.
+Then I returned to the first part and this time understood it and was able
+to solve most of it. Now I have some vacation until the next test on July 14.
+
+
+<p> <p>
+The registration for the Winter semester is today, and I hope I can make
+a convenient schedule with Thermodynamics and another subject. I'd like not
+to have an apartment near the Technion next semester, so I need good times.
+
+
+<p> <p><b>Knoppix</b>
+
+<p> <p>
+Someone testified on GNUbies-IL that he could not run a Knoppix CD he
+burned. To see if it happens for me, I downloaded and burned the Knoppix
+CD. I ran it on my computer, and it ran perfectly fine. I was impressed
+from it a great deal. I was able to use KDE, surf the Internet, see Java
+applets, and listen to mp3s. Very impressive.
+
+
+<p> <p>
+Now it seems either his CD was not burned correctly, or there's something
+wrong with his computer. I'll check that out in the coming days.
+
+
+<p> <p><b>Hacktivity</b>
+
+<p> <p>
+I fixed the style on my Dmoz categories. When I had tried to apply to a new
+category, I was notified that the style on some of the entries did not
+correspond to the dmoz guidelines. So I tried to remedy it.
+
+
+<p> <p>
+Other than that, I worked a bit on Quad-Pres, and added multiple themes
+functionality to it.
+
+
+<p> <p><b>Reading</b>
+
+<p> <p>
+I finished the chapter about SVG animations in "SVG Programming" and am now
+in the beginning of "Integrating SVG with HTML".
+
+2003-06-30 08:13:39

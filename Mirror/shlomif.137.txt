@@ -1,0 +1,49 @@
+<p><b>CLAN Progress</b>
+
+<p> <p> <p> <p>
+I wrote a whitepaper, a SPEC of the "final" system as I see it now,
+a roadmap and a SPEC of version 0.2 Perl POD is really great and my documents usually compile at first run, and produce nice HTML. Still, I may use DocBook eventually at various places.
+
+
+<p> <p> <p> <p>
+I prepared an <a href="http://fc-solve.berlios.de/CLAN/">organized site for everthing</a> (note that the location is temporary and I plan to move it to clan.berlios.de as soon as I get the positive response from the BerliOS guys). In any case, the site is built with Web Meta Language and follows the same standard of my other sites. I'll put everything up to date now.
+
+
+<p> <p> <p> <p>
+Now any code yet I'm afraid. I did read the CPAN man page and got a nice impression of its capabilites. However, CPAN is single-source mutliple-mirrors while I need multiple-sources multiple-mirrors like Debian. But so far, what I need is a way to package a kernel module so it will be self contained, and from that
+to transform it into a system package that can be compiled on any GNU system without Perl. Then, I'll do other things.
+
+
+<p> <p> <p> <p>
+I'm really excited about this project because it's in Perl and it's for the Linux kernel so I get to enjoy both worlds. There will be the Linus Torvalds barrier, but CLAN might turn into a mutiny...
+
+<p> <p> <p><b>Message to Arafat</b>
+
+<p> <p> <p>
+Check <a href="http://www.kuro5hin.org/story/2003/1/14/491/74299">this</a>. I tried to post it to Kuro5hin and it was declined by the voters. You might as well read the comments after you've read the article because they are very lame. K5's reputation has not been very good from my impression.
+
+<p> <p><b>RMS' Lecture</b>
+
+<p> <p>
+I attended a lecture by Richard Stallman yesterday. Here's the <a href="http://plasma-gate.weizmann.ac.il/Linux/maillists/03/01/msg00649.html">general
+ report I gave</a> to Linux-IL. And now for some personal comments
+
+
+<p> <p>
+I told RMS about the fact that I believed the Public Domain suited Freecell Solver very well, because it made it suitable for small-time vendors of shareware and freeware software. He said he would have used the GPL instead, because: "we have this wonderful solver, so if you want to use it you'll need to make your
+Freecell implementation free." We agreed to disagree because it's a difference of ideologies that cannot be gapped.
+
+
+<p> <p>
+I told him about CLAN and he said it could be a nice idea, but nothing much more. We also talked about other things. I expected him to be much more flamatory and stubborn, but he's actually very friendly and gentle. He does correct you a lot about his etymological battles, and seems to lack some basic conventions. When I asked him how he enjoyed his visit to Israel he said that he was disappointed, because a 1000 people learned about OSS in the IBM Convention, while only 200 came to hear him talk about free software yesterday. Normally I would expect something like "Oh I enjoyed it very much. The people are nice/the food is great/the scenery is beautiful/etc." as any native welcoming a tourist would expect. But for him free software always come first.
+
+
+<p> <p>
+<a href="http://plasma-gate.weizmann.ac.il/Linux/maillists/03/01/msg00642.htmlHere's"> Here's Ira Abramov take on the lecture.</a>
+
+
+<p> <p>
+Our E-mail transactions continued. I sent him an E-mail about <a href="http://www.stallman.org/#personal">his personal notice</a> and after the lecture he said that despite my criticism, he likes it the way it is. I believe most women would be deterred by it completely (and for a good reason - it is not phrase well), even though many of them would otherwise be very attracted to him and maintain a steady relationship with him. One of the things I noticed is that it was impossible to convince him of anything.
+
+
+2003-01-14 11:58:42

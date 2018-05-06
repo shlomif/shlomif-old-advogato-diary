@@ -1,0 +1,31 @@
+<p><b>Hacktivity</b>
+
+<p> <p>
+I am an Open Directory Project editor of the <a href="http://dmoz.org/Computers/Software/Configuration_Management/Tools/">Configuration Management category</a>. Yesterday I logged in, and started sorting the pending links. Many of them turned out to be off-topic or such that are already present. I accepted some of them in. Right now I'm left with 87 new links. (I started with 130 or so).
+
+
+<p> <p>
+Other than that, I worked on Quad-Pres a bit. It is now in a state where it has a basic working functionality. I also came into an insight: I can release it in a form in which it does not have all the commands I want it to have - just a central installation and the old way of managing the source tree.
+
+
+<p> <p>
+I messed a bit with <a href="http://www.vips.ecs.soton.ac.uk/">VIPS and Nip</a> which I spotted on Sweetcode. There's also something I did, which I forgot what it was by now. Oh well.
+
+
+<p> <p><b>Reading</b>
+
+<p> <p>
+Still going on with the Camel book. Finished the chapter about IPC and am at the beginning of the one about threads.
+
+
+<p> <p><b>Linux Meeting</b>
+
+<p> <p>
+Yesterday, I attended a meeting which was organized by several representatives of big Linux vendors and users in Israel. I was informed of the meeting by an E-mail message Moti Sadovsky, a Sun executive, which I decided to forward to the Linux-IL mailing list. Eventually, out of IGLU came Gilad Ben-Yossef, Shachar Shemesh, Doron Ofek and me.
+
+
+<p> <p>
+The conference room was rather small, and there were quite a lot of people there and so it was settled that we will meet again at the Dan Panorama hotel sometimes around mid-January. We did settle that we did not want the forum to have a completely marketing orientation, albeit some marketing was also good. Other than that it was mentioned that a commercially-supported forum can do a great deal to advance Linux in Israel, and other stuff like that.
+
+
+2002-12-26 07:25:04

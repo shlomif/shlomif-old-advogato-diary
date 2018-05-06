@@ -1,0 +1,35 @@
+<p><b>Studies</b>
+
+<p> <p>
+Roy phoned me today and told me he has some commitments to his work place, and won't be able to sit down for doing the project until the 25th. We agreed that I can work on the project alone until he become available again.
+
+
+<p> <p>
+I reviewed the "Computer Graphics" material a bit, but I don't see too much point in studying too hard at the point. Spent most of my time hacking on stuff. ;-).
+
+
+<p> <p><b>Freecell Solver Book</b>
+
+<p> <p>
+I discovered a way to render the book into PDF. Just run the "db2pdf" command, which uses the DSSSL stylesheets. I wonder what is the problem with the XSL ones. Now the problem is that a table I drawn is too wide and slips out of the page.
+
+
+<p> <p>
+I now have four subscribers to the book mailing list, and I see some people responded to my post here. In any case, the book is progressing slowly but surely, and I already wrote part of the second chapter.
+
+
+<p> <p><b>Freecell Solver</b>
+
+<p> <p>
+By looking at its code, I discovered that the priority queue module could use a lot of optimizations. So I optimized it to death. Later on, I did a lot of clean-ups, and also released version 2.5.36 which aims to be the Release Candidate for 2.6.0. Then I did some more cleanups. 
+
+
+<p> <p>
+I'm getting a bit restless, and I think I'll release 2.6.0 after I check that it agrees with valgrind, Electric Fence, and dmalloc. I could delay the other cleanups, and code commenting to the 2.7.x branch.
+
+
+<p> <p>
+I timed a few more atomic scans and just got below the 260 million iterations mark. I had a talk with Adrian in the mailing list about solving games with less than four freecells, and reached a conclusion that I may have to construct specialized presets for them too.
+
+
+2002-07-11 09:53:34

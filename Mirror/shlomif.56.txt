@@ -1,0 +1,35 @@
+<p><b>Open Source Projects</b>
+
+<p> <p>
+I have just released <a href="/proj/LM-Solve/">LM-Solve</a> 0.3.5. It is the result of a lot of time invested in getting it to support <a href="http://www.gjnem.demon.co.uk/planks/ixplanks.htm">
+Plank Puzzles</a>, and it seems to be working very nicely.
+I also released Freecell Solver 2.6.2 which can now be built as a Debian package out of the box.
+
+
+<p> <p><b>HTML Musings</b>
+
+<p> <p>
+I sent a bug report to the Mozilla folks about the fact that an &lt;h2&gt;'ed link does not display correctly. It turned out that the standard specifies that an &lt;h2&gt; tag cannot be placed inside a &lt;a&gt; tag, which was the case for the page I produced. Once I fixed it, it worked fine in Mozilla as well as Konq.
+
+
+<p> <p>
+They still designated it as a bug because it is possible that such faulty HTML would be encountered.
+
+
+<p> <p><b>University Project</b>
+
+<p> <p>
+It takes a lot of time to tweak Apache to do just what I want it to do. Still, I'm making progress: I already implemented a login/logout feature and started writing the users management script.
+
+
+<p> <p><b>Studies</b>
+
+<p> <p>
+The grades for Lab 3 are on the grades board, but since 
+I'm home right now, I can't check them out. Better ask Eran to do so, as he took the lab with me.
+
+
+<p> <p>
+I checked out the mail at the Haifa apartment and found a few bills. Dad paid them yesterday, but he refused to pay the telephone bill. I should contact Yaron and ask him if he is going to leave the apartment the next year, because I think he finished his studies.
+
+2002-07-26 04:19:50

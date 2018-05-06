@@ -1,0 +1,54 @@
+<p><b>GNU Savannah and Human Engineering Cont.</b>
+
+<p> <p>
+Some of the Savannah people were not entirely happy with what
+I wrote in the diary. You can find their comments and my
+comments to their comments in the following threads of the
+savannah-hackers mailing list:
+
+
+<p> <p>
+<a
+href="http://mail.gnu.org/pipermail/savannah-hackers/2002-April/007222.html">
+Thread 1</a>,
+<a
+href="http://mail.gnu.org/pipermail/savannah-hackers/2002-April/007228.html">
+Thread 2</a>,
+<a
+href="http://mail.gnu.org/pipermail/savannah-hackers/2002-April/007309.html">
+Thread 3</a>
+
+
+<p> <p>
+An interesting side effect of this argument was <a
+href="http://www.advogato.org/article/458.html">my
+article</a> about Human Engineering and how it transcends to
+actual project development. I still prefer to stay clear of
+the GNU Savannah service because it seems a bit too picky to me.
+
+
+<p> <p><b>BitKeeper</b>
+
+<p> <p>
+Trying to get a decent source control repository (I'd like
+something a bit more sensible than CVS), I registered <a
+href="http://vipe.technion.ac.il/~shlomif/lm-solve/">lm-solve</a>
+at BitKeeper. After some troubles setting up the SSH key,
+and bothering a support guy about it, I managed to get the
+project active. I also installed the BK binary, but did not
+get to populate the project yet.
+
+
+<p> <p>
+I have a CVS repository of the project on my local computer,
+but I could not find any automated way to convert it to
+BitKeeper on the site, even though it says it is possible.
+The BitKeeper site could use a little re-organization.
+
+
+<p> <p>
+But hopefully, I would be able to work on the project from
+several locations, without too much trouble.
+
+
+2002-04-16 06:04:14

@@ -1,0 +1,20 @@
+<p><b>Studies</b>
+
+<p> <p>
+I got 100 as the final grade for "Structure and Interpretation of Computer Programs 2". The Computer Graphics test is going to be the day after tomorrow. I photocopied the previous tests in the library and I'm going to solve them today and tomorrow.
+
+
+<p> <p>
+I don't know when Roy would be available to work on the project. I spent some time working on it myself, but still has a lot of ground to cover.
+
+
+<p> <p><b>Open-Source Projects</b>
+
+<p> <p>
+Adrian reported a bug in Freecell Solver, and Valgrind was able to trace it. I fixed it and released Freecell Solver 2.6.1. Valgrind kicks ass!
+
+
+<p> <p>
+I think I'll work on adding support for Plank Puzzles into <a href="/proj/LM-Solve/">LM-Solve</a> next - I'm in the mood for it. I also did some work on the Perl parser for the SysCallTrack grammar.
+
+2002-07-21 07:57:39

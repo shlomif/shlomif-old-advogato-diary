@@ -1,0 +1,39 @@
+<p><b>Subversion and Neon Verdict</b>
+
+<p> <p>
+At the end, the Subversion maintainer told us we can use the HTTP error code
+to distinguish between the different kind of errors Neon is returning. So I 
+wrote an <a href="http://www.contactor.se/~dast/svn/archive-2003-07/1500.shtml">updated patch</a> and Ben Collins-Sussman commited it. (thanks, Ben!). Now,
+there's a part of me in the Subversion core.
+
+
+<p> <p><b>LM-Solve Re-work</b>
+
+<p> <p>
+I spent part of the last couple of days reworking <a href="/proj/LM-Solve/">LM-Solve</a>. I
+started out <a href="http://stalker.iguide.co.il:8080/svn/lm-solve/">a 
+    Subversion repository for it</a>, changed its namespace to "Games::LMSolve",
+added a lot of documentation, etc. It's also in CPAN now.
+
+
+<p> <p><b>Studies</b>
+
+<p> <p>
+I took the test of Micro-computers on Wednesday. It went pretty well. I was
+first worried that I won't have enough time to finish it, but then it turned
+out I did have, even without the time extension. I still don't know what 
+my score is. This is my last test for this semester, so now I'm <b>free</b>!.
+
+
+<p> <p><b>Subversion</b>
+
+<p> <p>
+I submitted a patch to add a <tt>--config-dir</tt> option to the subversion
+command line clients to specify an alternate directory for the configuration
+files. The first incarnation became out of date after a change in the code. 
+The <a href="http://www.contactor.se/~dast/svn/archive-2003-07/1666.shtml">second 
+    one</a> was also more encompassing, and modified more configuration 
+commands. I still have a small queue of patches that did not get accepted yet.
+
+
+2003-07-25 19:03:58

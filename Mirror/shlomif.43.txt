@@ -1,0 +1,16 @@
+<p><b>BitKeeper</b>  
+  
+<p>  
+I finally have an <a href="http://lm-solve.bkbits.net/">on-line BK  
+repository</a>. It took me quite some time to get the ropes, but I  
+think I now know how to use the basic system. It is more tedious to  
+work with than CVS is, but I suppose such power has to come at some  
+cost.  
+  
+  
+<p>  
+I'll probably check Arch and Subversion sometime later, just to get  
+an objective review of what they give me.  
+  
+  
+2002-06-01 18:03:15

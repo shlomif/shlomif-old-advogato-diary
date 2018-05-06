@@ -1,0 +1,22 @@
+<p>
+I see it's been more than two weeks since I wrote the last
+entry. Oh well.
+
+
+<p> <p>
+I had some time off my University project (due to the fact
+that I got a little sick and because of the Jewish
+holidays), and I invested it in Freecell Solver. Now it is
+solves Simple Simon games par excellance, and you can expect
+the release of 1.10.x anytime now. Simple Simon tests are
+more complex than Freecell ones due to the unique nature of
+Simple Simon, so it had been quite an experience.
+
+
+<p> <p>
+If you can't wait, the development releases are available on
+the site by now.
+
+
+
+2001-09-30 13:24:40

@@ -1,0 +1,36 @@
+<p>
+Roy (my partner for the IP-Noise project) and I met with 
+the project's 
+supervisor on Wednesday. The meeting went very well, and I 
+managed 
+to get some input from him on several things I needed to 
+be clarified. 
+He said he was quite content with our progress so far, and 
+that we may
+have to prepare the dummy midterm presentation soon.
+
+
+<p> <p>
+I opened a project for IP-Noise on BerliOS, mainly for 
+being able to use
+CVS. I imported several useless directory trees into the 
+CVS, but I now
+think I got the hang of it. I also set up several things 
+at our local
+box (including a CVS server), and now everything behaves 
+like I want it
+to.
+
+
+<p> <p>
+I'll probably do some work on the R2L applet this weekend, 
+as well as on 
+the perl lecture. Unfortunately, vipe is not accessible 
+due to a Technion 
+network problem, so I don't have access to my TODO list. I 
+think I'll send
+it to other systems from now on (or will keep it on 
+iglu.org.il).
+
+
+2001-08-24 12:39:19

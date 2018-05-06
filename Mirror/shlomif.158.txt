@@ -1,0 +1,36 @@
+
+<p><b>mod_php using Qmail</b>
+
+<p> <p>
+I encountered some problems on iglu.org.il with PostNuke. Apparently, I could
+not send mail. After I upgraded php to the latest version, I discovered that
+I could send mail from the command line, but not from mod_php. By "tail -f"-ing
+the web-server's log, I found out an error: "<tt>qmail-inject: fatal: read error</tt>". I searched for it and eventually found <a href="http://msgs.securepoint.com/cgi-bin/get/qmail0202/322/2/1.html">a post that says how to resolve it</a>.
+
+
+<p> <p>
+Worked like a charm.
+
+
+<p> <p><b>Biking</b>
+
+<p> <p>
+I tried to fill air in my bicycle's wheel, and it worked. Hallelujah! Now,
+I've already went biking twice, and it's good to be back in the habit. I hope
+that's the end of the phantom problems with it.
+
+
+<p> <p><b>Hacktivity</b>
+
+<p> <p>
+This and that. I've been trying to find some Subversion bugs to resolve, and
+so far have been only bugging with it the Subversion development list. I also
+wrote a Perl script to submit a site to <a href="http://dmoz.org/">dmoz</a>,
+seeing how my browser gets stuck doing that. The script seems to submit 
+everything, but the site does not arrive at dmoz (checked it with my own
+category). Then I discovered there is a better way for me as an editor 
+to submit sites.
+
+
+
+2003-07-05 15:04:20

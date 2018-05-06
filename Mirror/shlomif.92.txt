@@ -1,0 +1,17 @@
+<p><b>Makefile.PL in Autoconf Cont.</b>
+
+<p> <p> <p>
+I was finally able to resolve the problem by overriding
+the <tt>distdir</tt> target and replacing there one macro (I believe it was called <tt>$(DISTVNAME)</tt>) with the one
+passed to it by the Autotools process.
+
+<p> <p> <p>
+It took me several days to figure this solution, and I still
+consider it a kludge.
+
+<p> <p><b>BitKeeper</b>
+
+<p> <p>
+Check <a href="http://yro.slashdot.org/article.pl?sid=02/10/06/0518220&mode=thread&tid=106">this</a>.
+Guess now I won't be able to toy with BitKeeper at all. How much paranoid can you get? Now I'll have to see what Linus Torvalds and his friends make of this.
+2002-10-06 04:11:06

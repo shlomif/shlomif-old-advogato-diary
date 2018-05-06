@@ -1,0 +1,48 @@
+<p><b>SVG Viewer</b>
+
+<p> <p> <p>
+I've been looking for a decent SVG viewer for Linux (similar to Adobe's SVG Viewer for Windows). It seems that the Adobe SVG Viewer for Linux is intended for an ancient version of Mozilla. The rsvg-based viewers (like gtkmmviewer) were still incomplete. SVG Support for KDE looked somewhat fine in the thumbnails, but I could not get it to open full screen for some reason. And the Mozilla native SVG support is still incomplete as well.
+
+
+<p> <p> <p>
+I eventually found xml.apache.org's <a href="http://xml.apache.org/batik/">Batik SVG Toolkit</a> which renders things correctly and nicely, so I settled for it.
+
+
+<p> <p> <p>
+I tried to view an example from the SVG book in it, and found out a text was higher than expected. I emailed the SVG mailing list at w3.org about it, and found out that it was an incompatibility between the two viewers that can be easily fixed. (albeit to the wrong way)
+
+
+<p> <p> <p><b>Studies</b>
+
+<p> <p> <p>
+On from the weekend I sat on the latest exercise of "Intro to Software Systems". I finished it yesterday. It was not very hard but we were expected to manually manage hierarchial dispatch in C++ without using virtual methods (%-)). I also sat on Sunday on the "Software Systems" project with my partner. We merged the two codes of the stop-watches into an #ifdef'ed one and we started working on the presentation.
+
+
+<p> <p> <p>
+That aside, I also sat on the thir "Financial Management" homework. I encountered some problems and will have to consult the lecturer or the T.A. I handed the Micro-Computers exercise today which involved writing code for the i386 Floating-Point Unit. Now we have an exercise about MMX.
+
+
+<p> <p> <p><b>nVidia Driver</b>
+
+<p> <p> <p>
+I found out a thread in LinuxWorld.com that discussed how to resolve the X hangups when using the accelerated nVidia driver. Since my kernel was not up-to-date, I had to try and upgrade it. This turned out to be a problem because the system hanged right after boot. However, I resolved it by upgrading loadlin.exe, an upgrade which enabled it to accept large kernels.
+
+
+<p> <p> <p>
+Then I compiled and installed the driver, and went on. One tip (to add "mem=nopentium") did not do the job. Now I'm trying another one which involved adding an option to the XF86Config-4 file. So far so good, but it may fail as well.
+
+
+<p> <p> <p><b>Hacktivity</b>
+
+<p> <p> <p>
+I played the <a href="http://wouter.fov120.com/cube/">Cube 3D gaming engine</a> a bit, and was annoyed by the fact, that I needed to use the mouse to turn around. Asking at its IRC channel whether it was possible to use the keyboard for it brought up a negative answer. Thus, I delved into the source code and added a command for it, and it now works nicely. I sent it to the Cube's originator but he did not reply yet.
+
+
+<p> <p> <p>
+I also started adapting the <a href="http://www.iglu.org.il/mailing-lists/">IGLU Mailing List Management Code</a> for public consumption. I only worked on it today, so I still have a lot of work ahead.
+
+<p> <p>
+Finally, a patch I wrote to perldata.pod 
+<a href="http://archive.develooper.com/perl5-porters@perl.org/msg98071.html">got accepted into perl5. Hoorah!
+</a>
+2003-05-28 14:32:59

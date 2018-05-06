@@ -1,0 +1,95 @@
+<p><b>Life</b>
+
+<p> <p>
+Still raining on and off, so not much biking for me. I'm spending a lot of 
+time on the IRC lately, but still can get some useful work. Besides, when
+I start studying again this Monday, IRC would not be as accessible and much
+less recommended. So I'd better make the best use of it now. And even wasting
+time is good if you're enjoying it. ;-)
+
+
+<p> <p>
+My father and I went to buy a new desk lamp for my Haifa apartment, right
+before he went to England. The light bulb holder there is broken, and so 
+the room would be completely dark without it. Mom and I are going to set
+things up in the Haifa Apartment this weekend. At the time being, I don't 
+spend too much time thinking about studying, but I suppose it will occupy
+quite a lot of my time, soon. Hopefully, this semester, should not be too
+hard.
+
+
+<p> <p><b>Hacktivity</b>
+
+<p> <p>
+Worked a bit on <a href="http://www.iglu.org.il/shlomif/perl-begin/">my 
+    version of the Perl beginners portal</a>, a bit on revamping the perl 5
+perl*.pod man pages, and some on 
+<a href="http://fc-solve.berlios.de/oss-fs/docbook/">DocBookifying 
+    the OSS/FS document</a>. I ran into a few problems with the PDF generation
+of DocBook (namely that Hyperlinks and footnotes are not functional), and I 
+hope the good people of the DocBook-apps mailing list would help me soon.
+
+
+<p> <p><b>Some IRC, E-mail, etc. Musings</b>
+
+<p> <p>
+<a href="/person/riel/">riel</a> is <a href="http://surriel.com/nh.shtml">moving out to 
+    New Hampshire</a>, while being in Brazil at the moment. The link is quite 
+informative, so I suggest you read it if you are wondering about this issue. He also confirmed the fact that the core Connectiva distribution was open-source, 
+much like RedHat, Mandrake or Debian. According to LWN, some non-free 
+distributions proved to be a bit risky after they become defunct. Suse and 
+Caldera are doing fine, but I still would not trust them. 
+
+
+<p> <p>
+I noticed a certain pattern with the #perl channels on the IRC. In EF-Net, 
+#perl is reserved for expert talk and no CGI/Web/Net::IRC/newbie questions
+are allowed. That is reserved for #perlhelp. Of course, a lot of newbies
+log on to the IRC seeking perl help, and go to #perl, and without reading
+the subject-line (Rule #2 of GUI design: people don't read!), ask one of
+those common questions there. And I instinctively try to help them, only
+that both of us get flamed later on.
+
+
+<p> <p>
+I think it would have been a better idea to create a #perlguru channel
+and designate #perl as a channel for everything including newbie questions. In
+Undernet, there's this permanent profile with a few scripts, that bans anybody
+who mentions the word CGI... I was eventually banned after using "c g i" and
+"c**" and posting a perfectly innocent URL. Again, something that could be
+remedied by designating #perl as a channel that accepts Newbie questions.
+
+
+<p> <p>
+This all reminds me of Linux-IL and how newbie questions used to cause a lot
+of flamatory reactions. I think the situation is much better now there in this
+regard.
+
+
+<p> <p>
+I visited #iglu at EF-net as well, which is the channel of the Israeli Group
+of Linux Users. I had a pleasant chat there. Someone asked me about Perl's 
+XML writing capabilites, and I asked him what was wrong with <tt>print</tt>.
+Eventually it turned out he was used to a Visual Basic API that made sure
+the written file was a valid XML at each point. I.e: by appending all the
+closed tags to the end of the file. This requires an extra overhead, and I'm 
+not sure is a good idea. (in a worst case scenario, it can increase writing 
+from O(n) to O(n^2) for a UNIX file-system) Even so, implementing such an
+object should not be too hard.
+
+
+<p> <p> I managed to help someone, I met on the IRC with a Perl CGI script he
+needed to write, and ended up writing the entire script and a form to power it
+for him. Which wasn't hard because all he needed to do was append a line to a
+file. It eventually turned out he was an Israeli, and we ended up chatting some
+more.  
+
+<p> <p>
+Finally, a <a href="http://www.mail-archive.com/linux-il@cs.huji.ac.il/msg26163.html">flame-war broke out in Linux-IL</a> 
+regarding whether we as Linux developers should be considerate of the needs 
+of Windows users as well. (e.g: use PDF instead of PostScript, maintain a port
+of the software to Windows). I'll let you be the judge.
+
+
+
+2003-02-27 00:31:59

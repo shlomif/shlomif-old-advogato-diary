@@ -1,0 +1,129 @@
+<p><b>Studies</b>
+
+<p> <p> <p>
+I now have an extended vacation as I don't have to study tomorrow as part of 
+the Hanukkah vacation, which is nice. Meanwhile, in Statistics I had a 
+difficulty with one of the home exercises. The problem was that we were
+given several distributions for the case in which there are two populations.
+And it was not clear from the page when to use which. But I think I can overcome
+it now.
+
+
+<p> <p> <p><b>Private Lesson in Perl</b>
+
+<p> <p> <p>
+Someone who once drived me away from a Linux event and I later met in others,
+wanted to learn Perl or other Linux things that I can teach him. Today, we 
+finally held our first session. I first asked him for what his experience was
+with Linux and programming. It turned out he worked as a sys admin in a 
+company with several Linux installations, and had very little experience in 
+programming (not even from school). Then he told me that he asked people
+what should he learn first: some said "shells", others "Perl" and others "C". 
+This is without taking Python, Ruby and Tcl into account. :-).
+
+
+<p> <p> <p>
+I said I think we will start with Perl. The reasons for it are that it is 
+easier to write shell scripts in Perl, than it is to write many Perl programs
+in shell, so there will be a faster path to results. Retrospectively, I think
+there are other reasons: I would not recommend C as a first language, because
+it's two low-level and as such newbie-unfriendly. Also, learning shell first
+may have a relatively crippling, because shell programming has a different
+philosophy than either Perl (and friends) or C.
+
+
+<p> <p> <p>
+So I began teaching him Perl by following my <a href="http://vipe.technion.ac.il/~shlomif/lecture/Perl/Newbies/">Perl 
+    for Newbies</a> series. I found out he was quite 
+proficient in vi, and a fast typist, so it was not frustrating to watch
+him code. During one hour (which was the sesssion length) we covered most of
+the first lecture (which is originally intended for two hours). I realized
+that there were many things he did not understand at first, which I had
+to explain to him verbally. This may indicate a deficiency of the material I 
+prepared as far as people who are complete beginners to Perl are concerned.
+
+
+<p> <p> <p>
+During the lecture I made a couple of small comparisons with Python. For 
+instance, I showed that "+=" and friends did not exist in earlier versions
+of python and "++" still does not. 
+
+
+<p> <p> <p>
+I ended up receiving 50 NIS for the lecture, but it was fun any way you 
+look at it.
+
+
+<p> <p> <p><b>Site about Giving Presentations</b>
+
+<p> <p> <p>
+Someone read in this weblog that I'm going to give a presentation, so
+he pointed me to <a href="http://www.presentationhelper.co.uk/">his 
+    site which is dedicated on how to give effective presentations</a>. 
+I checked this site and it is very good, so I'm mentioning it here. 
+
+
+<p> <p> <p><b>Gimp Gradient-Fu Patch</b>
+
+<p> <p> <p>
+I finished writing the patch, and it even has one more function that was
+not present in the previous incarnations of it. You can check it out
+on <a href="http://t2.technion.ac.il/~shlomif/grad-fu/1-3-x.html">Gradient-Fu
+    for GIMP 1.3.x page</a>. Now I have to wait until the development
+of GIMP 2.1.x to start for it to be integrated. Or I can accelerate its
+accpetance by resolving standing issues with GIMP 1.3.x myself... ;-) 
+
+
+<p> <p> <p><b>WWW::Form</b>
+
+<p> <p> <p>
+If you remember, I started using WWW::Form in the past for the IGLU Jobs
+tracker and had to modify it to suit my needs. I haven't heard from its
+developer for quite some time, after sending a couple of messages, so today
+I decided to try and reach him again. I emailed him asking if he received
+my last modifications, and if he'd like us to cooperate somehow on its
+development more closely. He answered me saying he would gladly accept me
+as co-developer, and we agreed that we will use a Wiki, and a version control
+system, and modify the module extensively together.
+
+
+<p> <p> <p>
+Hopefully something good will come out, because it's preferable not to fork 
+it and the developer seems very much alive and kicking.
+
+
+<p> <p> <p><b>Some Threads of Possible Interest</b>
+
+<p> <p> <p>
+Check <a href="http://www.mail-archive.com/linux-il@cs.huji.ac.il/msg31886.html">this thread on Linux-IL about the Hurd</a> for some discussion on how good
+Hurd is, and some speculations if it'll ever be ready for prime time. (taking
+into account the fact that Linux has been for years) It's quite amusing.
+
+
+<p> <p> <p>
+Here is a <a href="http://groups.yahoo.com/group/hackers-il/message/3556">Hackers-IL 
+    post I wrote about the "Great Divide" between Windows and UNIX</a>.
+
+
+<p> <p> <p>
+Finally, here are <a href="http://www.newsforge.com/comments.pl?sid=35117&cid=82733">my answers to the recent Microsoft Poll</a> as I posted on the appropriate
+Newsforge article about it.
+
+<p> <p><b>Advogato Replies</b>
+
+<p> <p>
+<a href="/person/movement/">movement</a>: congratulations for your new job. I know it took you a long time to find it, and I hope you'll enjoy it and make a good living out of it. Solaris should 
+be a very interesting thing to work on. 
+
+
+<p> <p>
+<a href="/person/lindsey/">lindsey</a>: I recall the time I had to convert
+MikMod (which was originally written in C) to Java. During that time, my code generated a bootload of exceptions because I did not trap some file I/O
+related exceptions. At first I tried to throw them to oblivion, but then realized it only made the situation worse, so I ended up catching them at the function that did
+the I/O and returning an error code instead. Doing exceptions logic properly is very hard, and the code already had error handling in the function return values.
+
+
+<p> <p>
+I really like the fact that in Perl I don't have to explictly catch any exceptions, because it is very suitable for Perl. I'm not sure it's appropriate for C#/.NET, though, which is much more Java-like.
+
+2003-12-23 18:48:29

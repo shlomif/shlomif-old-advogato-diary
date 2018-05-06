@@ -1,0 +1,35 @@
+<p><b>#!/usr/bin/perl</b>
+
+<p> <p>
+A muse fell on me and I wrote the preliminary version of 
+<a href="http://humanity.berlios.de/usr-bin-perl/">
+#!/usr/bin/perl - Episode 1</a>. I really should start using
+source control for this. <a href="/person/nyh/">nyh</a> has made a critique of it after I posted it to Hackers-IL. He had good points (which I taken into account), but was a bit too preachy.
+
+
+<p> <p>
+What people don't understand is that it's better to have 100,000 viewers who know you know what you are saying is true, than 10 million who hear what they want to hear. And #!/usr/bin/perl is about real computer geaks heared from a 
+real geak. Who happens to like reading comedy and realism,
+better than Sci-Fi and Fantasy, who is an able humour writer, a good programmer, and who knows how small Info-Tech companies run and should be run.
+<p>
+Other than that, I was disappointed that Freshmeat rejected the submission. First my fortunes collection (which took me a lot of time to produce and is still actively maintained), and now this. They seem to be missing Open-Content or pseudo-Open-Content almost entirely, which, in my opinion is a big mistake, because it's going to be one of the best next
+things.
+
+
+<p> <p>
+Never mind, I can try on Slashdot, albeit I'm not sure it's
+a good strategy. So I ask you to please read it and comment.
+
+<p> <p>
+Something is rotten in the kingdom of Denmark. And it's time for Hamlet to clean up. "To Be or Not to Be" - Not To Be!
+
+<p> <p>
+<b>Note:</b> Now that I think of it, I can get it in through the back door by writing a set of scripts to maintain and render movie and T.V. shows screenplays. I sure could use something like that. And I'll contain links to such projects.
+
+<p> <p><b>Changing the World Bottom-Up</b>
+
+<p> <p>
+I think I've been trying too hard to change the world, the Technion, etc. top down. Maybe I should now try bottom up, by starting from the little things. Doing little projects, building new working models. Eventually, something big would happen, whether the so-called men in power like it or not. Power to the producers!
+
+
+2002-08-03 17:49:58

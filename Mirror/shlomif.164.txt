@@ -1,0 +1,104 @@
+<p><b>August Penguin II</b>
+
+<p> <p> <p>
+I attended the August Penguin II event yesterday. It was very nice and
+I met many people I knew there. At first Shachar Shemesh gave an instructive
+presentation about the Linux activities in Israel the past year. Then, there
+was a lecture about MOSIX by one of its Hebrew University workers. It was 
+very nice as well. Afterwards, <a href="/person/moshez/">moshez</a> gave a lecture about
+PyPy, instead of the Python internals lecture that appeared in the agenda.
+Moshe is a very entertaining lecturer and the lecture went very well.
+
+
+<p> <p> <p>
+Then came the geek trivia, which pitted two groups of three "geeks" and "nerds"
+against each other. It was very fun. And finally, came the key signing party
+, which I took part in and signed the keys of 20 people or so.
+
+
+<p> <p> <p>
+There were a few glitches there, as far as I was concerned. First of all, I 
+discovered the building did not have any coolers and I had to drink water from 
+the taps of the restroom. Then, it was too cold in the lecture hall, and I
+had to leave once or twice to regain my senses. Finally, my ride back to home,
+disappeared during the key-signing party, which caused me to have to take the 
+bus again. But all in all, they did not spoil the fun.
+
+
+<p> <p> <p>
+After the event was over, I went back home, ate, and went to sign everybody's
+key. It turned out <a href="http://www.mail-archive.com/linux-il@cs.huji.ac.il/msg28626.html">some 
+    of the key could not be checked out of the servers I tried</a>. (read the
+thread for more information). However, it turned out <a href="/person/mulix/">mulix</a>
+who organized the key signing party, prepared a keyring with all the keys,
+and was about to send it to everyone for signing. Thus, I was able to sign
+the rest of the keys.
+
+
+<p> <p> <p><b>Freecell Solver</b>
+
+<p> <p> <p>
+I discovered a game of Simple Simon that could be solved by hand, but not 
+by Freecell Solver (which gave up after checking only the initial state). So 
+I set out to discover why. Apparently there was a function there which was
+responsible for performing the initial move, only it had a bug. I only had
+to remove one = from an <tt>&lt;=</tt> operator and the bug was fixed and
+the game was solvable. Hah!
+
+
+<p> <p> <p><b>Reading</b>
+
+<p> <p> <p>
+I finished a large part (most?) of "Games, Diversions and Perl Culture : 
+Best of the Perl Journal". I also read the Freshmeat GUI Toolkits feature
+and started reading ESR's "The Art of Unix Programming" which is very 
+interesting so far.
+
+
+<p> <p> <p><b>Subversion</b>
+
+<p> <p> <p>
+I wrote a couple of tests for my Issue #1297 patch, and indeed the unpatched
+Subversion failed them both. However, I was told the patch is not correct
+because it does not handle some working copy parameters correctly.
+
+
+<p> <p> <p><b>LM-Solve</b>
+
+<p> <p> <p>
+After releasing version 0.8.0 I discovered a bug and released version 0.8.1. 
+Now I think I did not document the Hexagonal Planks ID in the man page of
+the executable so I'll need to release 0.8.2... :-). In any case, I also
+revamped the <a href="http://vipe.technion.ac.il/~shlomif/lm-solve/">LM-Solve 
+    homepage</a> and now maintain it separately from my homepage. 
+
+
+<p> <p> <p>
+Finally, I announced LM-Solve on Freshmeat.
+
+
+<p> <p> <p><b>Dmoz.org</b>
+
+<p> <p> <p>
+I finally got permission to edit the Perl "FAQs, Help and Tutorials" category
+on dmoz.org. I created a tutorials sub-category and will move all the
+tutorials there. I might create other sub-categories there if I feel the
+main one becomes too crowded. Let me know if there's anything you'd like to see 
+there.
+
+<p> <p><b>Lectures</b>
+
+<p> <p>
+I prepared <a href="http://vipe.technion.ac.il/~shlomif/lecture/Perl/Graham-Function/">a lecture about my solution to the Graham Function 
+    Perl Quiz of the Week</a>. This time I used PerlPoint, which enabled me
+to quickly translate the summary into the lecture itself. Here's 
+<a href="http://groups.yahoo.com/group/hackers-il/message/3349">a discussion
+    of it on Hackers-IL</a>.
+
+
+<p> <p>
+I also prepared a summary (but not the slides themselves) for a lecture about
+LM-Solve. Both are intended for the next Israeli Perl Mongers meeting.
+
+
+2003-08-02 09:45:33

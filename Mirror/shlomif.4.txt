@@ -1,0 +1,29 @@
+<p>
+I finally borrowed the book "Computation Structures" from 
+the Technion's library and refreshed my memory about the 
+MAYBE architecture. I woke up last night at 1 AM (it's so 
+hot now and I don't have Air-Conditioning) so I decided to 
+write a description of the maybe to the Haifux' projects' 
+list. I posted it, but the whole archive has yet to 
+appear in mail-archive.com.
+
+
+<p> <p>
+I learned the <a href="http://www.engelschall.com/sw/wml/">
+Web Meta Language</a> (or WML for short) today. I'd like 
+to use it for the <a 
+href="http://comnet.technion.ac.il/~cn1w02/">
+IP-Noise project's site</a> and if I see that it is handy 
+enough, for other things like "DeCSS for JavaScript" or 
+the  new GIMP's homepage. But, at the moment, the web-site 
+of the project does not look too good, so I have an 
+incenitive to do it first.
+
+
+<p> <p>
+But now it's 10 PM and yesterday I did not sleep too well 
+, so I'd like to get some sleep now.
+
+
+
+2001-08-20 19:08:15

@@ -1,0 +1,49 @@
+<p><b>LWN Closing</b>
+
+<p> <p>
+It's a pity that <a href="http://www.lwn.net/">Linux Weekly News</a> is closing. I think it is one of the best Linux resources around, and I would really miss it. I still wonder why they did not try requiring subscriptions
+to read their articles. I'm sure many people would have paid and they could have released old editions for everybody to link to after a fixed amount of time.
+
+
+<p> <p>
+Oh well: who is John Galt?
+
+
+<p> <p><b>New Site for Freecell Solver</b>
+
+<p> <p>
+I spent the better time of yesterday's afternoon working on a new site for <a href="/proj/Freecell%20Solver/">Freecell Solver</a>. I opened a new branch for it on the CVS, but I finished so quickly that I quickly merged it with HEAD, without modifying HEAD at all.
+
+
+<p> <p>
+You are welcome to <a href="http://vipe.technion.ac.il/~shlomif/freecell-solver/">
+Check it out</a> and let me know what you think.
+
+
+<p> <p>
+I also played with rsync and got it to work quite quickly. I used scp before and rsync is much better. 
+<a href="http://developer.berlios.de/">BerliOS</a> does not seem to carry it on their server, so I had to install
+it under my home directory. Afterwards, I tweaked the makefile to extract several files out of the latest stable
+Freecell Solver archive and put them on the site.
+
+
+<p> <p>
+As a side note, I should add that a Google search for Freecell Solver now turns the 2.4.3 Freshmeat release as 
+the first hit, the Freshmeat record as the second, the BerliOS mirror as the third, and the real homepage as No. 4. Google seems to have such anomalies sometimes, and I hope it won't persist in its next update.
+
+
+<p> <p><b>Agenda</b>
+
+<p> <p>
+Here is what I'm planning to do next:
+
+
+<p> <p>
+<ol>
+<li>Work on the university project
+<li>Review the Autotools lecture in preparation for giving it
+<li>Prepare a lecture about WebMetaLanguage
+<li>RPM-Spec enable <a href="/proj/LM-Solve/">LM-Solve</a>
+</ol>
+
+2002-07-27 04:18:22

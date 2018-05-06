@@ -1,0 +1,180 @@
+<p> <p><b>Computer Science vs. Software Engineering (cont.)</b>
+
+<p> <p> <p>
+<a href="/person/kilmo/">kilmo</a>: in regards to 
+<a href="http://www.advogato.org/person/kilmo/diary.html?start=64">your comments</a> 
+regarding the usefulness (or lack thereof) of the output of the Computer 
+Science department. First of all, it does not invalidate my point that most
+students come to the Technion's CS department to learn how to program or at
+least to get a certificate that will show their competence as programmers. 
+(whether it indeed does is a different question).
+
+
+<p> <p> <p>
+Secondly, in regard to the post itself: my condolences. ;-). It is highly
+possible that 20% of the faculty cater to 80% of the students as far as their
+research is concerned, while 20% of the faculty cater to 80% of the students.
+From what I know of the Electrical Engineering department, a larger part of 
+their research is more down to earth and useful. Maybe that what happens when
+you have a department dedicated to a theoretical science.
+
+
+<p> <p> <p>
+I know that in M.I.T., for example, there's one department for both Computer
+Science and Electrical Engineering. This removes the duplicacy of the courses
+between the two faculties that we see so much in the Technion, and also 
+possibly injects a lot of practicality to them CS researchers.
+
+
+<p> <p> <p><b>Linux in Action revisited</b>
+
+<p> <p> <p>
+Well, my suggestion to turn the Haifux' Welcome to Linux series into a 
+shorter "Linux in Action" series was rejected (possibly for a good reason),
+but Linux in Action could still be a good idea as a complement to it. For
+instance, we could have a day full of Linux demonstrations, in a similar 
+manner to the Linux Circus that took place a couple of years ago.
+
+
+<p> <p> <p><b>A Good Reference for Perl</b>
+
+<p> <p> <p>
+Eran has recently installed RedHat Linux 9.0 in order to learn how to
+program better. He wanted to learn Perl, having heard so many good things
+about it, and so started out with my "Perl for Perl Newbies" series, which
+he claimed was very well written. Then he wanted to look something in the
+perl man pages, and said he could not make heads nor tails of them.
+
+<p> <p>
+As he wasn't the first one I heard to express this amount of unhappiness from 
+them, it got me thinking about writing a better reference for Perl, in a 
+similar fashion to what Python and PHP have. So <a href="http://nntp.x.perl.org/group/perl.perl5.porters/85584">I brought this on perl5-porters</a> and 
+received many heated responses. Apparently, many people believed that the 
+man pages should be left in their current not-so-idiot-proof state, or that
+it was rightful to expect people to pay to get a better reference.
+
+<p> <p>
+From my experience getting my patches to the documentation into bleadperl,
+it was a relatively painful experience. While there were many people who 
+actually had meaningful comments, there were always those few who complained
+that it's making them too wordy, or loses character out of the document. 
+Eventually, most of my patches were accepted, but it was still a painful 
+procedure, as it seems there isn't a consensus in the perl5-porters mailing 
+list on the exact purpose of the perl*.pod documents.
+
+<p> <p>
+Add this to the fact that I'm not sure that the Perl POD documents can ever be 
+made very suitable for beginners, and that their organization is a bit lacking,
+and I think it may be a good idea to simply start a documentation project 
+("Doclanx" or "Reflanx" both named after the Phalanx project) from scratch 
+that will produce a comprehensive reference that is more suitable for 
+beginners. Our own codebase, our own rules, our own progress.
+
+<p> <p>
+What I would like to do first or as I start is collect user stories about the
+existing documentation. That way we can tell how to best organize the new one.
+
+
+<p> <p> <p><b>ISP/Phone Company Support Incident</b>
+
+<p> <p> <p>
+A couple of days ago I sank into an all-time low: I called the ISP support line
+and he actually guided me in something. It all started when my Internet 
+connection got hanged out and nothing I tried to do to resolve it (restarting
+the modem, restarting the router) helped. So I called the ISP line. A support
+person answered and when I told him I had a NAT, he said I should connect the
+computer to the modem straight or else he can't help me. So I did (I have
+two Internet cards). Here he guided me through the procedure (my Windows 
+networking configuration skills got a bit rusty lately), and then it still did
+not work. Then he heard that the modem was configured to use PPPoE, so he said
+that we either need to set it back to PPTP or he can't help me. (as usual,
+these support people are more clueless than us hackers or power-users). 
+I knew that my father would not like it so I gave him my father.
+
+
+<p> <p> <p>
+My father got angry, and eventually disconnected and tried to contact the 
+Phone company support team. They eventually said that the line was probably
+OK, and possibly the modem mis-configured itself. So we reset the modem (with
+a tooth-pick), and it went back to PPTP, but we were able to connect to the 
+Internet again. Pheewww! Now we need to set it back to PPPoE sometime, but 
+still it wasted a couple of good hours.
+
+
+<p> <p> <p><b>Browser Wars</b>
+
+<p> <p> <p>
+I read the beginning of the <a href="http://www.evolt.org/article/Browser_Wars_II_The_Saga_Continues/25/60181/">Browser Wars II: The Saga Continues</a> 
+article. It was quite entertaining, but short of useful information. But it 
+got me thinking: as Mozilla (and browsers based on its engine, like Firebird) 
+is mature and usable and MSIE is buggy as hell, and will only ship with new 
+versions of the operating system, we can expect the user-base of Mozilla and
+similar alternative browsers to actually grow, at least not if it weren't
+for all those MSIE-only sites. But I thought of a way to accelerate it: start
+creating <b>clean</b>, <b>standards' compliant</b> web-sites that <b>may
+    or may not look well in Internet Explorer</b>. I'm not saying that we 
+should break them on purpose. Just not test them on it, and if people complain
+that they break tell people to switch to Mozilla or whatever. (as it will be 
+good for them).
+
+
+<p> <p> <p>
+The question naturally rises why it is not equally as worse as web-sites that
+are MSIE-only. There are several reasons:
+
+
+<p> <p> <ol>
+    <li>
+    <b>MSIE 5.5 and above are specific to a certain operating system and 
+        architecture. Mozilla and similar browsers are truly cross-platform.</b>
+    - as such MSIE may not be available on the development platform of the 
+    web designer. I design all my sites and have tested them on MSIE by
+    using the laptop. Now, I'm not going to bother.
+    
+    <li>
+    <b>MSIE is not open source. Mozilla is</b> - I cannot fix the bugs there 
+    even if I wanted to. If bugs exist in an open source project I can either
+    fix them myself, hire someone else to do it, or blame myself for not doing
+    either. With MSIE, I have every right to blame Microsoft for their 
+    incompetence. And I can have them eat their own arrogance.
+    
+    <li>
+    <b>Users can always switch to Mozilla or whatever</b> - I can always tell 
+    them to do so. On the other hand, I cannot switch to Internet Explorer if
+    I'd like to use Linux (which I do).
+    
+    <li>
+    <b>MSIE is not standards compliant while other browsers are</b> - in 
+    fact, a prominent Microsoft engineer said standards-compliance is not
+    a high priority for the MSIE team. Since I design according to web 
+    standards, I don't want the new Netscape Navigator 4 to be in my way. 
+    
+    <li>
+    <b>MSIE is not going to be maintained independently</b> - the only 
+    prospect of getting a browser upgrade for MSIE is to buy a new OS. Buy
+    a new OS just to get a new version of the browser? That's the joke of the
+    month. Other browsers come with periodic upgrades with many improvements -
+    all for free.
+    
+</ol>
+
+<p> <p> <p>
+So that's it. I'm going to use such cool stuff such as CSS child selectors 
+(<tt>html &gt; body</tt>), <tt>max-width</tt>, Alpha-transparency PNGs, and
+<tt>:hover</tt> on elements besides links, as well as the full XSLT 
+specification. I'm not going to break compatibility on purpose, but I 
+certainly won't prevent a cool standards-complaint feature from inhibiting 
+my pages. And I can't run MSIE on my choice of system, so Microsoft have 
+themselves to blame if it doesn't work.
+
+
+<p> <p> <p>
+Finally, I may put the no-MSIE icon on each and everyone of my sites.
+With a link to a page explaining this new WWW order. No more Mister Nice 
+Guy! Microsoft: adapt or perish!
+
+
+<p> <p> <p>
+(this scheme may not be an option for your organization's sites, but I'll apply
+it to mine)
+2003-11-29 12:00:07

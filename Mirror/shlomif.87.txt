@@ -1,0 +1,40 @@
+<p><b>Rindolf</b>
+
+<p> <p>
+The Rindolf <a href="http://vipe.technion.ac.il/~shlomif/intro_to_rindolf.html">
+Perl.com feature</a> is finalized, and waiting for comments. Wow! It was harder than I thought and I hope people would understand it, and it would get enough attention and that.
+
+
+<p> <p>
+I'm a bit afraid to make use of the GNU Savannah Hosting I got there, because of their fanatism and the fact that the web pages are updated using some kind of CVS magic, which I don't quite understand. I'll probably start a project on BerliOS, too, because I like the BerliOS people's attitude much better.
+
+
+<p> <p><b>Aegis</b>
+
+<p> <p>
+I just commited my first change! With a lot of help from an Israeli Aegis guru. I'd like to write a tutorial about it. Aegis is very pedantic at first - lots of permissions to set up. But it seems very powerful. I'm Impressed.
+
+
+<p> <p><b>Better SCM Initiative</b>
+
+<p> <p>
+Full throttle ahead! I decided I will give BitKeeper some attention due to the remarkable work Larry McVoy and his team did on it. But there will be a lot of caveats in my description. 
+
+
+<p> <p>
+I got a project opened for me in BerliOS, and can soon populate its homepage. (better-scm.berlios.de). Hopefully,
+it can be a good place for cooperation among the different projects. Note that I don't intend any project to merge with any other one. I don't believe in concentration of efforts craps.
+
+
+<p> <p>
+One conclusion I reached is that developers who wish to finance their projects should make them open-source but can request (or virtually demand) a licensing fee however large. Many companies would pay this fee, just to have the peace of mind that they complied with the developers' whims. But begging for donations is ineffective.
+
+
+<p> <p>
+Another one is Source Control for the Masses. With nice integration with the Windows Explorer (or your own explorer) you can make a source control management system the next best thing. Excluding BitKeeper due to Larry's attitude and its license, I'd say Subversion is the best product to model it on.
+
+
+<p> <p>
+Cheers developers, and keep up the good work!
+
+2002-09-26 16:08:20

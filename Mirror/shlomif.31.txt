@@ -1,0 +1,56 @@
+<p><b>Hebrew Latex</b>
+
+<p> <p>
+My partner for "Design and Analysis of Algorithms" and I
+prepared the first assignment for this course in Hebrew
+LaTeX. She is not a UNIX expert, so I sat at the computer
+and handled the he2 editor, CVS and LaTeX itself. This is
+the third major work I prepared using Hebrew LaTeX after the
+appeal to my test in "Image Processing and Analysis" and the
+first assignment in "Digital Communications".
+
+
+<p> <p>
+Two things hampered us: the fact that I had to look up all
+the relevant macros on the web, and some obscure mistakes
+that caused the interpreter to yell at us without me knowing
+what they are exactly. But it is still better than Word.
+
+
+<p> <p>
+I rememember that when I prepared the Digi-Com homework, it
+took me an awfully long time because there were many
+Mathematical formulae. In Word, the situation would have
+probably been much worse, but it was still a much longer
+time that writing everything by hand.
+
+
+<p> <p>
+In any case Liat (that's the name of my partner) was very
+impressed by the results, and said it looked very
+professional. I also prepared some diagrams of graphs to
+accompany it using <a href="/proj/Sketch/">Sketch</a> and then converted
+them to EPS for inclusion into LaTeX.
+
+
+<p> <p>
+Eran and I, OTOH, prepared the Lab Experiments reports in
+Word (except for the Wavelets one last semester). Since they
+are not too long and because we use few formatting styles,
+Word is actually quite bearable. In Word, one has to
+remember a lot of keyboard shortcuts in order to write
+equations quickly enough. So, whether macros or keyboard
+shortcuts, one has to remember something when you are a
+technical person and would like to create equations.
+
+
+<p> <p>
+I still find LaTeX more flexible because there are obviously
+more Mathematical styles than available keyboard shortcuts,
+and in Word one tends to abundantly copy and paste things,
+while in LaTeX it is possible to write a macro to
+encapsulate them. Also, writing "$ ... $" is quicker than
+invoking the Equation editor for an inline equation.
+
+
+2002-04-04 07:26:14

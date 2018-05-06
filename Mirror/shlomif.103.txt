@@ -1,0 +1,69 @@
+<p><b>Life as a big riddle</b>
+
+<p> <p> <p>
+I sometimes got or get the nagging feeling that life itself is a big riddle which I have to solve, after which everybody I ever knew would congratulate me, and I'll be able to settle my life knowing the world is safe - fully liberal, strong and free. I use the elements I see on the Net, to materialize it step by step.
+
+
+<p> <p> <p>
+I find the standard "just enjoy life" attitude quite inadequate. I <b>am</b> enjoying life, but I further important causes in the process.
+
+
+<p> <p> <p><b>Advocacy vs. Code</b>
+
+<p> <p> <p>
+Some people believe that code contribution is the most important thing a developer should do, but I don't necessarily agree. First there are the keys decisions that are made throughout the day. Each one is much more important than many hours of typing characters in front
+of a computer screen.
+
+<p> <p><b>Life</b>
+
+<p> <p>
+I managed to bike twice today, and both were very enjoyable. Then my dad drove me to the Perl Meeting in Ramat Gan and drom me back home (he did not stay there). And now for the Perl Meeting:
+
+
+<p> <p><b>Perl Meeting</b>
+
+<p> <p>
+The Perl meeting was very nice. At first I talked with Gabor about SCMs and used a lot of "Shrinkwrap" "Consultingware", "Internal Use" joelisms. I eventually made it clear that to make an SCM enterprise-class like BitKeeper would require a lot of time, effort and perhaps money. Then I explained that the "$20 million dollars required stuff" was a call-for-arms and something to get everybody's attention. Then we mingled with the other crowd.
+
+
+<p> <p>
+I met Mark Veltzer and Reuven Lerner there, two people whom I corresponded with, but did not meet in person. Mark told me about the problems with make and friends, and how even cook or Cons don't fully resolve them. He said he had a started to write a replacement in Perl, based on what someone else wrote in Python (sorry - cannot remember the names), which should answer all forseeable problems. Mark seems to be a big software configuration management guru.
+
+
+<p> <p>
+He also told me about Aegis, how it was designed from the grounds up for the enterprise, and how Peter Miller now makes it a bit dumber for the mundane ex-CVS/ex-BitKeeper user. I hope eventually it would be useful as a full BitKeeper replacement or at least quite close.
+
+
+<p> <p>
+I said Peter Miller has some amazing stuff at his homepage (Aegis, Cook, fhist, etc), so I asked him whether he is a consultant or anything. He said he worked for someplace and then Lucent, and now in another company, but I find it hard to believe he'll ever be out of job.
+
+
+<p> <p>
+Reuven Lerner, I and others had a Postgres vs. MySQL talk. He said that the MySQL people probably knew more about multi-threaded programming than anyone else he knew, but the syntax was very limited. (hard-coded functions). I told them about ISG Navigator (I worked at ISG for a while) and they were not too impressed, despite the fact that I found it to be a useful and impressive product.
+
+
+<p> <p>
+The the lectures started: I gave a review of Mastering Algorithms with Perl and then continued to QuaD-Pres. The presentation went very well, where a few appropriate questions, and I thought they got the idea. Then Gabor spoke about his tool, which sounded hackish, but still capable (if it works for you - work with it). Then Reuven Lerner gave an interesting and entertaining presentation about his Apache+mod_perl+Mason tool, which is probably something I can never afford to use.
+
+
+<p> <p>
+I gave an after math explaining about the "Cathedral the Bazaar" and how the killer app of non-wysiwyg presentation generation tools was not yet found, and how it may one day with some effor on part of its developer. But since writing something like that is so easy in Perl, we may see a lot and a lot in years to come.
+
+
+<p> <p>
+Mark claimed DocBook did everything the other things do and more, and explained why. Then I called my home phone to see what's going on with dad, and they said he's on his way so I decided to present Perl-Point. Which as opposed to DocBook was very brief and compact.
+
+
+<p> <p>
+A highly enjoyable evening which gave me a lot to know and to think about it.
+
+
+<p> <p><b>BitKeeper Advocacy</b>
+
+<p> <p>
+Check: 
+<a href="http://better-scm.berlios.de/bk/">http://better-scm.berlios.de/bk/</a>
+
+<p> for some BitKeeper Advocacy articles I wrote. They are more rational than the last ones. I really need to organize the "Better SCM" site better, so it might be some WMLizing before too long. But then, I have some homework to do and it's on a higher priority.
+
+2002-11-07 20:13:01

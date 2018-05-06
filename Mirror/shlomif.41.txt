@@ -1,0 +1,98 @@
+<p><b>Freecell Solver Lecture</b>    
+    
+<p>    
+I finished it, gave it some final touches and uploaded it to vipe.    
+You can find it <a    
+href="http://vipe.technion.ac.il/~shlomif/lecture/Freecell-Solver/">here</a>.    
+Now I have to review the slides before the presentation on Monday.    
+    
+    
+<p><b>Studies</b>    
+    
+<p>    
+The 3-D impression of a BSD Daemon we created now has moving parts,    
+thanks to a lot of effort I invested in it. Writing Inventor Scenes    
+in C++ sure is tedious. I still have to inform my partner about it.    
+    
+    
+<p>    
+An exercise that we were given in the "Internet" course, turned out    
+to contain a bottom note saying that we should better use the book    
+"Routing in the Internet". I left it at my apartment, so now I'm    
+stuck without it. But who is John Galt? The way things are    
+progressing it seems Roy and I will have to spend some time off the    
+summer vacation working on the project. We just can't seem to find    
+enough time during the semester proper.    
+   
+   
+<p>   
+I eventually finished the SICP 2 exercise. I implemented the   
+Minimum Spanning Tree Algorithm with awful complexity because I was   
+too lazy to implement a binary heap from scratch. Whatever: the   
+lecturer said that complexity was not the issue here.   
+   
+   
+   
+<p><b>Biking</b>    
+    
+<p>    
+Yesterday, I could not drive through my usual trail in the Yarkon    
+Park because there was a Food Festival there. Today I saw that    
+people started dismantling all the equipment and stages that was    
+left there. So it's probably back on track. There's some kind of    
+activity going on in the middle part of the park, but I don't know    
+what it is. There are just several large heaps of stones or dirt.    
+    
+    
+<p>    
+Today, a girl jogger sort of accompanied my trail for a large part    
+of my ride through the University St. I then lost her as she    
+jay-walked (or rather jay-ran) across the red-lights in Qeren    
+Qayemet. It was no the first jay walk of her that I witnessed.    
+    
+<p><b>Freecell Solver</b>   
+   
+<p>   
+I placed the source on the CVS repository on BerliOS and since then   
+I was able to hack on it. So far, I did some cleanups of the code,   
+added an unlimited tests order, and implemented compact allocation   
+for some resources. In the compact allocation scheme, I allocate   
+contigous blocks from a buffer, rather than individuallly malloc   
+everything.   
+   
+   
+<p>  
+The CVS is by far more convenient that keeping tar.gz archives. The  
+problem is that it takes some time to commit it, because the  
+connection is slow.  
+  
+  
+<p><b>TuxRacer Demo</b>  
+  
+<p>  
+I downloaded the TuxRacer 1.1 Demo by SunSpire Studios. The  
+graphics are better than the old Open-Source version. It took me  
+some time to get used to it, but now I like it a lot. I'll probably  
+talk my dad into buying the full game, because it looks very  
+promising.  
+  
+<p><b>Learning STL</b> 
+ 
+<p> 
+I've learned a bit of STL yesterday, and covered some of the basics 
+of vectors, lists and iterators. Programming one of the exercises 
+the tutorial gave me turned out to be quite tedious, and it took me 
+a long time to get it right. The problematic part was the data 
+structure logic more than the API. 
+ 
+ 
+<p> 
+I don't think I will invest much more extra time in it, because I'm 
+not using it now, and until one needs to use something, he has 
+little motivation to learn it. 
+ 
+ 
+ 
+ 
+ 
+2002-05-31 14:09:24

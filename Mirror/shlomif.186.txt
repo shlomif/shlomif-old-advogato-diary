@@ -1,0 +1,120 @@
+<p><b>Subversion</b>
+
+<p> <p> <p>
+I tried to resolve Subversion issue #1093. My <a href="http://www.contactor.se/~dast/svn/archive-2003-10/1414.shtml">uneducated attempt at it</a> received
+a complete depracation from C. Michael Pilato which followed with a discussion
+on how to best resolve it. The problem is that we need to efficiently trace
+the history of a file backwards, which can only be done in the repository 
+level.
+
+
+<p> <p> <p>
+So, the final question is whether to perform each such lookup for every
+remote operation that need to do it (which would require changing the 
+protocol in many places), or assigning a separate command to perform the 
+lookup. The second option is simpler and would require fewer modifications,
+so we'll probably go with it.
+
+
+<p> <p> <p><b>Talk with Ya'El (Orr's ex-Roommate)</b>
+
+<p> <p> <p>
+On the way to the Technion on a Thursday a week and a day ago, I met 
+Ya'El, who is Orr's former roommate and someone who studied Game Theory with 
+me. We talked when we were waiting for the Haifa local bus, and on the bus
+about various stuff. (details are in my private diary). But it was a fun
+talk and I enjoyed it a great deal. One thing she told me was that she
+did not take any programming courses except the required ones, because
+they were too much work. One would thing one would study Computer Science
+to become a programmer, but she was more interested in the theory.
+
+
+<p> <p> <p>
+I discovered something interesting about the buses that day. Even though,
+there's a previous inter-city bus that comes 45 minutes earlier, the bus
+from there to the Technion just leaves, and so I don't get to the Technion
+earlier. And using the other bus I get to the Technion at 10:20, which is
+in the nick of time. Oh well.
+
+
+<p> <p> <p><b>Transcribing Thermodynamics into LaTeX</b>
+
+<p> <p> <p>
+My mom suggested that I transcribe the Thermodynamics material into the
+computer, so it will be more organized and that I'll review it further.
+So, I fired my favourite Hebrew LaTeX editor (he2) and started transcribing
+it. So far, I did two lectures out of three. In any case, it's progressing
+quite slowly because all the formulas slow me down considerably.
+
+
+<p> <p> <p>
+For your enjoyment, I give you a group of macros I wrote for one body of
+equations. Note that my code could still use a lot of modularization.
+
+
+<p> <p> <pre>
+\newcommand{\parens}[1]{\left(#1\right)} 
+\newcommand{\halfN}{\frac{N}{2}} 
+\newcommand{\hNpm}{\halfN+m} 
+\newcommand{\hNmm}{\halfN-m} 
+\newcommand{\tmN}{\frac{2m}{N}} 
+\newcommand{\osomething}[2]{\parens{1 #1 #2}} 
+\newcommand{\otmN}[1]{\osomething{#1}{\tmN}} 
+\newcommand{\ox}[1]{\osomething{#1}{x}} 
+\newcommand{\exprone}[1]{\parens{\halfN}\otmN{#1}\ln\left[\parens{\halfN}\otmN{#1}\right]} 
+\newcommand{\exprtwo}[1]{\parens{\halfN}\ox{#1}\ln\left[\parens{\halfN}\ox{#1}\right]} 
+\newcommand{\exprthree}[1]{\halfN\ox{#1}\ln\ox{#1}} 
+</pre>
+
+<p> <p> <p><b>Telux Meeting</b>
+
+<p> <p> <p>
+On Sunday we had a Telux meeting. Eddie Aronovich gave a nice intro to the 
+advancements in RPC technology from RPC through CORBA to Web Services. One 
+highlight from the lecture was that he prepared it on his laptop in Linux,
+and then discovered the screen had a problem there, so he had to switch it
+to Windows. So he converted the presentation from OpenOffice to PowerPoint.
+Then we told him OpenOffice was available for Windows... ;-).
+
+
+<p> <p> <p>
+But it was a lot of fun.
+
+
+<p> <p> <p><b>Israeli Perl Mongers Meeting</b>
+
+<p> <p> <p>
+We met yesterday for the monthly meeting of the Israeli Perl Mongers. Before
+the meeting there was some food and a lot of interesting conversations with
+many people. There was someone there named Jason who came to Israel from
+Australia. When people asked him why he came to Israel, when all Israelis
+would prefer to be in Australia, he said it was more interesting here. ("May 
+you live in interesting times"). We also discussed many of the books and other
+stuff.
+
+
+<p> <p> <p>
+Then came the lectures. Abraham Bernstein gave an overview of the things
+Tcl excel in. The lecture waThe lecture was very interesting. There was something there I did not understand about how to write an interpreter with Tcl. Then Gabor Szabo
+gave a brief overview of the Phalanx project which aimed to provide good
+test coverage for 100 of the most popular Perl modules. Afterwards, Ran Eilam
+gave a very entertaining and funny lecture about "Extreme Programming". He
+compared the common way that software houses manage themselves, which yield
+the "Big Ball of Mud" syndrome, and how Extreme Programming solves it.
+
+
+<p> <p>
+A funny story that he told was that a manager once told the programmer to 
+create a prototype of a software for a deadline in which he needed to 
+demonstrate the software. So the programmer wrote something whose internals
+were lacking and gave it to the manager on schedule. After the manager 
+returned from the meeting, the programmer asked him how did the software
+perform. "Great!" said the manager, "we need three more features by Monday".
+
+
+<p> <p>
+During the break, I also talked with some people like Oded Resnik, and Eli
+Marmor. I took with me two books from the library: "Writing Perl Modules for 
+CPAN" and "Extending and Embedding Perl". 
+
+2003-11-07 18:56:57

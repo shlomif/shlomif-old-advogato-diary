@@ -1,0 +1,185 @@
+<p>
+Long time no blogging... teh, teh. Oh well, here's what I have to say today.
+
+
+<p> <p><b>Social Gatherings</b>
+
+<p> <p>
+There was a Haifa Linux Club lecture a while ago about Ingo Molnar's O(1)
+scheduler. I got a ride there with Ori Idan. On the way there we ran into
+a traffic jam and so we were late. The lecture was very nice and interesting,
+and I think I sort of understood how the O(1) scheduler works. I found out
+someone was driving back to Tel-Aviv, but his car was full and I did not
+really know these people, so I decided to go back with Ori (who dropped me
+only on Hertzelia) as well. Ori and I talked with each other on both ways on 
+some interesting subjects. (too numerous to mention). 
+
+
+<p> <p>
+Then there was a Tel-Aviv Linux Club meeting. It was about Apache 2. Eddie
+Aronovich talked at first about "Why Apache?" and then described how to 
+configure it. I expected the lecture to be about the advantages of Apache 2
+over Apache 1.x, but this was not the case. In any case, Eddie is a good
+lecturer and we certainly enjoyed it, and had some discussions in the middle
+about Apache, IIS, and other stuff. The time of day of this lecture 
+sparked a <a href="http://www.mail-archive.com/linux-il%40cs.huji.ac.il/msg33827.html">lively
+    discussion on Linux-IL</a> in which I bashed the long Hi-Tech work-day 
+that is so prelevant.
+
+
+<p> <p><b>Helping my sister with UNIX</b>
+
+<p> <p>
+My sister, Noa, now takes the Technion "Introduction to System Programming" 
+course in which they are required to test their exercises on a UNIX system
+(a Solaris box to be exact). To help her get along with it, I tried to
+teach her some UNIX shell, vi and ncftp basics. She did not took my advice to
+prepare everything on UNIX from the start, and instead did the exercise
+with MS DevStudio. But naturally she then had to test it on the UNIX system.
+
+
+<p> <p>
+So I guided her through that as well. What made matters more complicated was 
+that FTP and SSH access to the designated host is blocked by the Technion 
+firewall and we had to login and transfer files through an intermediate host. 
+I tried my best that instead of telling her the commands, I'll tell her what
+needs to be done and so she'll have to recall the right commands herself. I
+wasn't entirely successful.
+
+
+<p> <p>
+I don't think she's fully independant now either, but hopefully she'll get
+better in time.
+
+
+<p> <p><b>Studies</b>
+
+<p> <p>
+I passed Statistics with a score of 57%, which is just above the passing
+grade of 55%. I'm happy this is behind me. Then I saw that the Thermodynamics
+grade did not enter the system. After some arrangements with the lecturer,
+it happened, but quite late.
+
+
+<p> <p>
+Then, I had to manage my way through some telephone and fax red-tape to
+become applicable for the degree (which I hope I can get). Now, it is 
+on the waiting queue to be processed, and the secretary told me to contact
+her a few days from now. Hopefully, I'll get my degree soon.
+
+
+<p> <p><b>Subversion Hacking</b>
+
+<p> <p>
+Pheew... what past few days. First of all, I continued workin on the patch,
+after there was some silence about its specification. Working on the operation
+over WebDAV functionality was very time consuming and involved writing 
+quite a lot of code. At one point I found myself in need of recording the
+HTTP conversation, and having been unhappy with what tcpdump gave, I used
+Ethereal, which is a great tool and was just what was needed. This helped
+me resolve the bug, but gdb was also of help in other places.
+
+
+<p> <p>
+I also wrote more tests to test the functionality of the added product.
+While testing, I ran into a nasty gdb bug, which strangely enough was
+worse in gdb 6.1 than in gdb 6.0. Apparently printing some addresses 
+or variables produced random output while the program run was halted.
+Hopefully, I'll be able to reproduce it with the final version of the 
+patch. 
+
+
+<p> <p>
+Writing the bindings for the custom Subversion protocol was relatively
+easier, because the protocol was simpler, and was not XML-based. After I was 
+done, it turned out the conventions of the callback were inconsistent with
+the rest of Subversion. So I redefined the specification to be more so, and
+had to revamp the code somewhat to accomodate for the change. The new 
+conventions actually made the task simpler, but since the code for the 
+previous spec was already written, I just removed parts of it.
+
+
+<p> <p>
+Now it's time for the patch to be reviewed. While one developer reviewed
+some relevant parts of it, and another commented on what appeared in the log.
+It was not reviewed entirely. I also have some items on the patch' TODO list 
+which I'd like to ask people about.
+
+
+<p> <p>
+A recurring theme, was that I was perhaps not as independant as one can
+hope and kept bugging people on the IRC. I'll try to be more independant next
+time. Another issue is that people did not like the fact that I would create
+a branch for working on the patch on the central Subversion repository. Thus,
+I used working copy diffs, which were "versioned" according to their patches
+filenames. I have about 29 such patches on my hard disk so far, and also wrote
+some supporting scripts.
+
+
+<p> <p>
+Now I'm going to faint...
+
+
+<p> <p><b>Reading</b>
+
+<p> <p>
+I finished reading <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0618057072/qid=1083438758/sr=1-1/ref=sr_1_1/104-4036651-7656754">Julian 
+    Jaynes' "The Origin of Consciousness In the Breakdown of the Bicameral
+    Mind"</a>. It was very interesting. Now, I started reading 
+<a href="http://www.amazon.com/exec/obidos/tg/detail/-/0380810336/ref=cm_bg_f_1/104-4036651-7656754">"Feeling Good"</a> again, and now see a lot of things
+I missed or did not read in the first place (can't tell because I don't
+recall them).
+
+
+<p> <p><b>stalker</b>
+
+<p> <p>
+My payment for one of the O'ReillyNet has entered my account. So, I wrote
+and mailed a check for my payment for my account on stalker.iguide.co.il to
+<a href="/person/nyh/">nyh</a>. Afterwards, he was glad to help me, and enlarged my
+quota. I got the Subversion service back online by compiling and installing
+everything in my home-directory, and restoring the repositories from their
+dumps. 
+
+
+<p> <p>
+Then a problem emerged. There was a hard-disk hardware problem on stalker, 
+it went down for a while, and afterwards most of the contents of the disk were
+restored (including my files), but now we have less space, until the disk
+is replaced.
+
+
+<p> <p><b>Powerout and its effects on KDE</b>
+
+<p> <p>
+I noticed that after the computer is shut down while X and KDE are running,
+many of the KDE customizations get lost. My solution was to restore the
+<tt>kdeglobals</tt> file from its backup copy. I now keep a copy of this
+working file at hand for safe-keeping in that directory. And I have no idea
+why it happens.
+
+
+<p> <p><b>Quad-Pres</b>
+
+<p> <p>
+While I was working on a presentation with Quad-Pres, I noticed that
+it always prepares the "Hard-Disk HTML" version of the lecture after
+every "quadp render". It is supposed to be triggered only by a 
+"-a" flag. The problem was in a local copy that experienced some
+heavy refactoring lately.
+
+
+<p> <p>
+Today, I fixed it in my local copy. There was a small mixup that it
+occured in the 0.10.x branch and not in the repository trunk, which
+took me some time to figure out. (the trunk's code looked fine).
+
+
+<p> <p><b>Finale</b>
+
+<p> <p>
+That's it for today. Well, this is what happens when you don't write an
+entry for about three weeks. Next time I'll try to write more often.
+
+
+2004-05-01 19:46:49

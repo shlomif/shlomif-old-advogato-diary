@@ -1,0 +1,14 @@
+<p><b>#!/usr/bin/perl</b>
+
+<p> <p>
+My feature about it was rejected on Slashdot, too. I'm a bit disappointed because it isn't vapour, and while it may be denounced as "bad", is still readable.
+
+<p> <p>
+I asked the <a href="http://linart.net/">Linart</a> guys where can I publicize it and got one reply enumerating the usual suspects: LinuxToday, LinuxPR, LWN, etc. None of them have quite the effect of Freshmeat. I really think I should go in the direction of opening a Freshmeat-like directory and releases board for Net-available content.
+
+<p> <p>
+There a few alternatives to Freshmeat on the Net, but I don't know how much their database scheme is adapted to non-software stuff. But it's better to give it a try.
+
+<p> <p>
+
+2002-08-06 09:13:51

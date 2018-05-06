@@ -1,0 +1,46 @@
+<p><b>I-Bex</b>
+
+<p> <p> <p>
+I managed to work on it a bit. Added a new board, and started working on a menu system. It will take some time until I find it ready for version 0.2.0, so don't hold your breath.
+
+
+<p> <p> <p><b>Perl Meeting</b>
+
+<p> <p> <p>
+I attended the Israeli Perl Mongers meeting on Thursday. It was very nice and Shlomo Yona talked about <tt>sort</tt>. I did not learn too many new things, but it was an entertaining lecture nonetheless.
+
+
+<p> <p> <p>
+I asked Gabor if he would like to schedule my WebMetaLanguage lecture for the future, but did not hear a definitive answer until now.
+
+
+<p> <p> <p><b>Vipe Blues</b>
+
+<p> <p> <p>
+Connectivity to Vipe from home became very slow for some time yesterday. Strangely enough, if I connected to t2.technion.ac.il first and from there connected to vipe, it worked fine. Then it became all better.
+
+
+<p> <p> <p>
+Now, the situation is worse with the connection to vipe being completely off-line, from home, from t2 or from whereever. One should remember that the problem is probably in the Technion Computer Center and not with Vipe itself.
+
+
+<p> <p> <p>
+However, the hope of getting it fixed until tomorrow's morning are not very high, and this fact sure is annoying.
+
+<p> <p><b>Helping Mother</b>
+
+<p> <p>
+Mom has to prepare another report for her B.A. studies, so my father and I are helping her. I helped computerizing three exercises she had written on paper. I did it using PowerPoint and Word, which weren't half bad. The central theme was a report about Inductive Learning.
+
+
+<p> <p><b>Gimp 1.3.9</b>
+
+<p> <p>
+I spent a long time yesterday compiling it. After I ran it, it turned out to be quite stable and usable, which I cannot safely say for 1.3.8. Good work, Gimp team!
+
+
+<p> <p>
+Now perhaps, I can get my gradient-fu patch ported there. It was not implemented yet as far as I can see.
+
+
+2002-10-12 09:39:25

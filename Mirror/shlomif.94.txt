@@ -1,0 +1,19 @@
+<p><b>WML Lecture</b>
+
+<p> <p>
+After a long time of working on it, I was able to finish the
+WML Lecture. Pheewww! Now, I have to find other things to do
+with my time and I'm not in the mood to do anything (albeit I-Bex is in a "high priority" so to speak). But I guess that the appetite arrives with the food.
+
+
+<p> <p><b>Life</b>
+
+<p> <p>
+I was finally able to install Subversion, while having to install Apache 2.0 in the process. I was able to use a local (file:///) repository, but was not able to successfully access an http one. (and I have no idea what is wrong because everything seems fine to me) I should probably query the Subversion mailing list about it.
+
+
+<p> <p>
+I made some progress in both Monkey Island 4 and WarCraft 3. WarCraft 3 now has a niftier graphics than its prequel, and a  better integration with the storyline. It's nice so far.
+
+
+2002-10-10 11:09:06

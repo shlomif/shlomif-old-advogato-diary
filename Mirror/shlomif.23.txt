@@ -1,0 +1,26 @@
+<p><b>Fixing the IP-Noise Final Report</b>
+
+<p> <p>
+The Final Report of the IP-Noise Project which Roy and I 
+wrote was based on an old version of the Mid-Term Report
+before Lavy fixed a lot of things. Thus, Lavy was not 
+very happy with it, and asked us to correct things before
+he'll take another look. He said the user's guide which
+we wrote was very good, OTOH.
+
+
+<p> <p>
+Today, my father and I went over the final report and 
+corrected a lot of things.  Office XP was installed so it 
+can read the report in the first place, but it still 
+causes some minor glitches. But so far, the document is 
+better than it was before.
+
+
+<p> <p>
+The worst case scenario is that we will lose some points 
+due to the brevity of the report.
+
+
+
+2002-02-16 11:55:40

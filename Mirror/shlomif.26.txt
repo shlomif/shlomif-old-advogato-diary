@@ -1,0 +1,99 @@
+<p>
+I believe this entry should be concatenated to the previous
+one , but since I posted the latter yesterday's evening, I'd
+like to keep them separated.
+
+
+<p> <p> <p><b>Game Theory</b>
+
+<p> <p> <p>
+I took a course by that name this semester. I missed many
+lessons because I had EE-Lab 2 experiments and my notebook
+is in quite disorder due to my hand-writing. Luckily, I
+bought the Open University's booklets on the subject, and
+after the SICP test, I went over them while solving most of
+the exercises there. 
+
+
+
+<p> <p> <p>
+It is possible that the lecturer deviated a bit from what
+was presented in these booklets, because they were not the
+only recommended material for the course. (and are not
+considered the most definite resource on the subject). 
+
+
+<p> <p> <p>
+Game Theory is actually quite an interesting subject, but
+during a lecture I kept having the feeling of "been there,
+seen that.". What I mean is that the material kept sounding
+pretty much the same. Going over the booklets was quite
+enlightening, though.
+
+
+<p> <p> <p>
+In any case, the important thing is that I enjoyed the
+course. It is not a critical course for me to take, so even
+if I fail the test (and the second date one), nothing
+terrible will happen.
+
+
+<p> <p><b>A gvim Problem</b>
+
+<p> <p>
+I seem to have another gvim problem, after I upgraded to
+gvim 6.0. I already solved the crummy fonts one (refer to
+the <a
+href="http://plasma-gate.weizmann.ac.il/Linux/maillists/02/02/msg00481.html">Linux-IL
+</a> archives) by eliminating the guifontset variable that
+got in my way. Now, however, it seems that I have to copy or
+cut a variable twice to put it in the clipboard for the
+first time I'd like to copy something there. Copying or cutting 
+once does not seem to do the trick. Refer to <a
+href="http://plasma-gate.weizmann.ac.il/Linux/maillists/02/02/msg00627.html">
+this post</a>.
+
+
+<p> <p>
+Nobody could answer so it is possible it is something that
+is only encountered at my machine from some unknown reason.
+Maybe I should consult the Vim mailing list about it.
+
+
+<p> <p>
+When the editor does not work properly, a developer's life
+is not really complete. Perhaps I can add a line to copy a
+buffer to the clipboard once on startup as a kludge. But
+then I'd like to restore the information stored there, so it
+won't be destroyed. I need help...
+
+
+<p> <p><b>Vim Hanoi Towers Implementation</b>
+
+<p> <p>
+Refer to <a
+href="http://groups.yahoo.com/group/hackers-il/message/1958">
+here</a> for the code. This is more like a doctorate work in
+Vi macros programming as I:
+
+
+<p> <ol>
+<li>
+Did not use the Vim's scripting language (only map and friends).
+
+<li>
+Implemented the recursive algorithm
+
+</ol>
+
+<p> <p>
+The problem I'm facing now is that the number of disks is
+hard-coded into the program and will take some time to
+abstract. But I have better things to do with my time, for
+the moment.
+
+
+
+
+
+2002-03-01 06:16:49

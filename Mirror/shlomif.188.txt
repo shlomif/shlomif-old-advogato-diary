@@ -1,0 +1,21 @@
+<p><b>Article at Perl.com</b>
+
+<p> <p>
+<a href="http://www.perl.com/pub/a/2003/11/17/lmsolve.html">An
+Article I wrote to Perl.com</a> was published yesterday. The article covers solving some types of puzzles with the 
+<a href="http://vipe.technion.ac.il/~shlomif/lm-solve/">LM-Solve</a>
+framework. (which I authored). I did not mention I originally wrote it (which was some months ago) here because I did not want to ruin the element of surprise. I'd like to take the forum and thank two correpondants from <a href="http://www.perl.org.il/">Perl-IL</a> who
+commented on an early draft of the article, and for 
+<a href="/person/Simon/">Simon</a>, the Perl.com editor, for instructing me how to do a thorough revamp of it, and for
+publishing it.
+
+
+<p> <p>
+Maybe I should take the opportunity to clarify my opinion on Perl.com, because some people who read <a href="http://fc-solve.berlios.de/perl-att-newbies/perl-newbies/book1.html">
+the "usabilty" of the Perl Online World for Newcomers</a> 
+misinterpreted it. I don't have a problem with perl.com <b>as a site</b>. It's a nice site, with interesting articles. I do have a problem that it is considered the homepage of Perl, because it is very much inappropriate for it. Recently, <a href="http://www.perl.org/">www.perl.org</a> got a facelife, and regardless of its shortcomings, is already more suitable as a homepage for the Perl culture. So I suggest people to link to that as Perl and not to Perl.com.
+
+
+<p> 
+
+2003-11-18 20:14:13

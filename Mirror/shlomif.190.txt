@@ -1,0 +1,153 @@
+<p><b>dmoz.org</b>
+
+<p> <p> <p>
+I finally became editor of the dmoz.org Linux User Groups category. I've been
+cleaning it up by accepting pending links, and handling errors. When I finish
+with all my current pending links, I'll probably post an editorial on 
+Advogato, asking for people who are members of LUGs that do not appear them
+to submit them there. As it is, it is still very lacking.
+
+
+<p> <p> <p><b>Thoughs about XML</b>
+
+<p> <p> <p>
+<a href="http://www.advogato.org/person/movement/diary.html?start=103">movement</a>: I 
+agree with you that Linus Torvalds does not understand too much what XML is all
+about. I don't think it's good for anything. I also, many times invented my
+own configuration syntaxes instead of using XML, because they were more 
+human readable and maintainable or suitable for what I had to do.
+
+
+<p> <p> <p>
+Nonetheless, XML nested nature and the fact that you can apply arbitrary 
+transformations to selected pieces of text, and that you also have attributes
+are sometimes priceless. Linus' indented example can only get you so far,
+before you start re-inventing a lot of XML and poorly.
+
+
+<p> <p> <p>
+Usually, XML is not very suitable for configuration files which need to be
+human editable. I don't know if the LM-Bench configuration syntax requires
+XML or not (I never used LM-Bench), but there are times people should use 
+it. I defined my own XML syntax in two occasions already, create a lot of 
+XHTML and DocBook documents and uses it indirectly in some programs (like
+OpenOffice).
+
+
+<p> <p> <p><b>Women in Linux</b>
+
+<p> <p> <p>
+I hope I don't get flamed for this, because I really don't mean it, but here 
+goes. After my discussion in the LinuxChix issues mailing list, I spent some
+time corresponding with one of them. One of the conclusions I reached was that
+until there were more women in prominent positions in the open source world,
+then female Linux enthusiasts will always suffer from being viewed as
+second class citizens by their male peers. (I'm not saying people should 
+view them this way, but they will). 
+
+
+<p> <p> <p>
+In a sense, in the open source world, as in other worlds, there is the 
+iceberg effect, in which there is always a close to the spotlight elite. 
+For example, in Holywood we hardly ever hear about someone who is not an 
+Actor or a Director (or sometimes screenplay writer), even though the
+other people involved in producing movies are much more numerous.
+
+
+<p> <p> <p>
+If someone told me "Women can't write Novels", I could point him at a great
+deal of excellent Women Novelists out there. But if someone told me that
+"Women can't hack open source software", I'll have a harder time, because
+the examples are more isolated and few.
+
+
+<p> <p> <p>
+So my question is: why? The "Encouraging Women in Linux HOWTO" goes a great
+deal to dispel some of the common myths about why Women are and are not 
+deterred from computers. But all these reasons can only go so far to explain 
+why we see so few of them as project heads or first-class programmers.
+
+
+<p> <p> <p>
+Even if we assume that there are fewer Women Linux users than men, then
+we still have to accept the fact that the number of first class hackers who
+are female is even lower.
+
+
+<p> <p> <p>
+One thing I believe is true, is that less women believe that programming is 
+fun. Many male software professionals share this view as well, but among women
+it is more severe. Even the correponsdant I talked to emphasized that she 
+much prefers system administration to programming, because the former was
+more "social". 
+
+
+<p> <p> <p>
+So, what can we do to convince people (men and women) that programming is 
+fun?
+
+
+<p> <p> <p><b>Hacktivity</b>
+
+<p> <p> <p>
+Worked a bit on the IGLU Jobs Tracker. It is almost ready for replacing the
+original one. There are still a lot of things on my to-do, but they are not 
+as critical.
+
+
+<p> <p> <p>
+I also contributed some feedback and a few small patches to Yapcom, but have
+yet to do a substantial contribution for it. (partly because it does not work
+on my system for some reason).
+
+
+<p> <p> <p>
+Finally, I wrote an essay titled "The Joy of Perl", which explains why I
+like Perl so much. It is available upon request. (send me an E-mail)
+
+
+<p> <p> <p><b>Reading</b>
+
+<p> <p> <p>
+Made some progress with "Extending and Embedding Perl". Also, read many things
+on the Net, among them Paul Graham's <a href="http://www.paulgraham.com/javacover.html">Java's Cover</a>. The latter is an excellent article, as most of the
+things by Paul Graham. He was right that there was something very fishy about
+Java at the time. And I still think it is over-hyped and much less capable
+as a language than other languages I know.
+
+
+<p> <p> <p><b>Talks with Laymen</b>
+
+<p> <p> <p>
+I went to the Barber on Sunday (finally - my hair was way too long). During the
+hair-cut, I had a conversation with him, told him about my degree and my 
+projects, and started explaining about Open Source and what it was good for. (
+he naturally could not understand why anyone would embark on a software project
+which he did not intend to sell) I could not explain anything I wanted within
+my time frame - maybe next time or I could stop by. At the end, another patron
+came in, who tried to help him with a computer problem he had. Turned out he
+worked in 012 support and knew Jess.
+
+
+<p> <p> <p>
+Yesterday, on the way back home, I talked with a woman on the ride back home.
+The conversation started from politics (a flat income tax, the settlements in 
+the west bank, the poverty-reduction paradox), and I ended up telling about
+Neo-Tech, Julian Jaynes' Bicameral mind theory, "Feeling Good" and cognitive
+psychology, and finally open source software in a nutshell (for completeness 
+sake). She actually knew
+about Mozilla and heard about Linux, and I explained her the four Freedoms
+of Free Software, etc. She agreed that most of what I told her indeed made
+sense, but naturally could not convince her of the my entire philosophy within
+the time frame.
+
+
+<p> <p> <p>
+She told me her son was now studying Math, Physics and CS in the Hebrew 
+University as part of the IDF "Talpioth" project. (a famous project aimed 
+to create very knowledgable and intelligent army researchers). The problem 
+was that each year, several people whose grades are low are removed from the 
+program, and so there's a lot of pressure to suceeed. I'm sure glad as hell
+that I don't have such constraints in my studies. 
+
+2003-11-27 11:01:49

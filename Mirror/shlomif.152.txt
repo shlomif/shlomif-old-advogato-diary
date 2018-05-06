@@ -1,0 +1,42 @@
+<p><b>Hacktivity</b>
+
+<p> <p>
+I did some work on making sure 
+<a href="http://chiqchaq.sourceforge.net/">Chiq-chaq</a>'s output HTML
+validated. It turned out to be a rather tedious work. While in the Technion, 
+I worked on the List of Mailing Lists Manager, and am now at the stage
+where, after I'll add documentation, it would be ready for public 
+consumption. It's great that I find time to hack on OSS while studying.
+
+
+<p> <p><b>Studies</b>
+
+<p> <p>
+During the weekend I worked on the Financial Management exercise and almost 
+finished it. Today, I consulted my lecturer and using his help I would be
+able to finish the rest. I have to hand it tomorrow.
+
+
+<p> <p>
+Yesterday and today I worked on the Intro to Soft. Sys. exercise. So far
+I had a good success, and got two of the tests to pass. Now it's time for
+the third part.
+
+
+<p> <p><b>Haifux Meeting</b>
+
+<p> <p>
+Eli Billauer gave an entertaining lecture about his Eobj (=easy object)
+environment for Perl yesterday. It did not convince me to use it instead of
+the built-in Perl environment, but it was still very nice. Right now,
+the Haifa Linux Club has a long line of pending lectures, probably up to
+the Welcome to Linux series. I do hope I can this time convince everybody
+to have a Linux in Action demonstration mini-series instead of a full-fledged
+W2L series.
+
+
+<p> <p>
+Other than that, there's an <a href="http://www.perl.org.il/20030612.html">Israeli Perl Mongers meeting</a> 
+this Thursday. 
+
+2003-06-10 18:00:18

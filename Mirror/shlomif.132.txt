@@ -1,0 +1,42 @@
+<p><b>Women in Linux Cont.</b>
+
+<p> <p>
+I was contacted by a few members of LinuxChix. One of them told me the HOWTO was directed at men (possibly abusive) and that
+the equivalent guide to women was in the works. Very well, but I still think that trying to convert the Linux male community at large to a "non-abusive" behaviour is not practical. Especially when the FAQ considers making a pass on, staring, and telling blond jokes abuse. But who is John Galt?
+
+
+<p> <p>
+A subtle point that is not understood by many people is that a private person or organization is legally allowed to be racist and even discriminatory. The Roman-Catholic church restricts priesthood to males, and there is nothing <b>legally</b> wrong with that. If a person feels it is discriminatory he should move to another church, become atheist, or fork a pan-sexual Catholic church.
+
+
+<p> <p>
+Another esteemed member of LinuxChix pointed to the fact that I said "take some abuse" while I meant "handle some abuse". I fixed it in my diary entry. I guess it sometimes shows I'm not a native English speaker.
+
+
+<p> <p>
+I will hint that things have heat up a bit in the Haifa Linux Club arena because of my diary and subsequent transacations. 
+
+
+<p> <p><b>IRC</b>
+
+<p> <p>
+I met <a href="/person/mulix/">mulix</a> yesterday on #offtopic at the kernelnewbies IRC server. (quite a nice channel), and added a signature to his E-mail message in the process:
+
+
+<p> <p>
+<i>My opinions are crazy but they make sense. Insane sense, but sense nonetheless.</i>
+
+
+<p> <p>
+I think I overheard it somewhere, though. Can anyone here report on prior art?
+
+
+<p> <p>
+I discussed two main topics there: BitKeeper and why Larry McVoy could benefit from a more liberal licensing scheme. And glibc running on the FreeBSD or NetBSD kernels. Apparently, it is working there, but no-one yet tried to take a pure ANSI C or POSIX program, download its i386 Linux binary over FTP, and run it as is on the FreeBSD machine.
+
+
+<p> <p>
+I quoted Knuth ("Beware of bugs in the above code. I have only proven it correct, not tested it"), and the other guy quoted Dijkstra, and we had a lot of fun. I really wonder whether it is possible to achieve full or parital binary compatibility between Linux and FreeBSD/NetBSD this way.
+
+
+2003-01-07 06:28:49

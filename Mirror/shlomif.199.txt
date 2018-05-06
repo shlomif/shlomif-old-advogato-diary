@@ -1,0 +1,121 @@
+<p><b>Perl Meeting</b>
+
+<p> <p> <p>
+I had a Perl Meeting yesterday. It was raining on the way to the bus stop, but
+from the bus stop next to Dapey Zahav until then, it wasn't raining, so I was
+lucky because it is a long walk. I met Shlomo Yona at the hall, and we talked
+a bit. Then other guys came. Kfir Lavi brought a digital camera and took a few
+pictures throughout the meeting. 
+
+
+<p> <p> <p>
+Before the lectures, we chatted about various topics. We talked about processor
+speeds (Pentium 4's vs. UltraSPARCs), form process handling (WWW::Form and 
+friends), whether to use my meta-data database access or Tangram, 
+<a href="http://search.cpan.org/dist/DBIx-DWIW/">DBIx::DWIW</a>, the August Penguin conferences, and other things. It was very fun. I went to buy two bottles 
+of mineral water, because I saw that we were going to run out of them in the
+fountain. (they don't seem to keep a spare container there for some reason). 
+Afterwards, Ran Eilam and I went to buy some pastries to eat, which were eaten
+like crazy.
+
+
+<p> <p> <p>
+Gabor could not come for the second time in a row, and his presence was once 
+again missed. Some people paid entrance fee to the YAPC::Israel::2004 
+conference, to the other organizers.
+
+
+<p> <p> <p>
+Then the lectures started. Shlomo Yona gave a very nice presentation about 
+edit distance. I recall needing to do this algorithm in one of my Algorithmics
+courses, so this was a nice comeback. What I did learn there was that related
+algorithms like this are a field of very active research and that they are
+very useful.
+
+
+<p> <p> <p>
+Afterwards, Ran Eilam gave the second part of his presentation about Extreme
+Programming. It was very insightful and entertaining as well, with various
+interesting ideas and techniques for better software management. Like the 
+"Dukes and Engineers" game. Or cards to write the names of classes in the 
+program as you come with them, instead of UML. And naturally, the usual
+depreciation of the Gantt chart. He explained why "pay-per-project" 
+outsourcing and especially off-shore outsourcing cannot work. Someone told 
+there that an outsourcing project that costed twice as much and had half
+the requested feature-set was declared a success, because most projects don't
+do that well.
+
+
+<p> <p> <p>
+Afterwards the guys went to hang in a pub, but I picked a ride home with 
+someone who drove northwards as I was quite tired.
+
+
+<p> <p> <p><b>Studies</b>
+
+<p> <p> <p>
+I ended up switching to gvim for my Hebrew LaTeX needs. he2 sucks pretty 
+badly as an editor, and gvim is naturally much better. Now I'm using F9
+to toggle the direction leftwards and rightwards and it is much more 
+convenient. And I have all my favourite gvim features.
+
+
+<p> <p> <p><b>Hacktivity</b>
+
+<p> <p> <p>
+Did some work on my yet-to-be-reviewed/yet-to-be-published philosophical
+essay. But more importantly, it seems that the development on 
+WWW::Form is really going to take off. <a href="http://benschmaus.com/cgi-bin/twiki/view/Main/WwwForm">Its Wiki</a> is 
+being filled up, its author sent me the password he wants for the Subversion
+repository. I'm still waiting for the code to be imported there, but it may 
+take a while, because the author has a job and is quite busy. Still, I was
+able to talk with him on ICQ and AIM, and so I have a way to reach him
+in which he is very responsive.
+
+
+<p> <p> <p>
+I upgraded my system to kernel 2.6.0. One thing I notice is that the first
+instance of gvim (running above KDE) takes much less time to load. 
+
+
+<p> <p> <p><b>Mailing Lists Threads of Interest</b>
+
+<p> <p> <p>
+Here's <a href="http://www.mail-archive.com/linux-il@cs.huji.ac.il/msg32146.htm">a thread I started about the NVidia drivers</a>. The problem I mention there
+may be better now that I upgraded to kernel 2.6.0. In any case, here's 
+<a href="http://www.mail-archive.com/linux-il@cs.huji.ac.il/msg32166.html">my 
+    conclusion of the thread</a>. 
+
+
+<p> <p> <p>
+I joined the <a href="http://zgp.org/mailman/listinfo/linux-elitists">linux-elitists 
+    mailing list</a> and witnessed a large and lively GNOME-related discussion.
+I <a href="http://zgp.org/pipermail/linux-elitists/2004-January/008619.html">introduced 
+    myself</a> which sparked a lot of discussion about BASIC. I always thought
+the WHILE...WEND loop was present in most BASIC interpreters, but it only
+got introduced later on in the PC revolution.
+
+
+<p> <p> <p>
+Then, <a href="http://zgp.org/pipermail/linux-elitists/2004-January/008715.html">I joined 
+    in the GNOME discussion with some rants about GNOME's lack of similarity 
+    to what I was used to</a>. Just read it to find what a GNOME developer
+answered, but I was not satisfied by it. (I still find its behaviour annoying)
+
+
+<p> <p><b>Reading</b>
+
+<p> <p>
+Finished reading Extending and Embedding Perl. The book was written 
+professionally but pretty boring. Here's <a href="http://www.perl.org.il/kwiki/index.cgi?BookReviewExtendingAndEmbeddingPerlByShlomif">my review of it</a>.
+
+
+<p> <p>
+I also read more chapters out of "Perl &amp; XML". This book is very short,
+but also very interesting, so I think I'm going to finish it soon. Then, I'll
+have to find something else to read, and I did not take any books out of the
+Perl library. (due to the fact that no one brought the requested books from 
+Gabor's house)
+
+
+2004-01-09 20:45:26

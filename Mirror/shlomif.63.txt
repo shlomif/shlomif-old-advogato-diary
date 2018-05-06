@@ -1,0 +1,36 @@
+<p><b>The non-virtue of being tact-less</b>
+
+<p> <p> <p>
+While I can try to avoid it as much as I can, I sometimes make non-tactful comments, phrase critiques as accusations, etc. I recall that people behaved tactlessly towards me, but I don't hold it against them, because I'm trying to be rational and "look on the good side" as possible. There is one exceptional person who seems to criticize everything I do, and I don't like him at all, but usually I'm OK with other people.
+
+
+<p> <p> <p>
+Even this diary was criticized several times as a place where I behaved tactlessly. I already tried to make sure I don't criticize people for things that they told me in private. I went over the previous posts and some of them could have offended those who read them. But if I had a penny for each time I was offended I would have been a rich man by now.
+
+
+<p> <p> <p>
+It is possible that I'm too much like this other person. I suppose I can try to rethink what I say on public from now on. This might be the best solution in the long run for being around people who are not entirely fat-skinned. Of course, some of the greatest people in history were known as completely tactless, and they survived. (and some of the vilest men were very pleasant and friendly and seemed to make everyone happy).
+
+<p> <p><b>The Lecture Yesterday</b>
+
+<p> <p>
+Went pretty well, even very well. Before the lecture I noticed that there were two twelve-years old kids out there waiting for the room to be opened. Me and another guy started telling them why MS ASP was a bad idea to begin with, and why Perl/PHP/Python and friends were much more powerful and less money-oriented. We then told them
+that after they learn one of these languages, they should
+also learn ANSI C, because it gives a good grasp of machine language and how computers work.
+
+<p> <p>
+Then the lecture began. There were a few jokes (some of which on my expense) and Nadav helped a lot. Someone kept asking a lot of questions, which at least gave me confidence that the audience was following the lecture. All in all we were about 20-30 people. 
+
+<p> <p>
+After the lecture, he noted that this lecture may have thrown the kids into the hands of "the Microsoft devil" as the first lecture they attended dealt with such a complex subject as Autoconf, Automake and Libtool.
+
+<p> <p>
+One thing to note is that using the GNU Autotools is not a panacea as far as portability is concerned. The only way to make sure it builds everywhere is to try to build it everywhere.
+
+<p> <p>
+Just a small joke from the lecture, which I hope won't offend anyone: I showed them the Makefile.am file of the 
+<a href="/proj/FCFS%20RWLock/">FCFS RWLock</a>. Then someone asked why did I 
+have to show my most complex Automake file todate. So I said: if you think this is complex, just wait till you see
+the automake file of Freecell Solver... ;-)
+
+2002-08-06 11:11:36

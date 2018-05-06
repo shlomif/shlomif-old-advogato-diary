@@ -1,0 +1,39 @@
+<p><b>"Rindolf" - a New Language is Born</b>
+
+<p> <p>
+I decided to start my own dialect of Perl, which I call
+Rindolf. It will be based mostly on Perl 5, with some ideas
+from other languages I'm familiar with and with some ideas
+for cleanups I have in mind.
+
+
+<p> <p>
+The idea came to me after I heard <a href="/person/mulix/">mulix</a> say
+that he reads the Apocalypses and Exegesis, but doesn't
+understand them. It made me realize that I also felt that
+most of the suggestions were either incomprehensible, or
+useless for me.
+
+
+<p> <p>
+I plan to simply formulate a complete SPEC of the way in
+which Rindolf deviates from Perl 5. That way, my
+recommendation can be integrated into Perl 5, Perl 6 or
+stand on their own.
+
+
+<p> <p>
+For more information Refer to:
+
+
+<p> <p>
+<a href="http://groups.yahoo.com/group/hackers-il/message/1878">
+My original post to Hackers-IL with the idea</a> (I call it
+Perl 5 TNG there).<br>
+<a href="http://groups.yahoo.com/group/rindolf-discuss/">
+The Rindolf Mailing List I set up</a><br>
+<a
+href="http://use.perl.org/article.pl?sid=02/02/13/1959233&mode=thread&tid=14">
+A Rindolf Feature in "Use Perl"</a> (It was not
+comprehensive enough, I believe)<br>
+2002-02-16 14:28:10

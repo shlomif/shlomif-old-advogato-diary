@@ -1,0 +1,81 @@
+<p><b>Recent Developments</b>
+
+<p> <p>
+Eran is not feeling very well and he could not sit today to
+finish the VHDL experiment. Nevertheless, we have till the
+end of May, and we don't have too much left to do. I stayed
+at Haifa today, because I thought I was going to meet Liat
+(my Algo Design partner), but I now got a call from her
+telling me she  would not be able to make it, because there
+isn't a ride to the Technion from her workplace, today.
+
+
+<p> <p>
+So I'm returning home, after I eat lunch today. I did not
+sleep very well today, so I'm a little unfocused and cannot
+concentrate. I should remember to send everything that I
+worked on the Technion back home. Let me se: the LM-Solve
+CVS repository (which I'm sending back and forth), the
+extra-new FCS lecture summary, homework in SICP 2, the
+previous homework in CG... 
+
+
+<p> <p>
+Hmmm. Better keep the computer on, just in case I forget
+something. I wish the Com-Net Lab had a publicly accessible
+source control server, on which I could put all my stuff.
+
+
+<p> <p><b>Working in a Defence-Oriented Workplace</b>
+
+<p> <p>
+I keep getting contradictry opinions on what will it take to
+work in a company that oriented around military projects.
+According to Orna Agmon, I can forget about it because I did
+not serve in the IDF. According to my mother, I need to
+volunteer for one year in the IDF. Now, Roy said that all I
+need to do is pass a security clearance test.
+
+
+<p> <p>
+Many of the Israeli Info-Tech jobs have something to do with
+the Army. Someone I met who works in El-bit said that some
+things are developed in five different places in the world
+at the same time, while three of them are in Israel. :-)
+That sounds a bit too illogical for me.
+
+
+<p> <p>
+In any case, I'm not sure I'd like to work in such a place
+due to the high secrecy factor involved. I like to tell
+people about what I do or what I did. So far, I can tell
+everything I ever did in the past without me proving to be
+illoyal in some ways to my previous workplaces. I don't
+think secrets scale, but the army seems to think they are a
+necessity. It is also possible I'll become nervous because
+of something that happened in my workplace, which I'll have
+trouble telling about to my friends and family.
+
+
+<p> <p>
+The Ironic thing is that some "Atuda'im" (People who do
+their university degrees before the army service, and later
+serve as officers for a longer time) are allocated as
+administrators in something that requires little if any of
+the scholastic knowledge and proficiency. And then the army
+complains that it still lacks engineers, even though, there
+is a surplus of them (at least in some areas) in the Israeli
+market.
+
+
+<p> <p>
+Check the <a
+href="http://groups.yahoo.com/group/philosophy-il/message/25">
+following link</a> for something I wrote regarding why I
+think there should be a voluntary recuirement into the
+Israeli army. And ironically, the latest situation has only
+made it clearer for me on why it is necessary.
+
+
+
+2002-05-09 08:33:38

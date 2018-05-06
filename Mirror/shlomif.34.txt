@@ -1,0 +1,95 @@
+<p>
+Hmmm. It's been a long time since my last diary entry. I
+kept wanting to write one, but always had better things to
+do with my time. Oh well.
+
+
+<p> <p><b>lm-solve</b>
+
+<p> <p>
+lm-solve has finally seen its 0.2.0 release. For more
+information check <a
+href="http://vipe.technion.ac.il/~shlomif/lm-solve/">its
+homepage</a> or the <a
+href="http://freshmeat.net/projects/lm-solve/">Freshmeat
+page</a>. So far I got 38 record hits, 49 URL hits, 1
+subscriber and 33 ignores (!). Oh well, I guess most people
+did not even hear of Logic Mazes, much less are interested
+in a solver for them.
+
+
+<p> <p>
+Right now I'm working on the 0.3.x branch. So far I added
+support for three types of Andrea Gilbert's Tilt Mazes.
+(single goal, multiple goal and red/blue goals) I guess I'll
+delay adding the <a
+href="http://www.gjnem.demon.co.uk/planks/ixplanks.htm">Plank
+Puzzles</a> support for a later version because it seems
+like a relatively complicated thing to do, and actually is
+quite scarry. (;-))
+
+
+<p> <p>
+These Logic Mazes are highly addicting, BTW. But luckily, I
+am preparing a solver to solve them for me. :-)
+
+
+
+<p> <p><b>Studies</b>
+
+<p> <p>
+Quite a lot of homework. And now that I managed to get rid
+of everything, I got homework in both SICP and Computer
+Graphics. SICP is for singular submission, but I have to
+synchornize time with my CG partner to sit on the exercise.
+
+
+<p> <p>
+Other than that I had a test in "Internet - Architecture and
+Protocols". I did not know too well how to solve the TCP
+question which was %55 percent of the score. In any case,
+TCP was not covered in the homework, so I don't think it is
+fair that they put it in the exam. Plus, we were supposed to
+simulate an entire TCP connection on paper, which, IMO, is
+not a very realistic (or enlightening) thing to expect from
+a student.
+
+
+<p> <p>
+This test covers 35% of the score, which means that unless I
+do better in the second date exam, I can kiss 35%*55% = 19%
+of the grade good bye. Did I already mentioned that I hate
+the Technion? I'll mention it again: I do.
+
+
+<p> <p>
+On a slightly more positive chord, I should mention that Roy
+and I got 100% on our university project (the IP-Noise one).
+That should be a good addition to my grades listing which
+stands on a 80% average as it is.
+
+
+<p> <p>
+Eran and I are making progress in our Lab 3 experiments. We
+prepared the final report of the Analog VLSI experiment in
+Hebrew LaTeX, and Eran keyed most of the document. (he said
+he wanted to learn LaTeX a little, because he may need it).
+ Right now we are sitting on the VHDL Experiment, which is
+the last one we need to prepare. Since we are working in the
+NT Farms (which are LaTeX-less) we have to use Word for it.
+But the real challenge is writing the VHDL code and
+especially the VHDL test-benches.
+
+
+<p> <p>
+--------------------
+
+
+<p> <p>
+I have to go now because I have a lecture in a few minutes.
+But I'll probably add some more material here later on
+today. I really would like that this diary won't be
+neglected so much.
+
+
+2002-05-08 07:18:42

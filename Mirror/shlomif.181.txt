@@ -1,0 +1,66 @@
+<p><b>Movie</b>
+
+<p> <p>
+I went to see "Finding Nemo" the other day along with my father. The movie
+was nice, albeit not quite as much as "Monsters Inc.". At the end of the
+movie there was a very long list of credits, and my father joked that
+it would have taken less time to draw the movie pixel by pixel. In any
+case, the Graphics was great.
+
+
+<p> <p><b>Reading</b>
+
+<p> <p>
+I finished reading "The House of Arden", which had a rather disappointing
+end. I also read <a href="http://www.joelonsoftware.com/articles/Unicode.html">
+    Joel on Software's Unicode article</a>. Not too much I did not know,
+but it was still a very amusing read.
+
+
+<p> <p>
+Finally, I started reading "Ender's Game", and read two or three chapters. 
+It's a bit strange so far.
+
+
+<p> <p><b>Backup</b>
+
+<p> <p>
+I decided to backup my Linux system. Due to the fact I have an IDE CD Writer,
+I had to install ide-scsi. So I followed the instructions in 
+<a href="http://www.troubleshooters.com/linux/cdrw.htm">the "Installing your 
+    ATAPI CDRW Drive in Linux" tutorial</a>, which involved rebooting the 
+computer (gasp! I thought in Linux we were never supposed to do that). 
+Eventually, after the reboot and setting a parameter in loadlin, it worked on
+the first try, and I have a burned CD with some backups.
+
+
+<p> <p><b>Hacktivity</b>
+
+<p> <p>
+I worked on Quad-Pres the past two days. At first I added an option to set
+the encoding and language, on a per-presentation level and a per-page level.
+To make sure it works correctly, I wrote a test script for it. Eventually,
+I ended up with more lines of test code, than lines of added code, and the code
+worked at the first try my test suite had no bugs in it. The test suite
+involves a bash script that calls two Perl scripts. (%-) - it was the easiest
+way to do it).
+
+
+<p> <p>
+Then when I fixed a bug (that the rendering process did not stop on the first
+<a href="http://thewml.org/">WML</a> error), I added a test for this as well.
+
+
+<p> <p>
+Finally, I added a module to channel Getopt::Long and make sure it can use
+an array besides <tt>@ARGV</tt>. (a kludge, if you ask me, but that's life).
+And I added a unit test for this as well. After I got the test to work, I found
+out I had a bug in my code (!) because of it. 
+
+
+<p> <p>
+I'm quite happy with this "write tests as you write code" scheme. So far, it
+slowed me down a bit, but in the long run it gives way for more robust code.
+
+
+2003-10-12 20:45:48

@@ -1,0 +1,38 @@
+<p><b>Talk with Chen and Omer</b>
+
+<p> <p>
+I had a pleasant talk with Chen Shapira and
+Omer Mussaev yesterday's evening, when I went to take back my book ("I think therfore I Laugh" by John Allen Paulos) and borrow a books of theirs ("The God of the Machine"). Chen told us how <a href="http://www.tau.ac.il/">TAU</a> has a cluster of Origin 3000 computers, who do nothing but run perl scripts to process text files. Then, she said, a simple Dual Pentium computer running Oracle would have done the job just as efficiently, albeit the data would have been in a closed format.
+
+
+<p> <p>
+This lead to the discussion of Joel Spolsky's "Back to Basic" article, and the many inaccuracies we found there, but that it was basically true that lookups should not be O(n) and accumulation should not be O(n^2). We later on discussed his article about abstractions a bit.
+
+
+<p> <p>
+We discussed Solving, and came up with another name for its proposed system of organization: Distributism. (instead of the multi-meaning Linux) I suppose I can call it "Bizuriyuth" in Hebrew.
+
+
+<p> <p>
+Chen said an architecture document would be a thing Freecell Solver needs very desperately, as the code is very hard to understand. Then I said that working on Freecell Solver has given me entirely new perspective on the discipline and effort required for Shrinkwrap programs. This lead to her assertion that Mercury does not produce true Shrinkwrap, but rather Consultingware, and that buying the CD will probably get you nowhere into installing their software.
+
+
+<p> <p><b>Hacktivity</b>
+
+<p> <p>
+I so much like the fact that I have so much free time and no university obligations to do. I can work on anything I like to work. Studies simply take a large and varying amount of time and concentration.
+
+
+<p> <p>
+I started working on the Architecture document. It is in text for the time being, but I'll convert it to DocBook when it is in a close to polished form. Then I can start working on FcS 2.9.x again, as there are some things I want to implement them.
+
+
+<p> <p>
+Michael Mann sent me an E-mail again, which was very helpful in getting my priorities set. Someone asked me if there was a Freecell solver in flash, and I told him one can be written, but I'm not aware of any. He thought some people were using Solvers to get extremely good scores on an online Flash Freecell game, so I told him they might feed the games manually and play the solution by hand.
+
+
+<p> <p>
+What I would not give for Michael to have written his version of FCS in Java instead of C++...An online Freecell implementation that can play itself would have been super-cool.
+
+
+2002-11-20 01:45:06

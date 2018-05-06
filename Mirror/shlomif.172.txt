@@ -1,0 +1,81 @@
+<p><b>Bug in uniq on my system</b>
+
+<p> <p>
+<pre>
+shlomi:~# cat uniq-test.txt
+uses/bio-info
+uses
+uses/qa
+shlomi:~# /usr/bin/uniq &lt; uniq-test.txt
+uses/bio-info
+uses/qa
+</pre>
+
+
+<p> <p>
+A bug isn't it? My system is Mandrake 9.1, and neither the uniq from 
+RedHat 6.2 nor the latest from the GNU diffutils exhibits this problem. It
+broke one of my scripts and so I installed the latest uniq to my $HOME/bin
+directory.
+
+
+<p> <p><b>Objectivism and Open Source Essay</b>
+
+<p> <p>
+I wrote <a href="http://t2.technion.ac.il/~shlomif/philosophy/obj-oss/obj-oss/book1.html">an essay titled "Objectivism and Open Source" today</a>. It aims
+to explain to Objectivists why open source is a Good Thing&lt;tm&gt;. Read
+and flame away!
+
+
+<p> <p><b>Subversion Issue #854 Revisited</b>
+
+<p> <p>
+Apparently, I did not notice some comments in the issue in the Subversion
+bug-tracker, that said that the behaviour has changed, but still was not
+as expected. So, the bug was re-opened and I created a new fix, that checks
+if "svn revert ." is done on a newly added directory and throws an error
+if it does. Quite a trivial fix, but I also wrote a regression test to
+make sure this is what happens. 
+
+
+<p> <p>
+It was eventually applied with small fixes. One less bug before Subversion
+1.0.
+
+
+<p> <p><b>Larry McVoy Interview</b>
+
+<p> <p>
+I went to the BitKeeper homepage today to recall the name of the push 
+command, and saw on its front page that <a href="http://www.linuxworld.com/story/32618_1.htm">Linux World 
+    conducted an interview with Larry McVoy</a>. This was partially in 
+response to a <a href="http://www.linuxworld.com/story/32608.htm">previous interview with Bruce Perens</a>. I wonder how I could have missed it.
+
+
+<p> <p>
+I searched the Perens interview for BitKeeper and read this part. Basically, 
+Perens accuses McVoy of threatening him every time he meets him. McVoy denies
+these accusations in his interview. It's one's word against the other. I do
+know Larry McVoy has threatened several other people with ligitation online. 
+And he does seem to me to be quite hot-headed. So I tend to believe Perens.
+
+
+<p> <p>
+This all brings me back to <a href="http://better-scm.berlios.de/bk/relicensing_bk.html">my conclusion that reverting the BitKeeper license would be a good 
+    idea.</a>. The reason the source code was hidden in the first place,
+was because some companies modified it to subvert BitKeeper and disable the
+OpenLogging facility. This is all very well, but I doubt a substantial number
+of them would have become paying customers.
+
+
+<p> <p>
+With its current licensing scheme, BitKeeper would <b>never</b> become
+the state of the art. Never. While it is technically superior to any free 
+software alternative (at least for now), hardly anyone dares touch it with a
+ten-foot pole because of its license. If its licensing change to something much
+saner, and its source code be revealed, it could, OTOH, eventually conquer the 
+market and be distributed as part of major distributions. I don't know why
+McVoy does not realize that, but it is mainly his loss.
+
+
+2003-09-05 18:57:59

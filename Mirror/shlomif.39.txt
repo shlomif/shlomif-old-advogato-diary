@@ -1,0 +1,65 @@
+<p><b>Studies</b>
+
+<p> <p>
+I had to stay in the Technion today, and may remain for the
+rest of the weekend. The ironic thing is that it's holiday
+during the weekend ("Shavuoth") and I won't be able to enjoy
+it. The anti-christ in this story is the course "Computer
+Graphics" whose homework require my partner and I to invest
+quite a lot of time in the front of the computer, hacking
+with OpenInventor and Motif.
+
+
+<p> <p>
+Hopefully, I won't have to do too much Motif programming
+this time. Building proper GUI is a tedious task, and I have
+time finishing it in a reasonable time. Especially with a
+something like Motif that is very awkward and not
+programmer-friendly. I spent most of the time in the
+previous exercise trying to get the dialogs to work, and the
+OpenInventor part was relatively easy.
+
+
+<p> <p>
+I really wish I could do Inventor programming in Perl. (or
+in anything in the same vain). But I'm not aware of any
+binding that allows it. Maybe, I'll get to it one day. I
+also wonder how much is Inventor dependant on Motif? I.e:
+how long will it take to make it available for Gtk+ or
+something else? 
+
+
+<p> <p>
+There are Motif bindings for Perl, so maybe I'll settle down
+for them.
+
+
+<p> <p>
+Other than that the last SICP exercise took way too long,
+because the MIT Scheme debugger was awkward to work with and
+buggy. My apartment-mate recommended me to use Dr. Scheme,
+so I think I'll give it a try. And now I have to draw an
+environment diagram... %-). Plus, I don't know how to draw
+box-and-pointer diagrams for streams. (and the lecturer was
+abroad to give a presentation, so I could not ask him).
+
+
+<p> <p>
+The other courses are going quite well. Eran and I finished
+preparing the preliminary reports for the VHDL experiment.
+But the instructors there did not let us simply hand what we
+prepared as is. We'll have to be there to see for ourselves.
+I was told the Sun workstations there don't have floppy disk
+drives and the Internet connection is not functional. I'll
+have to go there and find out.
+
+
+<p> <p>
+Liat and I prepared the "Design and Analysis of Algo" third
+exercise and are meeting on Tuesday to prepare the third. I
+wrote a Perl script that implements the Edmonds-Karp flow
+analysis scan. We have now standard to learn about
+complexity, intractibility, Turing machines and friends.
+
+
+2002-05-16 11:33:24

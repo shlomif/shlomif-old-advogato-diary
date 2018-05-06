@@ -1,0 +1,92 @@
+<p>
+<b>Freecell Solver</b>
+
+
+<p> <p>
+I released version 2.0.0 of it. There are two very big
+things which I'd like to do with it now: add support for
+multiple threads to operate on the same states' collection,
+and port to Java. I'll do the former first, so I'll have a
+good code-base to translate into Java.
+
+
+<p> <p>
+Otherwise than that, I'm also thinking of finding a way to
+abstract prunes without messing the code too much. But since
+Freecell Solver is fast enough as it is, it's in a rather
+low priority.
+
+
+
+<p> <p>
+<b>First-Come First-Served Readers/Writers Lock</b>
+
+
+<p> <p>
+I coded such a beast for POSIX threads and you can find it 
+<a href="http://vipe.technion.ac.il/~shlomif/rwlock/">here</a>.
+I did it mainly for fun and to see if the model I thought
+about for implementing it would work. It seems that it does. 
+
+
+<p> <p>
+I received some feedback about it from various people. Now I
+have an idea for improving it, so there will be a smaller
+number of condition variables that are allocated. But I'll
+release the current implementation as 0.2 before I do that.
+
+
+<p> <p>
+Unfortunately, I'm not going to use such a mechanism for
+Freecell Solver's multi-threading capabilities. The reason
+is that the atomic operation of managing the states
+collection is of checking if a state exists and if not
+adding it. (and returning whether it was the case). That
+way, a mutex is enough.
+
+
+<p> <p>
+<b>Humanity</b>
+
+
+<p> <p>
+I added an incomplete scene called "The Street". It has a
+lot to do with Computer Science, so I recommend hackers to
+<a href="http://groups.yahoo.com/group/hackers-il/message/1581">
+read it</a>.
+
+
+<p> <p>
+<b>The Technion</b>
+
+
+<p> <p>
+After having to do 5 exercises in "Structure and
+Interpretation of Computer Programs", I won't be surprised
+if I'll start dreaming in parenthesis. During the last
+lecture, I managed to correct the lecturer on one occasion.
+Read about it 
+<a href="http://groups.yahoo.com/group/hackers-il/message/1594">
+in this post I made to Hackers-IL</a>.
+
+<p> <p>
+In case, I did not mention it here earlier, I'm writing the
+answers in English and using LaTeX. It's very convenient and
+causes much less trouble and frustration than Word. I
+discovered that one should write {\tt My text} instead of
+\tt{My text}. LaTeX is not without its idiosyncrecies, but
+at least one becomes familiar with them eventually, which is
+not the case with MS-Word.
+
+
+<p> <p>
+Other than that, I stopped studying "Digital
+Communications". The lecturer and the T.A. were great and
+the material was very interesting, but the homework took too
+much time. And after I worked in the summer on the project,
+I'd like to have a light semester.
+
+
+
+
+2001-12-22 13:30:19

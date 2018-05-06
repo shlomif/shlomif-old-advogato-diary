@@ -1,0 +1,48 @@
+<p><b>Internet Bits and Pieces</b>
+
+<p> <p>
+The Technion's connectivity is fine now, but has been a bit sporadic lately. (sometimes it congests). What does
+not work is my CVS repository at BerliOS. It seems that 
+I can't even login into the CVS server, even from shell.berlios.de. And the new CVS instructions on the project's page are lacking.
+
+
+<p> <p>
+I joined a <a href="http://www.webdesign-l.com/">web-designers mailing
+list</a> which I spotted on Google. So far, the traffic there has not been particularily high, and the SNR is quite high (lots of talk about HTML standards, CSS, etc.). I received one response (in private) to my question about how to make the navigation looks fine in MS Internet Exploder, so I'm going to switch to Windows and tinker with the CSS stylesheet. Then I'll have to switch back to Linux and fix it in the WMLized source, and upload it again. &lt;sigh /&gt; Maybe I should use VMWare or Cross-Over Office.
+
+
+<p> <p><b>Hacktivity</b>
+
+<p> <p>
+I download the source RPM of the new version of aspell, compiled and installed. Using its HTML/SGML mode I was able to spell check one of the chapters of the Architecture Document. I could not commit it into the CVS yet, due to the aformentioned BerliOS problems so I'm on hold now until it is fixed. The previous version of aspell gave me problems when ran in HTML mode, and Emacs's ispell-buffer mode started asking me to verify all the DocBook/XML tags, which made it quite useless. It's good to know Kevin Atkinson is hard at work on aspell.
+
+
+<p> <p>
+I also managed to do a lot of <a href="http://vipe.technion.ac.il/~shlomif/philosophy/solving/israel/lectures/origins/slides/">the
+Solving lecture</a>: covered Neo-Tech, and Homesteading the Noosphere and almost finished the Magic Cauldron. What's left is giving a section that explains how Solving integrates and expands on the two, and giving it some final touches, and adding sections if necessary.
+
+
+<p> <p>
+I received a user account on a Co-Op server and am going to set up a globally accessible Subversion repository there. So far Berkeley DB-4.0 compiled without a problem. However, Apache 2.0.x requires the headers of OpenSSL to compile mod_ssl and it is not available there. I guess I'll have to wait for it to be installed.
+
+
+<p> <p>
+./configure and the compilation of C modules is very fast on this machine, so it must be a pretty spiffy one. I remember timing the Freecell Solver scans ran so much faster on the Pentium 4 1.7 gHz at the Com-Net Lab than it did on my P3 667 MHz workstations. Working on my home P3 600 MHz is also pretty nice and fast, but greater speed still makes you a bit less frustrated. 
+
+
+<p> <p><b>Life</b>
+
+<p> <p>
+It's Hanukah now, so I light up the candles every evening, and we eat latkes. The weather has become quite cold at night. The Technion was closed yesterday and today, so I'll have to postpone doing my arrangements on Tuesday. 
+
+
+<p> <p>
+I have to check the "Hever" students' personnel company for available temporary positions, register as a tutor for some of the courses I have taken (those that I received a suitable grade <b>and</b> feel confident enough about teaching to others), and talk with the supervising lecturer of "Intro to Software Systems" about breezing through the course. I basically know this course already, and would just like to get the extra points for it.
+
+
+<p> <p>
+I got to bike twice yesterday. What I could not do was wash my hair, because we ran out of available shampoo and then there was a lack of hot water. I'm already three days late in washing my hair.
+
+
+<p> 
+2002-12-02 03:20:09

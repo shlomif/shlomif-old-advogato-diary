@@ -1,0 +1,191 @@
+<p><b>Solving the smb mount problem</b>
+
+<p> <p> <p>
+I had a problem with my Mandrake installation that after upgrading to 
+Mandrake 9.2, I could not mount SMB partitions with the mount command. I tried
+to look at the source of the mount command, but the util-linux package
+is very hard to build with debug flags. (I could not figure how to do it within
+my time frame).
+
+
+<p> <p> <p>
+But <tt>strace</tt> came to the rescue and I was able to find out it was
+looking for a <tt>/sbin/mount.smbfs</tt> program. Since I only had 
+<tt>/sbin/mount.smbfs2</tt> I symlinked to it, and then everything worked 
+properly.
+
+
+<p> <p> <p><b>Installing dbxml</b>
+
+<p> <p> <p>
+One day I set out on trying to install Berkeley dbxml. Problem is it had
+several dependencies: Berkeley DB with the C++ bindings, Apache's Xerces, 
+and Pathan, an XPath library for Xerces. Compiling Berkeley DB with the C++
+bindings went very smoothly (I just had to tweak my configuration script a 
+bit). I was also able to compile Xerces as an RPM from its tar.gz.
+
+
+<p> <p> <p>
+Then I set out to install Pathan. I tried to compile the .src.rpm but I 
+encountered two problems. The first was 
+<a href="http://bugs.decisionsoft.com/show_bug.cgi?id=3192">a compilation 
+    problem that was only encountered on gcc 3.3.x</a> (which I have). I was 
+able to resolve it based on the description in that bug report. Then, I 
+encountered a missing header file. After a long time of head-banging, I realized
+I had to set up an env var to the path of Xerces' source, instead of its binary
+installation. After I did it, everything worked.
+
+
+<p> <p> <p>
+After Pathan was installed (which took several hours all in all), I compiled
+dbxml, which went very flawlessly, and nice. Did not have time to experience
+with it yet, but I may need to find a way to use it from within a scripting
+language of some sort, because I'm not fond of using C++ for this.
+
+
+<p> <p> <p>
+What I did do was play with the Perl <tt>XML::XPath</tt> CPAN module. I got
+the hang of XPath through it, but of course, the queries did not run very
+quickly as it's a pure Perl module.
+
+
+<p> <p> <p><b>Upgrading to Mandrake 10.0</b>
+
+<p> <p> <p>
+I upgraded to Mandrake 10.0. The upgrade went pretty OK, albeit it is highly
+possible the CDs were not burned well. Then came the usual slew of upgrade
+problems.
+
+
+<p> <p> <p>
+First thing was that xmms kept crashing when trying to play a song. I found
+out the problem was that xmms-arts was not installed at all, and so had to 
+install it. After I did (version 0.7.0) everything worked well. 0.7.0 seems
+more solid than 0.6.0 which was buggy as hell and forced me to downgrade to
+0.4.0.
+
+
+<p> <p> <p>
+Then I realized I had no Internet. Apparently, the Ethernet driver 
+configuration got lost and I had to fix it using a quick visit to the Mandrake 
+Control Center.
+
+
+<p> <p> <p>
+Afterwards, I found out KMail was crashing and I could not read the mail. 
+I had no idea why, until I looked at the rpms list and found out that version
+3.1.x of KMail was still installed. I removed it and installed KMail 3.2.x 
+instead. The problem was probably that kmail 3.1.x belonged to kdenetwork
+and kmail 3.2.x to kdepim.
+
+
+<p> <p> <p>
+Then, kmail informed me that it was now using $HOME/.Mail instead of $HOME/Mail
+and had to move all the directories. I instructed it to do so, but then I saw 
+that it displayed none of my existing folders. I panicked ("all my mail 
+was lost"), but then remembered to check ~/.Mail. What I found there was that
+there was a ~/.Mail/Mail directory there, with all my original files. (stupid
+KMail!!). So I moved all the files manually to ~/.Mail/ and then everything 
+worked fine.
+
+
+<p> <p> <p>
+One thing I noticed was that suddenly all my fonts became smaller. It may
+have to do with the Sans font becoming smaller, for some reason. I changed
+the fonts manually in kmail. gvim itself displayed the fonts in a horrid font.
+After consulting the good guys at FreeNode's #vim channel, I found out that I had to do a <tt>set guifont=Bitstream\ Vera\ Sans\ Mono\ 12</tt> (with backslashes
+before ths spaces) instead of a 
+<tt>set guifont="Bitstream Vera Sans Mono 12"</tt> (surrounded by
+double quotation marks) which worked fine previously. Don't ask me why, but 
+it works.
+
+
+<p> <p> <p>
+The came the GIMP Compilation problem. I tried to compile gimp from cvs, but
+could not because of the following error: &lt;&lt; Can't locate object method 
+"path" via package "Request" at /usr/share/autoconf/Autom4te/C4che.pm line 69, 
+&lt;GEN1&gt; line 111. &gt;&gt;. After I searched google for it (which was a bit
+hard because it does not accept quotation marks inside.), I realized that
+I had to delete the <tt>autom4te.cache</tt> directory and then everything 
+worked. Afterwards, during the linking stage I had to resymlink some shared
+libraries because gimp was looking for their canonical unversioned filenames.
+
+
+<p> <p> <p>
+The last problem I encountered was that Samba did not send Hebrew filenames
+to my Win98 laptop. I looked at the smb.conf man page, but could not find 
+anything. So I logged on to the channel #linux.il at EF-Net, where someone told
+me I needed to set the "unix charset" directive (and from my understanding the 
+"dos charset" directive as well). This caused everything to work again. I also
+deleted the old directives that were relevant only to Samba 2.x.
+
+
+<p> <p> <p>
+Just another typical upgrade, only this time more eventful.
+
+
+<p> <p> <p><b>Perl Meeting</b>
+
+<p> <p> <p>
+We had <a href="http://www.perl.org.il/20040311.html">an Israeli Perl Mongers
+    meeting</a> last Thursday. Here is 
+<a href="http://www.perl.org.il/kwiki/index.cgi?MeetingReport2004Mar11">my 
+    report of it</a> as I wrote in the Israeli Perl Mongers Wiki.
+
+
+<p> <p> <p><b>Telux Meeting</b>
+
+<p> <p> <p>
+Last Sunday we had a Tel Aviv Linux Club meeting. Ohad Ben-Cohen gave a very
+nice lecture about Securing Linux. I learned through it about some common 
+exploits and about some ways to better secure your Linux system. (which I
+am a bit reluctant to implement on my system).
+
+
+<p> <p> <p>
+One thing that disturbed us was that the lecture was prepared in PowerPoint
+2000, instead of in a cross-platform solution like OpenOffice. Lecturers
+should know better than that. And besides, the PowerPoint 2000 format has a 
+security problem of containing the Ethernet address of the computer in which
+it was last edited. So the shoe-maker has no shoes.
+
+
+<p> <p> <p><b>GIMP Bug</b>
+
+<p> <p> <p>
+After playing a bit with the GIMP, I discovered <a href="http://bugzilla.gnome.org/show_bug.cgi?id=137147">a GIMP bug</a>. Apparently, it also exists in 
+GIMP 1.2.0, and is quite annoying.
+
+
+<p> <p> <p><b>Reading</b>
+
+<p> <p> <p>
+I finished reading <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0465067107/qid=1079463258/sr=1-1/ref=sr_1_1/103-6327479-7074245">"The 
+    Design of Everyday Things"</a> and wrote 
+<a href="http://www.perl.org.il/kwiki/index.cgi?BookReviewTheDesignOfEverydayThingsByShlomif">a 
+    review of it</a>. All in all it's
+a very good book: very entertaining and very important.
+
+
+<p> <p> <p>
+Now I started reading "The qmail Handbook", which I took from the book giveaway
+of the last YAPC. Having read the first chapter of the introduction, I was 
+impressed with qmail's feature-set and design. The second chapter with the 
+installation instructions left with the feeling that Dan Bernstein wished to
+make it hard on his users. Clearly his belief that "There are two kinds of 
+interfaces: good interfaces and user interfaces" is showing. As a result of it
+and its license, qmail is a mess to install. But I'll read on, because I need
+to administer a qmail installation and may need to administer further ones 
+in the future.
+
+
+<p> <p> <p><b>Studies</b>
+
+<p> <p> <p>
+I've been studying a lot lately for my upcoming Thermodynamics exam. I finally
+got the hang of Ideal gas (Fermions or Bosons) in the classical limit, and 
+Fermion Gas and Boson Gas in the quantum limit. With the help of someone on the
+IRC, I understood something else about it which disturbed me.
+
+
+2004-03-17 14:55:42

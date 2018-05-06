@@ -1,0 +1,32 @@
+<p><b>Hacktivity</b>
+
+<p> <p>
+I adopted the CPAN module File::FTS which was maintained
+by the late <a href="http://search.cpan.org/author/SCHOP/">Ariel Brosh</a>. I modified the code a bit and released version 0.02 of it. I had to register as a CPAN author for the process, and I'm not sure the module I uploaded is in the core CPAN modules yet. I'm in contact with Gabor about it.
+
+
+<p> <p>
+I spent most of my hacking time today hacking on Quad-Pres, my Perl presentation tool. I started creating an Autoconf-based distribution for it. Automake gave some problems, in not allowing me to install a hierarchy of files. I went to rest, and when I got out of bed, I inspected how dia did it, and found out, it had a Makefile.am for every directory. So, I did that too, by writing a bash script to generate them automatically.
+
+
+<p> <p>
+There's still a lot of work to be done, and it is hardly usable as it is.
+
+
+<p> <p><b>Reading</b>
+
+<p> <p>
+I read part of the chapter about tying variables in the Camel Book today. I also read Linux Weekly News and their
+2002 timeline. That's it, I think.
+
+
+<p> <p><b>Life</b>
+
+<p> <p>
+The weather was nice most of the day. At the early afternoon, I went for a walk and it was very nice. I played Simple Simon in PySol a lot today to relieve my mind of different (more serious ?) matters.
+
+
+<p> <p>
+Tomorrow I'm planning to travel to Haifa and attend Gilad's lecture for the Haifa Linux Club.
+
+2002-12-22 18:59:01

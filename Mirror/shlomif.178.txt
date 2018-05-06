@@ -1,0 +1,14 @@
+<p><b>Google Mirroring Script</b>
+
+<p> <p>
+I wrote a 
+<a href="http://fc-solve.berlios.de/google/">Perl Script that mirrors the www.google.com domain</a>. (and with some customization, other domains as well). The incenetive
+is to set up as many mirrors of Google worldwide as possible in order to battle's the Great Firewall of China's blocking of this useful resource, and to give
+the people (of the People's Republic of China) what
+they want.
+
+
+<p> <p>
+There's <a href="http://www.iglu.org.il/shlomif/google.cgi/en">a demonstration of it</a> but it's a slow link and works only with lynx, because of Google's user-agent idiosyncracies.
+
+2003-09-30 17:25:54

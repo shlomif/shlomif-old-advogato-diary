@@ -1,0 +1,24 @@
+<p><b>Lex and Yacc Demo</b>
+
+<p> <p>
+It all started when I suggested Muli and Guy that I give a presentation about Lex and Yacc in order to equip them with enough knowledge to re-implement the "System Call Tracker" user-land configuration utility with it. It turned out they already knew Lex and Yacc (just were too lazy-minded to use it), but it was decided by forces beyond my control that I give it in any case.
+
+
+<p> <p>
+Go <a href="http://vipe.technion.ac.il/~shlomif/lecture/Sys-Call-Track/Lex-Yacc/">here
+</a> for the results. My plan is to demonstrate them both using perl by starting from a very basic grammar, and then extending it with help and guidance from the audience. Should be pretty cool.
+
+
+<p> <p>
+Orna, (<a href="/person/ladypine/">ladypine</a>) confessed told me she only has a vague understanding of formal languages, so I may have to delay a bit with the part on Yacc. But that's what the demo is for in the first place.
+
+<p> <p>
+Meanwhile in the Haifux mailing list <a href="http://www.mail-archive.com/lin-club@vipe.technion.ac.il/msg01171.html">a friendly discussion</a> erupted about how much the Scanner-less Generalizer LR Parser was innovative or not, just because it did not distinguish between parsing and tokenizing.
+
+
+<p> <p>
+This demo would be part of the Sys-Call-Track developers' meeting, in which we will also discuss a better design for the notorious gen_syscalls.pl.
+
+
+
+2002-06-23 14:33:51

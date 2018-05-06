@@ -1,0 +1,28 @@
+<p><b>Univ Project</b>
+
+<p> <p>
+Roy could not sit with me Sunday to Tuesday, and believing that Wednesday alone is not worth the trip to Haifa, we agreed that we will not sit down this week. Then I remembered that we also sit part of Thursday, and tried to schedule for Wednesday. But Roy already informed his workplace that he will work there.
+
+<p> <p>
+I worked on it a bit alone, and I was able to add a navigation bar to the week view, and to start coding the month view.
+
+<p> <p><b>Freecell Solver</b>
+
+<p> <p>
+Presets, ahoy! Freecell Solver can now be "themed" using pre-defined configurations. And now instead of <a href="http://cvs.berlios.de/cgi-bin/viewcvs.cgi/fc-solve/fc-solve/presets/soft-threads/meta-moves/cool-jives.sh?rev=1.1&sortby=date&content-type=text/vnd.viewcvs-markup">
+this brain-damage</a> you can simply say <tt>fc-solve -l cool-jives</tt>. 
+
+<p> <p>
+I added a few presets to the default installation of the program, so I can refer to them in the help pages, and to make it nice on the users.
+
+<p> <p><b>Translation</b>
+
+<p> <p>
+I eventually received the translation of "How Many Eyeballs Tame Complexity" and am in the midst of integrating it. But even more surprisngly, I have received a complete translation of CatB to Hebrew which its author did not publish (or inform too many people about its existence). Hmmpf... after all the work I did.
+
+<p> <p><b>Life</b>
+
+<p> <p>
+My sister, my father and I went to see "The Importance of Being Ernest" on Sunday and it was very nice. I was able to bike yesterday and today, so I'm happy. I registered to another course ("Tools for Analysis of Computer Systems" or something like this). Life is good.
+
+2002-09-03 17:36:04

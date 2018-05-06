@@ -1,0 +1,315 @@
+<p><b>Aarrggh! My Hebrew has turned into Question Marks</b>
+
+<p> <p> <p>
+I edited a Hebrew HTML file with kedit, but forgot to set the encoding
+appropriately. The Hebrew was edited fine. However, when I closed it,
+I realized (after some experimentation) that the Hebrew characters have
+all turned to question marks. The actual ASCII question mark letter.
+
+
+<p> <p> <p>
+I ended up losing the entire document. What the hell? Fury... fury... fury.
+
+
+<p> <p> <p>
+To prevent it once and for all, I added this to my .bashrc:
+
+
+<p> <p> <pre>
+function kedit
+{
+    LC_CTYPE=he_IL.UTF-8 /usr/bin/kedit $*
+}
+</pre>
+
+<p> <p> <p>
+The reason I don't use an i18n'ed locale by default is because it causes my
+fonts to become uglier. How lame is that? &lt;sigh /&gt;
+
+
+<p> <p> <p><b>DocBook continued</b>
+
+<p> <p> <p>
+Well, Bob Stayton helped me and instruced me the how to modify to the code 
+of the DocBook/XSLT <tt>itemizedlist</tt> handler to make it propagate the 
+role attribute as a class. Now, it works and I'm happy. Still I think it's
+a huge mis-feature that role is not propagated for any element.
+
+
+<p> <p> <p><b>Version Control Article</b>
+
+<p> <p> <p>
+My <a href="http://www.onlamp.com/pub/a/onlamp/2004/01/29/scm_overview.html">Version 
+    control article</a> now has many more comments. Many of them were in the
+vain of trying to protect CVS and why it should still be used. I think this
+is not true, and new projects should not start with CVS. I expect CVS to be
+used in years to come, but be considered hugely deprecated just as RCS and
+SCCS are still used today, but are also deprecated.
+
+
+<p> <p> <p>
+It was <a href="http://www.osnews.com/comment.php?news_id=5858">referenced
+    on OSNews.com</a> (courtesy of <a href="http://www.eugenia.co.uk/">Eugenia 
+    Loli-Quero</a> who also contributed to the Better-SCM site and 
+comparison), where there are more comments, and
+it also hit Whatsup in <a 
+    href="http://www.whatsup.org.il/modules.php?op=modload&name=News&file=article&sid=2646">this 
+    feature in Hebrew</a>. There it seems to form a discussion of the Linux
+Kernel Development Model, why it requires BitKeeper, and whether it's a good
+thing.
+
+
+<p> <p> <p>
+As a result, or just out of word of mouth, I received a great deal of E-mails
+about the Better-SCM site lately. Someone even sent an addition to put in
+Visual SourceSafe and CM Synergy to the comparison. (which I bounced 
+because it wasn't a patch to the XML file). I have modified the pages a bit
+since then. Next, I plan to put its source on a public Subversion repository
+so people can contribute more easily.
+
+
+<p> <p> <p>
+I also started sending a Newsletter about Better-SCM to all the people who
+contacted me about it. ("Cathedral and Bazaar"-style) It worked pretty nicely 
+so far and I received a lot of useful input. Someone, however, wished to be 
+unsubscribed from it, and suggested I ask before I add someone to the 
+Newsletter. I have to think about it a little, but think I'll go with 
+unsubscribe on demand, given that most people are not very responsive.
+
+
+
+<p> <p> <p>
+Finally, there's now <a href="http://better-scm.berlios.de/mailing-list.html">a 
+    new mailing list - better-scm-discuss</a>. Several people have joined now,
+and there was some active discussion. That's good.
+
+
+<p> <p> <p><b>Perl-Begin</b>
+
+<p> <p> <p>
+I managed to do quite a bit of work on 
+<a href="http://perl-begin.berlios.de/">Perl-Begin</a>. I moved its source
+to a Subversion repository at opensvn.csie.org (which offers a very discreet
+and unintrusive service, albeit sometimes the connectivity seems slow), and
+then added a lot of content and changed the CSS somewhat (made it more modular
+and nicer). Finally, I created a newsletter for it as well, and sent some
+announcements to the people who contacted me about the site. One of them
+replied with some useful suggestions. :-)
+
+
+<p> <p> <p>
+In any case, I contacted <a href="/person/ask/">ask</a> and the rest of the beginners
+workers about contributing to learn.perl.org. Eventually, I found out that
+perl.org had a hardware failure and so work on learn.perl.org was stalled.
+What I did do was write a "learn/" section to 
+<a href="http://www.perl.org/">www.perl.org</a>, which will take some time
+until it is proof-read, and integrated into the main site. What I did there
+was simply link to the appropriate places on learn.perl.org and perl-begin.
+
+
+<p> <p> <p>
+I'm glad I could find some time to do a lot of really productive work. I missed
+hacking, and hacking on web-sites, while not being as challenging as hacking 
+on code, is still fun and rewarding.
+
+
+<p> <p> <p><b>Hackers-IL</b>
+
+<p> <p> <p>
+Check <a href="http://groups.yahoo.com/group/hackers-il/message/3619">this
+    message of Hackers-IL for a post I made to Hackers-IL</a> in regards
+to the new and annoying Yahoo Groups limitations. (Hackers-IL is hosted there).
+There are three possibilities: accept the Status Quo, pay Yahoo Groups for
+getting a primum service, or move to our own service.
+
+
+<p> <p> <p>
+We decided that being hackers, the last option would be best. The problem
+is that several people have resources at their disposal, but none has the
+time (except me). So, I went out and contacted <a href="/person/sun/">sun</a>, one of 
+the beak.hamakor.org.il's admins to host the <tt>hackers.org.il</tt> domain 
+there. He told us we should send a description of what Hackers-IL is all
+about to the appropriate list and he'll see if everything can be arranged.
+
+
+<p> <p> <p>
+I wrote <a href="http://groups.yahoo.com/group/hackers-il/message/3634">a 
+    charter</a>, which was criticized as being too long to be effective and
+Arik Baratz wrote a shorter one, which was still very good. I ended up revising
+both charters and 
+<a href="http://www.iglu.org.il/shlomif/hackers-il/charters/">putting 
+    them online</a>. We decided we are going to use the shorter charter for
+contacting the beak admins and for further purposes like that, and the more
+verbose one for putting on the future site.
+
+
+<p> <p> <p>
+The discussion was pretty long, and eventually we debated if it was off-topic
+or whatever. We reached a conclusion that it was just a "meta" discussion,
+which was a necessary evil, but that it was still annoying. This was towards
+the end when everything stabilized, so it just closed the discussion.
+
+
+<p> <p> <p>
+Yesterday, I sent the mini-charter in its final form to the appropriate list,
+with some explanations on what we need in the present and in the future.
+
+
+<p> <p> <p><b>Mozilla's Firefox</b>
+
+<p> <p> <p>
+I'm glad the Mozilla people changed the name of their browser so it
+won't clash with the Firebird database. I also like the new name. It is 
+almost certainly based on the Biblical story where Samson sets fire to the
+tails of 400 foxes and drives them to the Philistines camp to throw it into
+chaos and destruction. There's a nice symbolism with trying to do the
+same with MSIE, but I don't know how many of the target audience know the
+Old Testament well enough to realize that.
+
+
+<p> <p> <p>
+Still, the name is very cool, even without recalling the story. Of course,
+I have a feeling that it might start a new trend: Fire+[Animal]. Firecat. 
+Firedog. Firedove. Firebear. Firepenguin. Etc. All these names are very cool,
+but one will have a hard time distinguishing between them. But who is John
+Galt?
+
+
+<p> <p> <p><b>How Good are my Technion Grades?</b>
+
+<p> <p> <p>
+I posted <a href="http://discuss.fogcreek.com/joelonsoftware/default.asp?cmd=show&ixPost=110136&ixReplies=71">a post to the Joel on Software forum about 
+    my Technion grades</a>. This seemed to be a mis-calculation as many people
+took the opportunity to criticize me, claim I was no-good or lazy, etc. They
+obviously haven't been to the Technion...
+
+
+<p> <p> <p>
+Here is the creme de la creme of the discussion by someone calling himself
+"Caliban Tiresias Darklock":
+
+
+<p> <p> <pre>
+Shlomi, just a bit of constructive criticism here... and this *is* supposed to
+be constructive...
+ 
+ You come across as childish, inexperienced, and belligerent. Nothing you have
+ written interests me. What little sticks out in my mind is not positive. You
+ sniff at the college for not having a standards-compliant web page, as if
+ anyone really cares. You sneer at CVS for not having a few minor features, as
+ if anyone really cares. You solve a few basic puzzles, and build a
+ presentation generator that you use to create a bad Perl tutorial. Then you
+ come in here and say you know you're a good engineer. 
+ 
+ Unfortunately, you're not. You're just a competent Perl programmer. But
+ engineers solve problems; if you expect to impress me with your work, do
+ something that's relevant to someone other than yourself. Why in the world
+ would I want to read your ramblings about SCHEME or run some program you wrote
+ to solve mazes? I know why I would want to read *my* ramblings about SCHEME or
+ run some program *I* wrote to solve mazes -- because I'm arrogant and
+ self-involved. I love writing stupid little things for no good purpose, just
+ because I can. Every engineer does. 
+</pre>
+
+<p> <p> <p>
+Maybe I should check the definition of "constructive" in the dictionary again...
+
+
+<p> <p> <p><b>Melissa Joan Hart - Pictures</b>
+
+<p> <p> <p>
+You innocently type <a href="http://images.google.com/images?q=melissa+joan+hart&hl=en&lr=&ie=UTF-8&oe=UTF-8&sa=N&tab=wi">"melissa joan hart" into Google and search it for images</a> and what do you get in the first hits? That's right - 
+soft porn.
+
+
+<p> <p> <p>
+A few notes are in order. The Google search for MJH (=Melissa Joan Hart) is
+perfectly fine and clean and leads to various fan sites and pages. Secondly,
+some of the other pictures in the search are not provocative at all. 
+Thirdly, the first pictures are absolutely horrid, IMO. I don't have a problem
+with sexual or even provocative photos - some of them are very nice - but 
+these are done in very bad taste. (I guess ESR was right when he noted that
+most porn is disgusting)
+
+
+<p> <p> <p>
+Moreover, this is not entirely an issue of "child-safety", keeping "innocence",
+etc. I just wish that the Google images search was a bit smarter about this, 
+as the Google regular search is. It is possible that it was the anti-thesis
+to these pictures that made them get a higher rank.
+
+
+<p> <p> <p>
+In any case I found 
+<a href="http://www.asamnet.de/~sperbera/mjh/scans-fan/melissa-joan-hart_diddys-scans_001.jpg">a 
+    very nice picture in the first page of hits</a>. Hart (fully groomed) 
+standing among automn leaves. She looks a bit sad, but the picture is very
+beautiful. Having downloaded it, I noticed it was scanned and of low quality.
+So I decided to reduce its size using the GIMP. The latter simply opened it 
+in %50 scaling ratio, which made it look very decent, so I just reduced it to 
+this size. Finally, I placed the picture in my Konq+Xmms Virtual Workspace 
+instead of a very nice picture of Gabrielle Anwar, which I had there for 
+several generations now. (I guess it's always time to move on)
+
+
+<p> <p> <p><b>Melissa Joan Hart - Silly Etymology</b>
+
+<p> <p> <p>
+Well, enough Cybersex for now and let's just discuss MJH's etymology. Her
+full name is "Melissa Joan Catherine Hart". Considering the fact that
+Catherine is a variant for "Catherina" we can see she has no less than
+6 private names:
+
+
+<p> <p> <ol>
+    <li>
+    Meli (short for Emily)
+    
+    <li>
+    Lisa (short for Elizabeth, or Alisa)
+    
+    <li>
+    Jo (the "Little Women" short for Josephine)
+    
+    <li>
+    Anne
+    
+    <li>
+    Cathy
+    
+    <li>
+    Rina (a common Hebrew female name meaning sing-song)
+    
+</ol>
+
+<p> <p> <p>
+Six names for a girl who isn't even thirty yet. (!)
+
+
+<p> <p> <p><b>Solving</b>
+
+<p> <p> <p>
+Well, for something a bit more serious. I had some kind of enlightenment
+in regards to 
+<a href="http://vipe.technion.ac.il/~shlomif/philosophy/solving/">Solving</a>.
+Now, I simply say that instead of trying to bring the open-source world-like 
+Distributism model into western-world-countries, I am instead going to propose
+that competing leaders will compete for controlling the countries instead of
+the "official" elected government. This will create a multi-tude of leaderships
+all competing for the same niche, and doing so logically and reasonably, instead
+of one leaderhip who cares more about his public image than about being a
+honest one.
+
+
+<p> <p> <p>
+I revamped the content of the site (without re-writing it from scratch). Then,
+I linked to it on the IRC in several channels, and also on a web-designers'
+list I am a member of. From the replies I received, it seems that I did not
+explain myself correctly enough, and people thought it was Feudalism or 
+even worse. This means something is still wrong there. I still got some 
+useful replies and input. Guess it's time for more revamping... 
+&lt;sigh /&gt;
+
+
+
+2004-02-12 06:49:44

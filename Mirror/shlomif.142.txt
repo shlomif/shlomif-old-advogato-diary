@@ -1,0 +1,88 @@
+<p><b>"Open Source, Free Software and Other Beasts"</b>
+
+<p> <p> <p>
+I wrote <a href="http://fc-solve.berlios.de/oss-fs/">an essay aims to introduce
+open source, and free software to beginners</a>. It covers the history, the 
+meaning of the terms and some issues and myths. It's a bit longish (14 A4 
+pages), but otherwise aims to be encompassing enough.
+
+
+<p> <p> <p>
+Chen Shapira has reviewed the early versions of the document, and gave some 
+very essential commentary (including how to trim them - they were even 
+longer than now). <a href="/person/nyh/">nyh</a> summarized the history of early UNIX 
+and the BSDs for me, so I'm grateful for him as well as I was able to use
+it and link to it.
+
+
+<p> <p> <p>
+Hope you enjoy it and let me know what you think. At the moment, I've started
+working on another document titled "Free the Mouse!". It is a critique of
+current copyright law, a proposal for modification, and an explanation why
+it would benefit both consumers and content owners (large and small).
+
+
+<p> <p> <p><b>IRC Chatting</b>
+
+<p> <p> <p>
+I spend quite a lot of time recently chatting on the IRC. I use the 
+irc.kernelnewbies.org network, and usually hang on on the #offtopic channel. 
+It's a cozy little channel with a good SNR, and some very enlightened and
+interesting people. It's a way to procrastinate I suppose, but then again,
+I don't have anything critical to do until I start studying.
+
+
+<p> <p> <p>
+<a href="/person/wli/">wli</a> and I have actually fought about our keyboard preferences
+(Sun vs. PC). wli seems to be very knowledgable and interesting. It turned out
+that as opposed to me he started working on computers from UNIX workstations, 
+and later switched to Linux on PCs. I, OTOH, actually worked with DOS, Windows
+3.1, and various Win32 variants. I think that you appreciate UNIX much more
+after you work on some really sucky OSes like that. I kept knowing they were
+bad, but not knowing why, until I started working on UNIX, where I saw a 
+sensible system for the first time in my life. :-)
+
+
+<p> <p> <p><b>Life</b>
+
+<p> <p> <p>
+It's still raining on and off. Yesterday, I was able to bike twice, but today's
+its raining. I'm going to start studying a week from now on Monday. I eventually
+decided to take a semester off instead of a year off. At one point I believed
+I had enough recreation, but now it seems that I'll miss having all this 
+free time. Oh well, the Summer vacation is not far away, and there are some
+holidays and weekends as well.
+
+
+<p> <p> <p>
+I do wish to be able to hike sometime in the springtime. It's been a long time since I've been outdoors, and I miss the wildlife.
+
+<p> <p><b>CVS, Subversion, BitKeeper and the World</b>
+
+<p> <p>
+<b>raph</b>: I am glad to hear your account of CodeCon. It's interesting to learn the GIMP guys now work for Google. From my impression Kimbal and Matthias did a tremendous work on GIMP and Gtk+ and came up with a very good design and a solid codebase. Of course, they later completely disappeared from the GIMP scene, and I did not hear from them or about them since, despite the fact I've been following GIMP development quite closely.
+
+
+<p> <p>
+As for BitKeeper: according to <a href="http://better-scm.berlios.de/bk/bk_suitability.html">my analysis</a> its gratis license is not suitable for open-source projects. (I do not wish to start a flame-war here). This stems 
+from my own unhappy experience, which was partly my fault, but nonetheless, could have been prevented if an unfortunate BitKeeper license change did not take place. Naturally, the subsequent non-compete clause, has made it impossible for me to even experience with it, and I believe this is the case for most hackers out there, who do not like BK enough to allow for it interfering with their further hacktivity. Furthermore, its license
+started from an almost free software one, and was changed several times in the past, making it very restricted now. There's no way to tell how it will be restricted in the future, which will make one unable to use it.
+
+
+<p> <p>
+I cannot comment on its suitability as a commercial product much. While it is a very impressive and powerful product (and the McConnel/Joel test instructs that a software house should have the best tools money can buy), I'm not entirely sure if I like the attitude of BitMover towards free software developers to give way to its use.
+
+
+<p> <p>
+After BitKeeper I experienced with several systems and eventually found that Subversion was very cute. I think BitKeeper is more powerful, but Subversion is still very usable and reliable. I now use it instead of CVS, for most of the things I do. As for WebDAV - I actually think it's an advantage. First of all by being over HTTP, it means that those pesky HTTP-only firewalls will like it; and secondly, I can browse it using a web-browser which is convenient for finding what you want to find in the repository. (and is a ViewCVS on ice) Thirdly, you get HTTPS and encryption and authentication for free.
+
+
+<p> <p>
+And not everyone here uses Emacs, mind you. ;-) (I am a gvim and joe guy myself). Subversion should be a suitable alternative to BitKeeper (much more to CVS) once its out, and could be used by
+free software projects and software houses with a tight budget. (BK is kinda costy). Note that a non-HTTP-based transport is under development now, should you find it too slow.
+
+
+<p> <p>
+I am glad the configuration management session went very well. I just really would wish Larry McVoy was a bit less posessive of BitKeeper and more understanding that it takes more than technical superiority alone, to appeal to free software developers.
+
+2003-02-24 07:07:22

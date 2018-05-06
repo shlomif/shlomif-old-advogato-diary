@@ -1,0 +1,74 @@
+<p><b>YAPC</b>
+
+<p> <p>
+The <a href="http://www.perl.org.il/YAPC/2003/">first Israeli Yet Another Perl Conference</a> 
+took place on Sunday. I had to drive to Haifa on Saturday's afternoon. When
+I wook up on Sunday, I realized that I forgot to turn on the Alarm clock, so
+I only had time to shave before meeting Shlomo Yona. We drove to Haifa 
+University where the conference took place.
+
+
+<p> <p>
+I ate before the conference, only to find out that a lot of snacks were
+served beforehand. I gave a lightning talk about "Meta-Data Database Access",
+and other gave others ligthning talk. The lectures I attended were the 
+Lightning talks, Mark Jason Dominus' lecture about the Perl Quiz-of-the-week,
+Reuven Lerner's presentation about 5 things every Perl programmer should know,
+a talk about Designing database bound objects for web applications, "Perl 
+works for business systems", and "Rui - Remote User Interface" by Ran Eilam,
+who was my Supervisor back when I worked in Cortext. Afterwards, I attended
+the Thokbook lecture by Martha Greenberg (the only female presentor there), and
+Mark Jason Dominus' Twelve Lightning talks presentation.
+
+
+<p> <p>
+Most of the presentations were really nice and enjoyable. At the end of the day
+there was an enrollment of presents. My name came in first, and I chose a book
+about SVG Programming. Every attendee also received a standard bag with some
+papers about the conference, a note-book and a pen.
+
+
+<p> <p>
+At the end of the day, there was a talkers' dinner, and the food was good. 
+Afterwards, I returned home.
+
+
+<p> <p><b>Haifux Lecture</b>
+
+<p> <p>
+On Monday there was a Haifux lecture by Oleg Goldshmidt about "Scaling Way 
+Up". He gave a presentation about building a specialized cluster of 64K 
+dual computation nodes. The lecture was entertaining.
+
+
+<p> <p><b>Studies</b>
+
+<p> <p>
+I met with my "Intro to Software Systems" partner yesterday to sit on the
+homework. We had a productive session, but he had to go in the middle. Today's
+morning I sat on what was remaining: a binary search tree node deletion 
+function and one to search it for a node. When I ran the test program,
+I received a couple of segfaults. One was because of a bug I cannot remember,
+and the other one was because I did not set up the parent pointers of 
+some modified nodes properly in the node-delete function. Afterwards, there
+was a bug that the search-for function did not set the iterator accordingly,
+which was easily resolved.
+
+
+<p> <p>
+Today, it was scheduled to work on the Micro-computers exercise. However,
+my partner could not come because the trains are inactive (due to the strike).
+When the hour arrived I called him and found out he's still in Tel-Aviv. We
+scheduled for tomorrow when I return home. There's a new exercise about the 
+Floating-Point Unit, which we'll also have to look at.
+
+
+<p> <p><b>Hacktivity</b>
+
+<p> <p>
+Not too much, but still. I've been working on revamping the perl* man pages, 
+and sent the patches to perl5-porters. I received some commentary and then
+sent new patches, to reflect it.
+
+
+2003-05-14 14:07:17

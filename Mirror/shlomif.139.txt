@@ -1,0 +1,36 @@
+<p><b>CLAN (or more accurately LKMB) gains flesh and blood</b>
+
+<p> <p>
+I added an install directive, created a new version, and announced it on the Linux Kernel Mailing List. I received some replies. One said that it was broken, and a chat on the IRC gave me some info
+on how to fix it exactly. I also registered the namespace on CPAN.
+
+
+<p> <p>
+My sister occupied the dual-boot machine for a large part of the day (chatting with MSN messenger) so I could not continue hacking. I spent the rest of the time fixing the "-man" flag and the
+Pod::Usage stuff. Now it installs something under /usr/bin (which contains the appropriate POD) and thinking about it I realized it may eliminate the need for a ./make_pack.pl script altogether. Sometimes, the perl APIs do not give you enough flexibility, but sometimes this lack of flexibility makes sense.
+
+
+<p> <p>
+I still have plenty to do with LKMB but there's code accumulating and bugs squashed. Now it's a matter of getting the exact behaviour right.
+
+
+<p> <p>
+I got another response that said that CLAN when pronounced as "klan" instead of "see-lan", has bad cronotations in the U.S. because it is associated with the Ku-Klan-Klux. &lt;sigh /&gt; But
+there are Scottish clans and in D&amp;D dwarvish and elvish clans IIRC. Besides, I like to pronounce it as "see-lan", like CPAN or CTAN.
+
+
+<p> <p><b>Life</b>
+
+<p> <p>
+My bike's seat got separated from its pole when I drove them today, so I had to drag them home all the way back. I did walk in the early afternoon, and jogged afterwards. It was nice.
+
+
+<p> <p>
+The Israeli-PM mongers was yesterday and I gave a lecture about Web Meta Language. It went quite well, I believe, and I hope some people will utilize WML instead of hacking an ad-hoc system of their own. The lecture is for propsperity on my site, and I'm going to give it to Haifux soonish.
+
+
+<p> <p>
+I need to register to the Technion now. I think I'll take just three or four courses this semester. There's also a gig I might have in giving computer-related private lessons to people and some Haifuxers explained to me why I should not worry about red-tape. Thanks guys!
+
+
+2003-01-17 19:11:35

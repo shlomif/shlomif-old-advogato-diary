@@ -1,0 +1,115 @@
+<p>
+<b>Freecell Solver</b>
+
+
+<p> <p>
+I got an idea for a re-facoring of the Freecell Solver 
+code. It's documented in <a href="
+http://groups.yahoo.com/group/fc-solve-discuss/message/147">
+this message</a> I sent to the discussion mailing list. 
+Last time I checked there were 18 registered members 
+there. Not bad, I'd say. Of course, I still make most of 
+the posts.
+
+
+<p> <p>
+I found out that Beleaguered Castle was actually a 
+variation of Freecell without any freecells. I was able to 
+add support for it and for two related games in Freecell 
+Solver, just by adding three presets.
+
+
+<p> <p>
+Another thing I'd like to do for the next release of 
+Freecell Solver is to make the fc-solve program use the 
+freecell_solver_user library instead of calling the more 
+internal functions directly. This has several modularity 
+and usability reasons for it, but it is also a derivative 
+of the "eating your own dog food concept". If I accept 
+third parties to use freecell_solver_user, I should also 
+use it myself, so I know people have everything they can 
+posssibly need.
+
+
+<p> <p>
+<b>The IP-Noise Project</b>
+
+
+<p> <p>
+Going pretty well. I spent part of the weekend writing a 
+Perl/Gtk+ applet to load the arbitrator and display the 
+configuration file and a description of it, for the final 
+demonstration. Lavy said that the final report composes of 
+20% of the grade, and should have a similar amount of 
+investment. We have a relatively large part of it written, 
+but we need to document the code in more detail.
+
+
+<p> <p>
+I discovered that the module works well with the older 
+Linux 2.4 VM, but not with the newer VM by Andrea 
+Archanagely. I haven't tested it with kernel 2.4.14 yet, 
+so it might be fixed by now.
+
+
+<p> <p>
+<b>The Technion</b>
+
+
+<p> <p>
+The lecturers are still on strike. I met my former boss 
+from Harmonic, Moshe Nazarthi, at the Digital 
+Communications class and it turns out he is a lecturer in 
+the parallel group. I encountered him before this 
+semester, but I was not sure that was indeed him.
+
+
+<p> <p>
+<b>LaTeX</b>
+
+
+<p> <p>
+I decided to write the first Digital Communications 
+assignment in Heb-LaTeX so Yesterday and today I spent 
+quite a lot of time working on it. Even though it is 
+better than Word, it seems to take much too long to be 
+worth the effort. I can understand why people would use it 
+for articles or books, but I think homework assignments 
+can be left alone to be hand-written. But who is John Galt?
+
+
+<p> <p>
+One of the things that interrupted me was that I had to 
+lookup various commands and conventions using the LaTeX 
+reference on the web. It usually did not take too long, 
+but it accomulated to a large overhead.
+
+
+<p> <p>
+<b>Installing Linux</b>
+
+
+<p> <p>
+Yesterday's evening I installed Linux for Dudu, who is 
+Eran's friend, this morning I installed it for Eran, and 
+today I upgraded the IP-Noise computer to Mandrake 8.1. I 
+think it's the first time I performed three installations 
+in a 24-hours period, not counting insta-parties.
+
+
+<p> <p>
+Which reminds me that tomorrow there is a lecture about 
+Basic Linux Admin by Etzion.
+
+
+<p> <p>
+<b>Epilogue</b>
+
+
+<p> <p>
+I thought about hacking on Freecell Solver a little now, 
+but it's a bit late, so maybe I'll turn into bed.
+
+
+
+2001-11-11 20:36:49

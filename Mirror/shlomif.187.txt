@@ -1,0 +1,190 @@
+<p><b>Linux Day of Haifux</b>
+
+<p> <p> <p>
+There was a Linux day this Wednesday organized by Haifux at the Technion.
+It involved an installation party, several instances of the 
+<a href="http://vipe.technion.ac.il/~shlomif/lecture/W2L/Basic_Use/slides/">
+    Basic Use lecture</a>, and a presentation about Instant Messaging tools
+for Linux.
+
+
+<p> <p> <p>
+I arrived at the morning with a ride given to me by Ofer Weisglass (who also
+drove me back from the the first "Why Linux" lecture this year). On the way,
+we talked about Linux and Open Source. I arrived there at about 10:15, and
+had to go soon afterwards to a class until 12:20. Afterwards, I bought me
+something small to eat, took a book out from the Dean Library, and went back
+there. There were plenty of installers there, and most places were occupied
+by installations in progress so I did not have much to do. I was able to 
+see Orr giving the Basic Use lecture, but not much besides. I eventually
+volunteered to carry an extra screen from Alon's room to the hall
+in the Student house were the insta-party took place. The screen was quite
+heavy, and my hands have ached for a few days afterwards, but at least I
+did something useful.
+
+
+<p> <p> <p>
+Then Chinese Food was served and I ate to my stomach's content. And then
+I had a recitation to go to. After I returned, I was able to perform a few
+installations. One of them had to be carried out in a limited space, so we
+choose the minimal installation (that was still 3 GB). It was networked. Took
+about an hour net. I almost forgot to set up a swap space - I'm getting a bit
+rusty at these kind of things.
+
+
+<p> <p> <p>
+The next installation, was done on a computer without an Ethernet card and 
+so was installed from the CDs. The installation took about an hour and a half
+on a P3 733 MHz computer with a fast CD-drive. (perhaps because of a slow
+hard-disk). While the packages were installed, I talked with the lady for
+which the system was installed, and told her about Linux, Unix and their
+philosophy and gave her some basic concepts. The installation of the
+updates was pre-empted after all the packages were installed, due to
+the late hour.
+
+
+<p> <p> <p>
+In the party I met (again, I think) Etzion's Girlfriend, who designed the
+covers for the CD. I heard her say something about the GIMP, and so approached
+her asking what she meant. She said she really liked it when she used it, and
+think it has a great potential. I told her I found it easier to use than 
+Photoshop. Still, the CD covers were designed in Windows on Photoshop. (but
+I told her GIMP could run on Windows as well).
+
+
+<p> <p> <p>
+One of the installed computer came with a faulty CD-ROM drive and had
+to be rebooted a lot for the CD to boot. This was quite annoying. At the
+end of the evening, Emil (Kohn Dan) drove me home and we talked about the
+usual things (Linux, the Technion, etc.). I arrived home at about 12:30.
+
+
+<p> <p> <p>
+All in all, it was a very nice day, with the usual overwhelming feeling
+of insta-parties. There is an estimate that 40 installations were done.
+
+
+<p> <p> <p><b>Studies</b>
+
+<p> <p> <p>
+I found the High-Speed digital systems course quite hard to understand
+and counter-intuitive for me. So I switched courses to "Introduction to 
+Statistics" (of Industrial Eng.). The course seems OK so far: a lot
+of Probability theory, with exercises that are not too hard. (but require
+some research as I did not attend the previous classes)
+
+
+<p> <p> <p>
+Now, I'm studying Monday and Wednesday instead of Wednesday and Thursday.
+
+
+<p> <p> <p><b>kilmo is blogging again</b>
+
+<p> <p> <p>
+<a href="/person/kilmo/">kilmo</a> is blogging again after the long time he's been in
+South America. It's great reading his diary after all this time. kilmo,
+welcome back!
+
+
+<p> <p> <p><b>TeX Problems (and their Solutions)</b>
+
+<p> <p> <p>
+I tried to get the Hebrew fonts not to appear blurry when I convert
+them to PDF and view them using Acrobat Reader. So, I followed the
+instructions the kind people of the Haifux mailing list gave me and
+downloaded the latest IvriTeX RP. It did not work at first, and
+after I did something the Hebrew fonts did not appear at all.
+
+
+<p> <p> <p>
+Anxious to get it working (I had a homework to typeset and print), I started
+researching the source of the problem. It was a dvips problem and I played
+with the command lines it gave me until I found a command line argument to 
+gsftopk that could achieve it. But I could not tell dvips to use it. 
+Eventually, after a few failed attempts I was able to modify the file
+<tt>/usr/share/texmf/web2c/updmap.cfg</tt> and add the map of the 
+culmus fonts of ivritex there. Then it worked like a charm and my documents
+even look nicer than before.
+
+<p> <p>
+The error message I got was:
+
+<p> <pre>
+kpathsea: Running mktexpk --mfmode ljfour --bdpi 8000 --mag 1+0/8000 --dpi 
+8000 rdavid
+mktexpk: don't know how to create bitmap font for rdavid.
+dvips: Font rdavid not found, characters will be left blank.
+</pre>
+
+
+<p> <p> <p>
+After I resolved the problem, the maintainer of the package told me that
+I have to install the updmap-something package in the same directory as
+it is needed for tetex version 1, and that will resolve the problem. (after
+I resolved it manually). But it was not mentioned in the README, which also
+said I should install a separate ivritex-Fonts package, which I was looking
+for, for a long time. But everything is good now.
+
+
+<p> <p> <p>
+Next thing on my agenda: PDF table-of-contents.
+
+
+<p> <p> <p><b>Mandrake 9.2</b>
+
+<p> <p> <p>
+The Mandrake 9.2 ISO files are available to the public. I downloaded them
+yesterday, partly overnight, and today discovered that their md5sum don't 
+match, and the file size are too long by about a 100 MB. Must be a wget -c
+problem.
+
+
+<p> <p> <p>
+rsync resolved the problem, but it took quite a long time to do so.
+
+<p> <p><b>Reading</b>
+
+<p> <p>
+I read the recent interview with Linus Torvalds, which was
+quite nice and entertaining. I also read Paul Graham's 
+<a href="http://www.paulgraham.com/hp.html">Hackers and
+Painters</a> which was also nice. As for paperware, I 
+finished reading what I wanted out of "Writing Perl
+Modules for CPAN" and began reading "Extending and Embedding Perl". So far, this book has a complicated feel
+to it, as it covers the Perl 5 internal data-structures.
+
+
+<p> <p><b>Postscript</b>
+
+<p> <p>
+<a href="/person/kilmo/">kilmo</a>, thanks for the certification, and for the nice summary of the Linux Day. As for Computer Science vs. Software Engineering:
+
+
+<p> <p>
+The Technion at the moment has a "Computer Science" department, and does not have a "Software Engineering" department. So, if you want to study programming, most people enroll either to CS, or to EE. From my impression,
+few people enroll to Computer Science to study about the
+theory behind Computer Science, and that exclusively. Normally, they would want to get a diploma that would qualify them as programmers, so they can later get better
+jobs or better pays. There are exceptions, naturally, but
+they are still the exception rather than the rule.
+
+
+<p> <p>
+As for saying that CS is for Programming what Physics
+is for Civil Engineering, I'm not sure this statement
+is entirely correct. First of all, after reading "Hackers
+and Painters", I'm not sure Programmers can be labeled
+as "Software Engineers" so easily. Secondly, there is
+an entire theory of civil engineering, and many people
+research it. Ditto for Electrical Engineering. Civil Engineering uses only a small amount of the Theory of Physics, while the entire software body uses practically
+most computer science out there.
+
+
+<p> <p>
+I know Dijkstra said that "Computer Science is no more 
+about Computers than Astronomy is about Telescopes", and
+I agree that it is partially true. But I think we 
+digress. I think that my claim that most Computer Science
+students did not came to the Technion to study the CS theory can be easily confirmed.
+
+
+2003-11-15 20:36:35

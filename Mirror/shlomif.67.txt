@@ -1,0 +1,21 @@
+<p><b>LM-Solve</b>
+
+<p> <p>
+I released version 0.6.0 an hour ago or so. Not much changes since the 0.5.x tree (except for documenting the plank puzzles), but still a new major version number.
+
+<p> <p><b>WML Lecture</b>
+
+<p> <p>
+I finished most of what I wanted to demonstrate and am now looking for interesting APIs to demonstrate. So far I found the Table of Contents one and the grid one which is 
+a more convenient &lt;table&gt; abstractor.
+
+<p> <p>
+I'll probably post an announcement for it on the Haifux mailing list, and see what other things people would like me to show.
+
+<p> <p><b>"Joel on Software" Translation</b>
+
+<p> <p>
+I finished UI Design 2. A recent thread in Linux-IL asked if someone translated "The Cathedral and the Bazaar" yet to Hebrew. I might translate it next instead of one of Joel's articles.
+
+
+2002-08-15 11:54:03

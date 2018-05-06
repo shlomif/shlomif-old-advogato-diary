@@ -1,0 +1,45 @@
+
+<p><b>Studies</b>
+
+<p> <p>
+I sat on the "Financial Management" exercise this weekend, and met with
+my partner on Monday and was able to finalize it then. I also worked on the
+Micro-computers exercise. I solved Questions 1,3,4 but I don't know how to
+solve question 2. Maybe my partner will have a better luck.
+
+
+<p> <p>
+This Tuesday my partner for Software Systems and I sat on the project and
+the third home exercise. We finished an implementation for one part of the
+project, and also part of the home exercise. We should meet tomorrow as well.
+
+
+<p> <p>
+There is now a vacation that started on Tuesday and will end at the Weekend,
+due to the Israeli Independence Day and so on.
+
+
+<p> <p><b>Hebrew Glossary for Perl</b>
+
+<p> <p>
+I started writing a <a href="http://perl-begin.berlios.de/Heb-Glossary/">Hebrew
+    Glossary for Perl</a>. I wrote it in XML format and it took me some time
+to learn the Perl XML::LibXML module to get it to render it into HTML. Then,
+I also wrote a DTD for it, and prepared an XSLT stylesheet.
+
+
+<p> <p>
+When I tried to view the XML in Mozilla, I got a blank page. I spent the better
+part of yesterday trying to get it to work. The problem turned out to be
+in the "Content-Type" HTTP header that the browser sent for the .xsl file, 
+which wasn't "text/xml" as it should have been. After I fixed it using a short 
+.htaccess file, it worked perfectly. &lt;sigh /&gt;
+
+
+<p> <p>
+So I filed a <a href="http://bugzilla.mozilla.org/show_bug.cgi?id=204748">bug report for it</a> 
+in the Mozilla Bugzilla but it was closed, because that's what should happen. 
+&lt;sigh /&gt; again.
+
+
+2003-05-08 10:10:11

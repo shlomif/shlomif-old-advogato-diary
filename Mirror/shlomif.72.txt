@@ -1,0 +1,31 @@
+<p><b>Univ Project</b>
+
+<p> <p>
+Roy and I made good progress yesterday too. Today, however, Roy cannot sit with me because his co-worker has a wedding. That is after he had a funeral and an obituary, and will also have a wedding next week. Sounds like the movie "Four Weddings and a Funeral" to me. ;-)
+
+<p> <p>
+In any case, I'll probably sit on it today myself and continue the work. I hope Roy can sit on it tomorrow, but I cannot remember what he said about tomorrow. Hmppf.
+
+<p> <p><b>Freecell Solver</b>
+
+<p> <p>
+I implemented the --reset flag (which sets the API and the command line utility to its initial state) and a --read-from-file flag, which enables reading a configuration form a file. --read-from-flag works with nesting files (i.e: one --read-from-flag inside another) but at the moment has a nasty bug when the board is specified in the input file. I'll have to work on it a bit today.
+
+<p> <p><b>Haifux Meeting</b>
+
+<p> <p>
+In the meeting the Haifuxers decided on pulling a Welcome-to-Linux session not unlike a year ago, with a small variation on the first lecture, and a "zeroth" lecture dedicated to Matam students.
+
+<p> <p>
+I am personally disappointed because what I wanted was a a few lectures dedicated to demonstrating cool stuff in Linux and that's it, and I'm pretty sure we'll lose audience the decided way, too. At least the sessions would be twice a week, so we won't lose too much time for the regular club meetings.
+
+<p> <p>
+I volunteered to work on the lecture of the Basic Shell and KDE use, again. The first thing on the agenda is to add Icons and Screenshots. I hope that this time we would have the option of demonstrating it on KDE 2.x/3.x instead of on KDE 1.x as in last year, which made it quite a joke, because the two versions are so different.
+
+<p> <p><b>Translation</b>
+
+<p> <p>
+Not too much progress since I integrated the third chapter of CatB. Maybe today I'll have some time to work on it.
+
+
+2002-08-27 06:57:41

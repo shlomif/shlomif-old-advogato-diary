@@ -1,0 +1,24 @@
+<p><b>FCFS RWLock</b>
+
+<p> <p>
+I managed to get User-Mode-Linux to behave nicely with some help from <a href="/person/mulix/">mulix</a> who answered a post I made to the User-Mode-Linux mailing list. Tom's Boot-Root is very nice and boots really fast. My only problem with it is that it uses old version of libc and the ld-linux libraries, and so I had to compile them into my test program statically.
+
+
+<p> <p>
+In any case, it turns out my previous approach to making the lock FCFS was wrong. Matthew Wilcox, the current maintainer of the lock gave me instructions on how to do it. I had to fix the code a bit, but eventually it worked beautifully and it's a very small patch. 
+
+
+<p> <p>
+I set up <a href="http://vipe.technion.ac.il/~shlomif/rwlock/linux-kernel/">a page for it</a> and it seems like it is the end of this exploit. (except for trying to post it on lkml and seeing if it improves the performance of programs).
+
+
+<p> <p><b>Freecell Solver</b>
+
+<p> <p>
+I spent some time doing some work on the site. I changed the active page in the navigation bar to be bolded and not hyperlinked. I also changed the text in the main page a bit. Do you think I should keep only the most or two most recent news items on the front page? Currently it scrolls down quite a bit.
+
+<p> <p>
+I did some work on the command line chopper. Now it handles backslashes at the end of the line correctly and groks pound-sign comments. I sent it to Adrian, who replied and informed me that he is out for a family vacation, and will only take a look at it later. So I'll have to wait a little before I see if it works for him.
+
+
+2002-08-17 18:46:54

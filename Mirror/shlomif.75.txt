@@ -1,0 +1,40 @@
+<p><b>Univ Project</b>
+
+<p> <p>
+I was finally able to make sure that all the pages
+of Zavitan are validated. Then, I restricted the admin
+pages for certified users, again. (oops! forgot to put it
+on SSL-only site - I am fixing it as I speak)
+
+<p> <p><b>Registration</b>
+
+<p> <p>
+The second registration for the winter semester starts today at 17:45. A quick calculation showed that I need one extra course if I wish to graduate after the next semester, so I'll guess I'll have to add one.
+
+<p> <p>
+I could not understand how to operate the delayed registration feature, so I'll have to be present at home at that time.
+
+<p> <p><b>Freecell Solver</b>
+
+<p> <p>
+I wrote a man page for the range solver, and also made sure the man pages are rendered with the title "fc-solve"
+instead of "&lt;standard input&gt;". (which made the generation from pod a bit uglier).
+
+<p> <p>
+Automake caused me a few troubles when I tried to build the Makefile.in in a sub-directory. But now it works fine, and I don't know what I did to improve the situation. Oh well, who is John Galt?
+
+<p> <p><b>Translation</b>
+
+<p> <p>
+I finished translating the "Fetchmail Grows Up" chapter of CatB, which gives a total of five finished chapters. Someone notified me he (or she - I can't determine it by his or her name) finished translating "How Many Eyeballs Tame Complexity" but I did not receive the text yet.
+
+<p> <p><b>Life</b>
+
+<p> <p>
+Lately, with the air conditioning, I wake up at around 3-4 AM and then goes back to sleep, only to wake up at 9 AM. I really wish I could wake up earlier, so I would have time to bike in the morning.
+
+<p> <p>
+I was able to bike yesterday's afternoon. Today, I have the courses registration and my father, my sister Michal, and I are going to a movie in the evening. Thus, I'm not going to have time to bike.
+
+
+2002-09-01 10:49:30

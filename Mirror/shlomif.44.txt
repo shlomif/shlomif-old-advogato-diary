@@ -1,0 +1,49 @@
+<p><b>Freecell Solver Lecture</b>
+
+<p> <p>
+It went very well if you ask me. There were not too many
+participants. I think that all the people who were present
+were Guy, Adir, Muli (<a href="/person/mulix/">mulix</a>), Emil,
+Tzafrir, Nadav Har'El, and another one whom I know but don't
+remember his name. There was a lot of active discussion
+throughout the lecture, and several times everybody burst in
+laughter; I felt I was doing okay and keeping most people
+interested, and later on, when I asked him, Muli noted that
+he found the lecture more interesting than he expected.
+
+
+<p> <p>
+I think it went well for several reasons. First of all, I
+made sure I feel confident about giving it, and <b>know</b>
+that I'll do fine. Confidence go a long way to making the
+audience like you. Secondly, I decided not to just read the
+slides, but rather tell it in my own words, and extend some
+stuff from my own memory. I'm still not sure that I'm a good
+speaker, but those skills may probably evolve as well as
+revolve.
+
+
+<p> <p>
+There were a few suggestions that were brought up during the
+lecture, which may be a good food for thought for the
+future. One of them was another discussion of how to avoid
+solutions that are not too long, without blocking deep
+states that may prove useful in the future. They were not
+too satisfied with the optimization scan (nor am I sure it
+is an absolutely robust solution).
+
+
+<p> <p>
+Another thing that came up was Nadav's suggestion that I
+store the states like RCS does, by using deltas from the
+original one. This sounds like an interesting idea, which
+may reduce memory consumption drastically, but will make
+comparing states harder.
+
+
+<p> <p>
+<b>Note to self:</b> implement a compact allocation for the
+move stacks. (very important)
+
+
+2002-06-04 12:51:55

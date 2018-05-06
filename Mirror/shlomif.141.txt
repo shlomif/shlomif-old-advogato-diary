@@ -1,0 +1,9 @@
+<p><b>Certification</b>
+
+<p> <p> <p>
+Certified <a href="/person/ahu/">ahu</a> as Journeyer, out of his work on
+PowerDNS and his interesting homepage. Met him on the IRC today, and we talked about Thread Local Storage in gcc 3.3 and other stuff.
+
+<p> <p><b>Update:</b>: met <a href="/person/lypanov/">lypanov</a> on the IRC today. Certified him as Journeyer as well.
+
+2003-02-22 15:24:00

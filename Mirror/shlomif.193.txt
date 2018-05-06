@@ -1,0 +1,103 @@
+<p><b>Wine Lecture at Telux</b>
+
+<p> <p> <p>
+The Sunday before the last, Shachar Shemesh gave a re-run of his lecture about
+Wine to the Tel Aviv Linux Club. This time, the lecture was more polished than
+the time he gave it on Haifux. He threw a lot of funny jokes throughout the
+lecture and it was very entertaining. Shachar is a great lecturer.
+
+
+<p> <p> <p>
+Next I have a <a href="http://www.perl.org.il/20031211.html">Perl-IL 
+    meeting</a>, with presentations by three people including me. In the Haifux
+front, there was a meeting yesterday of a post-mortem to the 
+Welcome-to-Linux series. I could not attend it because of an exam I had (see 
+below). In any case, next week, Aviram Jenik will give a lecture about Spam,
+which I look forward to.
+
+
+<p> <p> <p><b>Studies</b>
+
+<p> <p> <p>
+I had to hand out three statistics homework sheets yesterday. Two exercises
+gave me some trouble. One of them was tackled, but the other - a very similar
+one yielded a solution that was similar to the correct one but not identical.
+I ended up handing it as is because I could not find what the trouble was,
+despite the long hours of staring.
+
+
+<p> <p> <p>
+Otherwise, I had an exam in Thermodynamics yesterday at 18:30. It came out
+quite convenient to me because I study that day and plus my father had a 
+conference at the Technion, so he could give me a ride there and back. I woke
+up early so I was quite sleepy throughout the day, but during the exam
+I was OK. The exam was not too hard, but I'm not sure I did all the
+exercises correctly. I'll see what my score is.
+
+
+<p> <p> <p><b>Yapcom</b>
+
+<p> <p> <p>
+I finally got Yapcom to work. As expected it turned out to be a problem in
+which the E-mail could not be sent. After that was fixed everything worked. 
+Still it is a bug.
+
+
+<p> <p> <p>
+Meanwhile, I bugged the other developers with comments about the PATH_INFO
+environment variable and other such things.
+
+
+<p> <p> <p><b>IGLU Jobs Tracker</b>
+
+<p> <p> <p>
+I implemented an ad-hoc administration screen that so far only displays
+the records with some inactive links. Now I have to restrict it to a
+a certain logon, which would take some work. Having done it, I was glad
+I used Template::Toolkit because I was able to extend the template of
+the job to display the links.
+
+
+<p> <p> <p>
+I talked with Eran on the ICQ about it and he gave some useful commentary
+which I may choose to implement.
+
+
+<p> <p> <p><b>Reading</b>
+
+<p> <p> <p>
+Read some more of "Extending and Embedding Perl". The book is not too 
+interesting so far, but I suppose it can prove useful if I need to write
+a Perl extension.
+
+
+<p> <p> <p>
+I also read another chapter of Mary Poppins. Maybe I should get myself
+to read more fiction.
+
+
+<p> <p> <p><b>Dmoz</b>
+
+<p> <p> <p>
+Another day - more pending links. Only this time, I was able to clean
+the pending links out of the User Groups category. Now, all I have to do
+is add all the remaining groups there. Guess, it's time for the editorial 
+about it.
+
+
+<p> <p> <p><b>fc-solve-discuss</b>
+
+<p> <p> <p>
+There was quite a lot of action recently in <a href="http://groups.yahoo.com/group/fc-solve-discuss/">fc-solve-discuss</a>. It started when Danny A. Jones
+posted some questions that were raised after he wrote a Breadth-First-Search
+Freecell Solver to find optimal or near-optimal solutions for Freecell. Then
+it took on a more active tangent when Eric Helser posted some question on how
+to actually write a solver, as he had problem doing so. So, the guys and I 
+helped him.
+
+
+<p> <p> <p>
+I hope this trend goes on.
+
+
+2003-12-09 08:15:12

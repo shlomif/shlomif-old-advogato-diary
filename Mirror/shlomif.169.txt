@@ -1,0 +1,73 @@
+<p><b>Haifux Meeting and Birthday Party</b>
+
+<p> <p>
+On Monday, I went to hear a Haifa Linux Club lecture about Real Time and
+Embedded in Linux given by Iftach Hyams. The lecture was very nice and
+there were many bursts of laugh throughout it. Afterwards, we went to a 
+restaurant to celebrate Haifux' 4th birthday (which was incidentally
+<a href="/person/ladypine/">ladypine</a>'s birthday as well)
+
+
+<p> <p>
+Ori Idan (who drove me back to Hertzliya the last meeting) gave Meir Maor and 
+me a ride to the restaurant. (the arrangement was that Ori had a car, Meir knew
+how to get there, and I neither). We arrived there, and I sat at one end of
+the table next to Ori and Jess. The food was good, and Jess told a lot of jokes
+throughout the dinner. 
+
+
+<p> <p>
+<a href="/person/sun/">sun</a> gave Jess, some other guy and me a ride home. The
+first part of the ride was full of jokes, but the second one held a serious
+discussion of Intellectual Property and whether "all software should be 
+free".
+
+
+<p> <p>
+I arrived at home at 1 A.M. and went to bed even later, but had a fun day.
+
+
+<p> <p><b>Warcraft III</b>
+
+<p> <p>
+I finally discovered how I can finish a level I was stuck in. My problem was 
+that the gameplay was fast, and when I switched it to slow it was doable. I
+did not finish it yet, but I'm getting there.
+
+
+<p> <p><b>Movie: Pirates of the Carribean</b>
+
+<p> <p>
+I went to see the movie "Pirates of the Carribean: Curse of the Black Pearl"
+yesterday, along with my father and my sister. The movie was very entertaining
+and Action-paced. Highly recommended.
+
+
+<p> <p><b>Hacktivity</b>
+
+<p> <p>
+I worked on integrating Freecell Solver with Python using the Python
+bindings I wrote. It was quite straightforward as a basis for it was 
+in the code and all I needed to do was adapt it to my new interface. The
+Python debugger was a lot of help in tracking some crashes. Now I have
+it working for most Freecell variants.
+
+
+<p> <p><b>Upcoming Open Source Events</b>
+
+<p> <p>
+There's an installation party and conference tomorrow at John Bryce College in 
+Tel Aviv which I'm going to attend as an installer. Afterwards, on Sunday,
+there's a lecture about Mono at the Inter-Disciplinary Center in Hertzliya. 
+If there's time, I'll also give part of my lecture about CatB.
+
+
+<p> <p><b>Reading</b>
+
+<p> <p>
+I read several chapters out of "Apache: The Definitive Guide", and
+chapter 3 of "The House of Arden". I also covered "Homesteading the Noosphere"
+in preparation of the lecture on Sunday.
+
+
+2003-08-21 09:53:02

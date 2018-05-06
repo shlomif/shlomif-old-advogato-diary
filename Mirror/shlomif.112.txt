@@ -1,0 +1,48 @@
+<p><b>Technion Network is Down</b>
+
+<p> <p>
+The Technion network is down now (albeit it was up in the earlier part of the
+day), so I can't access t2, vipe and my Com-Net workstation. I called the
+Technion Computer Center, and they said they are aware of the problem and
+are trying to fix it. Hopefully it will be up again soon.
+
+
+<p> <p>
+Meanwhile, I'm stuck without two E-mail accounts, and since I'm on Linux,
+I'll have to switch to Windows to be able to send E-mails using Eudora. Or I
+can use the rather crammy web-mail interface of my ISP. I really think 
+ssh+pine is the most convenient solution. If you are reading this, I suggest
+you to get used to using mutt in the first place. pine is not entirely 
+open-source and has a poor security record. My problem is that I'm too used
+to pine and cannot get used to mutt.
+
+
+<p> <p><b>Hacktivity</b>
+
+<p> <p>
+Wrote the "nice tries, but" document in the Better SCM site, where I tell
+why I think Meta-CVS and OpenCM are the wrong way to do things. I also added
+a page to my lecture about WebMetaLanguage, where I say why static HTML is a 
+good idea sometimes, and why you should use WML to render it. 
+
+
+<p> <p>
+On the stories front, I added quite a lot of text to "The Pope Died on Sunday"
+, managed to connect two renegade sections (and the added one) into one. Now
+that I have a lot of free time, I finally feel that the story is slowly 
+transforming from a sequence of disconnected parts into a whole.
+
+
+<p> <p>
+Finally, I discovered a minor bug in Mozilla, which I reported. It has to do
+with a:hover background colour styles where there's a transparent image 
+inside the anchor, and the background only changes for the bottom line of the
+image (where in MSIE5 it changes for the entire image). Someone noted, that
+the way it should be (only the first line should be highlighted, and I asked
+whether that was indeed the case. (after all the image is wholly contained 
+inside the anchor). Maybe the standard can be interpreted both sides on it.
+
+
+
+
+2002-11-27 18:54:58

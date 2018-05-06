@@ -1,0 +1,57 @@
+<p>
+Wow! It's been a long time since I last updated this diary - almost two weeks. OK - let's catch up with what I've been doing.
+
+
+<p> <p> <p><b>Hacktivity</b>
+
+<p> <p> <p>
+The architecture document is finalized, spell checked and available. I have some things in mind to do with it, but they are not critical. Other than that, I worked on implementing a more robust aliases to test indexes mapping for Freecell Solver, which is now present in the CVS.
+
+
+<p> <p> <p>
+I worked on some of my web-sites a bit and on the Solving lecture. I covered there all of CatB. In my homepage, I used a <tt>margin-left</tt> and <tt>margin-right</tt> styles for an image instead of <tt>padding-*</tt>. This made it look well in MSIE.
+
+
+<p> <p> <p>
+Other than that there isn't too much to show for. At the moment, I am very obsessed with solving the boards of StoneAge, an old DOS game I downloaded and play on my Win98 machine. I'm already at board No. 98 out of 100. Lately, I became obsessed with Mark Jason Dominus' 
+<a href="http://perl.plover.com/~alias/list.cgi?mss:41:200212:bmklodhglchflancfhlm">Perl 'Expert' Quiz-of-the-Week #8</a>, which is mind-boggling. I wrote a lot of Perl code to try to solve it, but all the 
+methods I tried do not yield very good results.
+
+
+<p> <p> <p><b>Lectures</b>
+
+<p> <p> <p>
+On Monday there was a presentation about High Perfomance Computing using clusters as part of the Haifa Linux Club. The lecturer was a guest lecturer from IBM and the attendance was very high, some say because the lecturer was very advertised. The lecture was very nice, entertaining and informative, but ended up a bit late.
+
+
+<p> <p> <p>
+On Thursday there was an Israeli Perl Mongers meeting where Mark Veltzer talked about Object Oriented Perl. I took the Bus there, and had a long walk to the building in Ramat Gan where it took place. The lecture was very nice, albeit it did not renew too much to me. Afterwards, Mark gave me a lift to Derekh Namir where there was a suitable bus station. On the ride he told us about his CPAN module, which he named "Meta", which contains hundreds of classes and scripts for doing all sorts of miscellaneous tasks.
+
+
+<p> <p> <p>
+I downloaded and took a look and indeed it does contain a lot of this stuff. I don't know yet if any of it can prove useful to me.
+
+
+<p> <p> <p><b>Life</b>
+
+<p> <p> <p>
+I've been biking a lot lately, which is good. I could not find a job anywhere, but I think I'll restart studying in the Technion for the spring semester anyway.
+
+
+<p> <p> <p>
+I've been helping Michal with her Math and programming homework. I admit that I could not solve some of the exercises she presented to me right away. Maybe I'm getting rusty on this material.
+
+<p> <p><b>Books</b>
+
+<p> <p>
+After a long time, I was finally able to finish Bridget Jones 2 ("Bridget Jones - The Edge of Reason"). Now I started to read Emily of New Moon by L. M. Montogemory (of Anne of Green Gables fame). At the Perl meeting, I borrowed "Programming Perl" by Larry Wall et. al. and I began reading it. It's very amusing, quite interesting and I already learned or recalled a few things I did not know by reading it.
+
+
+<p> <p>
+Other than that: I borrowed the book "The God of the Machine" by Isabel Paterson from Chen and Omer, but so far have not started to read it. 
+
+
+<p> <p><b>Update:</b> Today, I came up with a relatively efficient solution to the expert quiz of the week #8. You
+can find it <a href="http://perl.plover.com/~alias/list.cgi?1:mss:1079:200212:lcjlldjdcjbcaamckhca">here</a>.
+
+2002-12-14 06:42:30

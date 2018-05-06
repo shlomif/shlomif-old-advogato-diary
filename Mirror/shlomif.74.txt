@@ -1,0 +1,34 @@
+<p><b>Univ Project</b>
+
+<p> <p> <p>
+After I returned home, I set out to make sure the HTML, Zavitan (that's the name of the seminars management system) generates
+validates against XHTML Strict. In order to access all the pages, I had to tweak the permissions system to accept anonymous users into the admin pages. I found many deviations from the standard, and fixed them in the Perl code.
+
+<p> <p> <p>
+Yesterday, marks the first time I used the "continue" construct in Perl. I needed because I had a foreach loop and I still wanted a next call to do something at the end.
+
+<p> <p> <p>
+One problem I encountered was to align several separate forms, which according to the standard could not be nested inside a table (only inside its cells). Eventually, I did it
+with several tables and cells, each with strict width specifications. (partially thanks to what Eliran G. suggested)
+
+<p> <p> <p><b>Freecell Solver</b>
+
+<p> <p> <p>
+I did some work on the range solver. It can now resume an interrupted session, and also has a saner command line handling and is more user-friendly. Now I have to write a man page for it.
+
+<p> <p> <p><b>Biking</b>
+
+<p> <p>
+Yesterday, I rode my bicycle for the first time in a long time. It turned out the back tire was not flat, and was just missing air. I left at about 17:45 and was back by 19:00. This there were not too many people at the climb to the "Aretz" Museum gate and I was able to ride the whole thing.
+
+<p> <p>
+It feels so good to exercise again.
+
+<p> <p> <p><b>Translation</b>
+
+<p> <p>
+I was on a roll yesterday and was able to finish translating the chapter "When is a Rose not a Rose" from CatB. That makes four chapters that have been translated so far. I also translated the first two paragraphs of another chapter, but then stopped.
+
+<p> <p>
+I announced this milestone to the CatB translation effort "mailing list" I set up, and to Linux-IL and Hackers-IL. So far, it did not end up at much more material being translated, but since I have enough which I have not already allocated, I don't complain.
+2002-08-31 06:56:15

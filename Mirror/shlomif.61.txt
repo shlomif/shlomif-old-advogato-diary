@@ -1,0 +1,27 @@
+<p><b>August Penguins Event</b>
+
+<p> <p>
+The first lecture about Embedded Linux was very good
+and interesting. The second lecture about TCP spoofing
+was good, but had a boring (IMO) topic so I drifted
+away. The first lecture took a bit too long so Orna 
+told us to stay for the second one, but people voted
+with their feet. (later on I told her that cancelling recesses is usually a bad idea, and she agreed)
+
+<p> <p>
+The movie "Revolution OS" was good. I did not learn anything new, but there were a lot of funny bits, and it
+was interesting to see the faces behind the names.
+
+<p> <p><b>#!/usr/bin/perl</b>
+
+<p> <p>Spent some time preparing a decent site, and you can
+<a href="http://humanity.berlios.de/usr-bin-perl/">
+check it out</a>. I'm still not sure that I want to Slashdot it, but it seems that I'll have to.
+
+<p> <p><b>Autoconf Lecture</b>
+
+<p> <p>
+It's tomorrow so I took some time to review the slides. I also uploaded the updated ones to Vipe, and used rsync this time. I <b>love</b> rsync.
+
+
+2002-08-04 14:34:39

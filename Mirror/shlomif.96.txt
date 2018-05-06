@@ -1,0 +1,22 @@
+<p><b>Source-Control Systems</b>
+
+<p> <p>
+I was finally able to get Subversion and Arch to work properly. Subversion works nicely in Client/Server mode. Arch took quite a lot of time to commit a small change when working with a local repository. Now I should decide which one to work with (if I can get a hosting), and which one to hack on.
+
+
+<p> <p><b>Studies</b>
+
+<p> <p>
+Studies have begun on Monday. The TAs are on strike so we did not have any recitations. So far I had lectures in Set Theory, Security of Computer Systems, and Tools for Analysis of Computer Networks. Except for Security, they were mostly rehearsals of previously learned material.
+
+
+<p> <p>
+I went out and took the new year's presents and the sticker for renewing the student ID card. I was not given a sticker at first, so I had to come back. Other than that, I spent some time at late registration to courses, and removed "Structure of Digital Computers" and added the Special Project.
+
+
+<p> <p><b>The issue with Vipe</b>
+
+<p> <p>
+I got a message in my t2 inbox saying that there is going to be a limited quota for outside connections for the dormitories network betweeen 10:00 and 18:00 every day. The problem is that Vipe is found there, and on it the homepage of the Haifa Linux Club, part of my homepage, and my Vipe account. I can still access the account by sshing into t2 first in which case it has decent speed. But the Vipe WWW is not functioning well.
+
+2002-10-17 03:02:03

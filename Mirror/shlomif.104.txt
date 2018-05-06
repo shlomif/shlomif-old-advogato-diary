@@ -1,0 +1,13 @@
+<p><b>Better SCM</b>
+
+<p> <p>
+<a href="http://better-scm.berlios.de/">The Better SCM</a>
+has materialized throughout the weekend, and looks pretty nice now. I copied the same look and feel as the Freecell
+Solver site, but might play with the CSS stuff soon.
+
+
+<p> <p>
+My notice about the BitKeeper essays was rejected from Slashdot. This time I anticipated it, and was not very disappointed. Then I posted an announcement about it to the Linux Kernel mailing list, which now appears in their archives. Someone contacted me about it, but it was about my signature. Still, I hope Larry McVoy will read it and think about it a little.
+
+
+2002-11-09 19:21:38

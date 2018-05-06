@@ -1,0 +1,28 @@
+<p><b>Translating "Joel on Software" Articles</b>
+
+<p> <p>
+I received a translation of one article of Joel to Hebrew to copy edit, which I did. Encouraged by this, I set out to translate 
+<a href="http://www.joelonsoftware.com/articles/fog0000000069.html">
+Things you should never do, part I</a>, a famous (possibly in-famous) article in which he claims that it is not a good idea to completely re-write from scratch an entire codebase. I placed it on my site and posted an announcement on Hackers-IL, and received some feedback. I had problems reading some of the feedback due to Hebrew issues, but now I have at least two useful commentaries.
+
+
+<p> <p>
+I then set out to translate <a href="http://www.joelonsoftware.com/articles/FiveWorlds.html">
+Five World</a>, posted an announcement on Hackers-IL and this time was more specific with the format in which the review should be sent. I received one commentary so far, but did not look at it yet.
+
+
+<p> <p>
+I noticed that the Mozilla Composer of Mozilla 1.1 Beta for Windows was much more stable than the Mozilla 1.0.0 for Linux. Maybe they fixed some bugs in the process.
+
+
+<p> <p><b>List of Israeli Projects</b>
+
+<p> <p>
+I started composing a list of Israeli-Oriented Projects. I received some useful comments (and in the case of one distinguished member of the list whom I very much respect - flames :-(). It's in version 0.0.3 now, and I'll probably have to convert it to some database format.
+
+<p> <p>
+<b>Note:</b> Installed Mozilla 1.1 Beta for Linux now: I'll see how it is on par with the Windows version as far as editing Hebrew documents is concerned.
+
+
+
+2002-08-11 09:12:17

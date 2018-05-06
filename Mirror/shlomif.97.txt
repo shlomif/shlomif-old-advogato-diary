@@ -1,0 +1,30 @@
+<p><b>RPM Hacking</b>
+
+<p> <p>
+I spent a significant amount of time yesterday writing an RPM Spec for <a href="http://www.lcs-chemie.de/kwappen_eng.htm">KWappen</a>. The reason I did it in the first place was that it expected to find its images under /usr/share and could not handle --prefix installations.
+
+
+<p> <p>
+Writing the SPEC took a while and I even had to apply a patch against the core source. However, now I have a functional Source RPM and I have KWappen installed system-wide on my computer.
+
+
+<p> <p><b>Studies</b>
+
+<p> <p>
+The "Distributed Systems" lecture of Sunday is singularily postponed to Thursday, which is not too good for me because my studies usually end on Tuesday. That means I'll have to burn some time at the Technion.
+
+
+<p> <p><b>Haifux Lectures</b>
+
+<p> <p>
+I started writing down snippets of code to demonstrate in the lecture about Bash, which I'll probably prepare next. I decided it would be a teach by example lecture, so I need a lot of examples.
+
+
+<p> <p><b>Life</b>
+
+<p> <p>
+My sister started to study Bio-Medical Eng. in Tel-Aviv University. I helped her a bit in Linear Algebra and she requested my help in explaining her about programming in the C language, as her lecturer in this subject is very hard to understand. So I'm not going to sit idly this weekend.
+
+
+
+2002-10-18 12:10:16

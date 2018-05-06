@@ -1,0 +1,16 @@
+<p>
+Hebrew LaTeX is working thanks to the IGLU FAQ, but I have
+yet to get gvim to display Hebrew LaTeX correctly. But, 
+one cow at a time...
+
+
+<p> <p>
+I have a Qt R2L Plug-in that runs, but does very little. 
+I'll work on it some more, soon.
+
+
+<p> <p>
+I'm going out to bike soon and I'm really looking forward 
+for releasing some physical energy after this week.
+
+2001-08-16 12:10:22

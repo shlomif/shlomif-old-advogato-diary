@@ -1,0 +1,81 @@
+<p><b>Windows Bound</b>
+
+<p> <p>
+My Linux hard disk is causing more and more problems. So I found myself working
+more with Windows. I installed Cygwin on the desktop computer's Win98 system,
+but then the CPAN installation of Perl's LWP caused the computer to hang 
+(twice). So I installed it on our Windows XP system, where everything went
+flawlessly. XP has the option of hiding all the taskbar icons, but I could not
+find a way to resize the taskbar to make it two rows high. Apparently, it 
+crashes less often than Win98.
+
+
+<p> <p><b>Version Control Comparison</b>
+
+<p> <p>
+I started writing <a href="http://better-scm.berlios.de/comparison/scm-comparison.xml">a file in XML format</a> that contained a comparison of several
+version control systems: CVS, Aegis, Arch, BitKeeper and Subversion. Then I
+wrote a perl script to translate it to HTML. My main problem in working on it
+was that my laptop's mouse-pad that was in the way of my hands to the keyboard,
+caused the cursor to jump. Then, I switched to working on Linux on the desktop
+computer where it was a better environment.
+
+
+<p> <p>
+My code had some problems after I got it to run, but I solved it. I'm using
+XML::LibXML, perl's interface to libxml, which provides a great API for 
+analyzing XML documents. It's much better than the tedious work involved 
+in working with XML::Parser.
+
+
+<p> <p>
+I then set out to write <a href="http://better-scm.berlios.de/comparison/comparison.dtd">a DTD for the XML format</a> I defined. I encountered 
+two problems. The first was that I had several isomorphic tags and I had
+to write an identicla element definition for each one and enumerate them
+inside their container tag. I solved it by generating the DTD by 
+<a href="http://better-scm.berlios.de/comparison/gen-dtd.pl">another 
+    perl script</a>.
+
+
+<p> <p>
+The next problem I encountered was that I wanted the container to contain
+each at most one of each of the elements in any order. The good people at
+EF-Net's #perl channel helped me, and it turned out that it was not 
+possible. So I settled for zero or one occurences of any of the tags. (it's
+the closest thing supported by the DTD definition).
+
+
+<p> <p>
+In any case, I notified the Subversion mailing list and afterwards the Arch
+mailing list about <a href="http://better-scm.berlios.de/comparison/comparison.html">the comparison</a> and received a lot of useful input and corrections. 
+It's great to know there are so many enthusiastic people out there.
+
+
+<p> <p><b>"Objectivism and Open Source" Essay</b>
+
+<p> <p>
+Based on some input from people I sent a notification about the essay to, and
+some ideas of my own, I updated and revised <a href="http://t2.technion.ac.il/~shlomif/philosophy/obj-oss/obj-oss/book1.html">"Objectivism and Open Source"</a>.
+Thanks to everybody who contributed input!
+
+
+<p> <p><b>Biking</b>
+
+<p> <p>
+The bicycle turned out to be fine after all (after we filled a lot of air
+in the back wheel), so I went out biking the past few days. Yesterday, when
+I biked and stopped at the Yarkon Park to drink, I noticed some rabbits
+on a nearby patch of grass. There were two kids nearby who were trying to 
+chase them. I approached them and asked them if the rabbits were theirs. They
+said yes and told me they ran away and that they tried to catch them.
+
+
+<p> <p>
+I helped them in our attempts to catch the rabbits (an older, bigger one who was
+the father of the smaller one), but we were not successful. When I left, ten 
+minutes later, the rabbits were still on the loose. One anecdote was that
+the son has escaped to a closed container, so I tried to scare him away
+by throwing things at him. One date which I threw at him was eventually eaten
+by him... ;-)
+
+2003-09-08 09:42:23

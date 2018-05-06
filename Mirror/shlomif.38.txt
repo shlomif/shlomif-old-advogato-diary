@@ -1,0 +1,76 @@
+<p><b>Money Oriented Programming</b>
+
+<p> <p>
+I just had a three-way chat with two of my fellow students.
+I am a Perl proponent, one of the others think C++ is the
+best language in the world (and cannot understand why Perl
+can be a good thing), and the other works at Sun hacking on
+Java, and thinks it's much better than either C++ or Perl.
+
+
+<p> <p>
+The Java guy asked me how much new code is written in Perl.
+I told him a lot. "OK" he said, "but not one in scripts,
+scripts are just workarounds. They are not <b>real</b>
+code.". I told him scripts were perfectly good code. Then I
+told him of some applications I wrote that were written in
+Perl, like the initial version of the IP-Noise simulator, or
+lm-solve. He said, "OK, but I want code that
+<b>companies</b> write".
+
+
+<p> <p>
+I told him that he gets on my nerves and said "First you
+rule out scripts' code, now you rule out open-source code.
+Next thing you'll rule out every other Perl code on the
+planet!". Moreover, it's hard to compare the volume of codes
+in different languages. In some languages, many tasks would
+result in much shorter codebases than in others (and vice
+versa).
+
+
+<p> <p>
+I now fully realize the reason why Stephanov (the STL guy)
+called Java <a
+href="http://www.antiquark.com/escape/public_html/stepanovusa.html">money-oriented
+programming</a>. I don't have anything against making money
+or against selling products or APIs commercially. However,
+Sun seems to see Java as a hypeware whose prime purpose is
+to bring it money. I actually see Java as a clean and fun
+language, which could prove useful to many people. But it's
+not a language that gives me too many new insights. It short
+of falls between the chairs of C++ and Perl.
+
+
+<p> <p>
+Perl (and Python, Ruby, yeah, yeah) is not about getting
+money. It's about getting your job done. People utilize Perl
+and it either saves or even brings them money. However, it
+was designed as a good language which people would like to
+use, and not as a commercial hype to make money off those
+who fall for it and do not know other languages to know better.
+
+
+<p> <p>
+Software can be duplicated and distributed for virtually no
+cost. Charging money for software, or not releasing its
+source, is therefore a not a robust way of doing things. By
+robust I mean that you constantly have to make sure your
+product is a good one, and to make it better. By making it
+open-source, however, you necessarily give up hope, and so
+you give a statement of intent, that it is good in any case.
+
+
+<p> <p>
+There are some things that are good in Java. But I'm not
+sure people would have been that enthusiastic about it, had
+it been released in a quite, hype-less fashion.
+
+
+<p> <p>
+I should probably tell about the C++ vs. Perl argument
+later, but it seems that it will take me some time to
+convince him that learning Perl is worth his time.
+
+
+2002-05-16 07:12:44

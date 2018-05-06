@@ -1,0 +1,25 @@
+<p><b>Rindolf</b>
+
+<p> <p>
+Omer Zak convinced to write a detailed SPEC of Rindolf, so
+people will understand what's my general direction is. You
+can find it <a
+href="http://groups.yahoo.com/group/rindolf-discuss/files/Specs/0.2.x/rindolf-spec.html">here</a>.
+So far, it diverted a bit from my original intention as I
+decided to not make it break compatibility. What I am going
+to do, though, is deprecate a lot of stuff by let issuing
+warning s all over the place.
+
+
+<p> <p>
+I also issued an informal ad-hoc <a
+href="http://groups.yahoo.com/group/rindolf-discuss/message/61">
+Road Plan</a> to the project. It does not include
+implementing anything yet, but then again a good design is a
+pre-requisite for starting to through code all over the
+place. And naturally the behaviour of the program has to be
+designed before the actual design of the internals.
+
+
+
+2002-03-14 13:43:58

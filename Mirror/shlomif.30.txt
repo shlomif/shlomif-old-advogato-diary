@@ -1,0 +1,146 @@
+<p><b>Studies</b>
+
+<p> <p> <p>
+It's Passover vacation now, and I prepared all my homework
+before the vacation, so I was free to follow my own whims
+the last few days. (and I still have until Sunday to return
+to studying).
+
+
+<p> <p> <p>
+However, Eran and I met on Tuesday and Wednesday to prepare
+the Computer Networks Experiment of EE-Lab 3. We managed to
+finish it, but when we wanted to start working on the
+"Analog VLSI" experiment, we realized we should have bought
+its booklet in advance. Since the counter is closed during
+the vacation, we could not buy it then, so we agreed that
+I'll simply return to Tel-Aviv.
+
+
+<p> <p> <p>
+As you see below, with the Logic Mazes Solver, I found out
+that I made a good use of my time during the vacation.
+
+<p> <p> <p><b><a href="/proj/Freecell%20Solver/">Freecell
+Solver</a></b>
+
+<p> <p> <p>
+I released Freecell Solver 2.4.0, which a new stable
+release, that enables several scans to operate on the same
+states' collection. It required quite a large overhaul to
+the program's internals which was made easier by using 
+<a href="http://www.vim.org/">Vim</a>'s powerful features.
+The last time I tried doing it, I believe I used MS 
+DevStudio, and it was a much harder process that bit me in
+unexpected places. The code was also made more prepared for
+the overhaul that the last time.
+
+
+<p> <p> <p>
+Shortly afterwards, I released Freecell Solver 2.4.1, which
+fixed a bug there. I wonder if there'll ever be a time when
+I release Freecell Solver x.y.0 (where y is even) and never
+have to release Freecell Solver x.y.1, x.y.2, etc. So far,
+it has been the case only for 0.10.x and 1.2.x, and I'm not
+sure they are truly bug-free.
+
+
+<p> <p> <p><b>Logic Mazes Solver</b>
+
+<p> <p>
+I did say in the <a
+href="http://www.advogato.org/article/395.html">Rules of
+Open Source Programming</a> that the numbers of items on a
+project's to-do list always grows or remains constant.
+Similarily, it seems that the number of projects a developer
+becomes involved in, always grown or remain constant.
+
+
+<p> <p>
+My latest venture started when I remembered the 
+<a href="http://www.logicmazes.com/theseus.html">Theseus and
+the Minotaur Puzzle</a> (check No. 14) which somebody
+referenced me to. After several good tens of minutes, I was
+finally able to solve it. But then, I wondered whether a
+computer program can solve it equally as well, so I decided
+to write one.
+
+
+<p> <p>
+I decided to write it in Perl, and convert it to C only if I
+see that it is too slow. Eventually, it turned out that it
+was actually feasible to solve those kind of puzzles using
+standard Game AI techniques, and that it was very fast even
+as a Perl program. I accidently searched for Theseus and the
+Minotaur and google and stumbled upon the <a
+href="http://www.logicmazes.com/">Logic Mazes site</a> and
+found there many puzzles of a similar vein. So I decided to
+write a generic API that can solve as many of them as possible.
+
+
+<p> <p>
+What I did eventually, was adapt the Minotaur script to
+solve a different kind of Logic Maze called Alice mazes,
+then I made the alice script more modular and clean, and
+eventually created a Minotaur sub-class. Now everything is
+generic enough for solving many kinds of puzzles. 
+
+
+<p> <p>
+I eventually implemented support for Number Mazes, and also
+wrote a Breadth-First Search scan. It turns out that even
+BrFS can solve such puzzles in a good time, and I get the
+minimal solutions.
+
+
+<p> The ad-hoc site for the Logic Mazes Solver is here:
+
+<p> <a href="http://vipe.technion.ac.il/~shlomif/logic-mazes/">
+http://vipe.technion.ac.il/~shlomif/logic-mazes/
+</a>
+
+<p>  
+<p><b>Getting a Central Source Control Repository</b>
+
+<p> <p>
+Source Control is highly addictive and for a good reason,
+because it is a life saver. While I don't use CVS for
+Freecell Solver or for FCFS RWLock (the latter being a
+little inactive lately), I do use it for my homework, and
+for the Technion projects, and I'd like to use it for Logic
+Mazes Solver. At the moment, I use two local CVS
+repositories, one at home and one at my Technion
+workstation. However, I would natuarlly prefer to have a
+central Internet-wide repository.
+
+
+<p> <p>
+To make things a bit more complicated, I encountered several
+of CVS limitations so far, so I'm looking for something more
+versatile that will at least allow me file renames and
+copies, as well as better branch management. BitKeeper seems
+nice, but I noticed something about having to supply it with
+an SSH public key, which makes me wonder if I can login
+there from several accounts where I have diffferent public
+keys. I'll have to find out about it, beforehand.
+
+
+<p> <p>
+Subversion also seems nice, but I'm not sure if it has a
+repository that is available for the public to use. (and
+registering a project on BitKeeper seems quite
+straightforward). For the while, I tried to register a
+project on GNU Savannah, but as usual with this site, they
+have given me some trouble. Registering a project on BerliOS
+(and I'm almost sure that on SourceForge too) was much more
+straightforward than what I encountered with Rindolf or LMS.
+The Savannah guys' Free Software purism seems to make it
+much harder for the poor developers who just want to use
+their service. But who is John Galt?
+
+
+
+
+
+
+2002-04-04 05:06:33

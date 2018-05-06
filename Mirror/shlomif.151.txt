@@ -1,0 +1,53 @@
+<p><b>Studies</b>
+
+<p> <p>
+I handed out the "Intro to Soft. Systems" exercise, a Micro-computers exercise
+about MMX, and a Financial Management exercise. Now I am working on another
+Financial Management exercise, and will meet with my "Intro to Soft. Systems"
+partner on Monday to work on the next exercise in that subject.
+
+
+<p> <p>
+On Sunday, I'll meet Ran to work on the "Software Systems" exercise and 
+project. Last time, we ran into problems and after I talked with the T.A. it
+turned out that we did not enable the interrupts functionality in the 
+simulator. After it was enabled everything worked fine. &lt;sigh /&gt;
+
+
+<p> <p><b>Hacktivity</b>
+
+<p> <p>
+I was able to get several things done. First I created <a href="http://search.cpan.org/search?mode=all&query=bundle%20quadpres">
+    a QuadPres Bundle on CPAN</a> to install the modules it requires. It turns
+out the dependencies of the bundle, are specified in the CONTENTS POD section 
+in the module, and it took me some time to figure it out.
+
+
+<p> <p>
+I also worked on "use strict"ing the main script of 
+<a href="http://chiqchaq.sourceforge.net/">the Chiq-Chaq Wiki 
+    Implementation</a>. I finished doing this and now I'm going 
+to fix the HTML to make it validate.
+
+
+<p> <p><b>Perl</b>
+
+<p> <p>
+I discovered that the <tt>&lt;&gt;</tt> directive does not do the
+same thing as <tt>&lt;STDIN&gt;</tt>. While the second reads from standard
+input, the first one tries to open files on the command line one by one.
+
+
+<p> <p>
+There's also <a href="http://terje.perlgolf.org/wsp/pgas/score.pl?func=score&hole=38&season=1">a new Perl Golf - Boggle</a>. I'm doing pretty well at it -
+I'm in 5th place. But there's still room for improvement and I'm stumped.
+
+
+<p> <p><b>Life</b>
+
+<p> <p>
+My sister Noa has gone abroad the night before yesterday. She will be there
+for three monthes on a trip to South America.
+
+
+2003-06-06 10:02:57

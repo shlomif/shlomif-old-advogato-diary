@@ -1,0 +1,47 @@
+<p><b>Vim Macro</b>
+
+<p> <p>
+Due to the fact that I could not find any decent editor
+outside KDE that behaves just like I wanted, I decided to
+try and make
+gvim into an xmms front-end. Which naturally meant adding
+two macros (one for playing a file and the other for
+enqueuing it) into my .vimrc file.
+
+<p>
+I knew Vim macros were basically a recording of all the
+commands needed to execute them. So, after consulting the
+vim help pages a bit I came up with a <a
+href="http://groups.yahoo.com/group/hackers-il/message/1843">
+generic macro</a> that did just that. This macro had a
+problem in which it was not resistant to shell's special
+characters.
+
+
+<p> <p>
+I worked on two other revisions of the macro. In the 
+<a href="http://groups.yahoo.com/group/hackers-il/message/1909">
+third revision</a> everything was fixed except for filenames
+that contain newlines (which are pretty rare as it is).
+
+
+<p> <p>
+What I did was copy the line containing the filename into
+a register, duplicate it below, substitute all the single
+quotes with the sequence '\'', copy it into the register
+again. Then, I entered the command line :!xmms '$reg' on the 
+shell, and afterwards deleted the extra line.
+
+
+<p> <p>
+<a href="http://users.actcom.co.il/~choo/">Guy Keren</a>
+once said to me that one did not do real programming until
+he programs with Vi macros. So, perhaps this was a baby step
+in the direction of becoming a "real" programmer.
+
+
+<p> <p>
+This macro looks like line noise, doesn't it? ;-)
+
+
+2002-02-16 05:53:54

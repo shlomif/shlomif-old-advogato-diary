@@ -1,0 +1,24 @@
+<p><b>Hacktivity</b>
+
+<p> <p>
+I've been mostly obsessed with the program I wrote to solve the <a href="http://perl.plover.com/~alias/list.cgi?mss:41:200212:bmklodhglchflancfhlm">Perl 'Expert' Quiz of the Week #8</a>. Since it was finalized, I added two optimizations and tweaked it a bit. You can see the results <a href="http://perl.plover.com/~alias/list.cgi?1:mss:1094:200212:daobcajlmfliignoncoe">here</a> and <a href="http://perl.plover.com/~alias/list.cgi?1:mss:1102:200212:kgploekfjlhkgiflcjdk">here</a>.
+
+
+<p> <p>
+Since I decided to learn O'Caml now, I also converted this code to O'Caml. It took a lot of time to get it to compile and then I had a bug or two to iron. Google pointed me to an entire <a href="http://caml.inria.fr/archives/200206/msg00202.html">thread about Memoizing in Caml</a>. Now I should take a look at O'Caml object-oriented features.
+
+
+<p> <p>
+I also finished all 100 boards of StoneAge, so I'll have another thing that won't distract me anymore. Aside from that, I now finished all the chapters of "Programming Perl" up to and including the one about regexps. I did not read too much of the other books.
+
+
+<p> <p>
+I reviewed my WebMetaLanguage lecture today, and corrected some typos in one of the newer pages. I also checked out the GIMP 1.3.x from the CVS, compiled it and installed it. The fact that an older version was installed in its installation directory gave me some problems, but I after I deleted it and ran "make install" again, everything resolved itself. Hopefully, I will work on the Gradients logic a bit and get a functionality similar to my gradient-fu patch.
+
+
+<p> <p>
+Lastly and very importantly, I implmemented the "{long_test_name}" notation for Freecell Solver's test order, and refactored the tests' order parser a bit. Now I still have the hard part of implementing the generic state ordering functionality.
+
+
+
+2002-12-17 15:01:46

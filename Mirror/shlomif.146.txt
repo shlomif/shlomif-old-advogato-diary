@@ -1,0 +1,87 @@
+<p><b>Perl Beginners</b>
+
+<p> <p>
+I eventually posted a link to the essay to the 
+<a href="http://archive.develooper.com/advocacy@perl.org/">
+    perl advocacy mailing list</a>.
+There I finally received a <a href="http://archive.develooper.com/advocacy@perl.org/msg01903.html">useful discussion</a> of it. I'm not sure if I was
+able to convince anyone who was not previously convinced, but the discussion
+was to the point and of high quality.
+
+
+<p> <p>
+I also added quite a lot of new things to the 
+<a href="http://perl-begin.berlios.de/">Perl Beginners site</a>. I posted
+a link to it on a web-design mailng list I am a member of, and received
+a useful comment with a lot of suggestions for modifying the style and content.
+I applied most of them, and planning to apply another one in a different 
+variation. (dedicating parts of the site for the various common uses of Perl
+like CGI, QA, Bio-info, Sys Admin). 
+
+
+<p> <p><b>Homework</b>
+
+<p> <p>
+My Software Systems partner drove to my Tel-Aviv home to sit on the home 
+exercise. We had to write a rudimentary spell checker in VAX-11 assembler. 
+It took us all day, but OTOH we ended up talking a lot about various things,
+and also took a long lunch break, to grab a byte in the commercial center, and
+to recreate. At the end of the day, it worked and we were very happy.
+
+
+<p> <p>
+The simulator we work with is written in Turbo-Pascal with the old Borland
+style look, only a much worse behaviour and some exotic bugs and 
+misbehaviours. I was told that a pair of students was assigned to rewrite it
+for Win32 using MFC, but they are not finished yet. What I could really use
+is a UNIX-style gdb-like application, with a basic scriptability and an ability
+to automate everything. As it is, over-GUIing it really decreases from its
+functionality.
+
+
+<p> <p>
+Since the vacation involved a lot of Jewish holidays, my partner for Intro
+to Software Systems (a different course with a similar name, mind you) and I
+decided that we solve the exercise independently and then compare them. So
+in the recent days, I say on implementing the implementation of a linked list,
+as well as a stupid dating service management that uses it. The various 
+operations, all have sub-optimal complexity if you ask me, but we were not
+requested to do otherwise. "Oh ANSI C, ANSI C! If only you were Perl..."
+
+
+<p> <p>
+Now I still have the written part of it, which should not be too hard, and then
+the exercise in Financial Management. Financial Management is a relatively
+technical and dry course, but one that explains many important financial
+concepts such as interest rate, inflataion, loans, etc. and how they work
+behind the scenes. So far, I can wholeheartedly recommend it.
+
+
+<p> <p><b>Impressions from the Mozilla Culture</b>
+
+<p> <p>
+It turns out Mozilla has spawned a great deal of culture and add-ons. I 
+installed the Mozilla Google Bar, which is the Mozilla equivalent of the
+same offering from Google Inc. to MSIE. It's really nice and handy. I also
+downloaded a web-developers toolbar from somewhere, which is also very good.
+
+
+<p> <p>
+Finally, I took a look at Cascades, a CSS editor for Mozilla. As it turned out,
+the page was an old leftover and its functionality was already integrated into
+the core Mozilla. The CSS editor is handy and gives a nice dynamic 
+functionality. My only problems with it is are that it: (1) bloats the CSS 
+stylesheet, (2) does not preserve its indendation, (3) has no decent HSV colour
+picker. Still, I could rip the styles I edited and apply them manually to my 
+stylesheet, so it's better than nothing.
+
+
+<p> <p>
+I am very glad that Mozilla spawned such rich culture, and I think what I
+discovered is just the tip of the iceberg. Is there a similar case with 
+Konqueror/KHTML? Is it possible to program plug-ins and extensions for it
+in Python or in Perl or will C++ have to do? With Mozilla, many of the things
+were programmed in XUL and JavaScript, which is a much better idea as far as 
+the programmer is concerned than messing with C++.
+
+2003-04-24 19:26:09

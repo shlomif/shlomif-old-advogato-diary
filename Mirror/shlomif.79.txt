@@ -1,0 +1,16 @@
+<p><a href="http://vipe.technion.ac.il/~shlomif/philosophy/solving/">
+Solving</a> - Linux meets <a href="http://www.neo-tech.com/">Neo-Tech</a> (well at least its teaser that says enough to figure out what to do next)
+
+<p> <p>
+Let's face it, the organizational model of the Linux world (which includes the BSDs, Solaris, and many other things not entirely related to the Linux operating system), eats democracy without leaving leftovers. I'm not going to wait for something better to come along, because I'm sure Linux is fail-proof.
+
+<p> <p>
+I support Laissez-Faire Capitalism as much as the next guy (which may not be you), but without applying CatB principles and trying to work bottom-up as well as top-down, we'll only amount to whining. And if there's something good about me is that I despise solutions that are not pro-active. (no! we should not start a separate mailing list. All these messages about the foyodyodine hack of ours are on topic.)
+
+<p> <p>
+Solving is Neo-Tech Linux style. With SUGs and clubs and lectures, and material being prepared, posted, organized and sorted. Why Neo-Tech? If you can find me something that even comes close to being as perfect as Neo-Tech, I'll be in debted to you.
+
+<p> <p>
+Those that don't know Neo-Tech are bound to re-think its most elementary concepts. And while making a rational logical connection is good, borrowing it from somewhere else, where you are given so many of them for free, is a much better idea. It's less time consuming, and you can later have a better foundation for developing cutting-edge ideas. ESR said so specifically in CatB. Enough said?
+
+2002-09-13 02:52:43

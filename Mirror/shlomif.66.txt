@@ -1,0 +1,29 @@
+<p><b>Mozilla 1.1 Beta for Linux</b>
+
+<p> <p>
+It's much better than Mozilla 1.0.0 - that's for sure. At least as far as the Hebrew composer is concerned. I did discover a bug which I reported to the developers and received a lot of replies to. Whenever I type some text in underline and then end the underline and type a comma, it crashes. Still, I'm very pleased with it.
+
+<p> <p><b>FCFS R/W Lock for the Linux Kernel</b>
+
+<p> <p>
+Shhh! Don't tell anyone, but I'm working on making sure flock and fcntl are first-come first-served. With the help of the current maintainer I looked at the code, and from what I understood, the problem was not that the lock prefers readers over writers, but rather that it was last-come first-served.
+
+<p> <p>
+I.e: it uses a stack instead of a queue to keep track of the pending processes. Thus, if a reader takes hold of the queue after all the pending writers, than most probably the lock would be dominated by readers.
+
+<p> <p>
+A previous attempt at fixing it failed. And now I am trying to do it more gradually, while using User-mode-linux (of course!) and the Tom's Boot Root image.
+
+<p> <p><b>Joel on Software Translation</b>
+
+<p> <p>
+Fixed some bugs in "Five Worlds" and "Things you must never do, part I" (thanks to the time spent by the gracious Hackers-IL people to review it). Now I'm in the middle of translating "UI Design for Programmers - 2" and hopefully learned some things from the feedback I received from the two previous installments.
+
+<p> <p>
+One good thing about this translation is that I am able to replenish my Hebrew skills, which have become a bit rusty lately.
+
+
+
+
+
+2002-08-13 10:08:02

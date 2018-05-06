@@ -1,0 +1,47 @@
+<p><b>Freecell Solver</b>
+
+<p> <p> <p>
+Someone have sent me a modified code of the Simple Simon modules with many improvements. I played the solution of PySol game #1 (which was previously unsolvable) in PySol and found out the solver made an illegal move. Eventually, I discovered that I had a bug in my original code, which was fixed, but not released yet.
+
+
+<p> <p> <p>
+I decided to write a solution verifier for Simple Simon games, so it can go on testing the validity of solutions instead of me. I wrote it in Perl and placed it 
+<a href="http://cvs.berlios.de/cgi-bin/viewcvs.cgi/fc-solve/fc-solve/source/scripts/">in  the CVS</a>. It verified that all the solutions of the modified and corrected code up to PySol #500 were correct. Hallelujah!
+
+
+<p> <p> <p><b>Subversion</b>
+
+<p> <p> <p>
+I spent some time getting Bookmarks into the Subversion Book. It was pretty straightforward due to the fact that Alan Shutko gave the initial guidance. Then it took some research, browsing around and writing a small driver stylesheet that toggles a parameter on.
+
+
+<p> <p> <p>
+Here is <a href="http://subversion.tigris.org/servlets/ReadMsg?list=dev&msgId=203948">
+the patch</a>, which was not incorporated yet.
+
+<p> <p>
+As a side note I should add that I am trying to get a Subversion hosting somewhere. Nadav Har'El told me about participance in a co-oped server with a good bandwidth, where I can easily run it. Hopefully, this opportunity will materialize.
+
+
+<p> <p><b>Israeli Perlers</b>
+
+<p> <p>
+I prepared <a href="http://vipe.technion.ac.il/~shlomif/lecture/Quad-Pres/">a  presentation</a> about <a href="http://vipe.technion.ac.il/~shlomif/quadpres/">QuaD-Pres</a> for the next meeting of the Israeli Perl Mongers. I did using QuaD-Pres. QuaD-Pres stands for Quick and Dirty Presentations and it is a tool I prepared to create HTML slides for presentations.
+
+
+<p> <p>
+I was later notified by Gabor Szabo that Reuven Lerner may not be able to make it to the meeting, which means we'll have one less tool to present. Thus, he requested that I learn another tool. So I'm now studying PerlPoint, and was already able to do some customizations for it, so it will look better.
+
+
+<p> <p>
+Now that I have a usage explanation prepared for it, I think I'll put QuaD-Pres on Freshmeat. Couldn't hurt.
+
+
+<p> <p><b>Studies</b>
+
+<p> <p>
+I prepared the Thermodynamics homework and wrote them down in Hebrew LaTeX. I had problems with "Tools for Analysis" and tried to contact a friend of Eran who takes this course with me for help. It turned out that he could not help me too much. Oh well. There's some time until it should be handed out so I should probably ask the lecturer or the T.A.
+
+
+
+2002-11-02 04:46:57

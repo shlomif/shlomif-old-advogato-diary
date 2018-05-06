@@ -1,0 +1,51 @@
+<p><b>The Freecell Solver Win32 Build Script Fiasco</b>
+
+<p> <p>
+My Win32 Build Script sparked quite a fuss in 
+Hackers-IL, as people started criticizing it, saying downloading files from the Internet and then executing them was not a nice thing to do, does not check for out of disk space, not secure etc. etc. What they should realize is that it is an internally used software, and one that I do not intend to comply with any standards of robustness. 
+
+
+<p> <p>
+I had to write it that way to comply with the fact that I cannot assume that the systems I have access to carry anything useful besides cmd.exe and MSVC.
+
+
+<p> <p>
+There are other interesting bits in 
+<a href="http://groups.yahoo.com/group/hackers-il/message/2665">
+that discussion</a>, but it seems to have diverged into an NT vs. Linux war.
+
+
+<p> <p>
+Some of the commentary was useful and highlighted defincies which I was aware or partially aware of. But most of it was irrelevant (how can you assume cURL is around? - I specifically am going to download it)
+
+
+<p> <p><b>Technion Project</b>
+
+<p> <p>
+Roy and I managed to write more of the clubs management script, and we showed what we had so far to Yoram. He seemed quite happy with what we told him. It also seems we have some clear advantages over the sister project's philosophy. We also showed him a bug fix in run-time.
+
+
+<p> <p>
+To avoid the Freshmeat Effect, Roy and I decided to call the project "Zavitan" after the stream in the Golan Heights. This is in accordance with the current "Locations of Palestine" theme of Gamla/Arad. I was toying with the idea, that I would be able to revive Gamla this way.
+
+
+<p> <p>
+I discussed Joel Spolsky's Five Worlds with Roy and told him about Shrinkwrap software with Open-Source vs. Commercialware vs. Consultingware. I noted that the IP-Noise Simulator was on the virge of being consultingware due to its not so straightforward installation procedure and incompatibility with Andrea Archangeli's VM. Roy and I completely lost interest in maintaining it further, and I really hope someone would volunteer to, because it sounds like a very useful tool.
+
+
+<p> <p>
+Regarding Zavitan - I'll make sure it has a straightforward installation procedure, and be well documented with POD files. I don't want it to be become semi-consultingware.
+
+
+<p> <p>
+Roy and I decided to take a break from the Perl code and start working on the static HTML WML-based site. We did not get too far because I was tired, and eventually let Roy type on the computer. Then we started discussing the proficiency of software consultants, Microsoft's Support Strategy, MSCEs, RHCEs, and stuff like that.
+
+
+<p> <p><b>Vim Automake Problems</b>
+
+<p> <p>
+I emailed the maintainer of the automake indent mode. He E-mailed me back saying it was nice of me to notice. Then I was CCed on a discussion between him and Bram Moolenaar. It was not the first time I received an E-mail from Bram. I'm glad to know Vim has such user-friendly developers.
+
+
+
+2002-07-30 06:46:19

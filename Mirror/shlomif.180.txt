@@ -1,0 +1,133 @@
+<p><b>Hacktivity</b>
+
+<p> <p> <p>
+I wrote some patches to the perlop and perlsyn Perl Man Pages, which I
+sumbitted to perl5-porters and there Michael Schwern and others have revised
+them. The two patches were applied to the bleadperl version. 
+
+
+<p> <p> <p>
+I also copy-editted the translation of <a href="http://www.lita.org/Content/NavigationMenu/LITA/LITA_Publications4/ITAL__Information_Technology_and_Libraries/2101_Bretthauer.htm">Open Source Software - A History</a> that was done by 
+Oren Maurer. Finally, I made some modifications to the Haifa Linux Club 
+"Welcome to Linux" lectures that I'm responsible for. There may have been some 
+other things, but I don't quite recall them.
+
+
+<p> <p> <p><b>Subversion Woos</b>
+
+<p> <p> <p>
+I upgraded the Subversion at the stalker host, without first dumping the 
+repository. That has put me into trouble, as nothing I tried to resotore 
+the old homepage repository (which was changed since the last backup) 
+worked. Eventually, I settled on using the few-days-old backup, checking
+out a working copy, and syncing the new working copy in, using a Perl script
+I wrote for the job. Now everything is up again.
+
+
+<p> <p> <p>
+Next time, I'll know to be more careful.
+
+
+<p> <p> <p><b>New Cellphone</b>
+
+<p> <p> <p>
+My father decided that the entire family will switch their cellphones to
+Orange (GSM cellphones) to enjoy their intra-family calls discount. So,
+I now have a new cellphone. I still have to get used to it, and so far using
+it is a bit annoying.
+
+
+<p> <p> <p>
+One thing I noticed was that I could not enter Hebrew contact names longer
+than 5 or so characters. After calling the support, it turned out that we
+could only have it longer if the interface (and the names) were in English.
+So much for human engineering.
+
+
+<p> <p> <p><b>Orange Site</b>
+
+<p> <p> <p>
+I had wanted to view the new cell-phone in the catalog so I tried to
+use the <a href="http://www.orange.co.il/">Orange site</a>. With Konqueror
+it was dead on arrival, so I tried Mozilla. This worked better, but when
+I accessed the catalog page, I could not see anything displayed there.
+
+
+<p> <p> <p>
+I wrote an E-mail to the webmaster telling them that Mozilla was not supported.
+In reply, I got a message saying that the site is guaranteed to work only
+with Microsoft Internet Explorer 5.5 and above. I asked them if they plan
+to support Mozilla any time soon, and got a reply that they don't for reasons
+I found very interesting. Here's my reply:
+
+
+<p> <p> <pre>
+&gt; Dear Mr. Fish,
+&gt; I thank you again for your mail.
+&gt;
+&gt; I regret being so blunt but, no, we are not going to change our website in
+&gt; the near future. We have developed an amazing website,
+
+<p> <p> "amazing"? By this do you mean full of non-portable bells and whistles,
+and other idiosyncracies? Sorry, but that's not an amazing web-site
+according to my book.
+
+<p> <p> A good web-site is either simple and clean, or includes
+standard-compliant, portable embelishments. (which are usually not
+necessary).
+
+<p> <p> Usability, low bandwidth, etc. is much more important than "amazingness"
+and I bet it's not very usable in MSIE either.
+
+<p> <p> &gt; that costs us a
+&gt; lot of money to develop and maintain,
+
+<p> <p> Why does it? Why should it? I maintain a few web-sites in my free time and
+I'm not getting paid to do so. If you keep your web-site clean and simple,
+it will cost less money to maintain and will also attract more visitors.
+
+<p> <p> &gt; and it is currently built exactly
+&gt; according to our business needs.
+
+<p> <p> I seriously doubt it is built according to anyone's business needs. Why do
+you need JavaScript to display the catalog of images? Why not simply
+include them in the HTML? If you look at popular international sites,
+you'll see that most of them are built with simple and clean HTML
+(sometimes without any trace of JavaScript).
+
+<p> <p> &gt; I can also say that although
+&gt; technologically it might be possible to develop a version for Mozilla or
+&gt; other browsers,
+
+<p> <p> 1. It is possible.
+
+<p> <p> 2. I'm not talking about a separate version for other browsers. I'm
+talking about one version
+&gt; orange, and many other content providers, are investing
+&gt; in the most common browser, it is currently not cost efficient to
+&gt; develop versions for other browsers.
+&gt;
+
+<p> It is cost efficient if you hire clueful developers. Look at my site:
+
+<p> http://t2.technion.ac.il/~shlomif/
+
+<p> (which links to other sites I made).
+
+<p> They all look perfectly fine in all modern browsers, including lynx (a
+minimalistic text browser). Why? Because I know what I'm doing and I know
+how to write good HTML.
+
+<p> First you tell me your site costs a lot of money to maintain, and then you
+tell me it is not cost efficient to support other browsers. Now, let me
+tell you this: if you keep your site clean and standards compliant, you
+can have it support all browsers and it will cost you much less money to
+maintain.
+
+<p> Regards,
+
+<p> 	Shlomi Fish
+
+<p> </pre>
+
+2003-10-10 18:33:46

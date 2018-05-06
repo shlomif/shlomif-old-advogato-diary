@@ -1,0 +1,23 @@
+<p><b>Haifux Meeting</b>
+
+<p> <p>
+In the Haifux meeting, <a href="/person/Muli/">Muli</a> gave an entertaining lecture about Networking. He really is a great lecturer. After the lecture I talked with a fellow that installed Debian on his computer. I said that starting using Linux with Debian is like learning to swim by jumping into the middle of the Pacific Ocean. I tried to explain to him that RedHat and Mandrake were just as free as Debian is.
+
+
+<p> <">
+Then it turned out he started using Linux out of free software ideals. But then it turned out he thought you could not sell free software. When I told him one could sell gcc for a million dollars and it's perfectly OK (it's on the GNU site), he was amazed. I explained to him a bit more.
+
+
+<p> <">
+It turns out his Internet connection is very slow, and it took him a lot of time to download KDE 3.0.x which did not ship with Woody. I naturally said that Mandrake 9.0 already shipped with KDE 3.0.4 and they make a release much more often, and that they have similar tools to Debian. But he wants to stick to Debian for the while.
+
+
+<p> <">
+Another thing I discovered from Muli is that various files are placed in different places on Debian than with RedHat or Mandrake. I wonder when the Debian people will fix it (or vice versa - ?). All in all it seems that Debian is not for me. Gentoo sounds intriguing, but I am afraid of the long compilation times.
+
+
+<p> <">
+Muli's sister asked what parameters (Parametrim in Hebrew) are. I asked her for her age and it turned out she was 12 years old, and she's quite tall. Wow! My sisters are much older than that (20 and 22 I believe). In any case, she later on asked me how old she looked like and I was speechless (I cannot really answer a question like that). Then Muli told her big girls don't ask people such questions. :-)
+
+
+2002-11-14 03:42:24

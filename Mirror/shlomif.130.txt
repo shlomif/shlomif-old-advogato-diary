@@ -1,0 +1,39 @@
+<p><b>Advogato</b>
+
+<p> <p> <p>
+It seems the CSS styles of Advogato mis-behaves with the MSIE 6.0 (6.0.2600.000) that I'm using now. Is it an Internet Explorer bug or is the stylesheet wrong?
+
+
+<p> <p> <p>
+The problem is that the font size of links is reduced considerably when pressed upon. Can anybody of the Advogato webmaster look into it?
+
+
+<p> <p> <p><b>The Women in Linux Howto</b>
+
+<p> <p> <p>
+The women in Linux HOWTO has one main deficiency: it expects men to alter their behaviour so they will not completely repel Women who desire to become Linux hackers. It even makes a bolder claim: a LUG with otherwise liberal and enlightened members should not even have a minority of sexist men or such that externalize some chauvinism. Achieving a 100%-chauvinism free environment is not something that can be honestly accepted to be accomplished, since those few chauvinists or people who seem chauvinist may otherwise be competent hackers and/or people who are in fact fully liberal at hearts.
+
+
+<p> <p> <p>
+Same thing for men trying to hit on women they encounter in LUG meetings, etc. A LUG can try to supply a woman-friendly environment (top-down). In the last Insta-party I wanted to get a medium-sized shirt for my sister and was told there are only shirts sized large and above. There was a hidden assumption that women are not going to attend it.
+
+
+<p> <p> <p>
+Now, there many areas in the past that were dominated by men and women were banned from participating even legally. At the time of Shakespeare (not to mention Greek times), women roles were played by men. Women were not allowed to be Phisicians and Scientists up to the 19th and 20th century. However, a few brave women (and men who supported them), slowly became proficient in these fields, and made it perfectly OK for women to be successful actresses, novelists, doctors or scientists.
+
+
+<p> <p> <p>
+No such restriction exist in the Linux world today. While the computer world is dominated by men, there is nothing that prohibits women from becoming competent IT workers. I had the fortune of knowing and working with some very competent female engineers. I have met only one who I am confident in labelling as a hacker (and someone else who I'm not so sure), but I don't hold lack of enthusiasm against them. There are plenty of male IT specialiasits out there who do not like computers either, and that's OK.
+
+
+<p> <p> <p>
+If Women feel that the Linux world is dominated by men far too much, they should be willing to take some abuse, be eager to learn new things, being made pass on often, and put up with whatever chavunist behaviour their male peers may exhibit. Once a substantial percentage of the hackers in a LUG is female, you can expect the behaviour of the abusive members to be frowned upon by collective rejection. Until then, you'll have to cope with some abuse.
+
+
+<p> <p> <p>
+I'd like to thank Chen Shapira (a woman) whom I talked to about that FAQ, and enforced this conclusion that contradicts my initial reaction to it.
+
+<p> <p>
+<b>Recent Note:</b> changed "take abuse" to "cope with  some abuse". Long live the small difference...
+
+2003-01-04 20:16:36

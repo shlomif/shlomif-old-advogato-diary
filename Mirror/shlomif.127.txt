@@ -1,0 +1,54 @@
+<p><b>Hacktivity</b>
+
+<p> <p>
+Freecell Solver-wise, I <a href="http://groups.yahoo.com/group/fc-solve-discuss/message/450">busted the warnings</a>
+I encountered in the KDE compilation inside the CVS development version. Then
+I worked a bit on <a href="http://groups.yahoo.com/group/fc-solve-discuss/message/451">Kpat 
+    Integration</a>, and made sure the solver instances are recycled.
+
+
+<p> <p>
+I also worked on the Syscalltrack home-site. I sent a message to a web-design
+mailing list I am a member of to find out if the various versions of Microsoft
+Internet Explorer, view it with the proper top vertical alignment. I already
+received several inputs that they did, so I assumed the report I got was 
+singular.
+
+
+<p> <p>
+After that, I got a green light to merge my CVS branch into the HEAD, but was
+told to watch for a change that <a href="/person/mulix/">mulix</a> did to the HEAD involving
+the logo. I applied his change, and then used the <tt>cvs update -j</tt> command
+to integrate my changes. There were some conflicts there, which I resolved 
+manually. And then I re-built and uploaded the site.
+
+
+<p> <p><b>Reading</b> 
+
+<p> <p>
+In "Programming Perl" I finished the chapter about Security, and am now
+in the middle of the chapter about idiomatic programming, which is very 
+interesting.
+
+
+<p> <p><b>Life</b>
+
+<p> <p>
+There were more trouble with the bicycle. As much as I tried to pump air
+into them I could not, and I tried two different pumps with both wheels.
+When my dad returned home, he again was able to pump air there, and said the
+trick was screwing them till the end, and pumping very hard and till the end.
+
+
+<p> <p>
+I did manage to walk at quarter to four. In any case, since I jogged the day 
+before yesterday, then yesterday my feet muscles became sore, and they might be sore today as well.
+
+
+<p> <p>
+It rained tonight, and the weather forecast said there are going to be local
+rains today. I don't know if it would be a good idea to go biking today.
+
+
+
+2002-12-31 05:47:16

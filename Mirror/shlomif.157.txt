@@ -1,0 +1,71 @@
+<p><b>Subversion</b>
+
+<p> <p>
+The day before yesterday I wrestled with two Subversion problems. The first
+one was that whenever I tried to check a file out of an https:// mounted
+directory, I got a strange OpenSSL-error report. An old version of Subversion
+worked perfectly fine. It turned out to be a problem that the WebDAV library
+was not compiled against the most recent version of OpenSSL. A re-compilation
+of the WebDAV library solved the problem.
+
+
+<p> <p>
+The problem I encountered afterwards was that Subversion kept rejecting my
+repository's certificate. In order to solve it I had to add a pointer to the 
+server's .pem file to the Subversion configuration file. I mistakengly used 
+the wrong configuration file, but eventaully Ben Collins-Sussman corrected
+me on the IRC. Then I discovered my certificate got expired, so I created
+a new one that will be good for the next 30 years, and re-tried.
+
+
+<p> <p>
+This whole business took a few good hours, but now everything is working
+and I'm happy.
+
+
+<p> <p><b>The IGLU Server</b>
+
+<p> <p>
+What kept me busy yesterday was an entirely different problem. It turned out
+that the <a href="http://www.iglu.org.il/">Israeli Group of Linux Users</a>'s
+web-server version of <a href="http://www.squishdot.org/">Squishdot</a> had
+a cross-server scripting problem. Upgrading it requires a lot of manual steps,
+and we got sick of Zope anyhow. So I had to install a new content management 
+system. I first tried phpBB, but could not get it to look more or less like the
+original Slashdot-like way. So I switched to PostNuke, and managed to configure
+most of it yesterday and today.
+
+
+<p> <p><b>Studies</b>
+
+<p> <p>
+I finished the last "Intro to Software Systems" exercise today (yay!). I'm 
+enjoying the vacation before the next test.
+
+
+<p> <p><b>Biking</b>
+
+<p> <p>
+I kept thinking my bike had a flat wheel. Yesterday, I went to take them to the
+bike fixer and it turned out there was still a lot of air in the wheels. So,
+I tried to fill the rest of it. However, in the front wheel, the filling caused
+all the air to come out. Aaarrggh!
+
+
+<p> <p><b>Failed Linux Install</b>
+
+<p> <p>
+The one who contacted me about Knoppix, called again, and he gave me a life
+to his apartment. I brought my Knoppix CD and the Mandrake CDs with me. It 
+turned out his computer was constructed out of "components he found in the
+garbage". Thus, we could not get either Knoppix or the Mandrake installation
+CD to load, no matter what we tried. 
+
+
+<p> <p>
+I invited him home to see my Linux system in action. When he left he was quite
+impressed from it. I'm still disappointed that we could not get Linux to 
+install there.
+
+
+2003-07-02 18:45:43

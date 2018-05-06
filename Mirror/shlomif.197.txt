@@ -1,0 +1,247 @@
+<p><b>Life after Gradient-Fu</b>
+
+<p> <p> <p>
+Now that I finished the gradient-fu patch, I don't know what to do with 
+myself. Well, let's not exagerate: I have plenty of things to do, but
+still need to get on the hacktivity schwong.
+
+
+<p> <p> <p>
+I have some pending Perl-related tasks to do. For once, I want to find a 
+good Perl module that will enable me to maintain all the navigation menus
+I created in my sites. I found two of them on CPAN - one of them is not
+maintained and its author did not respond to me; for the other one I got
+a response from its author with a CGI script he wrote for me that
+demonstrates one of the menus in question. However, the CGI script uses a 
+CGI parameter to distinguish between the pages, and is not spread across
+two servers as is the case with what I need. Thus, it, and perhaps the module
+as well, may justify some more work.
+
+
+<p> <p> <p>
+Now, after I received this, I also received an answer from an Israeli 
+correspondant, who tweaked his code to do what I need. I suppose I have to
+check it as well. In any case, this probably can wait for later on, because
+my ad-hoc code for navigation bar is still functional and extensible. (even
+though it sucks)
+
+
+<p> <p> <p>
+Next is the work on WWW::Form, which I have still to hear from its author 
+after the last E-mail I sent him a couple of days ago. (I'm beginning to 
+think, I should just fork it off for the time being, and continue to work
+on it on my own).
+
+
+<p> <p> <p>
+And finally there's Quad-Pres. Here it's quite pressing, because I need some
+new features for the Template Toolkit presentation I'm going to give on YAPC.
+Maybe I should just throw the glove, and prepare it using Open Office.
+
+
+<p> <p> <p>
+Next, there are some lectures I want to prepare: the TT one naturally, and 
+"Freecell Solver: The Next Presentation", and the "Web Publishing with LAMP" 
+(Linux, Apache, MySQL and Perl/PHP/Python) one.
+
+
+<p> <p> <p>
+Then there's Doclanx. I have great plans for taking the Perl man pages, and
+revamping the hell out of them, but haven't really started to do so, yet. I 
+suppose it can wait as well.
+
+
+<p> <p> <p>
+Finally, there are some political/philosophical essays I'd like to write. I'll
+probably go with the one about drug legalization first.
+
+
+<p> <p> <p>
+So I have plenty of things to do, and not enough time to do them. At least
+that would mean I'm going find time to do some of them. If it weren't for all
+these E-mails I keep wanting to send...
+
+
+<p> <p> <p><b>Advogato Diary Interest Ratings</b>
+
+<p> <p> <p>
+I'm not entirely sure the Diary Interest Ratings are a good idea. For a very
+simple reason: people don't rate other people diaries! I don't think I ever
+rated the diaries of fellow Advogatoers. Some of the blogs, I read because
+I personally know these people and I'd like to keep up-to-date with their
+whereabouts and thoughts. (so I don't rate because I cannot objectively 
+testify for their interest, as they are surely interesting <b>to me</b>). 
+The others I read on occasion, when I go over the recent entries list, when
+I post one. I usually don't recognize all the nicknames, so I can't tell if
+their diaries are intersting or not. (and I don't consider myself a blog 
+lurker, so there you go). 
+
+
+<p> <p> <p>
+Even the blog I write is mostly for myself and my friends, and only secondly
+for other people to read. (albeit I did receive some interesting comments in
+response to things I wrote here from people I did not know).
+
+<p> <p><b>Reading</b>
+
+<p> <p>
+I started reading the "Perl &amp; XML" book that I borrowed from the Perl Mongers Libary. It's a very good read, funny and interesting. And naturally, I learn some
+new things. So far, I highly recommend it to any Perl programmer. (but can only give a final verdict when I finish it) As for "Extending and Embedding Perl", I finally arrived at the chapter covering the Perl Internals, after skipping some less interesting material. I don't read it at bedtime, because I feel that I'm too
+tired to concentrate on this highly complicated topic, so 
+I'm not making too much progress.
+
+
+<p> <p>
+I don't know which reading book I'll pick up now. I can continue reading "Ender's Game", I suppose. Meanwhile, my sisters have given away one of the copies of "Harry Potter 5" and lent another, so I'm stuck without any copy to read. :-)
+
+
+<p> <p>
+I also just read the article <a href="http://www.paulgraham.com/hundred.html">The Hundred-Year Language</a> in which Paul Graham speculates about which language we will use a hundred years from now. It's a good read, as most of the other things by Graham are. However, I disagree with him on some points.
+
+
+<p> <p>
+Especially annoying is his claim that languages will introduce various paradigms as others that can map to it but are less efficient. He even goes as far as saying that numbers can be represented as lists whose length is the length of the number. I personally would hate to see that happen. Order of complexity un-optimizations like that can
+make your program completely unscalable with anything beyond a very limited input. (many times even if you have a very capable hardware to run it on). As such they should not be introduced into the core language if you can help it.
+
+
+<p> <p>
+At the moment, I can write programs in Perl, and they would finish almost instantenously. This probably could not have been the case on a 386 computer. (which is still more than capable of running Perl). Still, if the Perl interpreter had implemented numbers as lists, it would not have run efficiently, even on today's hardware.
+
+
+<p> <p>
+Another thing, that I found intriguing was his claim that in Arc he was able to write recursive functions on strings
+implemented as linked list that were better than many regular expressions. I actually did it when I converted Quad-Pres to Haskell (just for the experience). And it came out hideous. An experienced Haskell programmer who inspected the code, told me I should have used a regular expressions library and said he could not make heads nor tails of the code. Oh well, who is John Galt?
+
+
+<p> <p>
+One thing I did not like about it is that he said there that it's not true that those who can't do - teach. I personally have always felt this way, and now I know of someone else who supports me.
+
+
+<p> <p><b>Hacktivity</b>
+
+<p> <p>
+Well, bits of pieces of many things that do not amount to too much. One thing big I did was <a href="http://perl.org.il/kwiki/index.cgi?BookReviewTheArtOfUnixProgrammingByShlomif">write a review of TAOUP</a>. (you can also refer to the <a href="http://vipe.technion.ac.il/~shlomif/freecell-solver/docs/Freecell-Solver-TAOUP.txt">letter I sent to Raymond</a> about the Review and some things he may find interesting in Freecell Solver&lt;/a&gt;). This review
+became the latest one in the "Good" reviews in the book's site which are not the same as the raves. Apparently, raves are such that claim the book is perfect (or at least almost so), while good are those that are somewhat critical of it. I don't know which one ESR considers better. ;-)
+
+
+<p> <p>
+I also added various bits and pieces for my homepage and related sites. I don't recall all of them.
+
+
+<p> <p> <p><b>Politics #1: Normalizing Thorahic Education vs. Antiochus' Decrees</b>
+
+<p> <p> <p>
+Recently a suggestion was put forth to make sure the pupils who receive 
+Thorahic education (among the Orthodox Jews in Israel), also receive general
+studies like the more secular Jews do. So one MP said it was unacceptable and
+in the wonderful spirit of Hanukkah compared it to Antiochus' Decrees during 
+the time of the Macabees.
+
+
+<p> <p> <p>
+The problem here is that the Thorahic education are financed by the Government
+out of Tax Payer's money. If this was not the case and these Religious 
+Jews were self-staining, I wouldn't have cared less if they received general
+education or not, but this is far from being the case. As the financers of 
+this education, we have a right to pose conditions for them, and if they don't
+like it they can stop receiving funds and try to finance it on their own. If
+you ask me, an even better idea would be to stop financing education at all,
+and simply lower the taxation considerably. It is getting more and more 
+sub-standard anyhow, and privatized education is usually the only good 
+long-term way to handle state-wide education.
+
+
+<p> <p> <p><b>Politics #2: A solution to the Palestinian Problem</b>
+
+<p> <p> <p>
+And on a more serious note: I'd like to bring forth here, something I thought
+about (and conveyed to an American correspondant of mine) as a solution to the
+Palestinian problem. So far, the general belief among the Israelis is that
+the Palestinians are primarily responsible for the situation. Likewise, the
+general belief among Palestinians is that the Israelis are responsible.
+So we have a deadlock.
+
+
+<p> <p> <p>
+Here I propose a way for the Israeli leaders to solve the problem once and 
+for all for the mutual happiness of both sides. Furthermore, this way is 
+very easy and simple. Here goes:
+
+
+<p> <p> <ol>
+    <li>
+    <p>
+    Give Israeli Soldiers a choice of whether they wish to protect the 
+    Israeli Settlements inside the West Bank or not. Soldiers may choose
+    to stop protecting the settlements at any time, and will be relocated
+    to inner-Israeli squads.
+    
+    <p>
+    Forcing someone to protect someone else is <b>wrong</b>, as any mandatory
+    draft is in essence.
+    
+    
+    <li>
+    The settlements can either remain using only their self-protection, or its 
+    settlers can choose to relocate to Israel, where they will be given an 
+    alternate home.
+    
+    <li>
+    Israel will stop giving food relief to the occupied territories. If this
+    implies that a Palestinian State must be established, so be it. (I don't
+    care if there's a Palestinian State or just a very hostile governing body)
+    
+</ol>
+
+<p> <p> <p><a href="http://www.tikkun.org/community/geneva/index.cfm">The 
+    Geneva Accord</a> has three serious flaws:
+
+
+<p> <p> <ol>
+    <li>
+    It advocates disarming the terror organizations. I don't see how it can
+    be done efficiently and the right to bear arms also come to mind. I would
+    adovcate the opposite: give arms to each and every palestinian. That way,
+    they will be less afraid of the terror organizations, who in turn would
+    be much more afraid of them. (you could allow all Israelis to carry
+    arms as well, for good measure.)
+    
+    <li>
+    <p>
+    It adovcates forcibly evacuating the Israeli settlements. By all means
+    the Israeli Settlers have a <b>right to live there</b> as every lawful
+    person has a right to live anywhere. The entire concept of immigration
+    regulation and "fathers' land" is wrong.
+    
+    <p>
+    What is wrong is forcing other people to protect them living there. (as 
+    force is always wrong) This distinction must be understood and followed.
+    
+    
+    <li>
+    Last, but probably most important is that it requires the mutual 
+    cooperation of both sides. One cannot expect the other side to follow
+    his part of the deal, while my suggestion does not require the 
+    cooperation of the Palestinians.
+    
+</ol>
+
+<p> <p> <p>
+If all of this seems to be absurd to you, just remember that I'm just
+an everyday 
+<a href="http://www.catb.org/~esr/faqs/libertarianism.html">libertarian</a>. 
+(well <a href="http://www.neo-tech.com/">Neo-Tech</a> Objectivist to be 
+exact, but the political agenda is the same). As such I am doing my best
+to be loyal to Justice, Freedom, Individual Rights and lack of Government 
+Control. This suggestion is perfectly in accordance to it.
+
+
+<p> <p> <p>
+I'm not trying to classify myself as the (Nationalistic/Religious) Israeli
+Right-wings, or the (Pragmatic and Regulation-enacting) Israeli Left. Instead,
+I'm trying to be Just, Noble and Free. It's a bit hard in Israel, where most
+people do not know what Objectivism or Libertarianism are, or sometimes 
+even that this political option exists. But I'm handling it, as this is 
+what my ideals dictate.
+
+2003-12-26 17:49:30

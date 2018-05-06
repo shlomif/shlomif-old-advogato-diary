@@ -1,0 +1,60 @@
+
+<p><b>Hacktivity</b>
+
+<p> <p>
+This and that. I've organized my <a href="http://t2.technion.ac.il/~shlomif/svn-patches/">Subversion patches directory</a> to
+exclude patches that were already applied. That way, the other maintainers
+can best know what needs to be applied. I've been looking for other Subversion
+issues to work on, and found some candidates, but so far did not find the
+time to work on it.
+
+
+<p> <p>
+I also made progress in translating "Homesteading the Noosphere". A couple
+of people contacted me with corrections to it, and I'm grateful for them. 
+Then, I made the data for my version of the Haifux lectures manager 
+up-to-date with recent lectures.
+
+
+<p> <p>
+Finally I edited the <a href="http://www.wikipedia.org/wiki/FreeCell">Wikipedia
+   entry of Freecell</a> to make it less lame and more accurate than it was. I
+   actually woke up in the morning thinking about Wikipedia and whether it 
+   mentions Freecell, checked it a bit afterwards, and in the evening changed
+   it. ;-)
+
+
+<p> <p><b>Reading</b>
+
+<p> <p>
+I read part of the book about Statistical Physics and Thermodynamics I have 
+(I'm studying Thermo next semester). I also read the first two chapters
+of "The House of Arden", after being reluctant to read it for a while.
+
+
+<p> <p><b>Free Software "Monopolies"</b>
+
+<p> <p>
+<a href="/person/jlouis/">jlouis</a>, I don't really see free software "monopolies" as
+a bad thing. It takes a lot of time and effort to create quality software,
+and so it make sense one or a few packages will rise above the rest, and
+concentrate most of the effort around them. If we take gcc, for example, 
+then everybody use it because it's a great and trustworthy compiler.
+
+
+<p> <p>
+I don't see much point in switching to using anything else, just to make
+an anti-monopolistic point. If gcc works, I am sticking with it. If something
+better ever comes along, I might switch, but there isn't anything better
+now. If you ask me, you'd better hack on gcc and make it an even better
+compiler than it is now, then try to make a half-decent competition.
+
+
+<p> <p><b>Certification</b>
+
+<p> <p>
+Certified <a href="/person/jlouis/">jlouis</a> as Apprentice because of the above and
+other stuff I found on his homepage.
+
+
+2003-08-14 06:06:25

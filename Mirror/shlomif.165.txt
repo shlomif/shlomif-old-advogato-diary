@@ -1,0 +1,42 @@
+
+        <p><b>Hacktivity</b>
+
+<p>         <p>
+        I finished preparing <a href="http://vipe.technion.ac.il/~shlomif/lecture/LM-Solve/slides/">a lecture about LM-Solve</a>. 
+        Then I worked on Subversion, and formed <a href="http://www.contactor.se/~dast/svn/archive-2003-08/0309.shtml">an updated patch to Issue #1297</a>.
+        This took a really long time (almost an entire day), but I'm really
+        happy that it's complete now. The fix had a small bug-let which was easy
+        to fix by adding a few lines.
+        
+
+<p>         <p><b>Reading</b>
+
+<p>         <p>
+        I sort of finished reading "Games, Diversions and Perl Culture", and
+        reached to the middle of "The Art of Unix Programming"'s chapter about
+        Mini-languages. TAOUP is a very interesting and entertaining book as is
+        the usual tradition with <a href="/person/esr/">esr</a>'s writings.
+        
+
+<p>         <p><b>Perl Meetings</b>
+
+<p>         <p>
+        Gabor Szabo, who is the Israeli Perl Mongers leader is abroad, and as
+        it turned out Shlomo Yona, who was appointed to organize the meeting
+        instead is busy moving to a new apartment. Thus, <a href="http://perl.org.il/pipermail/perl/2003-August/002765.html">I took the lead</a> 
+        and decided on how to resolve the date, place, etc. issues for the next
+        meeting. 
+        
+
+<p>         <p><b>Translucent Cursor</b>
+
+<p>         <p>
+        I wanted a Knoppix-like translucent cursor for my X-Windows. So,
+        I asked around the IRC. Someone told me a similar effect exists in
+        the cursor_themes package found in the Mandrake Cooker. Looking there,
+        I found it. The cursor is darker than the Knoppix one, but still is
+        nice in a way. The package has other interesting themes, which I may
+        try out.
+        
+
+2003-08-07 08:39:08

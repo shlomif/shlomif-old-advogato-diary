@@ -1,0 +1,30 @@
+<p><b>Releases</b>
+
+<p> <p>
+I released "I, Bex!" version 0.1.5. It is a StoneAge clone for Perl/SDL. If you don't know StoneAge from the old DOS days, you should definitely try it out. What I need now is more boards, so feel free to contribute. I think I'll put it as a Haifux project, to lure honest Haifa Linux Clubbers into giving me a hand.
+
+<p> <p>
+I also released Freecell Solver version 2.8.0. It contains some usability features, including presets which make its command lines much more brief.
+
+<p> <p>
+<b>Rindolf</b>
+
+<p> <p>
+My feature was rejected from perl.com by its editor. I'd rather not mention his reasons here. Back to 
+<a href="http://use.perl.org/">use Perl;</a>, I guess. One good thing that came out of fighting with him is my decision to join perl5-porters and try to get the Rindolf features into Perl 5, somehow. 
+
+<p> <p>
+I just hope perl5-porters is not as bad as perl6-lang...
+
+<p> <p>
+<b>Source Control Irony</b>
+
+<p> <p>
+I noticed I use CVS for the important stuff (Freecell Solver, IP-Noise, Seminars Manager), and BitKeeper -&gt; Aegis for the toy stuff (I-Bex, and LM-Solve). Maybe it's
+because I wanted to give BitKeeper a try in LM-Solve, and was anxious to get something online with Freecell Solver.
+
+<p> <p>
+I am still trying to find a hosting for something better than CVS (except for bkbits.net, of course), but so far no luck. Maybe, I'll have to ask the IGLU people if I can host it on iglu.org.il...
+
+
+2002-09-29 07:34:01

@@ -1,0 +1,27 @@
+<p><b>Open-Source Projects</b>
+
+<p> <p>
+I released Freecell Solver 2.6.0. I already heard from Adrian about his attempt to integrate it into Freecell Pro. I sent a patch to the developer of valgrind to fix the RPM Spec generation and it was integrated into the package in its latest release.
+
+
+<p> <p>
+I have several open tasks for my pet projects. One of them
+is to add support for plank puzzles to LM-Solve; the other is to thread-enable Freecell Solver. I think I'll take a break and work on the books, the lectures and the university project a bit before I proceed with them.
+
+
+<p> <p><b>Studies</b>
+
+<p> <p>
+I'm at home, and at rest. I am taking some time to go over the material of "Computer Graphics". I got 86 as a final grade for "Design and Analysis of Algorithms". Finally, I started working on the project and wrote a layout class, and several scripts that display the basic read-only site functionality. It took me some time to get mod_perl to behave the way I expect it to, and then some more to verify that the URLs are correct. But I'm making some progress.
+
+
+<p> <p><b>Freecell Solver Book</b>
+
+<p> <p>
+I finished the chapter about the architecture of FCS 0.2 and I'm now in the middle of the next chpater which covers the evolution of the states collection. With some help from the docbook-apps mailing list I was able to fix the table which was too wide (turned out I did correctly specify the number of columns). 
+
+
+<p> <p>
+If I can say one thing about Jade, then it would be that it is very slow. Luckily, the XSL stylesheets work so much faster for the HTML rendering and I don't have to convert it to PDF too often.
+
+2002-07-16 14:30:14

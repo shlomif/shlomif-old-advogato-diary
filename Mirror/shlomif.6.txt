@@ -1,0 +1,31 @@
+<p>
+The 
+<a href="http://comnet.technion.ac.il/~cn1w02/">
+IP-Noise project
+</a>
+ is progressing nicely. Roy and I finished writing the 
+parser and began writing the translator and the 
+arbitrator. But there is still a lot of work ahead of us, 
+so I decided to dedicate next weekend for working on it 
+together.
+
+
+<p> <p>
+I released Freecell Solver 1.8.0 yesterday. It took a lot 
+of trial and error to tweak GNU Autotools to do the right 
+thing. But, now hopefully everything is auto-confisicated.
+
+
+<p> <p>
+I reached a relatively dead end for the R2L KDE Applet. 
+The only responce I received in my post to the kde-devel 
+mailing list was not very helpful. Maybe, I'll respond to 
+it, and wait for an answer and see if it helps.
+
+
+<p> <p>
+I'd like to start preparing for the "Image Processing and 
+Analysis" exam today, so I don't know how much time I can 
+dedicate for hacking.
+
+2001-09-01 04:39:31

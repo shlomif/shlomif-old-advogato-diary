@@ -1,0 +1,26 @@
+<p><b>BitKeeper</b>
+
+<p> <p>
+Larry McVoy scares me. Seriously. Usually I don't have anything against using non-free software. I use pine, I use Windows, I use other things. It's OK. But Larry McVoy
+more and more becomes a Linux-oriented Microsoft-replacement. A fully proprietary tool that can only be used to maintain free software. That's the joke of the month!
+
+<p> <p>
+Let's face it: if you want to appeal to free software developers - you <b>must</b> release your software as free software or at least something very close. Many open-source fanatics I know use pine. Many of them use Solaris, or Windows, or whatever, even regularily. But BitKeeper is two-faced in a way that is never going to work. If I were a kernel developer, I would invest some time working on Aegis or Arch or whatever, to bring it up to par with BitKeeper. A stitch in time saves nine. If I were someone who could use a better tool and had some money to afford to hire good developers on it, I would have also do just that.
+
+<p> <p>
+I'm quite reluctant to suggest people to open-source their software. For instance, I don't think Joel Spolsky should open-source FogBugz or CityDesk. But this time, I don't think Larry McVoy has anything to lose. Maybe he will sell less licenses if BitKeeper was GPLed. I'm not entirely sure that will be true, but maybe. But even if it was close to open-source but not quite (and open-sourced a few versions back) it wouldn't be bad. 
+
+<p> <p>
+McVoy recently told bitkeeper-users why he hid the source. He was afraid of those hackers who downloaded the source, modified it and used it without the openlogging feature. Seriously, could he expect to get any money from them in the first place? Customers who pay usually respect the license, even if the source code is revealed.
+
+<p> <p>
+I think I'm going to pull LM-Solve and I-Bex out of BitKeeper. I'll get a CVS repository at BerliOS and try to convince them to install something more decent and free as in speech. I enjoyed using BitKeeper and bkbits while it was lasted, but I don't want to face the implications of the totally free regime it dictates. This is one of the reasons I did not like GNU Savannah. (for the record, I remember how I argued with them about if I can put E-mails people sent me with suggestions in the CVS without asking for them for permission to liberate their contents)
+
+<p> <p>
+I vividly remember Larry McVoy's description of all those dead or semi-dead SourceForge projects. Indeed, most projects in SourceForge are in this state. In BerliOS, too probably. However, Freecell Solver is alive and kicking. And it's Public Domain, not just GPL. (The reason I chose the Public Domain was the lack of paranoia. So people cannot possibly violate the license. So, I won't sleep badly at night thinking how people can violate the license, and please don't start to lecture me about how the GPL/LGPL protects developers) I am always excited by new things that I can add to it, and by new ways I can improve it. But the last thing I need is to start adapting it to the whims of trigger-happy fanatics who think with their lawyers instead of their reason. I have enough from Microsoft to worry about.
+
+<p> <p>
+If I can get a remote, backupable hosting service (the Technion with its insane firewall is no option) with anything better than CVS, I'm sure I can get used to it, sooner or later. I can still work with the CVS, despite knowing that BitKeeper is so much superior.
+
+
+2002-09-09 10:18:21

@@ -1,0 +1,11 @@
+<p><b>Printing in Linux</b>
+
+<p> <p>
+I finally got printing to work on my home Linux system. (Hallelujah). The thing is that I dual boot into Linux and Win98, and I believe that the Windows driver put the printer into a state that Linux cannot handle. I did not know what to do until a Google search I made yesterday for "epson linux" (it is an Epson Stylus Color 740), revealed a program titled escputil that controls the Epson printer.
+
+
+<p> <p>
+It is installed on my Mandrake system and after I used it to clean the head - printing worked fine. Of course, IMO, paper is a deprecated form of communication but the Technion does not seem to agree with me as it requires me to print my works.
+
+
+2002-11-03 04:49:57

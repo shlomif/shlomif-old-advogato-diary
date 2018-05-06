@@ -1,0 +1,45 @@
+<p><b>BitKeeper</b>
+
+<p> <p> <p>
+IBM has recently bought Rational, the producers of Rational ClearCase, which
+is an SCM system competing with BitKeeper. Does it mean all IBM employees 
+(including many Linux kernel hackers) are forbidden from using BitKeeper? ;-)
+
+
+<p> <p> <p>
+I suppose only Larry McVoy can tell. I talked about it on the IRC with
+some people and they said IBM is so large, that it can hardly be considered
+as one entity. Still, I'm not sure it is a separate entity as far as 
+copyright law is concerned.
+
+
+<p> <p> <p><b>Hacktivity</b>
+
+<p> <p> <p>
+Various bits and pieces. I worked a bit on <a href="http://perl-begin.berlios.de/">perl-begin</a>, compiling it again after
+the move to the new computer. Then, I added some links to web-forums 
+there. I also worked a bit on the Haskell for Perl Programmers lecture, 
+adding stuff on arrays. 
+
+
+<p> <p> <p>
+I worked on the Homesteading the Noosphere translation. I finished the chapter
+"Ownership Rights and Reputation Incentives", replaced my own translation 
+with a corrected first chapter I received from someone else, and also went
+over the existing translation and corrected various stuff.
+
+
+<p> <p> <p>
+I also modified my homepage to include <a href="http://t2.technion.ac.il/~shlomif/open-source/interviews/">the interviews section</a>, and placed Adrian 
+Ettlinger's interview online. You probably know of it from the front-page 
+article.
+
+
+<p> <p> <p><b>Haifux Lecture</b>
+
+<p> <p> <p>
+Been to the latest Haifux lecture on Monday. <a href="http://www.cs.technion.ac.il/~artstein/">Ron Artstein</a> talked about <a href="http://www.haifux.org/lectures/81/">Multi-lingual Typesetting</a>. It was basically a coverage of the
+constraints that written languages imply on getting them typesetted. It was
+loads of fun and amusing.
+
+2003-10-01 18:47:53

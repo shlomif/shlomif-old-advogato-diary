@@ -1,0 +1,34 @@
+<p><b>Hacktivity</b>
+
+<p> <p>
+The newer method using SGID for directories, and a 02775 mode worked 
+beautifully so I switched Quad-Pres to using. Afterwards, I spent most of
+the day cleaning up Quad-Pres and adding some new functionality. I still
+did not got to implementing the global installation of the executable, Perl 
+code, and the common base WML template yet, but it was still a lot of 
+important work.
+
+
+<p> <p>
+<a href="/person/ladypine/">ladypine</a> applied most of my changes to syscalltrack's 
+home-site. I wrote <a href="http://sourceforge.net/mailarchive/forum.php?thread_id=1445409&forum_id=714">a message to its mailing list</a> 
+with some other observations. I'll have to see what the other web-masters 
+think about them.
+
+
+<p> <p>
+At the evening, I added the ability to generate a raw list of the future 
+lectures to the lectures manager. This required cleaning up the code a 
+little, but I intended to do it anyway.
+
+
+<p> <p><b>Life</b>
+
+<p> <p>
+The sun came out at the late morning, so I went out for a walk (taking an 
+advice from my mother). Michal was busy all day preparing a Linear Algebra
+assignment she got from school, and I helped her out a little.
+
+
+
+2002-12-21 20:15:43

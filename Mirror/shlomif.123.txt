@@ -1,0 +1,39 @@
+<p><b>Hacktivity</b>
+
+<p> <p>
+Gabor contacted me yesterday about the File::FTS module. He said he assigned me as co-author and that I should upload a new version or reindex it. So I uploaded a new version (0.03) with some corrections. I see that it is not registered in CPAN in the main space.
+
+
+<p> <p>
+The rest of the time I spent working on Quad-Pres: just more autoconfisication and automakization. It takes a lot of effort to get to a stage where a make dist and tar -xzvf and ./configure; make ; make install is fully working after every change I make.
+
+
+<p> <p>
+Then I went to Haifa to hear Gilad's lecture.
+
+
+<p> <p><b>Haifux Lecture</b>
+
+<p> <p>
+I travelled to Haifa by train and it took me quite a lot of time to get there. But when I got there, I still had a few hours left. I bought a fried chicken sandwich to eat, and then went to the Com-Net farm. I read some comics and tried to learn some more O'Caml, but faced the problem of the heating making the temperature there too hot. But then it was time to go to the lecture.
+
+
+<p> <p>
+I met Muli's outside the hall, and we chatted a bit. He told me about the slab allocators in the Linux kernel. Then I went to hear the lecture. There were two surprises involved. One was that Gilad decided to give a lecture about dynamic linking instead of embedded Linux, and the other was that the lecture was given in English because there was someone in the audience who did not know Hebrew well.
+
+
+<p> <p>
+In any case, the lecture was quite nice. I learned that the dynamic linker was fully implemented in userland and used a shared mmap call to make sure all libraries reside in the same physical memory space.
+
+
+<p> <p>
+Since the lecture was finished at 19:40, I decided to travel back that day without staying to sleep in Haifa. So I took a cab to Hadar, and there a cab to Tel-Aviv, and was home at about 21:40.
+
+ 
+<p><b>Reading</b>
+
+<p> <p>
+I finished the Camel Book chapter about Tying variables. This morning I also read through the chapter about Unicode which is quite short.
+
+
+2002-12-24 08:58:33

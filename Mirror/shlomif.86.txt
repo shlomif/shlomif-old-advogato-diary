@@ -1,0 +1,21 @@
+<p><b>Women and Linux</b>
+
+<p> <p>
+There's a <a href="http://www.nmt.edu/~val/howto.html">
+new FAQ about Women and Linux</a>. I'll read it when I have the time and nerve. Still, Alex Shnitman and I had a discussion about Women interest in computers and programming a few years back.
+
+<p> <p>
+Since then, I met only one woman (Chen Shapira) who I know for certain enjoys programming and discussing computer science. All the other seem to be OK as far as programming is concerned, but only do that because it brings food on their table.
+
+<p> <p>
+My sister Noa, OTOH, seems to be quite an accomplished hackeress on her own, having co-won the "Fire Fighting Robot Competition" for her school's team. She wants to study "Computer Engineering" in the Technion, and decided to start study C++ on her own. I bought her "A Book on C" which was recommended by a Technion Professor, but she decided to go with "C++ in 24 hours" which my dad bought instead. Some of the questions she asked me, should have been answered by the book if you ask me, which makes me question the quality of the book.
+
+<p> <p><b>Freecell Solver</b>
+
+<p> <p>
+There's a spiffy command line parsing class that I'd like to write for Freecell Solver, but I think I'll release Freecell Solver 2.8.0 beforehand. There's no point in delaying it further.
+
+<p> <p>
+Plus, somehow the idea surfaced up of me doing a special
+Technion project on Freecell Solver. I think its feature-set will not insult any normal game AI project. I can do some extra work on it, like integrating the patsolve logic, and writing an architecture document and easily get more credit. Time to E-mail Orr Dunkelman, Tzafrir, and Emil if they can recommend some Technion professors who are interested in AI.
+2002-09-23 13:08:45

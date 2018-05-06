@@ -1,0 +1,47 @@
+<p><b>Dmoz</b>
+
+<p> <p>
+Cleanup is complete! The "CM :: Tools" category now has 4 pending links and
+they are all inside the CVS sub-category which I cannot edit. Now I can
+focus on other things, and just login into dmoz occasionally to see if
+new links were submitted.
+
+
+<p> <p><b>Hacktivity</b>
+
+<p> <p>
+Yesterday I worked a little on Quad-Pres (turned exceptions into classes
+and wrote a TODO list). I also worked on getting a Freecell Solver command
+line preset into kpat and wrote two scripts to do that in the process. Then
+I discovered an incompatibility of the command line interface: it changed
+a <tt>char *</tt> argument, which I passed from a global constant. I changed its
+code in the KDE CVS and now it is working. In any case, I think it is
+a good idea I change the relevant places to <tt>const char *</tt>.
+
+
+<p> <p><b>Reading</b>
+
+<p> <p>
+Since I last updated you, I read several Camel Book chapters. I'm now in the
+middle of Security. Besides that I also started reading the 
+<a href="http://www.namesys.com/whitepaper.html">Namesys Future Vision</a> 
+paper which I've been referred to by several people. I admit that I did not
+fully understand it. And now I also read the latest Linux Weekly News edition,
+and several documents that were referred there.
+
+
+<p> <p><b>Life</b>
+
+<p> <p>
+My bike broke when I drove it on Saturday. Apparently, the chair fell down and
+blocked the handle that enables to lower and upper it. When my father came
+home yesterday's evening he was finally able to fix it, and brought the chair
+to its right height. Now I can ride it again.
+
+
+<p> <p>
+He did notice that I was out of air. The problem is that I don't think
+the current air pump I use is very good, and I have troubles using it.
+
+
+2002-12-30 07:05:14

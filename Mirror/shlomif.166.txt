@@ -1,0 +1,58 @@
+<p><b>Subversion</b>
+
+<p> <p> <p> <p>
+It turned out my updated patch was not <a href="http://www.contactor.se/~dast/svn/archive-2003-08/0403.shtml">acting according to the Subversion conventions</a>. 
+What I did wrong was not create temporary files, and not use the run log 
+mechanism to perform the operations that could be performed with it. So,
+I sat on it on Friday, and wrote an <a href="http://www.contactor.se/~dast/svn/archive-2003-08/0420.shtml">updated patch (revision 5)</a>. This <a
+    href="http://www.contactor.se/~dast/svn/archive-2003-08/0471.shtml">was 
+    applied</a>, and so I'm happy.
+
+
+<p> <p> <p> <p>
+Today I took some time to prune my patches archive from patches that were
+already applied.
+
+
+<p> <p> <p> <p><b>Haifa Apartment</b>
+
+<p> <p> <p> <p>
+I met with the Apartment owners and one of my apartment-mates on Friday
+to settle the payments for the apartment. There was a bit of a fuss between
+my dad and the owner, about a payment for replacing a lock that was done
+a year earlier. But other than that it went fine.
+
+
+<p> <p> <p> <p>
+On the way back, I ate lunch at the MacDonald in the Yoqne'am Mall.
+
+
+<p> <p> <p> <p><b>Other Hacktivity</b>
+
+<p> <p> <p> <p>
+I worked and reviewed the lectures I wrote a bit. I've started adding missing
+slides to the Gimp lecture I prepared, and hopefully, I'll put the full
+lecture online soon. I also started working on translating <a href="http://www.catb.org/~esr/writings/cathedral-bazaar/homesteading/">Homesteading the Noosphere</a> by <a href="/person/esr/">esr</a> into Hebrew. If you don't know what it is, it's the second chapter in the Cathedral and the Bazaar series, that analyzes the customs of the hacker culture.
+
+
+<p> <p> <p>
+The <a href="http://t2.technion.ac.il/~shlomif/homesteading/">Hebrew Translation</a> is progressing quite nicely. (seemingly better than I remembered from "the Cathedral and the Bazaar"). Other than that, it seems
+that I'm not entirely happy with <a href="http://www.isoc.org.il/fr_reload.html?magazine/magazine3_8.10">the current translation of the Cathedral and the Bazaar to Hebrew</a>, so I'll probably resume working on it sometime. This time, however, I can start from the existing text, and revise it.
+
+
+<p> <p> <p> <p><b>Hard-Disk Problems Revisited</b>
+
+<p> <p> <p> <p>
+A few days ago, I got the same faulty noises when booting the hard disk. A
+reboot did not help, but after I started Knoppix and mounted it, everything was
+fine. Today, the same noises also happened, but this time the system could 
+load. Hmmm... I think I'll try to buy a new hard disk as soon as I can.
+
+<p> <p><b>Certification</b>
+
+<p> <p>
+Certified <a href="/person/ask/">ask</a> to Master for his work on maintaining
+the Perl online infra-structure. I did not realize he had an Advogato profile until now. Also certified <a href="/person/pudge/">pudge</a> as a Journeyer for his work on Slash and maintaining use.perl.org. Finally, certified <a href="/person/Simon/">Simon</a> (Cozens) to Journeyer for his contributions to Perl, and writing "Beginning Perl". Maybe I'll certify them to Master someday, but I need to be more familiar with their work.
+
+
+2003-08-10 09:24:30

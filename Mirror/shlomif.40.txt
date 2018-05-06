@@ -1,0 +1,57 @@
+<p><b>Sys-Call-Track</b>
+
+<p> <p>
+<a href="/person/mulix/">mulix</a> said that in his diary, but I might
+as well too. I hacked on the perl script that generated some
+code their, and cleaned it up a bit. Most of what I did had
+to do with making the code more perl5-ish instead of the
+perl4-like mess it used to be.
+
+
+<p> <p>
+I talked with Guy Keren, the other prominent developer of
+Sys-Call-Track and he said that what he also would like to
+see is the entire philosophy of the script re-factored. But
+hopefully, I can do that by doing several incremental
+changes, rather than one complete re-write.
+
+
+<p> <p><b>Freecell Solver Lecture</b>
+
+<p> <p>
+I started translating the points I wrote to HTML slides. I
+finished quite a lot of them, but it will take me some time
+until everything can be placed on-line.
+
+
+<p> <p><b>Studies</b>
+
+<p> <p>
+I have a precept on Thursday for "Algo Design", due to the
+fact that my T.A. has been drafted into the Army with a
+Turtle-8, and the replacement T.A. does not have the same hours.
+
+
+<p> <p>
+Furthermore, I have to sit with my Computer Graphics and
+"Algorithms" partners, before the weekend.
+
+
+<p> <p><b>Learning C/C++</b>
+
+<p> <p>
+My sister, Noa, called me and requested that I buy for her a
+book on learning C and C++. Today, I bought the book "A Book
+on C", which I can still recall from "Intro to CS".
+Hopefully, it would be suitable for her.
+
+
+<p> <p>
+Her original idea was that I should buy her a book in
+Hebrew, but I told her they are probably sub-standard. Going
+to <a
+href="http://www.cs.technion.ac.il/users/yechiel/">Prof.
+Kimchi's site</a> strengthened this, and I saw there that he
+recommends "A Book on C".
+
+2002-05-22 07:07:59

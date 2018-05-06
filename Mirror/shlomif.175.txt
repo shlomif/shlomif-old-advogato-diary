@@ -1,0 +1,48 @@
+<p><b>Computer Woos (2)</b>
+
+<p> <p> <p> <p>
+It turns out the Windows hard drive got damaged as well, along with all the
+data that was present there. Now, we have to find if the new Linux hard-disk
+is OK, because it was present in the computer as well when the accident
+happened. It's not too critical because I only used it for a day and I
+have everything that was placed on it (except for a few IRC logs) backed up.
+
+
+<p> <p> <p> <p><b>Hacktivity</b>
+
+<p> <p> <p> <p>
+With my limited resources, there's not too much I can do. However, I did
+work on the version control systems comparison, and today was able to 
+translate one chapter out of "Homesteading the Noosphere".
+
+
+<p> <p> <p> <p><b>Upcoming Linux Events</b>
+
+<p> <p> <p> <p>
+There was a Haifux meeting today in which Shimon Panfil gave a lecture
+about Tcl/Tk. I wanted to come, but Ori Idan, who was supposed to give me
+rides there, could not go eventually, and I preferred not to telecomute
+by public transportation.
+
+
+<p> <p> <p> <p> 
+Tomorrow there's a Linux meeting at a cafe in "Yehuda Halevi" St. in
+Tel-Aviv, and I intend to come. Next, I give 
+<a href="http://vipe.technion.ac.il/~shlomif/lecture/Gimp/">a lecture 
+about the Gimp</a> for the Tel-Aviv Linux Club on Sunday. And a week and a 
+day from then, Aviram Jenik will give a lecture about Spam to Haifux.
+
+
+<p> <p> <p> <p><b>Reading</b>
+
+<p> <p> <p> <p>
+I made some progress in "Programming Web Services with Perl". And I also
+listened to <a href="http://catb.org/~esr/writings/cathedral-bazaar/linux1.d50.ra">the stand-up version of the Cathedral and the Bazaar</a>. The latter
+is very amusing.
+
+<p> <p> <p><b>Certification</b>
+
+<p> <p> <p>
+I looked for an Advogato Subversion project and found it: <a href="/proj/Subversion/">Subversion</a>. So I designated myself a contributor to it. Then, I noticed Ben Collins-Sussman was
+a member of it, so I certified him as Journeyer. That's it!
+2003-09-15 17:40:35

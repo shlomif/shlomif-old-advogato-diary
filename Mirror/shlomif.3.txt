@@ -1,0 +1,36 @@
+<p>
+Yesterday I went to watch "Bridget Jones's Diary" 
+in 
+the theatre and also stayed up late and watched "Lethal 
+Weapon 4". Both were pretty good movies.
+
+
+<p> <p> <p>
+Otherwise than that, I'm making progress in several of my 
+Open-Source/Open-Content projects. The R2L KDE Applet now 
+looks much better (but Guy Keren still has some demands 
+about it); I finished writing the part about references to 
+functions and closures in the 
+<a 
+href="http://vipe.technion.ac.il/~shlomif/lecture/Perl/Newbies/lecture3/"
+>third perl lecture</a>; and I was able to fix most of the
+bugs in my LaTeX document thanks to help from the 
+subscribers of the Haifux' mailing-list.
+
+
+<p> <p> <p>
+Orr Dunkelman has not yet updated the Haifux' site to show 
+my re-run of the 
+<a 
+href="http://vipe.technion.ac.il/~shlomif/lecture/Lambda-Calculus/">
+Scheme and Lambda-Calculus</a> lecture. Oh well - he's in 
+the U.S.A now AFA he told us.
+
+
+<p> <p> <p>
+I will be going to the Technion today, and I should 
+remember to borrows the book "Computation Structures" from 
+the library and write a SPEC of the MAYBE. It's one of the 
+proposals I have for a Haifux' Project.
+ 
+2001-08-19 06:23:21

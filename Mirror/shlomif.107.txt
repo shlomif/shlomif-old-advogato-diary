@@ -1,0 +1,41 @@
+<p><b>Freecell Solver</b>
+
+<p> <p> <p>
+Michael Mann (the guy who contributed to Freecell Solver lately) <a href="http://groups.yahoo.com/group/fc-solve-discuss/message/431">wrote a message</a> describing what he did. He apparently saw that I wished to convert FCS to Java and converted it to C++ instead, using Doxygen to document it. I thanked him, placed his code online and the Doxygen web.
+
+
+<p> <p> <p>
+The reason I wanted to convert it to Java was so it can run as an applet. But Michael did not know Java too well, so he used C++ instead. He started at Freecell Solver 1.4.x and consistently applied my changes up to 2.2.x. Impressive work, but I don't really need a C++ version. At least the Doxygen stuff can prove of use.
+
+
+<p> <p> <p>
+I started writing the summary of the architecture document. I'm not going to delve into every function but would rather cover the main catches found in the code, that makes it "funky". I.e: uses advanced tricks, and hard
+to understand. It's in text for the time being, but I'll convert it to DocBook for good measure.
+
+
+<p> <p> <p><b>HTML Tutoring</b>
+
+<p> <p> <p>
+I taught Noa (my younger sister) HTML today. I covered the basic tags, the well-formedness of an HTML document, and even some CSS. She designed a nice page with all kinds of funny stuff in it. At dinner, we discussed a gallery of images and using an image as a link to another image. It took me some time to understand and she then said I should show it to her in practice.
+
+
+<p> <p> <p>
+I told her the usual stuff about accessibility to people with disabilities and being friendly to people who have a low bandwidth. (which still consist of the majority of users out there, IINM). I think she agreed with me and won't make her site a JavaScript/Images/Java/Dynamic HTML/Flash nightmare.
+
+
+<p> <p> <p>
+I told her using Perl or WebMetaLanguage or something similar, she can easily generate HTML without all of its 
+verbosity and duplicacy. She was intrigued, but naturally
+teaching Perl would take much more work. But it's good to  start with the basics.
+
+<p> <p><b>Alon Altman's Master Thesis</b>
+
+<p> <p>
+Alon demonstrated his master's thesis to me. It's a web-form that generates HTML output. The code is written in ML. Not Haskell, not Perl, not O'Caml - ML!! Poor Alon.
+I wonder if the code can prove to be useful to someone someday.
+
+
+<p> <p>
+Alon at least wrote a Perl wrapper to handle the HTML form and display the output. I wonder if it is possible to write a CGI script entirely in ML. If it can't handle environment variables and stdin/stdout - you're toast.
+
+2002-11-15 16:46:48

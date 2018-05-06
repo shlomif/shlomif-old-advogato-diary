@@ -1,0 +1,24 @@
+<p><b>ADSL Router</b>
+
+<p> <p>
+My family is connected to the Internet using an ADSL connection, which we are quite happy with. Recently, however, we bought a new laptop, so we needed to connect them both to the Internet at the same time. My father bought an ADSL Router, but then found out that it won't work with the PPTP protocol used by the Israeli phone company. Luckily, he found out we can install an upgrade for the modem for some cost that will enable it to do so.
+
+
+<p> <p>
+He did it after he returned home a couple of days ago, and today's morning he decided that we should install it. After re-connecting the various cables to their appropriate places we booted Windows 98, pointed Explorer (my father insisted on not using Mozilla) at the Modem's web-based configuration screen, and configured everything. It did not work at first. However, after I browsed into 
+an IP address (of vipe.technion.ac.il), the DNS started working and then everything worked. The situation repeated itself at the laptop, which we connected through the phone-network adapter.
+
+
+<p> <p>
+Then, I decided to connect Linux the same way. I booted into Linux and tried connecting. I realized after some RTFMing that I can do it using the Mandrake Control Center. However, it refused to connect. I started trying a plenthora of ifconfig, route and all commands but to no avail. My father left, and about half an hour ago called from his cell-phone and asked me if I used the other Ethernet card. Apparently, he used the first Ethernet card (a dmfe one) for connecting straight to the ADSL modem, but connected the second to the router. And all the time I was trying eth0... Hmmpf. Afterwards, a few linuxconf keys to configure eth1 as DHCP - and voild - Internet is working flawlessly (I'm using it now - ;-)).
+
+
+<p> <p>
+I could not understand how Ethernet, DHCP and TCP/IP could not work in Linux as well as in Windows, because they are all open, well-documented standards. But naturally they need a physical cable to operate on. Without bread, there isn't a Torah.
+
+
+<p> <p>
+Now all I have to do is configure Samba so I can transfer file to and from the laptop. Long live modernization.
+
+
+2003-01-02 08:04:44

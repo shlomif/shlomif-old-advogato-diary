@@ -1,0 +1,25 @@
+<p><b>Freeecll Solver</b>
+
+<p> <p> <p> <p> <p>
+Adrian told me the new command line chopper worked for him, but he did not thoroughly test it yet, and will be too busy to do so for a while. A bit afterwards, I started working on the 2.7.x branch. The first thing I did was fix some of the documentation which was a bit out of date. Then I made sure the lists of *.c modules and *.h headers could be maintainted across all makefiles from one central place.
+
+<p> <p> <p> <p> <p>
+Then I took on something a bit more difficult - trying to run one scan after the other has finished in case the other one said the board could not be solved. At first I became a little frustrated because I did not know how to implement so I'll maintain backwards-compatibility and it will integrate with the other features. I left it alone, slept on it and today I was able to get it to work. I still have one thing to do left (make sure I clean up the scan's resources after it finishes), but it is working nicely.
+
+<p> <p> <p> <p> <p>
+Another thing I did was tag the latest semi-stable development release with the CVS tag "LATEST_DEVEL" and have the web-site construction routine read it from the CVS and upload it to vipe and the mirror site automatically. Now all I have to do is "cvs tag -F LATEST_DEVEL" periodically to put another release.
+
+<p> <p> <p>
+<b>Update:</b> - Apparently the more correct command line is "cvs tag -F -R LATEST_DEVEL". It could be the same without the -R if -l is not the default.
+
+
+<p> <p> <p> <p> <p><b>Univ Project</b>
+
+<p> <p> <p> <p> <p>
+Roy and I managed to get the subjects editing to work and some of the seminars addition and editing. Not too bad a progress, either. I called Roy today and we scheduled to meet tomorrow at 14:00.
+
+<p> <p> <p> <p> <p><b>Translation</b>
+
+<p> <p> <p> <p>
+I'm making slow progress on translating CatB. I posted an announcement on Linux-IL and Hackers-IL and three people voluntereed to translate part of it. I gave them a chapter each, but did not hear from them since. I'll see what comes out of it.
+2002-08-24 18:19:53

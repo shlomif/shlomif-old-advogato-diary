@@ -1,0 +1,122 @@
+<p><b>Studies</b>
+
+<p> <p>
+I had two tests one in each subject I'm taking this semester. The Thermodynamics
+test went pretty well, but I'm not entirely sure I did it perfectly. I'll see
+what my grade will be.
+
+
+<p> <p>
+Yesterday, I had a test in Statistics. It went so-so, and I had difficulties
+with some sections. Nonetheless, both tests just protect the main score from 
+the main test, so they are not critical.
+
+
+<p> <p>
+I had a relatively hectic few couple of days. On Monday, I had to get up early
+to attend the Statistics lessons (as usual), and in the evening I had a Haifux
+meeting, which meant I arrived home late. On Tuesday, I had the test in 
+Statistics from 17:30 to 19:30, and I returned home again, and went to sleep 
+at about 10:30 PM. And today (Wednesday) I had to get up early and go to the
+Thermodynamics lessons. But I'm glad it's over and now I have an extended 
+weekend in front of me.
+
+
+<p> <p><b>Perl Meeting</b>
+
+<p> <p>
+I had a Perl Meeting last Thursday. I went there by bus and had to walk. When
+I came there, there were few people there and not too many joined us. But it
+was fun. Before the meeting, Ran collected money from everybody and we went
+together to buy the snacks. Then the presentations started.
+
+
+<p> <p>
+Shlomo Yona gave a presentation about the Perl Garbage Collector. I could not
+say he renewed too much to me. (except in telling that the Java garbage 
+collector supported distributed GC). Still, it was a very good and fun lecture.
+It was followed by a small demo by Ran Eilam. He demonstrated how he started
+from the Java test in Eclipse, and gradually wrote the rest of the code with
+the help of the IDE that did a lot of code writing for him. We concluded that
+it would be very difficult to do it with Perl, because it's a more complex 
+langauge and such that is much less easy to manipulate.
+
+
+<p> <p>
+Then, some people had to leave and could not hear me give the <a href="http://vipe.technion.ac.il/~shlomif/lecture/Perl/Haskell/slides/">presentation on Haskell</a>. The audience asked many questions during the lecture, and I had to 
+explain some of the simpler examples in detail. Eventually, I ran out of time
+and skipped some of the more complex ones. But it went quite well, albeit
+I'm not sure how many understood it.
+
+
+<p> <p>
+During the meeting, I returned the "Writing Perl Modules for CPAN" book and
+took the "Perl and XML" book (by O'Reilly) which was something that someone
+returned. 
+
+
+<p> <p>
+Afterwards, the guys decided to go to the bar, including the one who was 
+supposed to give me a ride. I decided to skip it as I was tired and found
+a ride with Thomas Maier. On the road, we talked about his job and my 
+educational/employment status.
+
+
+<p> <p>
+Ran Eilam wrote a <a href="http://perl.org.il/kwiki/index.cgi?MeetingReport2003Dec11">meeting 
+    report</a> on the new Israeli Perl Mongers Wiki.
+
+
+<p> <p><b>Haifux Meeting</b>
+
+<p> <p>
+On Monday, Aviram Jenik gave <a href="http://www.haifux.org/lectures/82/">a 
+    presentation about Spam</a> to the Haifa Linux Club. The presentation was
+very entertaining and fun, with many interruptions from the audience to 
+discuss the dynamics of Spam and how to deal with it. I was especially amused
+by the "Time Traveller stuck in 2003" junk-mail he received.
+
+
+<p> <p>
+After the Meeting, Aviram gave a ride to Tzafrir Cohen and me until the Netanya
+Junction. I called Dad on the way, and he drove us from there to Tel-Aviv.
+
+
+<p> <p><b>Reading</b>
+
+<p> <p>
+I finished reading Mary Poppins. It's a very nice book, and I might order
+the sequels if I feel like it. I also read more of "Extending and Embedding
+Perl". I also read things I found on the web like 
+<a href="http://www.onlamp.com/pub/a/onlamp/2003/12/11/myths.html">myths 
+    open source developers tell ourselves.</a>
+
+
+<p> <p><b>Hacktivity</b>
+
+<p> <p>
+I added some idioms to the page in progress of 
+<a href="http://perl-begin.berlios.de/cgi-bin/chiq_chaq/chiq.pl?Idiomatic_Perl">Idiomatic
+    Perl</a>. The Wiki implementation gave me some trouble and sometimes 
+reported the page has changed during its editing, which it didn't.
+
+
+<p> <p>
+I also added some things to the newly set up 
+<a href="http://perl.org.il/kwiki/index.cgi">Israeli Perl Mongers Kwiki</a>:
+<a href="http://perl.org.il/kwiki/index.cgi?IsraeliProjects">a page for Israeli
+    Perl Projects</a> which is now more up to date than the one at the regular 
+site. (I imported all the existing content there); and I also started
+<a href="http://perl.org.il/kwiki/index.cgi?BookReviews">a book reviews 
+    section</a>, where I place my book reviews without having to wait for
+the webmaster.
+
+
+<p> <p>
+I also downloaded and installed the latest GIMP 1.3.x and played with it
+a bit. It's very impressive and polished, but so far it seems that the Script-Fu
+logos scripts got broken. This may have been fixed according to a message
+I saw in its developers list.
+
+
+2003-12-17 17:24:30

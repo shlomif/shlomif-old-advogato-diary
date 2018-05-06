@@ -1,0 +1,33 @@
+<p><b>Freecell Solver</b>
+
+<p> <p> <p>
+Adrian Ettlinger, the main developer of <a href="http://www.rrhistorical.com/rrdata/Fcpro65/">Freecell Pro</a> managed to cause the Freecell Solver engine to crash in some reproducible conditions. It took me a lot of time to figure out where the problem was, but valgrind finally came to the rescue. It turned out I did not initialize one of the variables in a place I should have initialized it. But now it fixed and I released a new stable version.
+
+
+<p> <p> <p>
+Right now, Freecell Pro has been released with a "Solver Evalutation Edition" that contains my solver, the original Woods-Callan-Ettlinger solver, and Tom Holroyd's Patsolve. Adrian claims that Freecell Solver is the fastest one, but it naturally has problems of reporting false negatives.
+
+
+<p> <p> <p>
+Other than I am now working on getting the optimization scan to work for atomic moves, and to build a good meta-scan for them. Measuring the performance of all the scans for all the boards takes a very long time, especially for atomic moves. I can parallelize it by timing each scan on a different computer, but I only have one computer accessible at home.
+
+<p> <p><b>Studies</b>
+
+<p> <p>
+I handed out my SICP test. The lecturer came to the Technion quite late and I had become quite worried because I could not find him, but I was finally able to find him and hand him my exam.
+
+
+<p> <p>
+I had the "Design and Analysis of Algorithms" test on Sunday. It went well enough, but I have yet to find out what my grade is. The things that remain on the agenda are my "Computer Graphics" test on the 23rd, and the project. Roy has a test this Friday, so we will only be able to sit next week.
+
+
+<p> <p><b>Freecell Solver Book</b>
+
+<p> <p>
+So far, I have two subscribers on my book mailing list, and there is potentially another one. I have made quite a lot of progress writing down the book in DocBook/XML. However, I am now being slightly suspended because there seem to be some bugs in the PDF rendering. 
+
+
+<p> <p>
+I'm sure I'll be able to resolve them eventually, but it is still annoying.
+
+2002-07-09 06:33:49

@@ -1,0 +1,47 @@
+<p><b>CLAN Progress</b>
+
+<p> <p>
+There is code now! It does not do too much, but it allows
+one to package a kernel module in a distro, that later when
+processed with LKMB (=Linux Kernel Module Builder) generates
+a standalone package, that can be compiled (but not installed)
+on any GNU system with the appropriate kernel headers. At least
+where I tested.
+
+
+<p> <p>
+Now I've got to actually make it useful: write an install directive,
+support various architectures, support binary only modules, etc.
+
+
+<p> <p>
+In any case, here's the <a href="http://freshmeat.net/releases/109713/">Freshmeat Announcement</a>.
+
+
+<p> <p><b>IRC Stories</b>
+
+<p> <p>
+I met <a href="/person/Liedra/">Liedra</a> on irc.kernelnewbies.org. It's funny
+that being Israeli I have to log there in the mornings to meet the
+Australians and in the evening to meet the Americans. I told here
+about CLAN, and she told me it is of little relevance to her as she
+now uses MacOS X, which she likes very much. (she has a three-button+scroll wheel USB mouse, uses X-Chat, and is otherwise happy. She said MacOS 9 sucked a great deal).
+
+
+<p> <p>
+I Met <a href="/person/jdike/">jdike</a> and told him, interactively, how UML was a life saver for the IP-Noise project. Then I mentioned VMS and we talked about its ability to run another OS as a process (including itself), and its future on the Itanium. Someone mentioned that DEC's Alpha team is now working on IA-64, which might make it usable. However, the Windows NT 3.2 team was composed of the VMS hackers, and looked what we got out of it. Maybe that's what Fred Brooks call "The Second System Effect" in the Mythical Man-Month.
+
+
+<p> <p>
+If you ask me Sun or SGI or whoever, should take their RISC computers (which beat the hell out of Pentiums of the same CPU) install Linux on them (Mandrake or something similar), and market them to home users, as replacements for x86 boxes. In the Com-Net lab, Michael ran Suse for SPARC on an UltraSparc 5 or 10 for quite a while. It ran fast, and was very stable. He got distressed by the inavailability of proprietary software like Java. (I told him taking the Solaris binaries might work).
+
+
+<p> <p>
+Let's face it: people don't want Solaris or IRIX at home. I can hardly stand them on the server side, much less on my client machine. In the future, I expect that only GNU systems will truly survive. a GNU/Solaris machine might be a cool idea, and I know users have implemented them in user-land to some extent. But the Linux kernel was already made entirely compatible with the GNU system, has many extensions of his own, works pretty well, and is optimized for home use.
+
+
+<p> <p>
+Now that IBM has Linux running on RS/6000, I wonder if I can get such a machine running Linux to play with. There's no way I'm using AIX, with or without the L.
+
+
+2003-01-16 12:23:50

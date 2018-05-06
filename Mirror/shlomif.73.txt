@@ -1,0 +1,34 @@
+<p><b>Univ Project</b>
+
+<p> <p> <p>
+Roy and I worked on the project yesterday and today. Now the search is functional and the daily and weekly views are working. Now, the only major component that is not implemented is the monthly view. (and we still have to work on the mailing list logic)
+
+<p> <p> <p>
+We'll work on it more next week, but I did not set up a time with Roy yet.
+
+<p> <p> <p><b>Freecell Solver</b>
+
+<p> <p> <p>
+I fixed the bug in --read-from-file, and also made sure that the game constraints (freecells number, stacks number, rules, etc) are applied to all the instances in the sequence. I also fixed another bug or two. Now I'm working on the parallel solver to make it a bit nicer and well documented.
+
+<p> <p> <p>
+I made a post to the mailing list about how to implement the command line presets. As usual, I did not receive any reply, so I'll just go with the scheme I have in mind. Using the computers in the lab, I timed some 2 Freecell Scans, and then built a meta-search based on them. It's still does not run very well. Possibly because I don't have enough scans yet, and possibly because FCS does not handle 2 freecell games well.
+
+<p> <p> <p><b>More Vim Action</b>
+
+<p> <p> <p>
+Vim for me used to have an annoying bug. Whenever I pressed Ctrl+V to paste some text, it pasted it starting at the beginning of the line instead of at the position of the cursor. It took me some time to discover, but I eventually realized that <tt>:help bugs</tt> displays where to send bug reports, and I sent a bug report there.
+
+<p> <p> <p>
+Bram Moolenaar replied to me, and after a few E-mails, he was able to pinpoint it. He sent me a patch and told me he incorporated it into the 6.1.x development branch. So, now thanks to him, I'm happy.
+
+<p> <p> <p><b>Welcome-to-Linux Basic Use Lecture</b>
+
+<p> <p>
+I worked a bit on the Basic Use lecture for the "Welcome to Linux" series. I added icons, and fixed or enhanced some things after some feedback from the list. Someone suggested to translate it into Hebrew, so I told him he can translate it on his own, if that is what he desires, and sent him the sources.
+
+<p> <p><b>Konqueror Service Menus</b>
+
+<p> <p>
+As I sat next to the computer today, I realized that I can set up a Konqueror service menu, so there will be an "Enqueue in XMMS" action for MP3s. I set it up and it works like a charm. (context menu button + E works too). For more information <a href="http://developer.kde.org/documentation/tutorials/dot/servicemenus.html">read this</a>.
+2002-08-29 12:54:50

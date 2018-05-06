@@ -1,0 +1,33 @@
+<p><b>Freecell Solver</b>
+
+<p> <p>
+Adrian returned from his vacation and reported that the command line chopper did not work for him. After a few tests I discovered it could not handle a situation where a \\\n combination was followed by whitespace. I fixed it, and sent it to him, but have yet to hear from him.
+
+
+<p> <p>
+I posted a message on Linux-IL, asking how I should render 
+nested navigation bar menus in HTML, in a correct way. I received an answer that it should be done using &lt;ul&gt; and &lt;li&gt; combinations. By playing around with CSS a bit, I was able to build such functionality into the Freecell Solver site, instead of the &amp;nbsp; hack that existed there until now. What I did see trying to look for the answer was that many sites still used &nbsp;'s, whitespaces or images that contained them. That's not good.
+
+
+<p> <p>
+I also took some time to write the TODO list for the next version. It's <a href="http://cvs.berlios.de/cgi-bin/viewcvs.cgi/fc-solve/fc-solve/source/TODO?rev=1.32&content-type=text/vnd.viewcvs-markup">in the CVS</a> in case you want to take a look.
+
+
+
+<p> <p><b>Haifux Meeting</b>
+
+<p> <p>
+Was very nice. Orr gave an entertaining lecture and we ate and drank a lot. After the lecture we placed the leftovers (quite a lot of them) in Orr's room, and took the Balloons. I was tired of carrying them, so I stopped in the Com-Net Lab and blew them using a tack.
+
+
+<p> <p><b>Univ Project</b>
+
+<p> <p>
+I managed to get the E-mail verification to work yesterday, and today Roy and I set for some hours in the early afternoon, and implemented editing the permissions as well as a trigger to add relevant rows to them when a user is added.
+
+
+<p> <p>
+We made good progress, and Roy said something about meeting me tomorrow at 11:00 or so. I'll call him and ask, just in case.
+
+
+2002-08-20 13:52:53

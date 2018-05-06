@@ -1,0 +1,30 @@
+<p><b>Web-sites Overhauling</b>
+
+<p> <p>
+I overhauled both the <a href="/proj/Freecell%20Solver/">Freecell Solver</a> and <a href="/proj/syscalltrack/">syscalltrack</a> web-sites by converting them to WebMetaLanguage. At the moment, neither site is online but they can be found in the projects' respective CVS repositories. 
+
+
+<p> <p>
+The Freecell Solver web-site accepts a parameter that determines if it's the master web-site on vipe.technion.ac.il or the BerliOS mirror, so it would make it easier for me to maintain both sites.
+
+
+<p> <p><b>Haifux Lectures</b>
+
+<p> <p>
+I posted a call for opinions on the mailing list on what my next lecture should be and so far received three opinions. %-) Maybe I should proceed in preparing what I'd like regardless of what other people want, because finding what they do, is quite hard.
+
+
+<p> <p>
+This reminds me that I'd better finish the third Perl lecture, something I intended to do it for a long while.
+
+
+<p> <p><b>Freecell Solver Book</b>
+
+<p> <p>
+I managed to find some time and write a large part of the abstract. Now I have to learn DocBook and start hacking on it seriously. Oh well, I have the entire summer.
+
+
+<p> <p>
+I formed a private mailing list where I'll post or announce subsequent versions of the book. Send <a href="mailto:shlomif@vipe.technion.ac.il">me</a> an E-mail if you wish to join.
+
+2002-06-29 09:54:25

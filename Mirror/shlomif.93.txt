@@ -1,0 +1,27 @@
+<p><b>WebMetaLecture</b>
+
+<p> <p>
+After a long time of neglect, I was able to prepare the slides for this lecture - yesterday and today. I already
+finished the intro stuff, and two of the examples. Check
+it out <a href="http://vipe.technion.ac.il/~shlomif/lecture/WebMetaLecture/slides/">here</a> if you wish.
+
+
+<p> <p>
+I remember that I planned to do a lot of work on Haifux lectures during the vacation. However, as it seems, I had other things to do and did not have the discipline to work on lectures.
+
+
+<p> <p><b>WarCraft 3</b>
+
+<p> <p>
+My sister went to Azrieli Center in the evening of the day before yesterday. I asked her to purchase WarCraft 3 for me (on my parents expense) and she did. I installed it and played it a little. Seems nice so far, except that it occasionally cause the computer to hang, and I need to reboot it. It's probably because our Windows 98 installation is all messed up. Too bad there isn't a Linux version.
+
+
+<p> <p><b>I-Bex</b>
+
+<p> <p>
+The installer, and RPM Spec now works fine and I adapted the executable to make use of the installation path. There is a small problem that the perl-base dependency is configured to version 5.800 for some reason, but it seems
+to be Mandrake specific.
+
+
+
+2002-10-09 05:09:07

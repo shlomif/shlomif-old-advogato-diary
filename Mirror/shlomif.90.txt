@@ -1,0 +1,25 @@
+<p><b>Women and Linux</b>
+
+<p> <p> <p>
+I got myself to read the Howto. It was quite a good and enlightening read, despite my initial impression. One thing I can say about documents like that is that they are <b>scary</b> - do this, don't do that, do this, don't do that. Sorry that I exist, fellows!
+
+<p> <p> <p>
+Whatever. I don't think <b>I</b> actively defied any of the guidelines presented there. So, who is John Galt? (or Jane Galt for that matter)
+
+<p> <p> <p><b>Univ Project &amp; Life</b>
+
+<p> <p> <p>
+Yoram promised he'll send us the typo corrections of the project's report this evening, when he'll be home and near the printout of the report. Meanwhile, I asked him how to implement the mailing list stuff and am halfway through implemnting it. Unfortunately, Roy cannot help me, because his work keeps him too busy.
+
+<p> <p> <p>
+I was tired in the early afternoon, so I went to the apartment and layed down. I did not get to sleep, but the rest was still refreshing.
+
+<p> <p> <p>
+Played a lot of PySol today, and managed to write another paragraph in my translation of "Joel Spolsky's Strategy Letter III - Let me go back". I wonder when the Hebrew site is going to be online.
+
+<p> <p> <p>
+An idea cooked up between Roy, my mother and I about getting credit for some work on Freecell Solver. I went to a Game AI lecturer in the CS faculty today, and he asked me to send him the project spec and some links by E-mail (which I did) and that he'll evaluate them and try to find a suitable project supervisor when he finds some time. In any case, I can default on doing a project for Yoram and the Computer Networks Lab about collecting AI statistics distributively. (which is on lower priority than working on the FCS core).
+
+
+
+2002-09-30 13:19:34

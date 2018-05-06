@@ -1,0 +1,42 @@
+<p><b>Studies</b>
+
+<p> <p> <p>
+I stayed in Haifa last weekend, so Eran and I can work on
+preparing the Lab 3 assignments in advance. It took us a
+very long time to solve anything, but we managed to finish
+the "Image Processing" and part of the "Computer Networks"
+experiments. Right now, Passover started, so I have till the
+Sunday after the next.
+
+
+<p> <p> <p>
+Studies were quite interesting the past two weeks. In
+"Computer Graphics" the lecturer gave us an overview of the
+book "The Psychology of Everyday Things" so we can design
+better UIs. My partner for "Design and Analysis of
+Algorithms" and I sat on the first assignment and managed to
+finish it. (I consulted the T.A. regarding one exercise there).
+
+<p> <p>
+Solving the "SICP 2" exercises on streams proved to be quite
+enlightening. There are many tricks that can be done
+efficiently using such delayed lists.
+
+
+<p> <p><b>The New Project</b>
+
+<p> <p>
+Roy and I's new project has to do with writing a web-based
+front-end for viewing and managing Technion Seminars. Roy
+and I spent some time writing a SPEC and site workflows of
+it. Our supervisor (who also happens to be the lab engineer
+and a T.A. in some courses), many times did not have too
+much time to meet with us. (sometimes despite the fact that
+we scheduled with him in advance) Hopefully, we won't rely
+on him too much as we start working on the project.
+
+
+
+
+
+2002-03-28 10:50:05

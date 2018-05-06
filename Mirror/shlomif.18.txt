@@ -1,0 +1,51 @@
+<p><b>SICP</b>
+
+<p> <p>
+I spent a lot of time in the weekend working on the
+Structure and Interpretation of Computer Programs course's
+homework. I forgot the LaTeX files that contained the cover
+page I prepared on my Com-Net Lab workstation, so I
+re-created a cover page from scratch. It was not too hard.
+
+
+<p> <p>
+It maybe my impression but it seems that Scheme programs are
+more prone to bugs than Perl programs. And those bugs are
+harder to trace. MIT Scheme is rather strange in the sense
+that the identifiers there are case-insensitive. I checked
+it on Guile and <tt>A</tt> and <tt>a</tt> are completely
+different variables.
+
+
+
+<p> <p><b>Bicycle Ride</b>
+
+<p> <p>
+I rode my bicycle twice on Friday and once on Saturday. Now
+I'm going to bike again. Last weekend one of the brakes
+cords of my bicycle broke, and I had to return with them to
+home walking. This thursday, I walked with them to the
+bicycle repair man and he fixed them.
+
+
+<p> <p>
+I'm getting tired of my bicycle breaking down, so I asked my
+mother to buy me a new bicycle for my birthday instead of an
+electrical organ which was our original plan.
+
+
+<p> <p><b>Refactoring the Law</b>
+
+<p> <p>
+There's a small article I have been intending to write for a
+long time about re-factoring the Law. To sum up, I believe
+that adding new laws is like making ugly changes to the code
+that attempt to add more functionality but mess it up
+completely.
+
+
+<p> <p>
+The equivalent of refactoring a code is taking out redundant
+or harmful laws out of the Law Canon. 
+
+2001-12-30 06:56:57

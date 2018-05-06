@@ -1,0 +1,38 @@
+<p><b>Subversion</b>
+
+<p> <p> <p>
+I installed Subversion on my Technion Workstation too, and somewhat afterwards checked out its latest copy and compiled and installed it. I had some problems doing so, which I was able to resolve and now I have problems compiling the most up-to-date copy. Oh well.
+
+
+<p> <p> <p>
+Subversion works quite nicely for maintaining my "Compilers" homework, except for a curious glitch which may have been my fault. I was able to rollback it using <tt>svn merge</tt> and now I'm back on track.
+
+
+<p> <p> <p><b>Studies</b>
+
+<p> <p> <p>
+The T.A.'s strike is over, so studies are back to normal. I was able to prepare some of my homwork in Compilation yesterday and today (when I wasn't busy tampering with Subversion).
+
+
+<p> <p> <p>
+Eran and I sat on Set Theory on Tuesday and we were able to prepare some exercises that were given last year. I'm still at the Technion now due to the lecture that was re-scheduled for today.
+
+
+<p> <p> <p><b>Freecell Solver</b>
+
+<p> <p> <p>
+I started working on version 2.9.x today, and then remembered I still don't have a Win32 package for it. What I was able to do was make sure the derived states lists also contain the move stacks leading to them. This will be a first step in the generic derived states prioritization.
+
+
+<p> <p> <p>
+But I should probably work on the Win32 package first. I have to modify the batch file that builds the package to package the presets, too.
+
+<p> <p>
+Another interesting fact is that valgrind reports a memory initialization problem with a call to strdup, and I can't tell what's wrong with the code. Maybe it's a gcc-3.2 bug?
+
+
+<p> <p> <p><b>Directory of Software Tools</b>
+
+<p> <p> <p>
+I now maintain a small <a href="http://vipe.technion.ac.il/~shlomif/software-tools/">directory  of software tools</a>. I still haven't included all the entries that were written as part of the Software Carpentry project, but it's a start.
+2002-10-24 08:15:33

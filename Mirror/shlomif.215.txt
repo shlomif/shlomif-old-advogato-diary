@@ -1,0 +1,245 @@
+<p><b>RTFM vs. JATFM</b>
+
+<p> <p>
+I recently had to figure out how to do something with wget: get everything
+below a directory on the web-server, without following links to outside it.
+So I logged in to FreeNode's <tt>#debian</tt> channel, where there are many 
+knowledgable people to ask it. The first answer I got was "RTFM". So, I read
+the wget man page, but could not find it there. Eventually, after telling 
+people that it would be faster to give an answer, I got a reply (
+add the <tt>-np -r</tt> flags). But this has been the last straw.
+
+
+<p> <p>
+I composed my own acronym. Just like RTFM is "Read the Fabulous Manual"
+and STFW is "Search the Fabulous Web", then JATFM is "Just Answer the
+Fabulous Man". It means that it's usually faster to answer someone's question
+than to ask him to RTFM, which is just going to annoy him. I think the RTFM
+mantra has done a lot of damage in the UNIX/Linux world, and I hope JATFMing
+would prove to be a more healthy ideology.
+
+
+<p> <p><b>Linux T-Shirt Giveaway</b>
+
+<p> <p>
+One day when I was just returning from my walk, a guy approached me and
+asked me about my Linux T-shirt, in English. It turned out he was using 
+Linux and FreeBSD, and was interested in such T-Shirts. He was working as
+a Journalist in an Israeli newspaper, and was using Windows in his workplace.
+
+<p>
+I invited him to come to my house, and when he did gave him one of my shirts.
+At first, I thought he was a Medium, but it turned out the Large T-shirt was
+OK for him. He took off his shirt, and wore the Linux one instead. He gave me
+his old shirt for me to throw away.
+
+<p>
+We then went to the computer and exchanged contact information. He called
+me some hours later, but I was busy, but I think I'll call him back on my own.
+
+
+<p> <p><b>Jewish Holidays</b>
+
+<p> <p>
+Now is the Jewish Holiday Season. First of all - Shana Tova (= Happy New 
+Year) to all Jews and non-Jews. Yom Kippur also came along, so "Gmar Hatima
+Tova" ("A Good Signing") to all. And finally, Happy Sukoth.
+
+<p>
+In Israel, many secular Jewish families hold a family dinner on Rosh Hashana. 
+In the States, it seems Jews just go to the synagogue.
+
+
+<p> <p><b>Open Letter to the California Governor</b>
+
+<p> <p>
+I wrote <a href="http://trends.newsforge.com/article.pl?sid=04/09/08/1423240&amp;tid=136&amp;tid=1">an 
+    open-letter to the California Governor regarding the recent report about
+    cutting the California State spending.</a>. It is a bit redundant and
+the comments there are even more so. Still, I hope the appropriate forces in
+the California Government will take it to heart. An anecdote about it is
+that I originally wrote it on paper.
+
+
+<p> <p><b>Links of Interest</b>
+
+<p> <p>
+<a href="http://www.livejournal.com/users/tddpirate/13614.html">Read this 
+    entry in Omer Zak's Journal</a> (to which I have responded) for something
+that Omer said about being unwilling to help people who aren't using Debian,
+and why I proved it was a bad attitude. (it all leads to the ancient and
+mind-destroying "I'm not getting paid to do open-source work, so my users 
+need to play by my rules" mantra). 
+
+
+<p> <p>
+There's 
+<a href="http://interviews.slashdot.org/article.pl?sid=04/09/14/1347226">a 
+    very interesting interview with Real Networks' CEO on Slashdot</a>. A 
+highly recommended read. Trying the Real Player 10 for Linux I was very 
+disappointed, though: it's not a drag and drop target, had a very crappy 
+file opening dialog and it could not play mp3's.
+
+<p>
+There's also a <a href="http://interviews.slashdot.org/article.pl?sid=04/09/20/1423219">very interesting interview</a> with the U.S. Libertarian Party 
+Candidate. I sure do hope Libertarians take the next elections, and will also
+add a button to my homepage about it.
+
+
+<p> <p><b>Freenode's beth is engaged!</b>
+
+<p> <p>
+<a href="http://loxosceles.org/">Beth Skwarecki</a> (a.k.a. "beth" on Freenode)
+<a href="http://loxosceles.org/scripts/date.pl?d=2004-09-13_We_re_getting_married">has 
+    become engaged to her long-time boyfriend now</a>. Congratulations!
+
+
+<p> <p>
+It's funny that many people I know my age are already married. Plus, my cousin 
+who's my age already has a baby now. Roy Glasberg, too. And 
+<a href="http://www.benschmaus.com/">Ben Schmaus</a> already managed to 
+become separated from his wife. And I did not have a girlfriend, yet. Oh well.
+
+
+<p> <p><b>Yom Kippur Activity</b>
+
+<p> <p>
+In Yom Kippur the Jews believe that God measures a person's balance of good
+and bad deeds and thus determines if he is worthy of living for another year. 
+I am pretty sure, that the values I produced in the recent year (i.e: my good
+deeds), exceed the values I consumed (i.e: my bad deeds). Nevertheless, I 
+have decided to go over the blog entries I wrote in the past year and see
+what I did well, what I did wrong, and what I can improve.
+
+
+<p> <p>
+First of all, I'd like to say that I was dazzled by all the productive
+things I did. I certainly can congratulate myself on that. A trend in the
+past year was for me to also contribute to large-scale, non-individualistic
+projects like Subversion or GIMP, and I hope to continue in it. My biggest
+mistake in the past year was 
+<a href="http://advogato.org/person/shlomif/diary.html?start=203">the
+    post to the Joel on Software forum about my Technion Grades</a>.
+I'll know better than that next time.
+
+
+<p> <p><b>Article Writing</b>
+
+<p> <p>
+I wrote a new version of an old article, and sent it to a few selected 
+reviewers. As a result, I received three (!) messages saying they are no
+longer interested in receiving such articles. I was a bit distressed, but
+then I understood that I should send the articles to people who volunteered
+to do so, at first. That's what I did. I <a href="http://www.whatsup.org.il/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=3559">posted
+    a notice about it in Whatsup</a> and received several E-mails from people
+who were interested. (some of the comments simply attacked me, but that is 
+besides the point).
+
+
+<p> <p>
+So now I'm sending them messages. So far, I did not receive any reply, but
+at least I'm not walking on people's toes.
+
+
+<p> <p><b>Events</b>
+
+<p> <p>
+There was a Telux meeting where I gave a lecture about Freecell Solver. There
+were only two people who attended it besides me, but it was still a lot of 
+fun, and people said it was very interesting.
+
+
+<p> <p>
+There was also a TAU-Sec meeting. This time they also bought
+drinks and refreshments. The first presentation about Intrusion Detection
+tools was very interesting. In the second one, the speaker was heavily 
+non-fluent, probably because of excitement, so I left early. But there was 
+heavy attendance.
+
+
+<p> <p><b>Work on the Home-Site</b>
+
+<p> <p>
+I've done a lot of work on <a href="http://shlomif.il.eu.org/">my 
+    home-site</a> lately. Reading from the news I posted about it:
+
+
+<p> <ol>
+<li>
+I added the <a href="http://swpat.ffii.org/">"Stop Software Patents!"</a> nag
+image to all my pages and a top frame to the front page.
+
+<li>
+There's a new code for the navigation menu. The old code was an unholy mess,
+and the new code is a pure Perl one, which makes the nav-menu much easier
+to maintain.
+
+<li>
+Thanks to the new navigation menu code, there are now Mozilla/Firefox
+navigation links, that allow traversing the site page by page. For those who
+are unfortunate enough not to use these browsers, some rudimentary arrows were
+added above the navigation menu.
+
+<li>
+I now have an Uber-kitchy leading path of the page sections and sub-sections at
+the top.
+
+<li>
+I'm now <a href="./work/private-lessons/">giving private lessons</a> in
+high-school subjects and computer-related topics.
+
+</ol>
+
+<p> <p>
+Later on, I added more pages. Things I still need to do are:
+
+
+<p> <ol>
+    <li>
+    Add Alt+P, Alt+N, Alt+U key-bindings to traverse the site.
+    
+    <li>
+    Add a nice news items summary news box at the top with the site
+    news. Also create an RSS feed for them.
+    
+    <li>
+    Create a site-map page.
+    
+</ol>
+
+<p> <p>
+Enjoy!
+
+
+<p> <p><b>Upgrade to Mandrake 10.1 Community Edition</b>
+
+<p> <p>
+I downloaded the Mandrake 10.1 CE CDs, and placed all the RPMs in one 
+directory. That's because I did not know where I can find a network 
+repository. Then, I created a urpmi media for them. Afterwards I ran
+the command <tt>urpmi --auto-select --auto</tt> overnight. This eventually
+caused the computer to become unresponsive. (I still blame the Britney Spears
+wallpaper I placed on IceWM, when I did the installation for that.)
+
+
+<p> <p>
+After a reboot, I initiated the command again, this time with a different
+girl on the desktop. This time it's worked. I rebooted again to use the new
+kernel, and everything was OK. 10.1 CE is more polished than 10.0 and has
+fewer bugs. (albeit there are a few new minor ones). I'm very happy with it.
+
+
+<p> <p>
+For the occasion of the upgrade, I changed all the wallpapers of the 
+virtual workspaces. Desktop 1 now has a picture of Jaime Pressly. Desktop
+2 now has a photograph of a squirrel that <a href="/person/ladypine/">ladypine</a> took
+in her last OLS trip. Desktop 3 has a picture of Beth (see above). Desktop
+4 has a 3-D model of a tree with a reflection in the lake, out of the Book
+of Beginnings. Desktop 5 still carries the picture of Melissa Joan Hart with
+the background of automn leaves. Desktop 6 has a picture of a Chinese girl
+from a computer game (found in <a href="http://www.unforgottenrealms.net/wallpapers_misc.php">the Unforgotten Realms Wallpapers</a>). Desktop 7 has a photo
+of Kate Beckinsale. And Desktop 8 has a picture of Charisma Carpenter covered
+in the American Flag.
+
+
+2004-10-05 13:02:12

@@ -1,0 +1,82 @@
+<p><b>Biking</b>       
+       
+<p>I saw a mole today when I rode through the park. It was       
+sunbathing on one of the lawns and looked very cute. Aren't moles       
+supposed to be nocturnal mammals?       
+       
+       
+<p><b>Studies</b>      
+      
+<p>      
+My homework progress is in good shape. Liat and I sat on "Algo      
+Design" yesterday and went on proving that a gaggle of problems      
+were NP-Complete. I managed to prove two trivial questions and Liat      
+found the answers to most of the interesting ones. Nevertheless, I      
+was able to find a reduction from Subset Sum to Partition. I      
+noticed that we sometimes ran into problems in our original concept      
+just as we were writing it down, which we had (and were able to)      
+resolve.      
+      
+      
+<p>      
+In "Computer Graphics", my partner and I sat on moving the Daemon      
+using Bezier curves. This involved programming a path-editing      
+dialog in Motif, a Polynomials module in ANSI C, and a function      
+using it that constructs Bezier Polynomials. But it was mostly fun.      
+      
+      
+<p>      
+Eran and I handed out our last assignment (the VHDL one) for      
+"EE-Lab 3" and hopefully we would have one less mandatory course in      
+our agenda. I had higher expectations of VHDL than what I saw in      
+this experiment, and I was quite disappointed. Eran claims that      
+VHDL and Verilog sucks, and when I asked him if he can think of a      
+better alternative, he told me that he sometimes does not need to      
+know there is a better one to know that it sucks. He gave Word as      
+an example.      
+    
+    
+<p>      
+I took the second exam in "Internet". It went comsi-comsa, but as I    
+told Mom this morning, I am entirely discontent with the way the    
+course was managed this semester. The questions in the tests were    
+way beyond the other questions which we were given (albeit    
+solvable); we were tested on material that was not given in the   
+homework, and finally both tests contained a question valued 54% or   
+55%. Truly uncivil.   
+   
+   
+<p><b>Freecell Solver</b>  
+  
+<p>  
+I had enough time to hack on it extensively. What started as a  
+cleanup release turned out to add more features, and a lot of  
+optimizations. But then again, this was the theme of most  
+development branches of Freecell Solver so far. The --prelude  
+switch and a Perl Script I wrote to construct a close-to-optimal  
+one, made it possible to solve the MS 32,000 in less than 19  
+million iterations, and in 35 minutes. I don't know how it fares in  
+comparison to patsolve, but it is still very impressive.  
+  
+  
+<p>  
+A quick calculation shows that it is an average of 594 iterations 
+per board, which is a very good solving quota. Thus, I'm not sure 
+if I can improve the performance much better by continuing to 
+follow this direction. 
+ 
+ 
+<p><b>LM-Solve</b> 
+ 
+<p> 
+I released version 0.4.0 of it. It's not much different from the 
+recent development version, but it deserves a stable version 
+number. Now my plans for it are to make it possible to solve Plank 
+Puzzles with it (which should prove to be non-trivial) and clean up 
+the internals a bit and make it suitable as an API. If I'm in the 
+mood, I might write a graphical front-end to it, but I also wish to 
+do the same for Freecell Solver. 
+ 
+ 
+ 
+2002-06-20 07:25:32

@@ -1,0 +1,14 @@
+<p><b>The Lex-&amp;-Yacc Demo</b>
+
+<p> <p>
+It went pretty well, albeit my hope of extending the syntax of the language, did not materialize. Orr started explaining about how Yacc works (it converts a non-determinstic stack-based finite automata to a determinstic one, which may result in an exponential expansion of the automata)
+
+
+<p> <p>
+Other than that, the meeting went very well, except for Guy not showing up to discuss gen_syscalls.pl. (it turned out he forgot and said that when he remembered it was already too late) Maybe we could try discussing it on the mailing list, but still a real-life discussion would have been so much more effective.
+
+
+<p> <p>
+Orna's design is now the default at the Sys-Call-Track web-site and I already found some faults in it. But like I said: "Don't whine unless you are going to implement it yourself", which may mean I'll have to do some WebMetaLanguage hacking in my free time.
+
+2002-06-26 15:36:14

@@ -1,0 +1,29 @@
+<p><b>Studies</b>
+
+<p> <p> <p>
+The SICP lecturer decided to give us a take home exam, and I prepared it during the last three days. It was not too hard. In any case, I missed a complementary precept in "Design and Analysis of Algorithms", because I was so immersed in doing the test.
+
+
+<p> <p> <p>
+My algo exam is on Sunday morning, so I have to stay in Haifa for the weekend. My father said he and my mother would visit me on Saturday, which has become a tradition for weekends in which I do not return home.
+
+
+<p> <p> <p>
+I hope Liat can study with me during the weekend, because studying alone is not as fun and not as effective.
+
+
+<p> <p> <p><b>Open-Source Projects</b>
+
+<p> <p> <p>
+Not much to brag about, I'm afraid. This and that. Freecell Pro with the three solvers integration is almost ready to roll, but Adrian said he discovered a critical bug. I spent most of my time working on the GNU Autoconf Lecture, and I'm almost done with it, but would like to go over it a couple of times, and add more comments and clarifications as I go.
+
+
+<p> <p> <p>
+I also did some more work on the WMLized <a href="/proj/syscalltrack/">syscalltrack</a> site. Freecell Solver had some kind of bug when running the Microsoft 32,000 with an atomic moves based scan. I'll have to look it up.
+
+<p> <p><b>KDE 3.0.1</b>
+
+<p> <p>
+I installed KDE 3.0.1 on both my home Linux system and my Technion computer. And now in the Technion X started hanging, too. In any case, I found several bugs in KDE which I reported, and have yet to see what comes up with them. My <a href="http://www.logicmazes.com/alice.html">Alice Mazes</a> bug has been there for ages.
+
+2002-07-05 05:00:11

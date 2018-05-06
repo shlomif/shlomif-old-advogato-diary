@@ -1,0 +1,132 @@
+<p><b>Computer Woos</b>
+
+<p> <p> <p>
+My father bought a new hard disk for the Linux, and I picked it up on 
+Wedensday. After I got home, I installed it, burned the first Mandrake 9.1
+CD and installed it on it. The installation went pretty well, except for 
+a glitch that the bootloader was installed despite the fact I did not want
+it to be installed. Plus, when I booted the computer it did not work.
+
+
+<p> <p> <p>
+Knoppix came to the rescue and I restored the old bootloader and copied
+the new kernel and initrd to my Windows partition. I rebooted, ran loadlin
+and started the new system. It worked. I then spent some time configuring
+it to my liking and restoring my data from a backup CD I made of the 
+hard-disk.
+
+
+<p> <p> <p>
+I installed XFS there, and the hard-disk has an 8 MB cache, so everything 
+felt very smooth. However, yesterday when I turned on my computer, it started
+burning inside, and would not boot. My father took it to repair and at
+midday he called me to inform that there was a short-circuit in the video
+card, and that the CPU, the motherboard and the video card are ruined. We'll
+have to buy a new computer. (which is a shame because the old computer worked
+very well until now).
+
+
+<p> <p> <p>
+So now I'm working on the WinXP laptop, and eagerly wait for the arrival of the
+new computer.
+
+
+<p> <p> <p><b>Biking</b>
+
+<p> <p> <p>
+My bike's front wheel is not working now, the problem being probably with
+the brakes. I'll have to take it to repair after the weekend.
+
+
+<p> <p> <p><b>Version Control Comparison</b>
+
+<p> <p> <p>
+I updated the version control comparison to include 
+<a href="http://www.venge.net/monotone/">Monotone</a> and added a few sections.
+I also fixed the CSS stylesheet a bit. Now it's working perfectly in Mozzila
+, but MSIE 6.0 still ignores the <tt>max-width</tt> property. I also converted
+to a slighly different XML format, which simpmlifies the DTD, and does not
+require defining a new tag for each version control system.
+
+
+<p> <p> <p><b>svn-push</b>
+
+<p> <p> <p>
+I wrote <a href="http://www.contactor.se/~dast/svn/archive-2003-09/0483.shtml">
+    a utility titled svn-push</a> that can be used to propagate changesets
+from one Subversion repository to the other a la BitKeeper's <tt>bk push</tt>
+command. I actually started writing it in Perl, and Chia-Ling Kao's helped
+me a bit there. It still did not work and exhibited a segfault which I could
+not tell why it occured and had difficulties debugging it.
+
+
+<p> <p> <p>
+So I converted it to C, and afterwards Ben Collins-Sussman and Mike Pilato
+helped me on the IRC to resolve the remaining problems. I finished writing
+it, and went out biking. I eventually wrote a patch to subversion that puts
+it in the contrib and builds it, because solving the dependencies is easier
+to do from within the Subversion tree.
+
+
+<p> <p> <p>
+I only checked that it worked for local <tt>file:///...</tt> URLs. There's
+still some work waiting there, but I'm waiting for my Linux system to 
+be able to work on it.
+
+
+<p> <p> <p><b>Israeli Perl Mongers Meeting</b>
+
+<p> <p> <p>
+There was a Perl meeting yesterday. After I arrived there, I helped Gabor
+shop for snacks and drinks. Then we mingled and had a good time chatting.
+Ran Eilam showed us a relatively large laptop he bought with 1600*1200 
+display, a GeForce 5 card, and a battery life cycle of 1.5 hours. It was
+pretty cool.
+
+
+<p> <p> <p>
+We then took a time for each to introduce himself. Some introductions sparked
+a few discussions. There was something about the banking system switching
+some internal systems to Perl. Then, Mikhael Goikhman lectured about Threads.
+The lecture sparked quite a lot of questions and discussions. It eventually
+lasted much more than was planned for it, but we still had a good time.
+
+
+<p> <p> <p>
+Afterwards, Gabor introduced Tcl for us Perl programmers. The introduction
+went very fast, with some comments from a visiting Tcl guru that came to
+the meeting especially. Then, I took a ride home with Offer Kaye, and we got
+to talk about computer devices for blind people.
+
+
+<p> <p> <p><b>Reading</b>
+
+<p> <p> <p>
+I read a few chapters off "The House of Arden", and also reading "Writing 
+Web Services with Perl", which I took from the perl mongers library. I also
+read David A. Wheeler's <a href="http://www.dwheeler.com/oss_fs_eval.html">
+    How to Evaluate Open Source Software</a> article, which is quite good.
+
+<p> <p><b>Objectivism and Neo-Tech</b>
+
+<p> <p>
+<a href="http://advogato.org/person/chalst/diary.html?start=88">
+chalst</a> - Neo-Tech is not a cult, albeit it may seem so
+under first impressions. Neo-Tech is in fact, an extension of Objectivism that also integrates
+such fields as Psychology or Business Management into one great integrated whole. Perhaps, its main step forward from traditional Objectivism is the fact that it recognizes that achieving bilogical immortality by technological means is a desirable goal. If you read the book of Ecclestias, you know that everything is meaningless because no matter what you do, and how good or bad you are, you will die eventually. Well, with biological immortality, everything becomes meaningful again.
+
+
+<p> <p>
+BTW, you're the first person who have known Neo-Tech before that I encountered when telling people about it. When people ask for my philosophical/political orientation I usually say
+I'm an Objectivist because there's a greater chance of people knowing what I'm talking about. (albeit in Israel, sadly, it is small as well.)
+
+
+<p> <p>
+In any case, what did you think of my article? (I presume you read it, because Neo-Tech was mentioned there.) BTW, it seems that the Neo-Tech material was pulled off the web a
+few days ago. I think it's a grave mistake on part of the 
+Neo-Tech proprietors because it was a very useful resource,
+and you cannot do without a good web-presence nowadays. Maybe I'll write them about it.
+
+
+
+2003-09-12 17:36:27

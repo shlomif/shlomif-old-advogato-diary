@@ -1,0 +1,34 @@
+<p>
+Yesterday I saw part of "The Tick" and a very good episode
+of "Whose Line is it, anyway?". I did not have the mental power to watch "Just Shoot Me" and "Third Rocks from the Sun", which I also like a lot.
+
+
+<p> <p>
+Spent some time, today and yesterday hacking on the Freecell Solver architecture document. I covered a summaries of most of the modules in it, but I still have a lot to go. And then I have to convert everything to DocBook/XML.
+
+
+<p> <p>
+I started to convert my home-site to a more organized WebMetaLanguage-based one. So far the makefile gave me a lot of troubles, but now I can preprocess the first file and will continue to convert, validate and correct the pages one by one.
+
+
+<p> <p>
+I need to find a way that my firewall will stay active and 
+only allow connections to the HTTP port. Some IP-Tables playing is in order.
+
+
+<p> <p>
+Michal (my sister) received another CS assignment: to compute the sine from its Taylor series. So I explained to her about using the existing term to get the next term, and summing this up. She tried it on the input 30, and was distressed it did not work. Then I told her it's in radians and should only work for -pi to pi or so. (0.2 worked fine).
+
+
+<p> <p><b>A Year Off from the Technion</b>
+
+<p> <p>
+I decided to take a year off from the Technion. I'll spend it to hack on my software projects, work on my stories (I'm flooded with ideas), maintain sites, and hopefully work in someplace interesting. (I'm currently job hunting, and would prefer a half-time job)
+
+
+<p> <p>
+I worked on projects in the last two summer semesters, so I feel I don't have any inertia left. I like the courses I took this semester, even very much, but the homework simply scares me. Being free from having to dedicate an varying amount of attention to the Technion, would be a breath of fresh air and just what I'll need.
+
+
+
+2002-11-16 10:55:24

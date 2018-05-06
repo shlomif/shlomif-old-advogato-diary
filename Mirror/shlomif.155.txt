@@ -1,0 +1,47 @@
+<p><b>Studies</b>
+
+<p> <p>
+We presented the Software Systems project on its lesson on Tuesday. The
+presentation went very well, and the lecturer was impressed from both
+our project and the project of the other team. We'll have to see which
+team will win, but even the losers get a score of 95 or so.
+
+
+<p> <p>
+Other than that I attended the final class hours for the subjects for
+this semester, and worked on the Financial Management homework. Evidently,
+it turned out that its solution was posted for us on its site. The semester
+is ending, and now the tests period start. I have a test of Financial 
+Management on Sunday, and afterwards a long break (two weeks IIRC) before the
+next test.
+
+
+<p> <p><b>Hacktivity</b>
+
+<p> <p>
+Nothing much. (that's being in the Technion for you). I worked a bit
+on Quad Pres while being at home (and discovered that I can use relative
+paths for the directories in its <tt>quadpres.ini</tt> file.). Other than
+that I created a <a href="http://search.cpan.org/search?query=bundle-zavitan&mode=all">Bundle::Zavitan</a> bundle on CPAN to install all the modules needed
+by the seminars management project.
+
+
+<p> <p><b>Haifux Meeting</b>
+
+<p> <p>
+On Monday, Shachar Shemesh gave an entertaining talk about 
+<a href="http://www.winehq.org/">WINE</a>. There were a few glitches during
+the demonstrations, but they were expected. It was fun meeting all the
+people again.
+
+
+<p> <p><b>Reading</b>
+
+<p> <p>
+In the SVG Programming Book, I finished everything up to the chapter about
+SVG animations. I covered all the static SVG stuff, and am now starting
+to read the dynamic SVG functionality.
+
+
+
+2003-06-25 14:54:55

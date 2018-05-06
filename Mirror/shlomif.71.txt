@@ -1,0 +1,20 @@
+<p><b>Translation</b>
+
+<p> <p>
+I finished translating the first two chapters of CatB. Then, someone sent me the translation of the third chapter. It was not of the highest quality, but copying it manually and fixing it as I go was still much faster than translating it on my own. Good thing I have a 19" display here at the Technion.
+
+<p> <p><b>Univ Project</b>
+
+<p> <p>
+Roy and I made good progress yesterday. We have most of the seminars logic working as we want it, except for associating and disassociating seminars, which we only barely started. (right now I think that what we started doing was not a very good UI design and should be done otherwise).
+
+<p> <p>
+I scheduled with Roy today at 12:30. We'll have to finish close to 18:30, because there's a club meeting today about the "Welcome to Linux" series.
+
+<p> <p><b>Freecell Solver</b>
+
+<p> <p>
+Freecell Solver now cleans up an instance in a sequence before moving to the next. I also added support for extended freecell numbers in the standard notation. I wanted to add some implied flags, but it turned out not too many of them made much sense, so I think I ended up adding one. Oh well.
+
+
+2002-08-26 06:18:56

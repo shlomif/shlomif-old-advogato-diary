@@ -1,0 +1,63 @@
+<p><b>Exercising</b>
+
+<p> <p>
+My bike broke again last Friday, which made it impossible 
+for me to ride them in the further part of the weekend. This 
+has finally convinced my father to buy me a new bicycle. 
+
+
+<p> <p>
+My father and I went on a hiking trip on Saturday. We walked
+in a narrow water-less channel, which did not have too many flowers
+or interesting trees. The road up to it looked nicer than the 
+road inside, IMO, but it was good to have a trip back again.
+
+
+<p> <p>
+It's been constanly raining here since the weekend, so I could 
+not jog even assuming I would want to do that. Maybe, I'll go to the
+gym today, or tomorrow...
+
+
+<p> <p><b>Technion Courses</b>
+
+<p> <p>
+Things are not going very well with Game Theory and with 
+"Intro to Thermodynamics and Statistical Physics". In Game Theory
+I missed a few lectures due to these wretched Real-Time DSP experiments
+and was not very successful in solving the home exercises on my own.
+In Thermo, I missed a few lectures and T.A. sessions and also have a 
+learning gap.
+
+
+<p> <p>
+I called a tutor for Thermo and he said he was busy this week and 
+that I should phone him on Thursday. There are no tutors for 
+Game Theory unfortunately, but I'm going to consult with the lecturer
+today about the situation.
+
+
+<p> <p><b><a href="/proj/FCFS%20RWLock/">FCFS RWLock</a></b>
+
+<p> <p>
+I hacked on it a bit in the past few days. Right now there is a 
+working man page with many aliases for every function it contains. Took me some 
+Autotools games to put the man page on a separate directory.
+
+
+<p> <p>
+I also combined release_write() and release_read() into one function.
+
+
+<p> <p><b>Misc Stuff</b>
+
+<p> <p>
+vipe.technion.ac.il has been inaccesible for some time but is now. 
+I wonder why does the dorms network causes me so much trouble.
+
+
+<p> <p>
+I forgot my cell-phone at home. At times, I feel the urge to call people
+using it. Maybe I'm becoming too technocratic...
+
+2002-01-09 13:04:24

@@ -1,0 +1,40 @@
+<p><b>Ceritification</b>
+
+<p> <p>
+I certified <a href="/person/Liedra/">Liedra</a> to Journeyer because of her work as a Freshmeat editor. To learn how I became knowledgable
+about this fact - read on.
+
+
+<p> <p><b>irc.kernelnewbies.org #offtopic fun</b>
+
+<p> <p>
+I met <a href="/person/Liedra/">Liedra</a> and <a href="/person/mulix/">mulix</a> on channel #offtopic on irc.kernelnewbies.org. We and some other people had a lot of funs. Things we discussed include:
+
+
+<p> <ol>
+<li>The "I Love Lucy" show.
+<li>My criticism of "The Encouraging Women in Linux HOWTO" (but not too much, luckily)
+<li>Life as a Freshmeat editor
+<li>The fact that of any given category you can find a lot of junk there and only a few useful programs.
+<li>The newly created syscalltrack-webist mailing list and various related procmail issues
+<li>Functional Programming in Haskell, Scheme/LISP and Perl and why closures, continuations, evals and lambda calculus are not FP. (at least not according to a certain "wli" character. There seems to be an Advogato profile of that, and he is a Linux hacker).
+<li>"Category Killers" and why some categories are not killed by anything.
+<li>My idea regarding a Freshmeat equivalent for Stories and other non-programming related writings. Liedra did not read it originally. I talked with a few people and one chatted with me in a private channel and gave me some useful ideas.
+
+</ol>
+
+<p> <p>
+All in all, a healthy dose of almost useless conversation. I like IRC sometimes, but it is so addictive that in the days I'm immersed into it, I can hardly get any work done. But who is John Galt?
+
+
+<p> <p><b>Women in Linux Update</b>
+
+<p> <p>
+There is no update regarding the Haifux cabal issue. I did spent a substantial amount of time responding to posts I receive from the
+LinuxChix-issues mailing list. I found out the HOWTO was originally intended for men, and a similar HOWTO for women is in the works. I'm encouraged to hear that. I'll post a summary and new conclusions after my INBOX will no longer be filled with incoming messages.
+
+
+<p> <p>
+In any case, the discussion brought some very interesting issues. For instance, can an active member of a LUG ask a fellow woman LUG member out after she has been to ten LUG meetings and got to know everybody? Someone there, actually claimed he can't. My reductio ad absordum was naturally asking: where else can I ask a girl out? Maybe not even in a bar...
+
+2003-01-07 17:45:49

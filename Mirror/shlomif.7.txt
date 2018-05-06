@@ -1,0 +1,37 @@
+<p>
+Roy (my partner for the IP-Noise project) and I spent
+the weekend working on the project. We finished writing 
+the perl arbitrator, and started converting it to C. We 
+are giving a presentation about it this Tuesday.
+
+
+<p> <p>
+I've been playing "Simple Simon" in 
+<a 
+href="http://wildsau.idv.uni-linz.ac.at/mfx/pysol/">PySol</a> 
+a lot lately. I 
+am thinking of adapting Freecell Solver so it would be 
+able to solve "Simple Simon" games too, but so far the 
+code is in very preliminary stages.
+
+
+<p> <p>
+There's a meeting of the Haifa Linux Club today. We're 
+going to have a short lecture about KickStart, and then 
+discuss the R2L project, the Welcome to Linux series and 
+other such stuff.
+
+
+<p> <p>
+Now, back to IP-Noise. My partner and I required a C 
+implemntation of a Readers/Writers Lock for the POSIX 
+threads library. We tried searching for it in Google, but 
+could not find anything relevant. Eventually, I remembered 
+the <a href="http://zthread.sourceforge.net/">ZThreads 
+library</a> which has an implementation of it in C++. I 
+spent some time yesterday converting it to ANSI C and it 
+seems to work nicely, at least for our needs.
+
+
+
+2001-09-10 06:06:20

@@ -1,0 +1,108 @@
+<p><b>GNOME</b>
+
+<p> <p>
+In order to help keep balance in the force I decided to 
+switch to using GNOME for a while after a long time when I 
+used KDE 2.x. Nautilus is not so bad, for selecting mp3s 
+for playback after I turned off the automatic previewing 
+of files. What did cause me some problems were the 
+Netscape fonts.
+
+
+<p> <p>
+I tried to set the Fantasy and Cursive fonts (whatever 
+they are) to something nicer than Courier New, but it 
+turns out Netscape 6.2 gives a long list of fonts, with a 
+very slow scrolling mechanism. I tried Galeon instead - it 
+has the Gtk+ font selection dialog (yey!) but crashed 
+after I tried to set the fonts. It's version 0.12.1 so 
+maybe I should upgrade.
+
+
+<p> <p>
+End of story: I'm writing this entry on Konqueror running 
+on top of a GNOME desktop as I speak. Konqi usually brings 
+up half of KDE with it, so thanks God I have 320 MB of RAM.
+
+
+<p> <p>
+Aside from that, GMC and Nautilus put together seem to 
+clatter my desktop with icons, but since I don't use the 
+desktop icons much, it's not a major concern.
+
+
+<p> <p><b>IP-Noise Project</b>
+
+<p> <p>
+I discovered that there is a readers/writers lock 
+mechanism that can be used inside the Linux kernel. Check:
+
+
+<p> <p>
+<a 
+href="http://www.lisoleg.net/doc/Kernel-Hacking-HOWTO/kernel-hacking-HOWTO-5.html">
+http://www.lisoleg.net/doc/Kernel-Hacking-HOWTO/kernel-hacking-HOWTO-5.html
+</a>
+
+
+<p> <p>
+This is good news because so far we defaulted on a mutex, 
+which could have been inefficient in an SMP machine.
+
+
+<p> <p>
+Otherwise, I made some minor improvements to the code and 
+documentation - mostly adding comments and the such. I 
+think Roy and I should hand the document to Lavy as it is, 
+so he can review it and hopefully we will get the final 
+report over with. Or the worst case is that we will have 
+to write a very detailed (and IMO useless) architecture 
+document.
+
+
+<p> <p><b>The EE-Lab 2 Experiments</b>
+
+<p> <p>
+In "Electrical Engineering Lab 2", Technion students need 
+to choose 3 experiments from a list of about 20, perform 
+them (with the help of an instructor), and hand  reports 
+on them. Usually there are two meetings so sometimes we 
+have a preliminary report for the first meeting, a summary 
+report for the first meeting, a preparation report for the 
+second meeting, and a final report that should be handed 
+after the second meeting. %-)
+
+
+<p> <p>
+Two of Eran's and mine experiments: Image Compression and 
+Wavelets went very well. (in the second Wavelets meeting, 
+the instructor was not present, but Eran and I managed to 
+finish the experiment after just two hours anyway.) The 
+"Real Time Digital Signal Processing" one however was not 
+the case. Eran and I set a Technion precendent by leaving 
+the first meeting in the middle and declaring that we wish 
+to give up on the experiment. It turned out to be 
+impossible, so we were scheduled a different meeting.
+
+
+<p> <p>
+The second meeting took place last Wednesday and the 
+second take of the first one a week earlier. We finished 
+what we had to do (with a lot of help from the instructor) 
+, but otherwise it did not went too well. Eran wants to 
+get the final report over with ASAP, so he forced me to 
+get to the Technion early today (from Tel Aviv) and work 
+on it in the morning. Good thing that I wook up at 5:15 AM 
+today.
+
+
+<p> <p>
+Eran said, that if anyone proposed to give him 55 in that 
+experiment, he would take it. (and I second that) He also 
+said that he also does not mind giving up the experiment 
+and even this entire take of "Lab 2". I said that we 
+should at least give our best shot at "Real-Time DSP" 
+before we give up.
+
+
+2001-12-23 04:05:36

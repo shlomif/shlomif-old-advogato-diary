@@ -1,0 +1,21 @@
+<p><b>Freecell Solver</b>
+
+<p> <p>
+Freecell Solver 2.7.19 is now the release candidate for 2.8.0, and the only major thing left to do is get the Debian and the Win32 building right. I worked on the help screens (--help-options, --help-summary, etc) and documented the new flags.
+
+<p> <p><b>Biking</b>
+
+<p> <p>
+Yesterday I was able to finish my ride in 53 minutes. Usually it takes an hour and 15 minutes or so. Of course, I put a lot of effort into making the ride as quick as possible.
+
+<p> <p><b>Packaging</b>
+
+<p> <p>
+It all started out when I realized I can no longer compile the Perl SRPMS of Mandrake Cooker. This placed me into an upgrade frenzy of trying to remedy the situation. Eventually, it turned out that I upgrading Perl to 5.8.0 solved the problem, but with it I was left with a lot of broken dependencies.
+
+<p> <p>
+I eventually compiled from the SRPM rpm itself, perl, many perl modules (and I still have to compile others), urpmi and friends, curl, harddrake and related HW-tools, Vim, Perl/Gtk, openldap, Apache and friends, OpenSSL and mod_ssl and SDL. SDL involved hugely tempering with ALSA, which refused to be built out of the box.
+
+<p> <p>
+Now I have a mostly functional system, whose only visible problem is the fact that I cannot seem to run DrakConf. And now I can install Perl SRPMS from Cooker. But, so far I spent two days on this mess. Geeze...
+2002-09-06 23:10:06

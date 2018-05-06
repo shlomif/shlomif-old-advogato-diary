@@ -1,0 +1,40 @@
+<p><b>Studies</b>
+
+<p> <p>
+I got 93 as the final score of Financial Management. (yay!). OTOH, I did not 
+do too well in the last exercise of Micro-computers. I'll have to see the
+T.A. about it. I also solved some exams for the "Intro to Software Systems" 
+test and prepared part of the next Micro-computers exercise.
+
+
+<p> <p><b>Hacktivity</b>
+
+<p> <p>
+I provided fixes for two Subversion bite-sized tasks. I also worked on the
+<a href="http://terje.perlgolf.org/?40">latest Perl Golf contest - Mathematical
+    Forest</a> - what a delightful waste of time.
+
+
+<p> <p><b>GnuPG</b>
+
+<p> <p>
+I needed to get a password from someone, who refused to talk on the phone
+for some reason. So I eventually opted to generate a PGP public key and
+transfer it to him, so he can send me the password encrypted. This is the
+first time, I'm seriously using PGP/GnuPG for a long time now.
+
+
+<p> <p><b>Forums, Forums, Forums</b>
+
+<p> <p>
+I don't like the fact that PostNuke requires registartion and logging in to
+post an article, so I was looking for an alternative forum. While I was,
+I discovered Phorum, which seems to behave very much like the Joel on Software
+web forum. I'll try to install it on my home server and see how it behaves.
+
+
+<p> <p>
+If I like it, I'll install it on the Perl Beginners' site.
+
+
+2003-07-10 17:15:35

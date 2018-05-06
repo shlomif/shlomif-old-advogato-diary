@@ -1,0 +1,78 @@
+<p><b>Rosh Hashana</b>
+
+<p> <p>
+Today is Rosh Hashana - the Jewish beginning of the new year. So, yesterday's
+evening we had a family dinner with the extended family. Unfortunately, many
+people were abroad, and another sub-family were visiting their in-laws. Still
+, it was very fun.
+
+
+<p> <p>
+I also greeted several people in the IRC and in the Linux-IL mailing list. I
+truly hope it would be a good new year with few harms and disappointments
+for everybody benevolent out there.
+
+
+<p> <p><b>DVD Playing (cont.)</b>
+
+<p> <p>
+I downloaded and installed the new version of Ogle from the RPMs/SRPMs I
+found at its site. Now it plays the DVD I tried very nicely, with a much
+better interface than mplayer (or kmplayer for that matter) and with 
+DVD menus and all. Very nice.
+
+
+<p> <p>
+That put aside it seems that mplayer has a bug in relocating the position
+within the film. (it also happens for MPEG films).
+
+
+<p> <p><b>Hacktivity</b>
+
+<p> <p>
+I did some work on Subversion: placed svn-push inside the Subversion 
+repository, created a branch for it for future developments, and clarified
+some things in the mailing list and the IRC.
+
+
+<p> <p>
+Then I took a break and started writing the 
+<a href="http://vipe.technion.ac.il/~shlomif/lecture/Perl/Haskell/slides/">Haskell for Perl Programmers</a> presentation. <a href="/person/wli/">wli</a> helped
+a little after I queried him on the IRC. There are still things I'd like to
+add there, but it's quite OK as it is.
+
+
+<p> <p><b>HTML Blues</b>
+
+<p> <p>
+While working on the presentation, I decided that I want to emulate the 
+&lt;table border="1"&gt; look with CSS. I asked it on the <a href="http://www.webdesign-l.com/">web-design list</a> and someone answere me with a recipe.
+I was able to customize it to emulate Konqueror's look and feel. But then
+when I tried it on the slides, it did not work.
+
+
+<p> <p>
+After a long investigation, I finallly found that if I remove the DOCTYPE
+everything works again. Then I found out that the problem was that my
+selector was <tt>table.border1 &gt; tr &gt; td</tt> instead
+of <tt>table.border1 &gt; tbody &gt; tr &gt; td</tt>. After that was applied
+it was solved in both Konqueror and Mozilla.
+
+
+<p> <p>
+Then someone I consulted with on the IRC reported that it does not work 
+in Internet Explorer. After some investigation, it was discovered that 
+MSIE does not support the child selector (<tt>parent_tag &gt; child_tag</tt>)
+at all. Aaaarrggghhhh! So, now either I make a non-IE compatible site, or 
+switch to <tt>table.border1 td</tt> (which may cause problems in the future),
+or apply class elements to all the &lt;td&gt; tags inside. I can also kidnap
+Bill Gates and threaten to kill him unless Microsoft makes MSIE more standards
+compliant and makes newer versions of it available for
+free download, but that would be too sadistic for my reputation.
+
+
+<p> <p>
+MSIE Die Die Die!!!!
+
+
+2003-09-27 11:15:05

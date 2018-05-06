@@ -1,0 +1,87 @@
+<p><b>Run-Level 5 - Ahoo!</b>
+
+<p> <p> <p>
+I eventually switched my Com-Net computer to Run-Level 5. It
+was more convenient than the screen trick and the sound was
+not disabled after a while. It will be problematic if
+something changes in the system that does not give way to
+run-level 5 so I have to remember to change it back to
+run-level 3.
+
+
+<p> <p> <p>
+The way I see it run-level 5 was introduced for a reason and
+obviously the renegade terminal is a good one for using it.
+
+
+<p> <p> <p><b>Game Theory Exam</b>
+
+<p> <p> <p>
+It could have gone worse but could have gone better. Right
+before the test I discovered that the Math faculty gives the
+students to prove theorems in the test. (from some reason,
+they have an obsession with their students studying anything
+by heart for the exam). 
+
+
+<p> <p> <p>
+When I got the form I discovered that I could not solve one
+question because I could not remember the proof of Nash'
+Theorem. Despite the fact that it was 4 questions out of 5,
+I managed to solve only 2 1/2 since I was a bit drowsy and
+could not concentrate or think very clearly. But it was fun.
+
+
+<p> <p> <p>
+Hopefully, I will get more than 55 as a final score, so Game
+Theory will enter my record. If not, I may have to take the
+second date exam without reviewing the material right before
+the exam too much. (since it falls out after the beginning
+of the semester).
+
+
+<p> <p> <p>
+Of course, for those interested I have an O(1) algorithm for
+finding the proof to Nash' Theorem:
+
+
+<p> <p> <p>
+<i>1. Find the Open University Book (the lecturer should
+have it available).<br>
+2. Open it.<br>
+3. Find the chapter about Nash Theorem.<br>
+4. Copy the proof from it onto the tests' answer sheet.<br>
+</i>
+
+
+<p> <p> <p>
+It is O(1) since the book has a finite number of pages and
+the lecturer should have the book. I thought about writing
+this algorithm in the test sheet, but then I thought better
+of it. I did include one other joke in the test, but it was
+only complementary to the serious answer. (it was that
+p*A+(1-p)*B violates Apple's Patent on Alpha... ;-))
+
+
+<p> <p><b>The Project's Demo</b>
+
+<p> <p>
+The project's demo went very well. We gave it only to Lavy
+and Yoram Yihyie, who is the Com-Net Lab's engineer. Yoram
+Or-Chen, the director of the communications center was not
+present. Yoram Yihyie was very impressed and said the Lab
+can actually make use of the IP-Noise Simulator.
+
+
+<p> <p>
+Naturally, there are still the things that has to be cleaned
+up in the code to make it run on newer kernels. Plus, I'm
+not sure what the implication of the pre-emptible kernel
+would be next. The Linux Kernel changes so rapidly, that
+third-party vendors must sometimes modify their code
+constantly. I wish the situation was a bit different, but
+that's progress for you.
+
+
+
+2002-03-06 04:57:00
