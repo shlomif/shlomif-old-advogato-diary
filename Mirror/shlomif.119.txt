@@ -3,13 +3,13 @@
 <p> <p>
 I left's Graham function alone today... ;-) Instead I began with some work on
 Quad-Pres (my presentation tool) which involved some minor cleanups. After
-breakfast, I discovered it started to rain so I could not go out to bike 
+breakfast, I discovered it started to rain so I could not go out to bike
 today. Instead, I spent some time working on a <a href="http://cvs.berlios.de/cgi-bin/viewcvs.cgi/haifux/haifux/lectures_man/">lecture management system</a>
 for the Haifa Linux Club Home-Site.
 
 
 <p> <p>
-As of today, the situation is, that every lecture has to be placed and 
+As of today, the situation is, that every lecture has to be placed and
 maintained in several pages. I wrote a Perl script and module that will render
 everything based on a set of tables that are updated at one place. Here's what
 sloccount has to say about it:
@@ -47,11 +47,11 @@ Please credit this data as "generated using 'SLOCCount' by David A. Wheeler."
 
 
 <p> <p>
-Afterwards, I spent the late afternoon, vainly trying to re-design the 
+Afterwards, I spent the late afternoon, vainly trying to re-design the
 <a href="http://syscalltrack.sf.net/">Syscalltrack Homepage</a> the
-way I want it while using only &lt;div&gt;'s and CSS 2 for layout. If I 
+way I want it while using only &lt;div&gt;'s and CSS 2 for layout. If I
 had been able to use table tags, I would have finished it in no time. After
-I visited the #html channel on EF-Net I found a site that accomplishes what 
+I visited the #html channel on EF-Net I found a site that accomplishes what
 I wanted to do, but was not able to fully duplicate its functionality. I'll try again later tomorrow, or simply fall back on tables.
 
 
@@ -59,7 +59,7 @@ I wanted to do, but was not able to fully duplicate its functionality. I'll try 
 
 <p> <p>
 I made some progress with "Programming Perl", reading part of the chapter
-about Objects. By reading it, I become familiar with a lot of new tricks 
+about Objects. By reading it, I become familiar with a lot of new tricks
 and new Perl nuances.
 
 

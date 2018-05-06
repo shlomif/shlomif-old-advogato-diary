@@ -1,14 +1,14 @@
 <p><b>GIMP Lecture at Telux</b>
 
 <p> <p>
-I gave a lecture about the GIMP on Sunday to the Tel Aviv Linux club. It 
+I gave a lecture about the GIMP on Sunday to the Tel Aviv Linux club. It
 went pretty well, but there were few people there (less than the previous lecture). Some things sparked a bit of discussion, like whether Graphic Artists can
-learn the GIMP Scripting or do they need something more foolproof. 
+learn the GIMP Scripting or do they need something more foolproof.
 
 
 <p> <p>
 After the lecture I talked to two guys. One of them was a system administrator
-in a high school who converted some of the server infrastructure there to 
+in a high school who converted some of the server infrastructure there to
 Linux, and wanted to conduct an experiment to see if development could be
 taught there.
 
@@ -17,7 +17,7 @@ taught there.
 
 <p> <p>
 I released a new stable version of Quad-Pres, with some critical bug-fixes. The
-problem was that upload did not work, because of a leftover file which was 
+problem was that upload did not work, because of a leftover file which was
 revamped without proper modifications to the rest of the code. So, I added
 some tests and now have some items on my pressing to-do list.
 
@@ -26,26 +26,26 @@ some tests and now have some items on my pressing to-do list.
 
 <p> <p>
 It's finished! Did not take too long at all, but maybe the article was
-just short. I have applied some corrections by going over the translated 
-text. Now I'm looking for someone to go over the translation and 
+just short. I have applied some corrections by going over the translated
+text. Now I'm looking for someone to go over the translation and
 copy-edit it.
 
 
 <p> <p><b>Setting up ViewCVS for Subversion</b>
 
 <p> <p>
-I wanted to set up <a href="http://viewcvs.sourceforge.net/">ViewCVS</a> for 
-the Subversion repository. So I read the install file of ViewCVS from the 
-CVS, and followed it. The first problem I encountered was that 
-<a href="http://www.contactor.se/~dast/svnusers/archive-2003-10/0393.shtml">the 
+I wanted to set up <a href="http://viewcvs.sourceforge.net/">ViewCVS</a> for
+the Subversion repository. So I read the install file of ViewCVS from the
+CVS, and followed it. The first problem I encountered was that
+<a href="http://www.contactor.se/~dast/svnusers/archive-2003-10/0393.shtml">the
     Python SWIG bindings of Subversion refused to install</a>. I received
-a hint in response, which led me to a solution. (an explicit 
+a hint in response, which led me to a solution. (an explicit
 <tt>make install-swig-py-lib</tt> command)
 
 
 <p> <p>
-Then I installed and configured the ViewCVS config files and they refused to 
-work due to an unfound module error. Turns out the problem was that Apache 
+Then I installed and configured the ViewCVS config files and they refused to
+work due to an unfound module error. Turns out the problem was that Apache
 did not pass the <tt>PYTHONPATH</tt> environment variable to the CGI scripts.
 After RTFMing, I found a solution: a simple "PassEnv" directive.
 
@@ -58,7 +58,7 @@ try Chia-Ling Kao's SVN::Web script later on.
 <p> <p><b>Haifux Welcome-to-Linux Preparation Meeting</b>
 
 <p> <p>
-We held a meeting in preparation for the "Welcome to Linux" series. 
+We held a meeting in preparation for the "Welcome to Linux" series.
 <a href="/person/kilmo/">kilmo</a> was there as he returned from abroad, and I was surprised
 to see him there. Here is the <a href="http://www.mail-archive.com/haifux@haifux.org/msg00498.html">summary of the meeting</a> which I took down.
 

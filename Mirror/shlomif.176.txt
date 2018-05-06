@@ -4,7 +4,7 @@
 My father and I set up the new computer. A lot of data was lost and some
 of the backups turned out to be faulty, but we manage. The new computer
 is a spiffy Pentium 4, 2.4 GHz with a GeForce 4 video card, and two 80 GB
-hard-disks with 8 MB Cache. Thus, everything is much faster than before. 
+hard-disks with 8 MB Cache. Thus, everything is much faster than before.
 
 
 <p> <p>
@@ -18,7 +18,7 @@ the Windows system. Now everything feels more or less right.
 Ori drove me there, and we arrived rather early. Later on, other people
 arrived. All in all, it was a nice meeting and the only thing that disturbed
 me was that many of the other attendents were smoking. I ordered a chicken
-salad, which was good, but not too large, so I also ordered a sandwich. I 
+salad, which was good, but not too large, so I also ordered a sandwich. I
 ended up paying 70 shekels for it which is quite a lot.
 
 
@@ -51,7 +51,7 @@ again, and indeed did.
 On the new computer, I had some problems hearing sound. The sound seemed
 to be playing and all the volume controls were correct, but no sound was
 emitted. After consulting people on the IRC and a lot of frustration,
-I was finally <a href="http://plasma-gate.weizmann.ac.il/Linux/maillists/03/09/msg00424.html">able to solve it</a>. What solved it was downloading the 
+I was finally <a href="http://plasma-gate.weizmann.ac.il/Linux/maillists/03/09/msg00424.html">able to solve it</a>. What solved it was downloading the
 updated ALSA drivers from the Intel (the motherboard manufacturer) site,
 and compiling them.
 
@@ -76,17 +76,17 @@ and there were different problems altogether.
 <p> <p>
 I also worked on integrating svn-push into the Subversion repository. I searched
 for a way to build but not install svn-push, and eventually settled on adding
-my own <tt>buildonly</tt> meta-target and adding it to the 
+my own <tt>buildonly</tt> meta-target and adding it to the
 <tt>configure.in</tt> as those targets that are built. I also re-indented
 the code (GNU indent seemed to get most of the job done). The code was not
-commited yet, because I'm waiting to see if people can suggest a better 
+commited yet, because I'm waiting to see if people can suggest a better
 way to modify the build process.
 
 
 <p> <p><b>Kmail</b>
 
 <p> <p>
-It took me exactly 10 minutes to configure Kmail, subscribe to the 
+It took me exactly 10 minutes to configure Kmail, subscribe to the
 Subversion developers' list and send a message with my patch there. Kudos
 to the Kmail team for such a nice product. My only problems with it is that
 when viewing a message, I cannot reply to it from the viewer, and have to
@@ -97,11 +97,11 @@ messages by thread. But all in all, it's a very nice program.
 <p> <p><b>DVD Playing</b>
 
 <p> <p>
-We bought a CD Encoder+DVD Drive for the computer. When playing "Bring it 
+We bought a CD Encoder+DVD Drive for the computer. When playing "Bring it
 On", the DVD installed its own player on the Windows machine, which was
 not as nice as PowerDVD which came with the drive. I tried playing the DVD in Linux. Ogle crashed on me, and Xine refused to play it with some cryptic
 message. mplayer did work (after I found out it needs to be invoked
-with <tt>mplayer dvd://1/</tt>) and kmplayer gives it a half-decent but a 
+with <tt>mplayer dvd://1/</tt>) and kmplayer gives it a half-decent but a
 bit buggy GUI.
 
 2003-09-22 06:15:40

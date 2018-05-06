@@ -5,7 +5,7 @@ My family is connected to the Internet using an ADSL connection, which we are qu
 
 
 <p> <p>
-He did it after he returned home a couple of days ago, and today's morning he decided that we should install it. After re-connecting the various cables to their appropriate places we booted Windows 98, pointed Explorer (my father insisted on not using Mozilla) at the Modem's web-based configuration screen, and configured everything. It did not work at first. However, after I browsed into 
+He did it after he returned home a couple of days ago, and today's morning he decided that we should install it. After re-connecting the various cables to their appropriate places we booted Windows 98, pointed Explorer (my father insisted on not using Mozilla) at the Modem's web-based configuration screen, and configured everything. It did not work at first. However, after I browsed into
 an IP address (of vipe.technion.ac.il), the DNS started working and then everything worked. The situation repeated itself at the laptop, which we connected through the phone-network adapter.
 
 

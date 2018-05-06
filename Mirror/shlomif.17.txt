@@ -1,25 +1,25 @@
 <p><b>Linux Saves the Day</b>
 
 <p> <p>
-Dudu, Eran's friend, recently bought a new computer which came with Windows XP installed. Another friend of 
-both Eran and Dudu installed Mandrake Linux 8.1 there, which I helped configure a bit after it was 
-installed. A couple of days ago, Dudu called me by phone and informed me his Windows won't load (and he 
+Dudu, Eran's friend, recently bought a new computer which came with Windows XP installed. Another friend of
+both Eran and Dudu installed Mandrake Linux 8.1 there, which I helped configure a bit after it was
+installed. A couple of days ago, Dudu called me by phone and informed me his Windows won't load (and he
 blamed it on the Linux). I told him I'll get to him and try to do whatever I can do to help.
 
 
 <p> <p>
-After a long bus ride to the lower city of Haifa, I came to Dudu and checked the computer. The LILO was 
-perfectly fine and indeed booted XP. XP even started to load some files, but then it yelled that something 
-was wrong there. I had no idea how to fix it and Dudu did not have the CD, so I could not re-install it. 
-What I did was mount the XP partition (an NTFS) one on the Linux and back up the important files on a 
+After a long bus ride to the lower city of Haifa, I came to Dudu and checked the computer. The LILO was
+perfectly fine and indeed booted XP. XP even started to load some files, but then it yelled that something
+was wrong there. I had no idea how to fix it and Dudu did not have the CD, so I could not re-install it.
+What I did was mount the XP partition (an NTFS) one on the Linux and back up the important files on a
 different partition.
 
 
 <p> <p>
-The next day Dudu re-installed Windows XP, which naturally run over the boot loader, which made it 
-impossible to boot Linux. While using the phone, I instructed Dudu to insert the first Mandrake CD into the 
-CD-ROM drive, set it as bootable. Then press F1 and quickly type "rescue" at the prompt and press enter. 
-This brings the rescue image. It turned out that it automatically loaded the Linux partition on /mnt. 
+The next day Dudu re-installed Windows XP, which naturally run over the boot loader, which made it
+impossible to boot Linux. While using the phone, I instructed Dudu to insert the first Mandrake CD into the
+CD-ROM drive, set it as bootable. Then press F1 and quickly type "rescue" at the prompt and press enter.
+This brings the rescue image. It turned out that it automatically loaded the Linux partition on /mnt.
 Realizing that, I told Dudu to invoke the following command:
 
 
@@ -28,31 +28,31 @@ Realizing that, I told Dudu to invoke the following command:
 
 
 <p> <p>
-Which is a trick I saw someone do in a Linux Insta-Party. This restored the LILO and Dudu told me he was 
+Which is a trick I saw someone do in a Linux Insta-Party. This restored the LILO and Dudu told me he was
 then able to boot both Linux and WinXP again.
 
 
 <p> <p>
-Note that I'm not entirely sure it's the Linux fault that XP got corrupt. Before I configured it, the Linux 
-did not even mount the NTFS partition much less write to it. And XP is at the moment full of bugs. I advised 
+Note that I'm not entirely sure it's the Linux fault that XP got corrupt. Before I configured it, the Linux
+did not even mount the NTFS partition much less write to it. And XP is at the moment full of bugs. I advised
 Dudu to upgrade to Service Pack 1 as soon as it is available.
 
 
 <p> <p><b>Safe X-Windows Locking in Run-Level 3</b>
 
 <p> <p>
-Runlevel 5 (when X runs automatically) considered harmful, because X-Windows can respond very delicately to 
-hardware changes. However, when using X-Windows on runlevel 3 after it was started using "startx", there is 
-a security breach involved in just locking it. The problem is that a malicious person who has physical 
-access to the computer can press Ctrl+Alt+F1, press Ctrl+C or Ctrl+Z and have access to a shell prompt in 
-which X runs. 
+Runlevel 5 (when X runs automatically) considered harmful, because X-Windows can respond very delicately to
+hardware changes. However, when using X-Windows on runlevel 3 after it was started using "startx", there is
+a security breach involved in just locking it. The problem is that a malicious person who has physical
+access to the computer can press Ctrl+Alt+F1, press Ctrl+C or Ctrl+Z and have access to a shell prompt in
+which X runs.
 
 
 <p> <p>
-I found a way to resolve it by logging into another console and typing "vlock -a", which locks the console 
-and does not allow moving to a different one. This, however, has the unfortunate effect of making the 
-computer unusable, except for remote login. I came up with a better solution, though: run "startx" inside a 
-"screen" session and detach the session. That way, the computer is still perfectly usable. 
+I found a way to resolve it by logging into another console and typing "vlock -a", which locks the console
+and does not allow moving to a different one. This, however, has the unfortunate effect of making the
+computer unusable, except for remote login. I came up with a better solution, though: run "startx" inside a
+"screen" session and detach the session. That way, the computer is still perfectly usable.
 
 
 <p> <p>

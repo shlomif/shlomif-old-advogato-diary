@@ -12,7 +12,7 @@ lessons because I had EE-Lab 2 experiments and my notebook
 is in quite disorder due to my hand-writing. Luckily, I
 bought the Open University's booklets on the subject, and
 after the SICP test, I went over them while solving most of
-the exercises there. 
+the exercises there.
 
 
 
@@ -20,7 +20,7 @@ the exercises there.
 It is possible that the lecturer deviated a bit from what
 was presented in these booklets, because they were not the
 only recommended material for the course. (and are not
-considered the most definite resource on the subject). 
+considered the most definite resource on the subject).
 
 
 <p> <p> <p>
@@ -48,7 +48,7 @@ href="http://plasma-gate.weizmann.ac.il/Linux/maillists/02/02/msg00481.html">Lin
 </a> archives) by eliminating the guifontset variable that
 got in my way. Now, however, it seems that I have to copy or
 cut a variable twice to put it in the clipboard for the
-first time I'd like to copy something there. Copying or cutting 
+first time I'd like to copy something there. Copying or cutting
 once does not seem to do the trick. Refer to <a
 href="http://plasma-gate.weizmann.ac.il/Linux/maillists/02/02/msg00627.html">
 this post</a>.

@@ -1,10 +1,10 @@
 <p> <p><b>Biking</b>
 
 <p> <p> <p>
-After a long of time of not seeing here I encountered the girl^H^H^H^Hyoung 
+After a long of time of not seeing here I encountered the girl^H^H^H^Hyoung
 woman jogger whom I encountered for many times. As usual she was listening using
 some ear-phones to a CD or mp3 player, and as usual she crossed at red lights.
-When we reached the standard friday Flower-stand on the pavement, she began 
+When we reached the standard friday Flower-stand on the pavement, she began
 walking and did not resume running. She is a very fast runner.
 
 
@@ -12,22 +12,22 @@ walking and did not resume running. She is a very fast runner.
 
 <p> <p> <p>
 First of all regarding my status in the Linux club: it is safe and sound, and
-no-one is going to outcast me as I gathered. People just find my opinions 
-unusual which is true. As someone whose philosophy consists of 
+no-one is going to outcast me as I gathered. People just find my opinions
+unusual which is true. As someone whose philosophy consists of
 <a href="http://www.neo-tech.com/">Neo-Tech</a>, <a href="http://directory.google.com/Top/Society/Philosophy/Current_Movements/Objectivism/">Objectivism</a>,
-what ESR said in the Catherdral and the Bazaar series, and many extensions of 
-my own and others, I hold quite unorthodox opinions. I try not to preach 
-them intensively (that's entirely contradictory to general conventions), but I 
-often expresses them.  Then, people complain: "what the hell are you talking 
+what ESR said in the Catherdral and the Bazaar series, and many extensions of
+my own and others, I hold quite unorthodox opinions. I try not to preach
+them intensively (that's entirely contradictory to general conventions), but I
+often expresses them.  Then, people complain: "what the hell are you talking
 about? This does not <b>make sense</b> at all!" And then I can show that they
 are logically deducible from more basic premises.
 
 
 <p> <p> <p>
-I don't see conformism as something which is necessarily beneficial. 
+I don't see conformism as something which is necessarily beneficial.
 Everybody around me use Windows, while I use Linux almost exclusively. This is
 just an example. So, to quote what I said, and is now in <a href="/person/mulix/">mulix</a>
-'s new signature: "My opinions may seem crazy. But they all make sense. 
+'s new signature: "My opinions may seem crazy. But they all make sense.
 Insane sense, but sense nontheless".
 
 
@@ -40,42 +40,42 @@ issues mailing list, the following conclusions were reached:
     The HOWTO was mainly directed at men who wanted to know how they can better
     attract and accept women to take part in their Linux User-Groups. It was
     not intended for women. As such it is OK.
-    
+
     <li>
-    A first draft of a similar guide for women, on how to cope with abuse from 
-    their male peers, is now being written by a distinguished LinuxChix member 
+    A first draft of a similar guide for women, on how to cope with abuse from
+    their male peers, is now being written by a distinguished LinuxChix member
     by the name of Poppy (it is her first name and please don't misspell it).
-    
+
     <li>
-    I still have some problems with the HOWTO, but they are relatively minor. 
-    Namely, I think it was not made clear enough that a similar document for 
-    Women on how to cope with abuse would be written, and that it is intended 
+    I still have some problems with the HOWTO, but they are relatively minor.
+    Namely, I think it was not made clear enough that a similar document for
+    Women on how to cope with abuse would be written, and that it is intended
     for men. Furthermore, it gives too many guidelines, and you can easily not
-    see the forest for the trees. Finally, the claim that a minority of 
-    "abusive" members can reject members from an otherwise perfectly 
+    see the forest for the trees. Finally, the claim that a minority of
+    "abusive" members can reject members from an otherwise perfectly
     enlightened LUG was not something I liked very much. And the only real
     solution is for Women themselves to stay away, ignore, penetrate or
     otherwise cope with the abuse of such minority. After all, despite telling
     blond jokes, a Linux hacker can be a fully capable and sexually enlightened
     person. One member of Haifux externalizes a lot of obsession with sex, but
-    I don't think he is chauvinistic. And he is a very old, knowledgable and 
+    I don't think he is chauvinistic. And he is a very old, knowledgable and
     capable hacker.
-    
+
 </ol>
 
 <p> <p> <p>
-I am sorry if I criticized the HOWTO too harshly, but it was just an opinion I 
-expressed here. Things I say in my diary are subject to change, as everything 
-as I say. (I change my opinions sometimes). I hope no-one was too offended by 
+I am sorry if I criticized the HOWTO too harshly, but it was just an opinion I
+expressed here. Things I say in my diary are subject to change, as everything
+as I say. (I change my opinions sometimes). I hope no-one was too offended by
 it, and I hope the conclusions I reached now are even more enlightening.
 
 
 <p> <p> <p><b>Some other Anecdotes from the "Encouraging Women" Fiasco</b>
 
 <p> <p> <p>
-What happened was that I wasn't subscribed to the mailing list, and the 
+What happened was that I wasn't subscribed to the mailing list, and the
 moderator had to acknowledge each of my reply. Eventually she got tired of
-it altogether, and asked to subscribe without actually receiving messages 
+it altogether, and asked to subscribe without actually receiving messages
 (which was possible using the Mailman interface), I did just that. (from now
 on I'll know to do it in the future). I'll stay being able to post because this
 may come in useful
@@ -84,19 +84,19 @@ may come in useful
 <p> <p> <p>
 One woman kept insisting that she dislikes men trying to hit on her, because it
 happens way too often, and has become annoying. She later said that she hated
-her body, and wish she were not attractive at all and that many women felt the 
-same. This is opposed to me who like my body very much (even though I need to 
+her body, and wish she were not attractive at all and that many women felt the
+same. This is opposed to me who like my body very much (even though I need to
 lose some weight), and feel an ego-boost whenever a woman makes a pass on me, or
 flirts with me. (which does not happen much)
 
 
 <p> <p> <p>
-I claimed that women should be more sexually liberated, be proud of their 
-attractiveness, try to be as attractive to the MOTOS (or the MOTSS, for PC-ness sake), as possible. While they cannot change the fact that men hit on every 
+I claimed that women should be more sexually liberated, be proud of their
+attractiveness, try to be as attractive to the MOTOS (or the MOTSS, for PC-ness sake), as possible. While they cannot change the fact that men hit on every
 female that moves, they can at least treat it like criticism: you receive a lot
 of criticism daily, but most of it is quite useless. However, sometimes it is
-enlightening and causes a shift in opinions or behaviour. If an exceptionally 
-attractive (not necessarily only physically) man hit on them, they should 
+enlightening and causes a shift in opinions or behaviour. If an exceptionally
+attractive (not necessarily only physically) man hit on them, they should
 still be proud. But this is all speculation.
 
 
@@ -106,10 +106,10 @@ still be proud. But this is all speculation.
 
 <p> <p> <p>
 One thing we could not agreed on was this: I said that hitting on a woman on
-the first time she appears at a club meeting was not a nice thing to do. 
+the first time she appears at a club meeting was not a nice thing to do.
 However, I believed that after 5-10 meetings when she gets to know everybody,
 it is perfectly OK for a fellow LUG member to ask her on a date. (not making a
-pass on by any means. A simply suggestion). She claimed this too was 
+pass on by any means. A simply suggestion). She claimed this too was
 illegitimate. I responded like this:
 
 <p> <p> <p>
@@ -122,37 +122,37 @@ date? (reductio ad absordum, if you did not notice)<br />
 
 
 <p> <p> <p>
-I think she was taking it too far. I hope that there will soon be a roughly 
+I think she was taking it too far. I hope that there will soon be a roughly
 equal number of men and women on LUG meetings and they will become a good an
-event to ask somebody out as any. But as she noted, there were appropriate 
+event to ask somebody out as any. But as she noted, there were appropriate
 places and appopriate times.
 
 
 <p> <p> <p>
-Another issue was the etymology of the word "girl". I referred to 
+Another issue was the etymology of the word "girl". I referred to
 <a href="http://www.advogato.org/person/Xantia">Chen Shapira</a> as a girl,
-and was immidiately flamed for using this word, which they claimed was 
+and was immidiately flamed for using this word, which they claimed was
 derogatory. I went on by analyzing every posssible alternative (damsel, maiden, chick, lass, lassie, and even consulted M-W for maid, quail and wench) and
 found none of them to be as good. And "young woman" and "young lady" are two
-words. Ironically, in Hebrew there is a perfectly good word for it - "Bahura", 
-which is the feminine version of "Bahur" (= a guy) with no derogatory 
+words. Ironically, in Hebrew there is a perfectly good word for it - "Bahura",
+which is the feminine version of "Bahur" (= a guy) with no derogatory
 cronations at all.
 
 
 <p> <p> <p>
-Ironically, Chen snapped it me when I told her that I referred to her as girl. 
-"Do I call you Boy by any chance?" (which was what the LinuxChix girl told me). 
+Ironically, Chen snapped it me when I told her that I referred to her as girl.
+"Do I call you Boy by any chance?" (which was what the LinuxChix girl told me).
 Then I said, there wasn't really any appropriate word and we started discussing
 derogatory origins of words in Hebrew and English. I finally asked her if I
-can call her "Hatikha" (a word for female babe in Hebrew, which was not very 
+can call her "Hatikha" (a word for female babe in Hebrew, which was not very
 derogatory). And she said, "if you really think so - fine.". ;-)
 
 
 <p> <p> <p>
 I asked my sister Michal (who is 23 years old) if she is willing that someone
-refer to her as "girl" and she said that it would be perectly OK. Maybe it's 
+refer to her as "girl" and she said that it would be perectly OK. Maybe it's
 because Chen used to be a feminist (or some other women-lib activist) and so
-was still a bit edgy. Michal, OTOH, was never obsessed with women 
+was still a bit edgy. Michal, OTOH, was never obsessed with women
 discrimination, but is still very intelligent and competent.
 
 
@@ -163,26 +163,26 @@ gave me her phone number." Etymology is fascinating. Seriously.
 
 
 <p> <p> <p>
-There was one point where I noted I'll just listen and not contribute much 
+There was one point where I noted I'll just listen and not contribute much
 because it was spending too much of my time and I had plenty of other things to do. I noted that it was nice of my original post in the first place and to
-respond to their comments. But I was not responsible to do it in any way. 
+respond to their comments. But I was not responsible to do it in any way.
 (it was their privilege, not their right).
 
 
 <p> <p> <p><b>The IBM Event and the RMS Dinner</b>
 
 <p> <p> <p>
-Hmmm. So much to tell, but I already spent too much time on this dictionary. 
-I'll tell it some other time. Just a quick note to <a href="/person/mulix/">mulix</a>: I 
-deliberately introduced myself to Ted Ts'O as "Hi! My name is Shlomi Fish. I'm 
-a Linux user and developer who developed Freecell Solver, a program that 
-attempts to solve games of Freecell and occasionaly makes a good job at it" 
-(and that's it). The reason I preferred it over "Hi! Shlomi Fish! &lt;shaking 
-hands /&gt;" is because I knew Shlomi Fish would be just another random name 
+Hmmm. So much to tell, but I already spent too much time on this dictionary.
+I'll tell it some other time. Just a quick note to <a href="/person/mulix/">mulix</a>: I
+deliberately introduced myself to Ted Ts'O as "Hi! My name is Shlomi Fish. I'm
+a Linux user and developer who developed Freecell Solver, a program that
+attempts to solve games of Freecell and occasionaly makes a good job at it"
+(and that's it). The reason I preferred it over "Hi! Shlomi Fish! &lt;shaking
+hands /&gt;" is because I knew Shlomi Fish would be just another random name
 for him which he probably would not remember (I know I wouldn't), and with
 this introduction he can at least associate me with a relatively successful
-open-source project. A purely strategical choice. I'm sure you could have 
-introduced yourself as "Hi! I'm Muli Ben-Yehuda! I work in IBM as well here in 
+open-source project. A purely strategical choice. I'm sure you could have
+introduced yourself as "Hi! I'm Muli Ben-Yehuda! I work in IBM as well here in
 Haifa. You may know me as the Syscalltrack Guy" Nothing wrong with that.
 
 
@@ -190,7 +190,7 @@ Haifa. You may know me as the Syscalltrack Guy" Nothing wrong with that.
 Later on, I met Mr. Ts'o outside and we discussed the possible adoption
 of my "IP-Noise Project" (which is specifically Linux-based), The Ken Thompson
 "Reflections on Trusting Trust" effect, and GNU/Linux on PDAs, home computes
-and stuff. You can ask him for what he thought of me, but he did not seem one 
+and stuff. You can ask him for what he thought of me, but he did not seem one
 bit annoyed by me.
 
 

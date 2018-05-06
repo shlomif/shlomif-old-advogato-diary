@@ -24,7 +24,7 @@ I told her the usual stuff about accessibility to people with disabilities and b
 
 
 <p> <p> <p>
-I told her using Perl or WebMetaLanguage or something similar, she can easily generate HTML without all of its 
+I told her using Perl or WebMetaLanguage or something similar, she can easily generate HTML without all of its
 verbosity and duplicacy. She was intrigued, but naturally
 teaching Perl would take much more work. But it's good to  start with the basics.
 

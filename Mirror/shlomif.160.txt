@@ -1,7 +1,7 @@
 <p><b>Kernel 2.5.75</b>
 
 <p> <p>
-Persuaded by an IRC conversation with <a href="/person/mulix/">mulix</a>, I set out to 
+Persuaded by an IRC conversation with <a href="/person/mulix/">mulix</a>, I set out to
 install the Linux kernel 2.5.75 on my system. The first problem I encountered
 was that the some of the kernel's modules would not compile. To solve it,
 I removed them from the configuration, but they were still enabled by default,
@@ -10,7 +10,7 @@ so it wasn't my fault.
 
 <p> <p>
 Then, after I had the kernel compiled, I tried to boot it only to find a blank
-screen, and some hard-disk activity. It turned out I had to enable some 
+screen, and some hard-disk activity. It turned out I had to enable some
 configuration options that enable the console and stuff. (check
 Dave Jones' <a href="http://www.codemonkey.org.uk/post-halloween-2.5.txt">
     Post Halloween Document</a> for details). Then, the keyboard did not work,
@@ -22,14 +22,14 @@ well.
 Afterwards, I was able to boot it, and use the network and the sound card. But,
 then when invoking the full boot process, I encountered a problem that the
 system won't start. I traced the problem to /etc/rc.sysinit, and by adding a lot
-of echo messages, fixed it for the kernel. Then my system was operational, 
-albeit some of the startup modules did not load and had to be loaded 
+of echo messages, fixed it for the kernel. Then my system was operational,
+albeit some of the startup modules did not load and had to be loaded
 explicitly by me.
 
 
 <p> <p>
-So, X worked, the sound card worked, and the network worked, but I could not 
-get the Nvidia kernel drivers to compile with the new kernel. So I switched 
+So, X worked, the sound card worked, and the network worked, but I could not
+get the Nvidia kernel drivers to compile with the new kernel. So I switched
 back to kernel 2.4.x. I can still boot 2.5.75 if I like, but I don't see much
 reason to.
 
@@ -37,8 +37,8 @@ reason to.
 <p> <p><b>Subversion Hosting</b>
 
 <p> <p>
-I discovered that I could save more space on <a href="http://stalker.iguide.co.il:8080/">stalker.iguide.co.il</a> by deleting the subversion <tt>.a</tt> 
-libraries, and stripping the <tt>.so</tt> ones. 
+I discovered that I could save more space on <a href="http://stalker.iguide.co.il:8080/">stalker.iguide.co.il</a> by deleting the subversion <tt>.a</tt>
+libraries, and stripping the <tt>.so</tt> ones.
 
 
 <p> <p>
@@ -50,9 +50,9 @@ of it.
 <p> <p><b>Studies</b>
 
 <p> <p>
-I took the exam of "Intro to Software Systems" today. It went pretty well and 
+I took the exam of "Intro to Software Systems" today. It went pretty well and
 wasn't very hard. I also handed in the assignment for this subject. Other
 than that, I only have the Micro-computers exam, and the last exercise in it
-to hand. 
+to hand.
 
 2003-07-14 12:57:18

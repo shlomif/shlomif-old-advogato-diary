@@ -3,18 +3,18 @@
 <p> <p>
 My on-going presentation on Perl-Point can be found
 <a href="http://vipe.technion.ac.il/~shlomif/lecture/Pres-Tools/Perl-Point/">
-here</a>. I think I'll throw in a comparison with QuaD-Pres (and possibly 
-Power-Point... ;-)) for good measure. I wrote a shell script to upload 
-everything to the site using rsync. Then I noticed it kept uploading the 
+here</a>. I think I'll throw in a comparison with QuaD-Pres (and possibly
+Power-Point... ;-)) for good measure. I wrote a shell script to upload
+everything to the site using rsync. Then I noticed it kept uploading the
 tar.gz file, because it was kept being generated from scratch.
 
 
 <p> <p>
 Solution: package everything in the makefile, and so if the source files do
-not change, neither would the archive, and rsync would be happy. Thursday is 
+not change, neither would the archive, and rsync would be happy. Thursday is
 going to be a bit ecstatic because I'll return home in the morning (after the
-Linux Day) and go the meeting in the afternoon. Gabor said I can bring the 
-files on a CD-ROM or on a floppy. Hopefully I can just send them to him 
+Linux Day) and go the meeting in the afternoon. Gabor said I can bring the
+files on a CD-ROM or on a floppy. Hopefully I can just send them to him
 beforehand and he'll put them on his laptop. But maybe I should bring a media
 just in case. Better safe than sorry.
 

@@ -18,7 +18,7 @@ for everybody benevolent out there.
 <p> <p>
 I downloaded and installed the new version of Ogle from the RPMs/SRPMs I
 found at its site. Now it plays the DVD I tried very nicely, with a much
-better interface than mplayer (or kmplayer for that matter) and with 
+better interface than mplayer (or kmplayer for that matter) and with
 DVD menus and all. Very nice.
 
 
@@ -30,13 +30,13 @@ within the film. (it also happens for MPEG films).
 <p> <p><b>Hacktivity</b>
 
 <p> <p>
-I did some work on Subversion: placed svn-push inside the Subversion 
+I did some work on Subversion: placed svn-push inside the Subversion
 repository, created a branch for it for future developments, and clarified
 some things in the mailing list and the IRC.
 
 
 <p> <p>
-Then I took a break and started writing the 
+Then I took a break and started writing the
 <a href="http://vipe.technion.ac.il/~shlomif/lecture/Perl/Haskell/slides/">Haskell for Perl Programmers</a> presentation. <a href="/person/wli/">wli</a> helped
 a little after I queried him on the IRC. There are still things I'd like to
 add there, but it's quite OK as it is.
@@ -45,7 +45,7 @@ add there, but it's quite OK as it is.
 <p> <p><b>HTML Blues</b>
 
 <p> <p>
-While working on the presentation, I decided that I want to emulate the 
+While working on the presentation, I decided that I want to emulate the
 &lt;table border="1"&gt; look with CSS. I asked it on the <a href="http://www.webdesign-l.com/">web-design list</a> and someone answere me with a recipe.
 I was able to customize it to emulate Konqueror's look and feel. But then
 when I tried it on the slides, it did not work.
@@ -60,10 +60,10 @@ it was solved in both Konqueror and Mozilla.
 
 
 <p> <p>
-Then someone I consulted with on the IRC reported that it does not work 
-in Internet Explorer. After some investigation, it was discovered that 
+Then someone I consulted with on the IRC reported that it does not work
+in Internet Explorer. After some investigation, it was discovered that
 MSIE does not support the child selector (<tt>parent_tag &gt; child_tag</tt>)
-at all. Aaaarrggghhhh! So, now either I make a non-IE compatible site, or 
+at all. Aaaarrggghhhh! So, now either I make a non-IE compatible site, or
 switch to <tt>table.border1 td</tt> (which may cause problems in the future),
 or apply class elements to all the &lt;td&gt; tags inside. I can also kidnap
 Bill Gates and threaten to kill him unless Microsoft makes MSIE more standards

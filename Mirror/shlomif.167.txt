@@ -11,15 +11,15 @@ time to work on it.
 
 <p> <p>
 I also made progress in translating "Homesteading the Noosphere". A couple
-of people contacted me with corrections to it, and I'm grateful for them. 
-Then, I made the data for my version of the Haifux lectures manager 
+of people contacted me with corrections to it, and I'm grateful for them.
+Then, I made the data for my version of the Haifux lectures manager
 up-to-date with recent lectures.
 
 
 <p> <p>
 Finally I edited the <a href="http://www.wikipedia.org/wiki/FreeCell">Wikipedia
    entry of Freecell</a> to make it less lame and more accurate than it was. I
-   actually woke up in the morning thinking about Wikipedia and whether it 
+   actually woke up in the morning thinking about Wikipedia and whether it
    mentions Freecell, checked it a bit afterwards, and in the evening changed
    it. ;-)
 
@@ -27,7 +27,7 @@ Finally I edited the <a href="http://www.wikipedia.org/wiki/FreeCell">Wikipedia
 <p> <p><b>Reading</b>
 
 <p> <p>
-I read part of the book about Statistical Physics and Thermodynamics I have 
+I read part of the book about Statistical Physics and Thermodynamics I have
 (I'm studying Thermo next semester). I also read the first two chapters
 of "The House of Arden", after being reluctant to read it for a while.
 
@@ -38,7 +38,7 @@ of "The House of Arden", after being reluctant to read it for a while.
 <a href="/person/jlouis/">jlouis</a>, I don't really see free software "monopolies" as
 a bad thing. It takes a lot of time and effort to create quality software,
 and so it make sense one or a few packages will rise above the rest, and
-concentrate most of the effort around them. If we take gcc, for example, 
+concentrate most of the effort around them. If we take gcc, for example,
 then everybody use it because it's a great and trustworthy compiler.
 
 

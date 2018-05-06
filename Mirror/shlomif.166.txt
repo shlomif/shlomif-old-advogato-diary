@@ -1,11 +1,11 @@
 <p><b>Subversion</b>
 
 <p> <p> <p> <p>
-It turned out my updated patch was not <a href="http://www.contactor.se/~dast/svn/archive-2003-08/0403.shtml">acting according to the Subversion conventions</a>. 
-What I did wrong was not create temporary files, and not use the run log 
+It turned out my updated patch was not <a href="http://www.contactor.se/~dast/svn/archive-2003-08/0403.shtml">acting according to the Subversion conventions</a>.
+What I did wrong was not create temporary files, and not use the run log
 mechanism to perform the operations that could be performed with it. So,
 I sat on it on Friday, and wrote an <a href="http://www.contactor.se/~dast/svn/archive-2003-08/0420.shtml">updated patch (revision 5)</a>. This <a
-    href="http://www.contactor.se/~dast/svn/archive-2003-08/0471.shtml">was 
+    href="http://www.contactor.se/~dast/svn/archive-2003-08/0471.shtml">was
     applied</a>, and so I'm happy.
 
 
@@ -45,7 +45,7 @@ that I'm not entirely happy with <a href="http://www.isoc.org.il/fr_reload.html?
 <p> <p> <p> <p>
 A few days ago, I got the same faulty noises when booting the hard disk. A
 reboot did not help, but after I started Knoppix and mounted it, everything was
-fine. Today, the same noises also happened, but this time the system could 
+fine. Today, the same noises also happened, but this time the system could
 load. Hmmm... I think I'll try to buy a new hard disk as soon as I can.
 
 <p> <p><b>Certification</b>

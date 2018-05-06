@@ -11,26 +11,26 @@ a traffic jam and so we were late. The lecture was very nice and interesting,
 and I think I sort of understood how the O(1) scheduler works. I found out
 someone was driving back to Tel-Aviv, but his car was full and I did not
 really know these people, so I decided to go back with Ori (who dropped me
-only on Hertzelia) as well. Ori and I talked with each other on both ways on 
-some interesting subjects. (too numerous to mention). 
+only on Hertzelia) as well. Ori and I talked with each other on both ways on
+some interesting subjects. (too numerous to mention).
 
 
 <p> <p>
 Then there was a Tel-Aviv Linux Club meeting. It was about Apache 2. Eddie
-Aronovich talked at first about "Why Apache?" and then described how to 
+Aronovich talked at first about "Why Apache?" and then described how to
 configure it. I expected the lecture to be about the advantages of Apache 2
 over Apache 1.x, but this was not the case. In any case, Eddie is a good
 lecturer and we certainly enjoyed it, and had some discussions in the middle
-about Apache, IIS, and other stuff. The time of day of this lecture 
+about Apache, IIS, and other stuff. The time of day of this lecture
 sparked a <a href="http://www.mail-archive.com/linux-il%40cs.huji.ac.il/msg33827.html">lively
-    discussion on Linux-IL</a> in which I bashed the long Hi-Tech work-day 
+    discussion on Linux-IL</a> in which I bashed the long Hi-Tech work-day
 that is so prelevant.
 
 
 <p> <p><b>Helping my sister with UNIX</b>
 
 <p> <p>
-My sister, Noa, now takes the Technion "Introduction to System Programming" 
+My sister, Noa, now takes the Technion "Introduction to System Programming"
 course in which they are required to test their exercises on a UNIX system
 (a Solaris box to be exact). To help her get along with it, I tried to
 teach her some UNIX shell, vi and ncftp basics. She did not took my advice to
@@ -39,9 +39,9 @@ with MS DevStudio. But naturally she then had to test it on the UNIX system.
 
 
 <p> <p>
-So I guided her through that as well. What made matters more complicated was 
-that FTP and SSH access to the designated host is blocked by the Technion 
-firewall and we had to login and transfer files through an intermediate host. 
+So I guided her through that as well. What made matters more complicated was
+that FTP and SSH access to the designated host is blocked by the Technion
+firewall and we had to login and transfer files through an intermediate host.
 I tried my best that instead of telling her the commands, I'll tell her what
 needs to be done and so she'll have to recall the right commands herself. I
 wasn't entirely successful.
@@ -63,7 +63,7 @@ it happened, but quite late.
 
 <p> <p>
 Then, I had to manage my way through some telephone and fax red-tape to
-become applicable for the degree (which I hope I can get). Now, it is 
+become applicable for the degree (which I hope I can get). Now, it is
 on the waiting queue to be processed, and the secretary told me to contact
 her a few days from now. Hopefully, I'll get my degree soon.
 
@@ -73,7 +73,7 @@ her a few days from now. Hopefully, I'll get my degree soon.
 <p> <p>
 Pheew... what past few days. First of all, I continued workin on the patch,
 after there was some silence about its specification. Working on the operation
-over WebDAV functionality was very time consuming and involved writing 
+over WebDAV functionality was very time consuming and involved writing
 quite a lot of code. At one point I found myself in need of recording the
 HTTP conversation, and having been unhappy with what tcpdump gave, I used
 Ethereal, which is a great tool and was just what was needed. This helped
@@ -83,26 +83,26 @@ me resolve the bug, but gdb was also of help in other places.
 <p> <p>
 I also wrote more tests to test the functionality of the added product.
 While testing, I ran into a nasty gdb bug, which strangely enough was
-worse in gdb 6.1 than in gdb 6.0. Apparently printing some addresses 
+worse in gdb 6.1 than in gdb 6.0. Apparently printing some addresses
 or variables produced random output while the program run was halted.
-Hopefully, I'll be able to reproduce it with the final version of the 
-patch. 
+Hopefully, I'll be able to reproduce it with the final version of the
+patch.
 
 
 <p> <p>
 Writing the bindings for the custom Subversion protocol was relatively
-easier, because the protocol was simpler, and was not XML-based. After I was 
+easier, because the protocol was simpler, and was not XML-based. After I was
 done, it turned out the conventions of the callback were inconsistent with
 the rest of Subversion. So I redefined the specification to be more so, and
-had to revamp the code somewhat to accomodate for the change. The new 
-conventions actually made the task simpler, but since the code for the 
+had to revamp the code somewhat to accomodate for the change. The new
+conventions actually made the task simpler, but since the code for the
 previous spec was already written, I just removed parts of it.
 
 
 <p> <p>
 Now it's time for the patch to be reviewed. While one developer reviewed
 some relevant parts of it, and another commented on what appeared in the log.
-It was not reviewed entirely. I also have some items on the patch' TODO list 
+It was not reviewed entirely. I also have some items on the patch' TODO list
 which I'd like to ask people about.
 
 
@@ -123,9 +123,9 @@ Now I'm going to faint...
 <p> <p><b>Reading</b>
 
 <p> <p>
-I finished reading <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0618057072/qid=1083438758/sr=1-1/ref=sr_1_1/104-4036651-7656754">Julian 
+I finished reading <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0618057072/qid=1083438758/sr=1-1/ref=sr_1_1/104-4036651-7656754">Julian
     Jaynes' "The Origin of Consciousness In the Breakdown of the Bicameral
-    Mind"</a>. It was very interesting. Now, I started reading 
+    Mind"</a>. It was very interesting. Now, I started reading
 <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0380810336/ref=cm_bg_f_1/104-4036651-7656754">"Feeling Good"</a> again, and now see a lot of things
 I missed or did not read in the first place (can't tell because I don't
 recall them).
@@ -139,11 +139,11 @@ and mailed a check for my payment for my account on stalker.iguide.co.il to
 <a href="/person/nyh/">nyh</a>. Afterwards, he was glad to help me, and enlarged my
 quota. I got the Subversion service back online by compiling and installing
 everything in my home-directory, and restoring the repositories from their
-dumps. 
+dumps.
 
 
 <p> <p>
-Then a problem emerged. There was a hard-disk hardware problem on stalker, 
+Then a problem emerged. There was a hard-disk hardware problem on stalker,
 it went down for a while, and afterwards most of the contents of the disk were
 restored (including my files), but now we have less space, until the disk
 is replaced.
@@ -164,7 +164,7 @@ why it happens.
 <p> <p>
 While I was working on a presentation with Quad-Pres, I noticed that
 it always prepares the "Hard-Disk HTML" version of the lecture after
-every "quadp render". It is supposed to be triggered only by a 
+every "quadp render". It is supposed to be triggered only by a
 "-a" flag. The problem was in a local copy that experienced some
 heavy refactoring lately.
 

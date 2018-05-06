@@ -3,22 +3,22 @@
 <p> <p> <p>
 I wrote some patches to the perlop and perlsyn Perl Man Pages, which I
 sumbitted to perl5-porters and there Michael Schwern and others have revised
-them. The two patches were applied to the bleadperl version. 
+them. The two patches were applied to the bleadperl version.
 
 
 <p> <p> <p>
-I also copy-editted the translation of <a href="http://www.lita.org/Content/NavigationMenu/LITA/LITA_Publications4/ITAL__Information_Technology_and_Libraries/2101_Bretthauer.htm">Open Source Software - A History</a> that was done by 
-Oren Maurer. Finally, I made some modifications to the Haifa Linux Club 
-"Welcome to Linux" lectures that I'm responsible for. There may have been some 
+I also copy-editted the translation of <a href="http://www.lita.org/Content/NavigationMenu/LITA/LITA_Publications4/ITAL__Information_Technology_and_Libraries/2101_Bretthauer.htm">Open Source Software - A History</a> that was done by
+Oren Maurer. Finally, I made some modifications to the Haifa Linux Club
+"Welcome to Linux" lectures that I'm responsible for. There may have been some
 other things, but I don't quite recall them.
 
 
 <p> <p> <p><b>Subversion Woos</b>
 
 <p> <p> <p>
-I upgraded the Subversion at the stalker host, without first dumping the 
-repository. That has put me into trouble, as nothing I tried to resotore 
-the old homepage repository (which was changed since the last backup) 
+I upgraded the Subversion at the stalker host, without first dumping the
+repository. That has put me into trouble, as nothing I tried to resotore
+the old homepage repository (which was changed since the last backup)
 worked. Eventually, I settled on using the few-days-old backup, checking
 out a working copy, and syncing the new working copy in, using a Perl script
 I wrote for the job. Now everything is up again.

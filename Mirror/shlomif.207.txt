@@ -2,45 +2,45 @@
 
 <p> <p>
 The Saturday before the last, my father and I attended the Gilbo'a March. He
-wook me up early, we drove and there and took the short 6 km route. Dad came 
-there with sandals and kept getting stones into his shoes. He also slowed me 
-down quite a bit, and I had to wait for him a lot. As far as food was 
+wook me up early, we drove and there and took the short 6 km route. Dad came
+there with sandals and kept getting stones into his shoes. He also slowed me
+down quite a bit, and I had to wait for him a lot. As far as food was
 concerned, I ate a few apples, a snack, and a hot dog after the March. I don't
 remember my father eating anything at all.
 
 
 <p> <p>
 Anyway, we had a good time. The scenery was beautiful and it was fun walking
-outdoors. I took the book "The qmail Handbook" with me for the ride and read 
+outdoors. I took the book "The qmail Handbook" with me for the ride and read
 it on the way there and back.
 
 
 <p> <p><b>Random Computer Problems</b>
 
 <p> <p>
-When trying to use KAddressbook, I noticed that my distribution lists 
+When trying to use KAddressbook, I noticed that my distribution lists
 disappeared. Turns out it was a change of format, which I had to fix manually.
 Berkeley dbxml caused me more problems, with some obscure exceptions being
-thrown by the C++ code. After contacting a support person of Sleepy Cat, I 
-found out it happened because I was using Xerces-C 2.5.x instead of 2.4.x. 
+thrown by the C++ code. After contacting a support person of Sleepy Cat, I
+found out it happened because I was using Xerces-C 2.5.x instead of 2.4.x.
 Downgrading Xerces-C solved this problem.
 
 
 <p> <p>
-When upgrading some of my Mandrake packages, I noticed that upon invocation of 
-some scanner-related code, the process started to consume all CPU and print 
-some kind of message. This even happened during boot time sometimes. I filed 
+When upgrading some of my Mandrake packages, I noticed that upon invocation of
+some scanner-related code, the process started to consume all CPU and print
+some kind of message. This even happened during boot time sometimes. I filed
 <a href="http://qa.mandrakesoft.com/show_bug.cgi?id=9297">a bug report</a>
-and found out that the problem can be solved by replacing the faulty 
+and found out that the problem can be solved by replacing the faulty
 sane-backends package with its older version (of the Mandrake release). I did
 it and now everything works fine.
 
 
 <p> <p>
-When trying to help Eran, I tried to install the ADSL connectivity as a 
+When trying to help Eran, I tried to install the ADSL connectivity as a
 PPPoE straight to the computer, without the router in between. I was
 not successful, and eventually, decided to revert it. Upon boot, my networking
-was left in a sub-optimal state: there wasn't a /sbin/route route to the 
+was left in a sub-optimal state: there wasn't a /sbin/route route to the
 Internet and the eth0 Ethernet card was enabled. After a lot of head-scratching
 , I was able to solve the problem by removing the S11internet startup script.
 This is a script that starts the Internet connectivity, was enabled by
@@ -50,16 +50,16 @@ the problem.
 
 <p> <p>
 I tried to use drakfont to uninstall several fonts using the command line
-<tt>--uninstall</tt> and it did not work. Nothing happened. I filed 
+<tt>--uninstall</tt> and it did not work. Nothing happened. I filed
 <a href="http://qa.mandrakesoft.com/show_bug.cgi?id=9324">a bug
     report to it</a> and eventually was able to fix it with a small
-patch that took me quite a long time to write. (also available at the 
+patch that took me quite a long time to write. (also available at the
 bug report).
 
 
 <p> <p>
 rpmdrake and MandrakeUpdate converted to using gtk2, so now the buttons
-are in different locations in the message boxes. Thanks to the GNOME HIG 
+are in different locations in the message boxes. Thanks to the GNOME HIG
 (= Horrible Interface Guidelines), I pressed the wrong buttons, but now
 I simply have to take the time to think for a while about that. Wretched
 GNOME developers.
@@ -76,8 +76,8 @@ registered to the web services.
 Finally, now that I'm using KHTML 3.2.x it seems there are some new
 bugs in it. For example, <a href="http://www.catb.org/~esr/writings/cathedral-bazaar/magic-cauldron/">DocBook TOC's are displayed with vertical spaces</a>
 and a <a href="http://use.perl.org/~gabor/journal/">use.perl.org journal
-    is not displayed correctly</a>. Hopefully, I'll find some time to 
-isolate these problems and report them to the KDE bugzilla. Will wonders ever 
+    is not displayed correctly</a>. Hopefully, I'll find some time to
+isolate these problems and report them to the KDE bugzilla. Will wonders ever
 cease?
 
 

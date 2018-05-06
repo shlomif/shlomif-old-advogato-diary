@@ -21,7 +21,7 @@ I now have four subscribers to the book mailing list, and I see some people resp
 <p> <p><b>Freecell Solver</b>
 
 <p> <p>
-By looking at its code, I discovered that the priority queue module could use a lot of optimizations. So I optimized it to death. Later on, I did a lot of clean-ups, and also released version 2.5.36 which aims to be the Release Candidate for 2.6.0. Then I did some more cleanups. 
+By looking at its code, I discovered that the priority queue module could use a lot of optimizations. So I optimized it to death. Later on, I did a lot of clean-ups, and also released version 2.5.36 which aims to be the Release Candidate for 2.6.0. Then I did some more cleanups.
 
 
 <p> <p>

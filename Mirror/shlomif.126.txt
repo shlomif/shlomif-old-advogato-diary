@@ -23,8 +23,8 @@ a good idea I change the relevant places to <tt>const char *</tt>.
 
 <p> <p>
 Since I last updated you, I read several Camel Book chapters. I'm now in the
-middle of Security. Besides that I also started reading the 
-<a href="http://www.namesys.com/whitepaper.html">Namesys Future Vision</a> 
+middle of Security. Besides that I also started reading the
+<a href="http://www.namesys.com/whitepaper.html">Namesys Future Vision</a>
 paper which I've been referred to by several people. I admit that I did not
 fully understand it. And now I also read the latest Linux Weekly News edition,
 and several documents that were referred there.

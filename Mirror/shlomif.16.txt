@@ -1,59 +1,59 @@
 <p><b>Haifux' Meeting</b>
 
 <p> <p>
-The meeting of the <a href="http://linuxclub.il.eu.org/">Haifa Linux Club</a>  
-took place this Monday as usual. This time we had an English speaker who did not know Hebrew well, so the 
+The meeting of the <a href="http://linuxclub.il.eu.org/">Haifa Linux Club</a>
+took place this Monday as usual. This time we had an English speaker who did not know Hebrew well, so the
 lecture was given in English. That's the first time I remember that was the case.
 
 
 <p> <p>
-<a href="/person/mulix/">mulix</a> and <a href="http://users.actcom.co.il/~choo/">Guy Keren</a> gave a fascinating 
-lecture about <a href="/proj/syscalltracker/">syscalltracker</a>. You can find the lecture's slides on-line 
+<a href="/person/mulix/">mulix</a> and <a href="http://users.actcom.co.il/~choo/">Guy Keren</a> gave a fascinating
+lecture about <a href="/proj/syscalltracker/">syscalltracker</a>. You can find the lecture's slides on-line
 <a href="http://linuxclub.il.eu.org/lectures/44">here</a>.
 
 
 <p> <p>
-I thought it was funny that they kept a workaround for a compiler's bug in the code, instead of telling 
+I thought it was funny that they kept a workaround for a compiler's bug in the code, instead of telling
 people to upgrade to a new compiler. I personally would never do such a thing.
 
 
 <p> <p>
-In any case, I finally was able to get acquainated with the famous (or perhaps notorious) 
-<a href="http://harel.org.il/nadav/">Nadav Har'El</a>. Adir Abraham suggested we wage the 
+In any case, I finally was able to get acquainated with the famous (or perhaps notorious)
+<a href="http://harel.org.il/nadav/">Nadav Har'El</a>. Adir Abraham suggested we wage the
 "Technion - good or bad"  war in real-life there, but I decided to skip it.
 
 
 <p> <p><b>Implementation of the log function</b>
 
 <p> <p>
-One side-effect of the lecture was the Muli and Guy said they would like to test their code on an SMP 
-machine. This reminded me that I'd also like to make sure 
-<a href="http://comnet.technion.ac.il/~cn1w02/">IP-Noise</a> is SMP-safe, so the day afterwards I e-mailed 
-Orr Dunkelman, Muli and Guy that I'd like to share the session with them. This sparced a small discussion 
+One side-effect of the lecture was the Muli and Guy said they would like to test their code on an SMP
+machine. This reminded me that I'd also like to make sure
+<a href="http://comnet.technion.ac.il/~cn1w02/">IP-Noise</a> is SMP-safe, so the day afterwards I e-mailed
+Orr Dunkelman, Muli and Guy that I'd like to share the session with them. This sparced a small discussion
 which I will not detail here, but everybody agreed that I could do that.
 
 
 <p> <p>
-In parallel, I tried to find an SMP machine in the Computer Networks Lab. All I could find was an old 
-Dual-Processor SPARC station. There is no problem installing Linux on it, but the IP-Noise code uses an 
-i386-assembler coded implementation of log(x), so I had to adapt it to the SPARC. I tried to look at glibc 
-(from which I took the i386 routine), but could not make heads or tails of it. So I made 
+In parallel, I tried to find an SMP machine in the Computer Networks Lab. All I could find was an old
+Dual-Processor SPARC station. There is no problem installing Linux on it, but the IP-Noise code uses an
+i386-assembler coded implementation of log(x), so I had to adapt it to the SPARC. I tried to look at glibc
+(from which I took the i386 routine), but could not make heads or tails of it. So I made
 <a href="http://plasma-gate.weizmann.ac.il/Linux/maillists/01/12/msg00517.html">
-a post to Linux-IL</a> which sparced (pardon the pun) a very big discussion. It turns out the SPARC's 
-floating-point unit does not have an internal implementation of the log function and one has to code 
+a post to Linux-IL</a> which sparced (pardon the pun) a very big discussion. It turns out the SPARC's
+floating-point unit does not have an internal implementation of the log function and one has to code
 iteratively.
 
 
 <p> <p>
-With some help and input from the Linux-IL'ers, I coded a log() implementation in Perl and then converted it 
-to C. You can find it <a 
-href="http://cvs.berlios.de/cgi-bin/cvsweb.cgi/C/arbitrator/tests/log/portable/?cvsroot=ip-noise">here</a>. 
+With some help and input from the Linux-IL'ers, I coded a log() implementation in Perl and then converted it
+to C. You can find it <a
+href="http://cvs.berlios.de/cgi-bin/cvsweb.cgi/C/arbitrator/tests/log/portable/?cvsroot=ip-noise">here</a>.
 It is not very optimized but it is fast enough for our needs.
 
 
 <p> <p>
-I think it would be a good idea to have a central repository of kernel-compatible C and C++ source code, 
-that kernel developers can use in their modules. That way, the wheel would not need to be coded times and 
+I think it would be a good idea to have a central repository of kernel-compatible C and C++ source code,
+that kernel developers can use in their modules. That way, the wheel would not need to be coded times and
 again.
 
 

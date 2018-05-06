@@ -19,7 +19,7 @@ characters.
 
 
 <p> <p>
-I worked on two other revisions of the macro. In the 
+I worked on two other revisions of the macro. In the
 <a href="http://groups.yahoo.com/group/hackers-il/message/1909">
 third revision</a> everything was fixed except for filenames
 that contain newlines (which are pretty rare as it is).
@@ -29,7 +29,7 @@ that contain newlines (which are pretty rare as it is).
 What I did was copy the line containing the filename into
 a register, duplicate it below, substitute all the single
 quotes with the sequence '\'', copy it into the register
-again. Then, I entered the command line :!xmms '$reg' on the 
+again. Then, I entered the command line :!xmms '$reg' on the
 shell, and afterwards deleted the extra line.
 
 

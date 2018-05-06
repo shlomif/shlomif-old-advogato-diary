@@ -2,7 +2,7 @@
 
 <p> <p>
 Throughout the last couple of days, I settled out on cleaning the
-"Configuration Management : Tools" dmoz category. Now I'm left with 17 
+"Configuration Management : Tools" dmoz category. Now I'm left with 17
 pending links. Man, this takes a lot of time, but I'm almost finished with
 it.
 
@@ -27,12 +27,12 @@ branch.
 <p> <p>
 While looking at the KDE archives, I found out that packages of KDE 3.1-RC5 for
 Mandrake 9.0 were prepared. I decided to install it. The installation went
-quite OK, and my new system is stable. Some bugs were eliminated from 3.0.x 
+quite OK, and my new system is stable. Some bugs were eliminated from 3.0.x
 and some were added (as usual).
 
 
 <p> <p>
-Strangely enough, I found old bug reports of the same bugs in the 
+Strangely enough, I found old bug reports of the same bugs in the
 <a href="http://bugs.kde.org/">KDE bugs tracker</a>, but then realized
 they were very old. So I reported them again.
 
@@ -42,23 +42,23 @@ they were very old. So I reported them again.
 <p> <p>
 Having KDE 3.1 installed made it possible to compile the HEAD branch of kdegames
 from the CVS. Took a bit to install, and the out-of-date makefiles (which I had
-to run automake with) gave me some trouble. Then the DocBook documents 
+to run automake with) gave me some trouble. Then the DocBook documents
 absolutely refused to compile, so I removed their directory from the SUBDIRS
 of the makefile. And naturally, it takes a <b>long</b> time for g++ to compile
 KDE code. At the end of the day, however, I had it built and installed.
 
 
 <p> <p>
-This enabled me to work on kpat and integrate the changes I wanted their. I 
-removed the limitation for game numbers only up to 32,000, and integrated the 
-new Freecell Solver their. gcc was ran with a lot of extra flags (-ansi, 
+This enabled me to work on kpat and integrate the changes I wanted their. I
+removed the limitation for game numbers only up to 32,000, and integrated the
+new Freecell Solver their. gcc was ran with a lot of extra flags (-ansi,
 -pedantic, -Wundef, etc.) and it spewed a lot of warnings and complained about
 many things. Eventually, however, I was able to resolve them.
 
 
 <p> <p>
-Then, while trying to solve a game, I discovered <a href="http://groups.yahoo.com/group/fc-solve-discuss/message/449">a bug in Freecell Solver</a> which forced me to release the 2.8.3 version of it. I fixed it in both CVS branches, and in 
-the KDE integration, and now I'm back on track. What's left to do is to 
+Then, while trying to solve a game, I discovered <a href="http://groups.yahoo.com/group/fc-solve-discuss/message/449">a bug in Freecell Solver</a> which forced me to release the 2.8.3 version of it. I fixed it in both CVS branches, and in
+the KDE integration, and now I'm back on track. What's left to do is to
 hard-code a nice command line preset into kpat, so it will have less unsolvable
 games reports.
 
@@ -73,12 +73,12 @@ and biked in the afternoon. Today seems sunny as well so far.
 
 <p> <p>
 My sister Noa and Dad returned from their trip to England and the States. Noa
-had a surgery which was supposed to handle her over-perspiration problem. 
-They brought a lot of toys, food, books and other stuff. 
+had a surgery which was supposed to handle her over-perspiration problem.
+They brought a lot of toys, food, books and other stuff.
 
 
 <p> <p>
-Michal (my other sister) meanwhile has homework to do. In her "Intro to 
+Michal (my other sister) meanwhile has homework to do. In her "Intro to
 Programming" class, she had to write an C function, that removes a specified
 character from a string. It can be done in O(n) time by keeping two pointers.
 Today, she worked on her Linear Algebra exercises and I also helped her

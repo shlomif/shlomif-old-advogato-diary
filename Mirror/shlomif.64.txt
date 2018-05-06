@@ -1,16 +1,16 @@
 <p><b>Welcome to Linux</b>
 
 <p> <p>
-If you take N Haifa Linux Club activists and ask them what 
+If you take N Haifa Linux Club activists and ask them what
 we should do for "Welcome to Linux" this year, you'll receive N+1 opinions. The discussion that erupted on the mailing list (which I purposely caused) does not seem to have entered into mail-archive yet (possibly because of the DNS problems).
 
 
 <p> <p>
-What I think should be done is simply demonstrate some of the capabilities of Linux. (sort of like Linux in action) I think it is useless to try and teach the basics of Linux in 6 or 7 2-hour sessions, and that we will only lose people that way. 
+What I think should be done is simply demonstrate some of the capabilities of Linux. (sort of like Linux in action) I think it is useless to try and teach the basics of Linux in 6 or 7 2-hour sessions, and that we will only lose people that way.
 
 
 <p> <p>
-Other distiniguished members of the club disagree from various reasons. I still recall the previous "Welcome to Linux" attempts as things we put a lot of work into, were relatively unrewarding as far as the organizers were concerned, and caused us to lose a lot of time which could have been invested in lectures. 
+Other distiniguished members of the club disagree from various reasons. I still recall the previous "Welcome to Linux" attempts as things we put a lot of work into, were relatively unrewarding as far as the organizers were concerned, and caused us to lose a lot of time which could have been invested in lectures.
 
 
 <p> <p>

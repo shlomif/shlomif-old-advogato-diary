@@ -1,74 +1,74 @@
 <p><b>Some Extra thoughts about Human Engineering</b>
 
 <p> <p>
-You may remember my post here in which I preached about the 
-importance of Human Engineering in software. But naturally, 
-good human engineering extends towards other fields. 
-Actually, getting people to know about your OSS project is 
-relatively easy, assuming the project is actively 
-maintained and technically sound. You just post regular 
-updates on Freshmeat, and let Google and the Freshmeat 
-Effect take care of the rest. (just please choose an 
-original name, so you won't clog the whole search like 
+You may remember my post here in which I preached about the
+importance of Human Engineering in software. But naturally,
+good human engineering extends towards other fields.
+Actually, getting people to know about your OSS project is
+relatively easy, assuming the project is actively
+maintained and technically sound. You just post regular
+updates on Freshmeat, and let Google and the Freshmeat
+Effect take care of the rest. (just please choose an
+original name, so you won't clog the whole search like
 Freecell Solver did).
 
 
 <p> <p>
-But the problem is that I'm a writer as well as a 
-programmer, and I'm distressed that 
-<a href="http://t2.technion.ac.il/~shlomif/">my stories</a> 
-did not receive too much attention. But then I remembered 
-how I got the few people who read them to do so: by being a 
-good human engineer. I told them about them, got them 
-interested in them, and got their attention. Until now, I 
-thought the best way to get publicity was to get people to 
-link to me from my site. I did not try too hard doing that, 
-but maybe I should also complement it with a slightly 
+But the problem is that I'm a writer as well as a
+programmer, and I'm distressed that
+<a href="http://t2.technion.ac.il/~shlomif/">my stories</a>
+did not receive too much attention. But then I remembered
+how I got the few people who read them to do so: by being a
+good human engineer. I told them about them, got them
+interested in them, and got their attention. Until now, I
+thought the best way to get publicity was to get people to
+link to me from my site. I did not try too hard doing that,
+but maybe I should also complement it with a slightly
 different approach.
 
 
 <p> <p>
-What I'd like to do is to get people to read them by making 
-them interested in the story: telling them about it, 
-answering their questions about it, and creating a culture 
-of small and dedicated people around it. Chen Shapira told 
-me she had already read "The Enemy and How I Helped to 
-Fight it" (which I wrote) four times or so, while "trying 
-to look for hidden meanings". So she probably likes it. 
-She's also very fond of "The Pope died on Sunday" which is 
-unfinished. If I can create a web culture of people like 
-that, I will eventually get more people to know about the 
+What I'd like to do is to get people to read them by making
+them interested in the story: telling them about it,
+answering their questions about it, and creating a culture
+of small and dedicated people around it. Chen Shapira told
+me she had already read "The Enemy and How I Helped to
+Fight it" (which I wrote) four times or so, while "trying
+to look for hidden meanings". So she probably likes it.
+She's also very fond of "The Pope died on Sunday" which is
+unfinished. If I can create a web culture of people like
+that, I will eventually get more people to know about the
 stories.
 
 
 <p> <p>
-Like I said in the article, good human engineering is more 
-about being polite and friendly, and there are some facts 
-about my Internet presence, which I realized are not good 
-HE. For instance, my homepage does not have a News section. 
-Finding something new there is like "Cherche la Femme" - 
-you have to use a web-diff tool. I think I should put one 
-right between the title and the first &lt;h2&gt; heading. 
+Like I said in the article, good human engineering is more
+about being polite and friendly, and there are some facts
+about my Internet presence, which I realized are not good
+HE. For instance, my homepage does not have a News section.
+Finding something new there is like "Cherche la Femme" -
+you have to use a web-diff tool. I think I should put one
+right between the title and the first &lt;h2&gt; heading.
 (and naturally archive previous news items)
 
 
 <p> <p>
-And another thing: I should create a mailing list for 
-discussing my stories, probably on Yahoo-Groups, this 
-always helps creating a Net culture around something. For 
-the time being, there had been some discussion of my 
-stories on Hackers-IL, the Israeli Objectivism web-forum 
-(which I "terrorized"[1] for a while), and perhaps other 
+And another thing: I should create a mailing list for
+discussing my stories, probably on Yahoo-Groups, this
+always helps creating a Net culture around something. For
+the time being, there had been some discussion of my
+stories on Hackers-IL, the Israeli Objectivism web-forum
+(which I "terrorized"[1] for a while), and perhaps other
 places. But nothing too serious.
 
 
 <p> <p>
-Another problem, which is harder to resolve, is that I 
-write most of my stories in Hebrew, and only when I'm happy 
-with them, I translate them to English. Translating them on 
-the fly is a pain, because I happen to re-write parts of 
-them constantly. Naturally, I'll get a much larger audience 
-had I wrote them in English, but I'm comfortable writing in 
+Another problem, which is harder to resolve, is that I
+write most of my stories in Hebrew, and only when I'm happy
+with them, I translate them to English. Translating them on
+the fly is a pain, because I happen to re-write parts of
+them constantly. Naturally, I'll get a much larger audience
+had I wrote them in English, but I'm comfortable writing in
 Hebrew.
 
 2002-05-10 19:37:18

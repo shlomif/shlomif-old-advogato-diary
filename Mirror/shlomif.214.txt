@@ -10,8 +10,8 @@ it isn't finished, so I'm unwilling to show it to the world at large.
 <p> <p><b>State of the Onion</b>
 
 <p> <p>
-I read Larry Wall's recent 
-<a href="http://www.perl.com/pub/a/2004/08/18/onion.html">State of the 
+I read Larry Wall's recent
+<a href="http://www.perl.com/pub/a/2004/08/18/onion.html">State of the
     Onion</a>. It was very amusing as most of the things that Larry has
 written. I liked it a lot. In any case, he says there that he has been
 hospitalized for a large part of the passing year (but now he is more or
@@ -21,9 +21,9 @@ less OK). I hope Larry will stay in a good physical condition.
 <p> <p><b>Story for the Software Freedom Day</b>
 
 <p> <p>
-I wrote <a href="http://www.whatsup.org.il/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=3480">a 
+I wrote <a href="http://www.whatsup.org.il/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=3480">a
     story about my interaction with Adrian Ettlinger</a> (in Hebrew) for the
-Israeli story contest of the Software Freedom Day. As for activities in this 
+Israeli story contest of the Software Freedom Day. As for activities in this
 day, we wanted to have several stands in various shopping centers, but we did
 not have time to organize anything, because it was on such a short notice.
 I hope we'll have a better luck next year.
@@ -32,7 +32,7 @@ I hope we'll have a better luck next year.
 <p> <p><b>The Olympic Games</b>
 
 <p> <p>
-The Olympic Games are over. Israel has won <a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&amp;cid=1093402929569">its first Gold Medal by Gal Friedman</a>. One thing that impressed me was the speed in 
+The Olympic Games are over. Israel has won <a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&amp;cid=1093402929569">its first Gold Medal by Gal Friedman</a>. One thing that impressed me was the speed in
 which some of the gymnasts moved. They did it very quickly. In any case,
 I did not watch too much of it, and spent most of the time working on the
 computer.
@@ -50,7 +50,7 @@ H::W::sB, sub-classed it and wrote a lot of logic on my own.
 
 
 <p> <p>
-Still, what I have now functions pretty nicely, and I'm making more progress. 
+Still, what I have now functions pretty nicely, and I'm making more progress.
 So I'm a dumb-ass but optimistic.
 
 
@@ -58,7 +58,7 @@ So I'm a dumb-ass but optimistic.
 
 <p> <p>
 I started preparing the <a href="http://shlomif.il.eu.org/lecture/W2L/Blitz/slides/">Blitz lecture</a> for the upcoming <a href="http://www.hackers.org.il/mediawiki/index.php/W2l">Welcome to Linux series</a>. This year, we aim for it
-to be conducted (at least partially) by three clubs (in Haifa, Tel Aviv, and 
+to be conducted (at least partially) by three clubs (in Haifa, Tel Aviv, and
 Jerusalem), and so it requires quite a lot of organization. Aside from the
 lecture, I was also placed in charge of the site.
 
@@ -68,7 +68,7 @@ lecture, I was also placed in charge of the site.
 <p> <p>
 I went with my dad to see Shrek 2 in the cinema. It was very entertaining,
 with a very high-quality animation, and very funny. There are many parodies
-of other films embedded in it. I also finished watching Spiderman 1 in the 
+of other films embedded in it. I also finished watching Spiderman 1 in the
 DVD. It was very entertaining. It seems that I liked most of the Comics-based
 films I have seen.
 
@@ -78,7 +78,7 @@ films I have seen.
 <p> <p>
 I decided to give Mozilla Firefox a try. So far so good. However, after
 downloading the latest 0.9.x release, I encountered a case where installing
-a certain plug-in did not work. This has caused me to try the trunk release 
+a certain plug-in did not work. This has caused me to try the trunk release
 (where some things could not be installed because <tt>install.rdf</tt> was
 not supported.) and one of the branches release (where some things also
 did not work). Eventually, I returned to 0.9.x and managed to install everything
@@ -87,10 +87,10 @@ I needed.
 
 <p> <p>
 Firefox is a better browser than Mozilla Core. It is faster, and gives one
-better control over the extensions and themes. (you can easily update or 
-uninstall them). Very nice. Other than that, I discovered the 
-<a href="http://www.chrispederick.com/work/firefox/webdeveloper/">Web 
-    Developers Extension</a> for Firefox and Mozilla. So far I used 
+better control over the extensions and themes. (you can easily update or
+uninstall them). Very nice. Other than that, I discovered the
+<a href="http://www.chrispederick.com/work/firefox/webdeveloper/">Web
+    Developers Extension</a> for Firefox and Mozilla. So far I used
 the PNH Toolbar, and I must say that the Web Developers Extension gives
 everything PNH gives and more. It also eliminated one thing I used Opera
 for - validating a web page by uploading its content.
@@ -99,13 +99,13 @@ for - validating a web page by uploading its content.
 <p> <p><b>Talash' Mandrake Woes</b>
 
 <p> <p>
-<a href="http://www.livejournal.com/users/talash/">Michael 
+<a href="http://www.livejournal.com/users/talash/">Michael
     Perelmutter (aka Talash)</a> has recently bought a new computer and
 wanted to install Linux on it. He tried Mandrake for a while, then
 SUSE which he decided he liked better. However, SUSE had some problems,
 so he tried Debian, which did not work either. So, he returned to Mandrake.
 Now, when talking to him on the ICQ, I learned that the network card did
-not work (despite having worked perfectly the previous time he installed 
+not work (despite having worked perfectly the previous time he installed
 Mandrake) , and so I dropped by.
 
 
@@ -114,10 +114,10 @@ The first thing I tried was to see if I can configure the card manually
 using /sbin/ifconfig and /sbin/route. This worked perfectly. Then, after a lot
 of tweaking, we realized the problem was that Mandrake was using an "ifplugd"
 thingy to control the card, which was not compatible with it. Quickly setting
-the rather obscure <tt>MII_NOT_SUPPORTED</tt> flag in 
-<tt>/etc/sysconfig/network-scripts/ifcfg-eth0</tt> (not in 
+the rather obscure <tt>MII_NOT_SUPPORTED</tt> flag in
+<tt>/etc/sysconfig/network-scripts/ifcfg-eth0</tt> (not in
 <tt>/etc/sysconfig/networking</tt> as I previously thought) did the trick.
-We then had a problem that <tt>/etc/resolv.conf</tt> was filled with the 
+We then had a problem that <tt>/etc/resolv.conf</tt> was filled with the
 address of the router. This was solved after the correct DNS servers were
 inputted manually, and a reboot.
 
@@ -135,7 +135,7 @@ of Mandrake.
 <p> <p>
 I finished writing another article for O'Reilly-Net. It has good prospects of
 being published, but I did not get any reviews for it yet despite having
-sent it to some of my friends, and the 
+sent it to some of my friends, and the
 <a href="http://www.onlamp.com/">OnLAMP.com</a> editor. If you have some
 spare time and wish to review it, <a href="mailto:shlomif@iglu.org.il">drop
     me an E-mail</a> and I'll send it to you.
@@ -144,18 +144,18 @@ spare time and wish to review it, <a href="mailto:shlomif@iglu.org.il">drop
 <p> <p><b>Events</b>
 
 <p> <p>
-I've been to two Tel Aviv Linux Club meetings. In the first one, 
-<a href="/person/gby/">gby</a> gave a nice presentation about 
+I've been to two Tel Aviv Linux Club meetings. In the first one,
+<a href="/person/gby/">gby</a> gave a nice presentation about
 <a href="http://www.asterisk.org/">Asterisk</a> - an open-source solution
 for managing phone networks. I enjoyed it very much. In the second one,
 <a href="/person/mulix/">mulix</a> and <a href="/person/ladypine/">ladypine</a> gave an entertaining
 and enlightening presentation about the latest developments in the world
 of the Linux kernel, as seen through attendees of the Ottawa Linux
-Symposium. 
+Symposium.
 
 
 <p> <p>
-I just returned from an Israeli Perl Mongers meeting. Uri Bruck gave a 
+I just returned from an Israeli Perl Mongers meeting. Uri Bruck gave a
 presentation about using Perl to automatically fill OpenOffice forms. It was
 very nice. He chose to use XML::Simple, and it reminded me of how much I
 generally hate it. Then Gabor, first explained about the status of the

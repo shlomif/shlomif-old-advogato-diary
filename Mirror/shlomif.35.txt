@@ -17,7 +17,7 @@ concentrate. I should remember to send everything that I
 worked on the Technion back home. Let me se: the LM-Solve
 CVS repository (which I'm sending back and forth), the
 extra-new FCS lecture summary, homework in SICP 2, the
-previous homework in CG... 
+previous homework in CG...
 
 
 <p> <p>

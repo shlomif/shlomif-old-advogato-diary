@@ -8,9 +8,9 @@ partner on Monday to work on the next exercise in that subject.
 
 
 <p> <p>
-On Sunday, I'll meet Ran to work on the "Software Systems" exercise and 
+On Sunday, I'll meet Ran to work on the "Software Systems" exercise and
 project. Last time, we ran into problems and after I talked with the T.A. it
-turned out that we did not enable the interrupts functionality in the 
+turned out that we did not enable the interrupts functionality in the
 simulator. After it was enabled everything worked fine. &lt;sigh /&gt;
 
 
@@ -19,14 +19,14 @@ simulator. After it was enabled everything worked fine. &lt;sigh /&gt;
 <p> <p>
 I was able to get several things done. First I created <a href="http://search.cpan.org/search?mode=all&query=bundle%20quadpres">
     a QuadPres Bundle on CPAN</a> to install the modules it requires. It turns
-out the dependencies of the bundle, are specified in the CONTENTS POD section 
+out the dependencies of the bundle, are specified in the CONTENTS POD section
 in the module, and it took me some time to figure it out.
 
 
 <p> <p>
-I also worked on "use strict"ing the main script of 
-<a href="http://chiqchaq.sourceforge.net/">the Chiq-Chaq Wiki 
-    Implementation</a>. I finished doing this and now I'm going 
+I also worked on "use strict"ing the main script of
+<a href="http://chiqchaq.sourceforge.net/">the Chiq-Chaq Wiki
+    Implementation</a>. I finished doing this and now I'm going
 to fix the HTML to make it validate.
 
 

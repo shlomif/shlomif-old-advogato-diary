@@ -14,7 +14,7 @@ LM-Solve 0.5.4 is now RPM-enabled. I posted an announcement on Linux-IL for peop
 <p> <p> <p><b>Freecell Solver</b>
 
 <p> <p> <p>
-Adrian encountered a different behaviour of presets with 
+Adrian encountered a different behaviour of presets with
 the --prelude feature. Eventually, it turned out that the
 quotes in the preset string confused the command line chopper, as it does not support them. Once removed, it worked the same as for me.
 

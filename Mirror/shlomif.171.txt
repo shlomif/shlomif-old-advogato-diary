@@ -3,7 +3,7 @@
 <p> <p>
 Vipe returned online this morning. After logging in, I discovered that
 some of my mail folders had bootloads of messages which I had to delete,
-and that the mail bounces caused the Mailman-based mailing lists to 
+and that the mail bounces caused the Mailman-based mailing lists to
 make me in "no mail" mode. So I had to cover them and change it back.
 
 
@@ -17,7 +17,7 @@ happy that it's back online.
 <p> <p>
 I wrestled a bit trying to find a solution to get the command line mikmod
 player to play using Artsd. I believed this was the case in Knoppix, but
-then discovered it plays there using OSS. After contemplating coding a 
+then discovered it plays there using OSS. After contemplating coding a
 libmikmod driver for Arts, I found an easier hackish solution:
 
 
@@ -32,7 +32,7 @@ Smile! You're on camera!
 <p> <p><b>Hacktivity</b>
 
 <p> <p>
-I advanced a little in the Hebrew translation of ESR's 
+I advanced a little in the Hebrew translation of ESR's
 "Homesteading the Noosphere". Other than that, after vipe returned, I've
 been looking at <a href="http://subversion.tigris.org/issues/show_bug.cgi?id=854">Subversion Issue 854</a>. The instructions there for reproducing the bug
 worked flawlessly on my computer. So I closed the bug, and sent in a patch
@@ -48,7 +48,7 @@ were interesting but as a whole the book is quite disappointing.
 
 
 <p> <p>
-Finally, I finished "The Art of Unix Programming". Now I'm looking for 
+Finally, I finished "The Art of Unix Programming". Now I'm looking for
 something else to read online.
 
 

@@ -1,14 +1,14 @@
 <p><b>#!/usr/bin/perl</b>
 
 <p> <p>
-A muse fell on me and I wrote the preliminary version of 
+A muse fell on me and I wrote the preliminary version of
 <a href="http://humanity.berlios.de/usr-bin-perl/">
 #!/usr/bin/perl - Episode 1</a>. I really should start using
 source control for this. <a href="/person/nyh/">nyh</a> has made a critique of it after I posted it to Hackers-IL. He had good points (which I taken into account), but was a bit too preachy.
 
 
 <p> <p>
-What people don't understand is that it's better to have 100,000 viewers who know you know what you are saying is true, than 10 million who hear what they want to hear. And #!/usr/bin/perl is about real computer geaks heared from a 
+What people don't understand is that it's better to have 100,000 viewers who know you know what you are saying is true, than 10 million who hear what they want to hear. And #!/usr/bin/perl is about real computer geaks heared from a
 real geak. Who happens to like reading comedy and realism,
 better than Sci-Fi and Fantasy, who is an able humour writer, a good programmer, and who knows how small Info-Tech companies run and should be run.
 <p>

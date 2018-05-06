@@ -1,9 +1,9 @@
 <p><b>Computer Woos</b>
 
 <p> <p> <p>
-My father bought a new hard disk for the Linux, and I picked it up on 
+My father bought a new hard disk for the Linux, and I picked it up on
 Wedensday. After I got home, I installed it, burned the first Mandrake 9.1
-CD and installed it on it. The installation went pretty well, except for 
+CD and installed it on it. The installation went pretty well, except for
 a glitch that the bootloader was installed despite the fact I did not want
 it to be installed. Plus, when I booted the computer it did not work.
 
@@ -12,12 +12,12 @@ it to be installed. Plus, when I booted the computer it did not work.
 Knoppix came to the rescue and I restored the old bootloader and copied
 the new kernel and initrd to my Windows partition. I rebooted, ran loadlin
 and started the new system. It worked. I then spent some time configuring
-it to my liking and restoring my data from a backup CD I made of the 
+it to my liking and restoring my data from a backup CD I made of the
 hard-disk.
 
 
 <p> <p> <p>
-I installed XFS there, and the hard-disk has an 8 MB cache, so everything 
+I installed XFS there, and the hard-disk has an 8 MB cache, so everything
 felt very smooth. However, yesterday when I turned on my computer, it started
 burning inside, and would not boot. My father took it to repair and at
 midday he called me to inform that there was a short-circuit in the video
@@ -41,7 +41,7 @@ the brakes. I'll have to take it to repair after the weekend.
 <p> <p> <p><b>Version Control Comparison</b>
 
 <p> <p> <p>
-I updated the version control comparison to include 
+I updated the version control comparison to include
 <a href="http://www.venge.net/monotone/">Monotone</a> and added a few sections.
 I also fixed the CSS stylesheet a bit. Now it's working perfectly in Mozzila
 , but MSIE 6.0 still ignores the <tt>max-width</tt> property. I also converted
@@ -70,7 +70,7 @@ to do from within the Subversion tree.
 
 <p> <p> <p>
 I only checked that it worked for local <tt>file:///...</tt> URLs. There's
-still some work waiting there, but I'm waiting for my Linux system to 
+still some work waiting there, but I'm waiting for my Linux system to
 be able to work on it.
 
 
@@ -79,7 +79,7 @@ be able to work on it.
 <p> <p> <p>
 There was a Perl meeting yesterday. After I arrived there, I helped Gabor
 shop for snacks and drinks. Then we mingled and had a good time chatting.
-Ran Eilam showed us a relatively large laptop he bought with 1600*1200 
+Ran Eilam showed us a relatively large laptop he bought with 1600*1200
 display, a GeForce 5 card, and a battery life cycle of 1.5 hours. It was
 pretty cool.
 
@@ -102,7 +102,7 @@ to talk about computer devices for blind people.
 <p> <p> <p><b>Reading</b>
 
 <p> <p> <p>
-I read a few chapters off "The House of Arden", and also reading "Writing 
+I read a few chapters off "The House of Arden", and also reading "Writing
 Web Services with Perl", which I took from the perl mongers library. I also
 read David A. Wheeler's <a href="http://www.dwheeler.com/oss_fs_eval.html">
     How to Evaluate Open Source Software</a> article, which is quite good.
@@ -123,7 +123,7 @@ I'm an Objectivist because there's a greater chance of people knowing what I'm t
 
 <p> <p>
 In any case, what did you think of my article? (I presume you read it, because Neo-Tech was mentioned there.) BTW, it seems that the Neo-Tech material was pulled off the web a
-few days ago. I think it's a grave mistake on part of the 
+few days ago. I think it's a grave mistake on part of the
 Neo-Tech proprietors because it was a very useful resource,
 and you cannot do without a good web-presence nowadays. Maybe I'll write them about it.
 

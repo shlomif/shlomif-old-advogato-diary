@@ -12,7 +12,7 @@ have everything that was placed on it (except for a few IRC logs) backed up.
 
 <p> <p> <p> <p>
 With my limited resources, there's not too much I can do. However, I did
-work on the version control systems comparison, and today was able to 
+work on the version control systems comparison, and today was able to
 translate one chapter out of "Homesteading the Noosphere".
 
 
@@ -25,11 +25,11 @@ rides there, could not go eventually, and I preferred not to telecomute
 by public transportation.
 
 
-<p> <p> <p> <p> 
+<p> <p> <p> <p>
 Tomorrow there's a Linux meeting at a cafe in "Yehuda Halevi" St. in
-Tel-Aviv, and I intend to come. Next, I give 
-<a href="http://vipe.technion.ac.il/~shlomif/lecture/Gimp/">a lecture 
-about the Gimp</a> for the Tel-Aviv Linux Club on Sunday. And a week and a 
+Tel-Aviv, and I intend to come. Next, I give
+<a href="http://vipe.technion.ac.il/~shlomif/lecture/Gimp/">a lecture
+about the Gimp</a> for the Tel-Aviv Linux Club on Sunday. And a week and a
 day from then, Aviram Jenik will give a lecture about Spam to Haifux.
 
 

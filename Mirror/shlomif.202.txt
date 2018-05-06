@@ -4,27 +4,27 @@
 <a href="http://www.onlamp.com/pub/a/onlamp/2004/01/29/scm_overview.html">An
     article that I wrote with an overview of Version Control Systems</a>
 got published on O'Reilly's ONLamp.com. I wrote a suggestions to it (with a
-summary, IIRC) to the editors of O'ReillyNet some monthes ago. 
+summary, IIRC) to the editors of O'ReillyNet some monthes ago.
 <a href="/person/chromatic/">chromatic</a> answered me, said he would publish it and asked me
 to write a draft. I wrote a draft and sent it to a couple of people I know
 from the version control business, and they helped me revise and correct it.
-Tom Lord of Arch fame was especially helpful with his commentary, but I 
+Tom Lord of Arch fame was especially helpful with his commentary, but I
 received a lot of useful commentary from other people.
 
 
 <p> <p> <p>
-The published article is not identical to the final draft I have. Some things 
+The published article is not identical to the final draft I have. Some things
 were clearly modified, and I believe that it detracted a lot from the article's
-colour. But whatever. 
+colour. But whatever.
 
 
 <p> <p> <p><b>Studies</b>
 
 <p> <p> <p>
-I have no more lectures and tutorials for this semester. My first test is 
+I have no more lectures and tutorials for this semester. My first test is
 in two weeks, and the next one a few days afterwards, which gives me some time
-to study. I have a lot of material to cover as far as Thermodynamics is 
-concerned, and also need to prepare some material summary pages for 
+to study. I have a lot of material to cover as far as Thermodynamics is
+concerned, and also need to prepare some material summary pages for
 Statistics. (and naturally need to prepare for that too)
 
 
@@ -32,7 +32,7 @@ Statistics. (and naturally need to prepare for that too)
 
 <p> <p> <p>
 It turns out we forgot to include the README in the MANIFEST of WWW::Form 1.13.
-I fixed it along with a test to make sure it won't be neglected. Now, the 
+I fixed it along with a test to make sure it won't be neglected. Now, the
 question is what will make sure the test file will be included there. (Who will
 watch the watcher?).
 
@@ -40,7 +40,7 @@ watch the watcher?).
 <p> <p> <p>
 I also did some refactoring of the code. The original code had a function to
 set all the fields parameters as inputted from the user. I converted it to
-one small loop that calls a function that sets each parameter individually. 
+one small loop that calls a function that sets each parameter individually.
 I thought that was enough to add new parameters for every form field, but then
 thought of a better idea, and so created a function to return them as a hash.
 
@@ -59,7 +59,7 @@ I'm doing test-driven development now, writing tests before writing the code.
 <p> <p> <p>
 I wrote <a href="http://www.iglu.org.il/shlomif/hebrew-xml-in-perl/hebrew-xml-in-perl.html">an article about processing Hebrew with Perl</a> (it's in Hebrew).
 I received <a href="http://www.perl.org.il/pipermail/perl/2004-January/003961.html">some useful commentary on it</a> and revised it accordingly. Now I hope
-it will be published in the <a href="http://code.semuel.co.il/perl/index.html">Perl 
+it will be published in the <a href="http://code.semuel.co.il/perl/index.html">Perl
     and Hebrew page</a>.
 
 
@@ -75,9 +75,9 @@ perfectly.
 
 <p> <p> <p>
 Well, I only played with it a little. I found out it did not have gvim, or joe,
-(guess that if you want to have both GNOME and KDE, you have to give up 
-something), and so it wasn't ideal as a rescue CD. Still, it seems nice. 
-Probably a nice way to introduce Linux for newbies, or install Mandrake for 
+(guess that if you want to have both GNOME and KDE, you have to give up
+something), and so it wasn't ideal as a rescue CD. Still, it seems nice.
+Probably a nice way to introduce Linux for newbies, or install Mandrake for
 them.
 
 
@@ -95,7 +95,7 @@ clicks.  It is so bad, I have to kill the GIMP to release it.
 <p> <p> <p>
 However, Sven Neumann could not reproduce it on his machine, and he claims
 it is a problem in my X server. I tried to disable the Nvidia acceleration,
-but this did not help either. Even a bug fix from Sven to disable the 
+but this did not help either. Even a bug fix from Sven to disable the
 explicit pointer grab did not help. What could be the problem?
 
 

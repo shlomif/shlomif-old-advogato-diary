@@ -4,7 +4,7 @@
 After the test I had a while ago, I received the news that
 my final grade is 88%. IMVHO, I deserve more, but perhaps I
 should have stayed a while in the testing room and gone over
-the test, instead of handing it right away, like I did. 
+the test, instead of handing it right away, like I did.
 
 
 <p> <p> <p> <p>
@@ -71,7 +71,7 @@ quickly. God bless Linux.
 
 <p> <p> <p>
 The code is very stable now, and the soft threads work
-beautifully. Refer to the 
+beautifully. Refer to the
 <a
 href="http://groups.yahoo.com/group/fc-solve-discuss/message/282">
 following URL</a> for more details.

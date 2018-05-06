@@ -2,9 +2,9 @@
 <p><b>Hacktivity</b>
 
 <p> <p>
-Yesterday, I started the morning with giving some final touches to the 
+Yesterday, I started the morning with giving some final touches to the
 lectures' management code, and adding an extra future lecture. Then I went on
-to handle the Syscalltrack homepage, converting everything to table based 
+to handle the Syscalltrack homepage, converting everything to table based
 layout, and handling the various issues <a href="/person/ladypine/">ladypine</a> had with
 it. It took me sometime to understand where things went wrong, but I was
 finally able to.
@@ -13,10 +13,10 @@ finally able to.
 <p> <p>
 Finally, I did some work on Quad-Pres. I encountered a <a href="http://www.mail-archive.com/linux-il@cs.huji.ac.il/msg24052.html">Permissions conflict</a>,
 where I wanted files to be created with a certain group, so they can be
-handled by both the user and the httpd-ran process. Two kind Linux-ILers 
+handled by both the user and the httpd-ran process. Two kind Linux-ILers
 answered to me how I can do that (with two different methods), and one method
-I tried worked so far. (using a <tt>chgrp</tt>-like system call). The 
-<a href="http://www.mail-archive.com/linux-il@cs.huji.ac.il/msg24054.html">other 
+I tried worked so far. (using a <tt>chgrp</tt>-like system call). The
+<a href="http://www.mail-archive.com/linux-il@cs.huji.ac.il/msg24054.html">other
     method</a> seems even nicer, and I'll have to check if it works.
 
 
@@ -30,7 +30,7 @@ and finished the one about Operator Overloading. That's it, I think.
 <p> <p><b>Life</b>
 
 <p> <p>
-There was a strong wind and some raining yesterday, so I could not go out 
+There was a strong wind and some raining yesterday, so I could not go out
 biking again. I stayed at home most of the time, either reading or working
 on the computer. At the evening, I watched "Whose Line is it Anyways?",
 "Just Shoot Me" and "Third Rock from the Sun", which are given on Friday

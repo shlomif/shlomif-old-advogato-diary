@@ -9,7 +9,7 @@ the tests directory, so I released version 0.10.1 as well.
 <p> <p> <p>
 It seems Quad-Pres has disappeared from Freshmeat, possibly because vipe was
 down for a while. (I did not receive an E-mail about it, though). Eventually,
-I registered a project at BerliOS, and now it has <a href="http://quad-pres.berlios.de">a new homepage</a>. So, now Freshmeat points at it and hopefully it 
+I registered a project at BerliOS, and now it has <a href="http://quad-pres.berlios.de">a new homepage</a>. So, now Freshmeat points at it and hopefully it
 would be safer there.
 
 
@@ -17,15 +17,15 @@ would be safer there.
 
 <p> <p> <p>
 Added a few items and corrected some typos in the version control comparison.
-Also, I recommended Subversion in a recent discussion in webdesign-l, and 
+Also, I recommended Subversion in a recent discussion in webdesign-l, and
 someone posted a message that when he tried to install Subversion on Win32,
 it did not work for him.
 
 
 <p> <p> <p>
 To help him and others in the future, I installed Subversion myself on my
-Windows XP laptop, and documented the process. Et voila: 
-<a href="http://better-scm.berlios.de/subversion/Subversion-Win32-Installation-Guide.txt">a 
+Windows XP laptop, and documented the process. Et voila:
+<a href="http://better-scm.berlios.de/subversion/Subversion-Win32-Installation-Guide.txt">a
     Subversion Win32 Installation Walkthrough</a>. Share and enjoy!
 
 
@@ -34,8 +34,8 @@ Windows XP laptop, and documented the process. Et voila:
 <p> <p> <p>
 I'm taking a break from translating "Homesteading the Noosphere" by translating
 the Joel on Software <a href="http://www.joelonsoftware.com/articles/fog0000000348.html">"Rub a Dub Dub"</a> article (to Hebrew, of course. Like I know any
-other language besides that and English well enough.) Here's the 
-<a href="http://t2.technion.ac.il/~shlomif/rub-a-dub/">site 
+other language besides that and English well enough.) Here's the
+<a href="http://t2.technion.ac.il/~shlomif/rub-a-dub/">site
     where I'll put intermediate copies of the translation.</a>
 
 

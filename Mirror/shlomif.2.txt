@@ -1,22 +1,22 @@
 <p>
-Last night there wasn't any episode of "The Gilmore Girls" 
-due to some special about Shlomo Artzi. I was looking 
-forward to it, so I was a little frustrated. Tonight, I 
+Last night there wasn't any episode of "The Gilmore Girls"
+due to some special about Shlomo Artzi. I was looking
+forward to it, so I was a little frustrated. Tonight, I
 had a standard Sitcom + "Whose Line is it Anyway" marathon.
 
 
 <p> <p>
-But back to my open-source activities. I worked on the R2L 
-KDE Applet a bit. The code looks better, but still needs 
+But back to my open-source activities. I worked on the R2L
+KDE Applet a bit. The code looks better, but still needs
 some work.
 
 
 <p> <p>
-Besides that, I managed to get Hebrew LaTeX to work, but I 
-still don't know how to edit it properly with logical BiDi 
-view. Maybe someone will eventually enlighten me about 
-this. I could work on porting gtkbidi to the newest 
-version of Gtk+ 1.2.x. Or I could work on LaTeX on 
+Besides that, I managed to get Hebrew LaTeX to work, but I
+still don't know how to edit it properly with logical BiDi
+view. Maybe someone will eventually enlighten me about
+this. I could work on porting gtkbidi to the newest
+version of Gtk+ 1.2.x. Or I could work on LaTeX on
 Windows...
 
 2001-08-17 18:49:06

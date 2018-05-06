@@ -8,7 +8,7 @@ but did not hear from him since.
 
 
 <p> <p> <p>
-Right now I have homework pending in Financial Management, and in 
+Right now I have homework pending in Financial Management, and in
 Micro-computers. The latter I only have 20% of the score left to do as I
 alredy did the wet part.
 
@@ -25,15 +25,15 @@ information)
 
 <p> <p> <p>
 I gave some touches to the list of mailing lists manager. I had to fix the
-build, and integrated building an RPM Spec. I also worked on Quad-Pres a 
+build, and integrated building an RPM Spec. I also worked on Quad-Pres a
 little. Since I needed to render the presentations into HTML that is
 viewable on the hard-disk, I created a script that does just that. All
 it does is append <tt>index.html</tt> to links to directories. At home
-, I extracted it into a module, and placed it on CPAN. 
+, I extracted it into a module, and placed it on CPAN.
 
 
 <p> <p> <p>
-I called it HTML::Hard::Disk. However, I received a reply to the namespace 
+I called it HTML::Hard::Disk. However, I received a reply to the namespace
 request that was sent to the CPAN module maintainers list, in which someone
 claimed it was not a good name. He suggested HTML::LocalizeLinks, and
 I think I'll go with HTML::Links::Localize.
@@ -47,7 +47,7 @@ probably release a new development version, and announce it on Freshmeat.
 
 <p> <p>
 A certain "hidihi" I talked to on EFnet's #perlhelp IRC channel yesterday, discovered <a href="http://www.xray.mpe.mpg.de/mailing-lists/perl5-porters/2003-06/msg00653.html">a bug in perl</a>. I brought this bug in perl5-porters, and other people there
-also thought it was a bug, and Adrian Enache also gave a patch for it. 
+also thought it was a bug, and Adrian Enache also gave a patch for it.
 
 
 <p> <p>

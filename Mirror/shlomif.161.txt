@@ -1,16 +1,16 @@
 <p><b>Hacktivity</b>
 
 <p> <p>
-My Fix for Subversion Issue #1311 turned out to be faulty, and I discussed 
+My Fix for Subversion Issue #1311 turned out to be faulty, and I discussed
 the best to really resolve it with one of the Subversion developers. Next,
 I provided a <a href="http://www.contactor.se/~dast/svn/archive-2003-07/1322.shtml">fix for Issue #1267</a>
-(have to say "no" several times to reject SSL certificate), which I had to 
+(have to say "no" several times to reject SSL certificate), which I had to
 <a href="http://www.contactor.se/~dast/svn/archive-2003-07/1390.shtml">update</a> after a modification in the Subversion code.
 
 
 <p> <p>
-Next I talked, yesterday, with Ben Collins-Sussman on the IRC about an issue I 
-found in the bugtracker, and he suggested a way to resolve it. So I 
+Next I talked, yesterday, with Ben Collins-Sussman on the IRC about an issue I
+found in the bugtracker, and he suggested a way to resolve it. So I
 <a href="http://www.contactor.se/~dast/svn/archive-2003-07/1407.shtml">
     implemented it and added a new feature</a>.
 
@@ -25,7 +25,7 @@ a core Subversion developer will find the time to review and accept my patches.
 <p> <p>
 I met with my Micro-computers partner on Thursday, and we compared the
 two versions of the exercise that we solved. We shortly came to a combined
-version. Then there was the issue of handing it out which was resolved 
+version. Then there was the issue of handing it out which was resolved
 by me doing so on Saturday, when my parents and I travelled to move things
 out of the apartment (see below).
 
@@ -33,7 +33,7 @@ out of the apartment (see below).
 <p> <p>
 Since I only study on two days in the next semester, and it should be my last
 , we decided to stop keeping the apartment lease in Haifa. So we went there,
-and took our things, and moved them back to Tel Aviv. We took quite a lot 
+and took our things, and moved them back to Tel Aviv. We took quite a lot
 of things and needed a few hours and several transactions to move everything.
 
 
@@ -50,7 +50,7 @@ resolve. Subversion kept rejecting my SSL certificate and asking for
 confirmation. By talking on the IRC with some people, I was finally able to
 resolve this.  Apparently, the problem was that I rsynced the SSL certificates
 from my localhost back to the server, and so ran it over, and invalidated what
-I had in the Subversion configuration.  
+I had in the Subversion configuration.
 
 
 <p> <p>

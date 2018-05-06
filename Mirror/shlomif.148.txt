@@ -31,14 +31,14 @@ I also wrote a DTD for it, and prepared an XSLT stylesheet.
 <p> <p>
 When I tried to view the XML in Mozilla, I got a blank page. I spent the better
 part of yesterday trying to get it to work. The problem turned out to be
-in the "Content-Type" HTTP header that the browser sent for the .xsl file, 
-which wasn't "text/xml" as it should have been. After I fixed it using a short 
+in the "Content-Type" HTTP header that the browser sent for the .xsl file,
+which wasn't "text/xml" as it should have been. After I fixed it using a short
 .htaccess file, it worked perfectly. &lt;sigh /&gt;
 
 
 <p> <p>
-So I filed a <a href="http://bugzilla.mozilla.org/show_bug.cgi?id=204748">bug report for it</a> 
-in the Mozilla Bugzilla but it was closed, because that's what should happen. 
+So I filed a <a href="http://bugzilla.mozilla.org/show_bug.cgi?id=204748">bug report for it</a>
+in the Mozilla Bugzilla but it was closed, because that's what should happen.
 &lt;sigh /&gt; again.
 
 

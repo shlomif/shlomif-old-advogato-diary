@@ -2,7 +2,7 @@
 
 <p> <p>
 My extended family held a Passover Seder last Monday. It was very nice, and
-it featured that in the second part of it my cousin Ronen and his wife came to 
+it featured that in the second part of it my cousin Ronen and his wife came to
 visit. (he and his wife are now staying in Seatlle where he works). He said
 that his work demands long hours, and he works in a company that does all
 kinds of things with computer games.
@@ -17,8 +17,8 @@ there, only to find out it got closed shortly afterwards. So we drove back
 home and this time really lost our way (there were no signs there), but managed
 to get back home. We went to the field north of the neighbourhood. There were
 many blooming flowers there ("Kahvanim" and "Hartzioth" and others which I
-did not know by name). We also noticed the horses farm that was established 
-there. One time I've been there a horse nearly ran over me, which made me 
+did not know by name). We also noticed the horses farm that was established
+there. One time I've been there a horse nearly ran over me, which made me
 unwilling to return. We also visited the Shomronite graves there. So, it was
 very nice.
 
@@ -26,14 +26,14 @@ very nice.
 <p> <p><b>Perl Meeting</b>
 
 <p> <p>
-We held a Perl meeting at April 1st. I wrote <a href="http://www.perl.org.il/kwiki/index.cgi?MeetingReport2004Apr01">a 
+We held a Perl meeting at April 1st. I wrote <a href="http://www.perl.org.il/kwiki/index.cgi?MeetingReport2004Apr01">a
     report of it</a> on the Perl Mongers Wiki.
 
 
 <p> <p><b>Registering to Yahoo Messenger</b>
 
 <p> <p>
-The guy I teach Perl too, only has a Yahoo Messenger and MSN Messenger 
+The guy I teach Perl too, only has a Yahoo Messenger and MSN Messenger
 accounts for IM. So I had to get an account on one of these. I tried to do
 so for both, but with no avail. Eventually I succeeded in making Yahoo work.
 The steps I took were:
@@ -41,12 +41,12 @@ The steps I took were:
 
 <p> <p>
 1. Vainly trying to configure it in gaim.<br/>
-2. Reading the Gaim FAQ, and realizing that I need a newer 
+2. Reading the Gaim FAQ, and realizing that I need a newer
 version of Gaim.<br/>
 3. Downloading the SRPM of the new version of Gaim.<br/>
-4. Trying to install the depedencies, and discovering that they were moved 
+4. Trying to install the depedencies, and discovering that they were moved
 to a different place.<br/>
-5. Reconfiguring the Mandrake sources (which made it download the hdlist.cz 
+5. Reconfiguring the Mandrake sources (which made it download the hdlist.cz
 all over again.)<br/>
 6. Downloading the dependencies.<br/>
 7. Compiling the SRPM.<br />
@@ -75,15 +75,15 @@ I guess I shouldn't try to slashdot an Israeli resource like that again.
 <p> <p><b>Reading</b>
 
 <p> <p>
-I finished reading <a href="http://www.amazon.com/exec/obidos/tg/detail/-/1893115402/qid=1081681896/sr=1-1/ref=sr_1_1/104-6592268-6688741">"The qmail 
-    Handbook"</a> and wrote <a href="http://www.perl.org.il/kwiki/index.cgi?BookReviewTheQmailHandbookByShlomif">a 
+I finished reading <a href="http://www.amazon.com/exec/obidos/tg/detail/-/1893115402/qid=1081681896/sr=1-1/ref=sr_1_1/104-6592268-6688741">"The qmail
+    Handbook"</a> and wrote <a href="http://www.perl.org.il/kwiki/index.cgi?BookReviewTheQmailHandbookByShlomif">a
     review of it</a> to the Israel.PM Wiki. It seems like I was given
-the first edition while there's already a second one. 
+the first edition while there's already a second one.
 
 <p>
 Now I started reading the book <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0618057072/qid=1081682165/sr=1-2/ref=sr_1_2/104-6592268-6688741">"The
     Origin of Consciousness in the Breakdown of the Bicamarel Mind"
-    by Julian Jaynes</a>, a book I have wanted to read for a long time. 
+    by Julian Jaynes</a>, a book I have wanted to read for a long time.
 
 
 <p> <p>
@@ -94,9 +94,9 @@ even.
 <p> <p><b>iglu.org.il</b>
 
 <p> <p>
-I was finally able to enable unregistered users to submit news in 
+I was finally able to enable unregistered users to submit news in
 www.iglu.org.il. This had been a factor that decreased the site's popularity
-in the past after the switch from the Zope and Squishdot framework which 
+in the past after the switch from the Zope and Squishdot framework which
 allowed that. Now, there's a minor problem that no topics appear in the
 topics drop-down, but I haven't figured out how to enable this. Still, it's
 still functional.
@@ -105,16 +105,16 @@ still functional.
 <p> <p><b>Hacktivity</b>
 
 <p> <p>
-Not too much. In Subversion, I started tackling an efficient tracing of the 
+Not too much. In Subversion, I started tackling an efficient tracing of the
 past revision URL from a peg URL and revision. I got halted in the middle
 because I did not know how to design the appropriate protocol over Subversion's
 variant of WebDAV/DeltaV. After a lot of reading and consultation, I was
-able to deduce something on my own, but afterwards C. Michael Pilato gave a 
+able to deduce something on my own, but afterwards C. Michael Pilato gave a
 specification for a different API handler that he'd like to see implemented.
 
 
 <p> <p>
-So, now I'm on the rebound waiting for some Subversion officials to what 
+So, now I'm on the rebound waiting for some Subversion officials to what
 exactly should be done.
 
 
@@ -128,7 +128,7 @@ was time consuming, but now I have very few pending links there.
 <p> <p>
 Google seemed to have lowered the profile of the Google directory. For once,
 it isn't linked to from <a href="http://www.google.com/">the front page</a>,
-or from a search results page. The web-sites that are searched now also 
+or from a search results page. The web-sites that are searched now also
 don't contain the directory's description or links to the category where
 it appears in.
 

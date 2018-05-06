@@ -14,15 +14,15 @@ I started revamping <a href="http://t2.technion.ac.il/~shlomif/">my homepage</a>
 
 <p> <p> <b>MSIE Fork Bomb</b>
 
-<p> <p> 
+<p> <p>
 Last Haifux W2L session (where Guy gave a nice lecture about development tools), Alon demonstrated how a server
 sends a simple text file (with HMTL tags) that Internet
-Explorer thinks is an HTML file, and starts opening an 
-infinite number of Windows. It does not happen with other 
+Explorer thinks is an HTML file, and starts opening an
+infinite number of Windows. It does not happen with other
 browsers who correctly identify the Content-Type header.
 
 
-<p> <p> 
+<p> <p>
 We also mentioned that the Students Association in the Technion site sends an HTML page without a "Content-Type: text/html" header, and so only IE can view it.
 
 <p> <p><b>Freecell Solver Arch Doc</b>

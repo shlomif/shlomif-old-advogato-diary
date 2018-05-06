@@ -5,7 +5,7 @@ Adrian returned from his vacation and reported that the command line chopper did
 
 
 <p> <p>
-I posted a message on Linux-IL, asking how I should render 
+I posted a message on Linux-IL, asking how I should render
 nested navigation bar menus in HTML, in a correct way. I received an answer that it should be done using &lt;ul&gt; and &lt;li&gt; combinations. By playing around with CSS a bit, I was able to build such functionality into the Freecell Solver site, instead of the &amp;nbsp; hack that existed there until now. What I did see trying to look for the answer was that many sites still used &nbsp;'s, whitespaces or images that contained them. That's not good.
 
 

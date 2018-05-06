@@ -2,25 +2,25 @@
 
 <p> <p>
 A conference for promoting Linux in Israel took place in the Hilton Hotel some
-days ago. There had been a lot of buzz about it beforehand, and a lot of 
+days ago. There had been a lot of buzz about it beforehand, and a lot of
 prepartions. I believed I was going to study throughout the entire today, so
 I did not took a very active part. I eventually attended the event from about
 midday, after attending a class in the morning. I must say it went extremely
 well and everybody seemed to think so as well. Hackers and Suits integrated
-nicely to give an exciting yet accurate depiction of the Linux world and 
-potential. The conference was financed by People and Computers and many 
+nicely to give an exciting yet accurate depiction of the Linux world and
+potential. The conference was financed by People and Computers and many
 industrial companies.
 
 
 <p> <p>
 I came mostly to talk to people I know, but also attended a presentation, the
 free software developers panel and the Perl-IL meeting. I bought a Perl in
-Israel T-shirt for 50 NIS, but forgot it there when I exchanged some books. 
+Israel T-shirt for 50 NIS, but forgot it there when I exchanged some books.
 (the Israeli Perl Master have taken it, so I'll get it eventually).
 
 
 <p> <p>
-Refer to the <a href="http://plasma-gate.weizmann.ac.il/Linux/maillists/03/04/threads.html">Linux-IL mailing list archive for April</a> and 
+Refer to the <a href="http://plasma-gate.weizmann.ac.il/Linux/maillists/03/04/threads.html">Linux-IL mailing list archive for April</a> and
 <a href="http://plasma-gate.weizmann.ac.il/Linux/maillists/03/04/msg00319.html">
 my record of it</a>.
 
@@ -28,10 +28,10 @@ my record of it</a>.
 <p> <p><b>Perl Beginners Site</b>
 
 <p> <p>
-My Perl beginners site moved to a more 
+My Perl beginners site moved to a more
 <a href="http://perl-begin.berlios.de/">Permanent Location</a>. As for the
 standard rant+suggestions regarding the suitability of the Perl online world
-for newcomers: I was not happy from most of the comments I received in the 
+for newcomers: I was not happy from most of the comments I received in the
 Advogato post. Most of them beat around the bush in one way or another.
 
 

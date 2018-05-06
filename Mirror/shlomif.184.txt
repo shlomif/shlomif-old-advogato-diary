@@ -2,12 +2,12 @@
 
 <p> <p>
 My first week started quite eventfully. After the day in which I had
-Thermodynamics, which went OK and in which I learned little new things, I 
-went expectedly to the "Automata and Formal Languages" lecture. There, I 
-discovered that "Set Theory and Logic" is a hard pre-requisite for the 
+Thermodynamics, which went OK and in which I learned little new things, I
+went expectedly to the "Automata and Formal Languages" lecture. There, I
+discovered that "Set Theory and Logic" is a hard pre-requisite for the
 course. I talked with the lecturer during the break and he told me that he
 won't allow me to take the course. I asked him why the requisite was so
-important and he said that "You see, we have set theory all over the place". 
+important and he said that "You see, we have set theory all over the place".
 But I did not have a problem to understand what I saw in the first half of
 the lesson!
 
@@ -38,7 +38,7 @@ Am I lame or what?
 
 <p> <p>
 I done a little translation of Homesteading the Noosphere, up to and including
-the end-note about the Fijian Village Chiefs. I also received some corrections 
+the end-note about the Fijian Village Chiefs. I also received some corrections
 about "Rub a dub-dub" which I happily applied.
 
 
@@ -47,16 +47,16 @@ about "Rub a dub-dub" which I happily applied.
 <p> <p>
 I received an E-mail from the guy from whom the guide was intended, telling
 me he failed to install Subversion once again. This time, he did do a step
-he did not do before, but he did not follow the guide exactly (and named a 
+he did not do before, but he did not follow the guide exactly (and named a
 URL differently), so this may be a problem. He said he'll try again later,
-but meanwhile will use CVSNT for the current project. 
+but meanwhile will use CVSNT for the current project.
 
 
 <p> <p><b>grip woos</b>
 
 <p> <p>
 grip ripped at 4x speed, while my CD-ROM drive is 52x max. I posted
-<a href="http://www.mail-archive.com/linux-il@cs.huji.ac.il/msg30424.html">a 
+<a href="http://www.mail-archive.com/linux-il@cs.huji.ac.il/msg30424.html">a
     message</a> to Linux-IL about it and Matan Ziv-Av replied with a good
 advice, that increased the speed to 10x. Still not maximum but better.
 
@@ -64,7 +64,7 @@ advice, that increased the speed to 10x. Still not maximum but better.
 <p> <p><b>Welcome to Linux</b>
 
 <p> <p>
-I ended up preparing the slides for 3 out of 6 of the lectures that would be 
+I ended up preparing the slides for 3 out of 6 of the lectures that would be
 given in the Welcome to Linux series. Recently I was asked to prepare a
 version of them that would be viewable from the hard-disk. A quick script
 did the job, but it took me some time to debug it.
@@ -74,8 +74,8 @@ did the job, but it took me some time to debug it.
 The first lecture was given yesterday by Ori Idan. The lecturing hall was
 full, many questions were asked, and Ori gave a good presentation. There
 were a few glitches in the lecture that KDE there got stuck, and so
-the lecture came out longer than agreed on. I came to the lecture with Ori, 
-and went back with a guy who had to drive to Northern Tel Aviv, which was very 
+the lecture came out longer than agreed on. I came to the lecture with Ori,
+and went back with a guy who had to drive to Northern Tel Aviv, which was very
 convenient for me. He was a Linux newbie, and I told him a lot about what
 I'm doing right now, about CVS, about software patents and other things.
 
@@ -85,9 +85,9 @@ I'm doing right now, about CVS, about software patents and other things.
 <p> <p>
 The last three days I was heavily occupied with <a href="http://terje2.perlgolf.org/~pgas/score.pl?func=rules&hole=46&season=1">the PERT/Gantt chart conversion
     Perl Golf</a>. The day before yesterday, I ended up with a 65-characters
-long solution, and yesterday I was able to optimize it twice, each time by one 
-character. Right now, I'm stuck 6 characters before the currently best 
-solutions, with no ideas on how to further optimize it. But I'm still not 
+long solution, and yesterday I was able to optimize it twice, each time by one
+character. Right now, I'm stuck 6 characters before the currently best
+solutions, with no ideas on how to further optimize it. But I'm still not
 giving up.
 
 

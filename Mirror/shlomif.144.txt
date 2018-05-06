@@ -3,10 +3,10 @@
 <p> <p>
 Technion studies have began. I'm taking four courses this semester. Three
 of them were taken out of understanding that they would probably be easy to me
-and the other one (Micro-computers) interested me, and was also taken by a 
+and the other one (Micro-computers) interested me, and was also taken by a
 fellow Haifuxer. So far, I have quite a lot of homework assignments, but I
 still have a lot of free time. (maybe too much for my own good). I no longer
-have the Com-Net workstation due to the fact I no longer study there, and 
+have the Com-Net workstation due to the fact I no longer study there, and
 could not get a work there. This leaves me with the Technion facilities, which
 are inadequate for my needs at best. :-(
 
@@ -14,8 +14,8 @@ are inadequate for my needs at best. :-(
 <p> <p><b>Perl Golf</b>
 
 <p> <p>
-I've been playing quite a lot of <a href="http://terje.perlgolf.org/">Perl 
-    Mini Golf</a> lately. Perl Golf is a contest in which the participants 
+I've been playing quite a lot of <a href="http://terje.perlgolf.org/">Perl
+    Mini Golf</a> lately. Perl Golf is a contest in which the participants
 try to write the shortest (character-wise) Perl program to achieve a certain
 end. This creates highly compressed and obfuscated programs, with some very
 unorthodox tricks, and lack of attention to conventions.
@@ -31,8 +31,8 @@ frustrating. Oh well.
 
 
 <p> <p>
-I usually read the winning entry or entries and try to understand 
-them. This has made me relatively fluent in reading Perl Golf 
+I usually read the winning entry or entries and try to understand
+them. This has made me relatively fluent in reading Perl Golf
 code, which is quite amazing because these things look like
 absolute line noise. I wonder if some people can fluently understand vi macros... ;-)
 
@@ -41,7 +41,7 @@ absolute line noise. I wonder if some people can fluently understand vi macros..
 
 <p> <p>
 I spent most of yesterday hanging on the IRC. (despite the fact that I have
-a Micro-Computers exercise that I'd like to prepare by myself this weekend). 
+a Micro-Computers exercise that I'd like to prepare by myself this weekend).
 I was able to help an Apache newbie (who actually uses Slackware and knows
 his way around Linux), with the Alias and ScriptAlias directives. I also
 discussed E-mail MTAs with a couple of people on the Perl channel. Then
@@ -57,7 +57,7 @@ and Everything. Off-topic indeed.
 <p> <p>
 I certified <a href="/person/wli/">wli</a> as Journeyer, because of his work on the
 Linux kernel, and his vast knowledge. (I also taken into account the fact
-he writes his scripts in Haskell). He is already certified as a Master, 
+he writes his scripts in Haskell). He is already certified as a Master,
 but I'll have to know him better than my superficial familiarity with
 him to do so.
 
@@ -70,15 +70,15 @@ useless stuff. Been working on my Haifux Lectures Manager a bit. And then
 I wrote google.pl, a CGI (or mod_perl and friends) Perl script that acts
 as a mirror for Google. (I did not release it yet). I also made a coverage
 of the bugzilla bugs I reported, and found out most of them could be
-overcome or have been resolved. Kudos to the Mozilla team for the great 
-work. 
+overcome or have been resolved. Kudos to the Mozilla team for the great
+work.
 
 
 <p> <p>
-Per request of my Debian package maintainer, I updated the Freecell Solver 
-config.guess and config.sub files to the latest avaialable from the 
-<a href="ftp://ftp.gnu.org/pub/gnu/config/">GNU site</a>. It took me quite 
-some time to find out how to get them properly, and someone on the 
+Per request of my Debian package maintainer, I updated the Freecell Solver
+config.guess and config.sub files to the latest avaialable from the
+<a href="ftp://ftp.gnu.org/pub/gnu/config/">GNU site</a>. It took me quite
+some time to find out how to get them properly, and someone on the
 Autoconf mailing list helped with that. It is strange that libtool 1.4.3
 which is quite recent does not contain them, but rather very old ones. Who
 can tell the ways of the GNU?
@@ -90,17 +90,17 @@ can tell the ways of the GNU?
 A recent Slashdot feature pointed to an Enlightening article about the TCO
 of a system with one central server and several X terminals. I've seen this
 X terminals, which can only be used to connect to a server over the network,
-and realize they require almost zero maintenance in comparison to 
-full-fledged workstations. As far as a university is concerned, by using a 
+and realize they require almost zero maintenance in comparison to
+full-fledged workstations. As far as a university is concerned, by using a
 server, one can install things in only one computer and allow everyone else
 to enjoy it, while a corresponding client-server architecture, would require
-installing packages on several different workstations somehow. 
+installing packages on several different workstations somehow.
 
 
 <p> <p>
 Now in a workplace where everybody administers his own workstation, the second
 option may actually make sense. But a university has farms with unpriviliged
-access. In the Technion we have many farms with such client-server 
+access. In the Technion we have many farms with such client-server
 configurations, and the software installed on it, is inadequate for the needs
 of many (if not all) students. And naturally, it is impossible to install
 new one, because it requires a system-wide installation. Strangely enough,

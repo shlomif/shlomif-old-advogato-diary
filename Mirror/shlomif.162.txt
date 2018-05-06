@@ -2,7 +2,7 @@
 
 <p> <p>
 This Thursday the Israeli Perl Mongers had a meeting where Stas Bekman gave
-a several hours talk about mod_perl 2.0. Many people attended the meeting 
+a several hours talk about mod_perl 2.0. Many people attended the meeting
 (about 20-25), and we had a lot of fun. The lecture was very instructive,
 and taught a lot about what can be done with mod_perl besides writing
 simple CGI scripts.
@@ -10,7 +10,7 @@ simple CGI scripts.
 
 <p> <p>
 After the meeting was over, I explained to someone about Subversion as he
-said he had problems with CVS and was looking for a good alternative. (I 
+said he had problems with CVS and was looking for a good alternative. (I
 eventually wrote an <a href="http://perl.org.il/pipermail/perl/2003-July/002634.html">E-mail to the mailing list</a> about it). Oron Peled gave me and Kfir
 Lavy a ride home as he was returning home to Haifa. We asked him about his
 past experience with UNIX and what he does now, and we had a very interesting
@@ -20,14 +20,14 @@ conversation on the way home.
 <p> <p><b>Project Introductions at the TAU OSS Course</b>
 
 <p> <p>
-Yesterday, I went to a lecture of the Tel-Aviv University Open Source 
+Yesterday, I went to a lecture of the Tel-Aviv University Open Source
 development course. There was a lecture there about CVS, which I interrupted
 with some corrections and additions. After the lecture several people and I
 introduced our projects to the students.
 
 
 <p> <p>
-I gave a <a href="http://vipe.technion.ac.il/~shlomif/lecture/Freecell-Solver/project-intro/">10 minute introduction about Freecell Solver</a> (that was 
+I gave a <a href="http://vipe.technion.ac.il/~shlomif/lecture/Freecell-Solver/project-intro/">10 minute introduction about Freecell Solver</a> (that was
 accompanied by a demonstration of kpat solving Freecell). One of the
 <a href="http://xparam.sourceforge.net/">Xparam</a> developers gave an overview
 of his Xparam project. Shachar Shemesh said some words about Hamakor NPO, and
@@ -38,8 +38,8 @@ then introduced the WINE project to the students.
 The students in the course are expected to choose a project to work on and to
 perform about 300 hours of work each on it. The Xparam guy got three students
 who were interested in the project and gave him their details. When I returned
-home, and checked my E-mail, I found out from the course initiator that two 
-students expressed interest in Freecell Solver as well, and would probably 
+home, and checked my E-mail, I found out from the course initiator that two
+students expressed interest in Freecell Solver as well, and would probably
 contact me. I did not hear from them yet, but I'm looking forward to it.
 
 
@@ -50,11 +50,11 @@ I now started to maintain LM-Solve using Subversion. However, after importing
 the project into Subversion, I encountered a problem that I remembered
 from Linux::Kernel::Module::Builder: the Makefile.PL also did something with
 all the files under the .svn/ files. (and in my case even corrupted the working
-copy). 
+copy).
 
 
 <p> <p>
-A quick Googling made me realize that the solution was to install the 
+A quick Googling made me realize that the solution was to install the
 development snapshot of <a href="http://makemaker.org/">ExtUtils::MakeMaker</a>
 and use it instead. This has worked, and the Subversion resident Perl guru
 told me the same thing on the IRC.
@@ -72,8 +72,8 @@ library) wrong.
 
 
 <p> <p>
-I inspected the code of Neon and found it does indeed return a plain 
-NE_ERROR error if the certificate's authenticity failed. This makes it 
+I inspected the code of Neon and found it does indeed return a plain
+NE_ERROR error if the certificate's authenticity failed. This makes it
 impossible to tell if we failed due to that or due to something else
 altogether. We decided to wait for the Neon project head to tell us
 what he makes of it, and what we should do.

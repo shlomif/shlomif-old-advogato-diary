@@ -1,25 +1,25 @@
 <p><b>Life after Gradient-Fu</b>
 
 <p> <p> <p>
-Now that I finished the gradient-fu patch, I don't know what to do with 
+Now that I finished the gradient-fu patch, I don't know what to do with
 myself. Well, let's not exagerate: I have plenty of things to do, but
 still need to get on the hacktivity schwong.
 
 
 <p> <p> <p>
-I have some pending Perl-related tasks to do. For once, I want to find a 
+I have some pending Perl-related tasks to do. For once, I want to find a
 good Perl module that will enable me to maintain all the navigation menus
 I created in my sites. I found two of them on CPAN - one of them is not
 maintained and its author did not respond to me; for the other one I got
 a response from its author with a CGI script he wrote for me that
-demonstrates one of the menus in question. However, the CGI script uses a 
+demonstrates one of the menus in question. However, the CGI script uses a
 CGI parameter to distinguish between the pages, and is not spread across
 two servers as is the case with what I need. Thus, it, and perhaps the module
 as well, may justify some more work.
 
 
 <p> <p> <p>
-Now, after I received this, I also received an answer from an Israeli 
+Now, after I received this, I also received an answer from an Israeli
 correspondant, who tweaked his code to do what I need. I suppose I have to
 check it as well. In any case, this probably can wait for later on, because
 my ad-hoc code for navigation bar is still functional and extensible. (even
@@ -27,8 +27,8 @@ though it sucks)
 
 
 <p> <p> <p>
-Next is the work on WWW::Form, which I have still to hear from its author 
-after the last E-mail I sent him a couple of days ago. (I'm beginning to 
+Next is the work on WWW::Form, which I have still to hear from its author
+after the last E-mail I sent him a couple of days ago. (I'm beginning to
 think, I should just fork it off for the time being, and continue to work
 on it on my own).
 
@@ -40,14 +40,14 @@ Maybe I should just throw the glove, and prepare it using Open Office.
 
 
 <p> <p> <p>
-Next, there are some lectures I want to prepare: the TT one naturally, and 
-"Freecell Solver: The Next Presentation", and the "Web Publishing with LAMP" 
+Next, there are some lectures I want to prepare: the TT one naturally, and
+"Freecell Solver: The Next Presentation", and the "Web Publishing with LAMP"
 (Linux, Apache, MySQL and Perl/PHP/Python) one.
 
 
 <p> <p> <p>
 Then there's Doclanx. I have great plans for taking the Perl man pages, and
-revamping the hell out of them, but haven't really started to do so, yet. I 
+revamping the hell out of them, but haven't really started to do so, yet. I
 suppose it can wait as well.
 
 
@@ -69,12 +69,12 @@ I'm not entirely sure the Diary Interest Ratings are a good idea. For a very
 simple reason: people don't rate other people diaries! I don't think I ever
 rated the diaries of fellow Advogatoers. Some of the blogs, I read because
 I personally know these people and I'd like to keep up-to-date with their
-whereabouts and thoughts. (so I don't rate because I cannot objectively 
-testify for their interest, as they are surely interesting <b>to me</b>). 
+whereabouts and thoughts. (so I don't rate because I cannot objectively
+testify for their interest, as they are surely interesting <b>to me</b>).
 The others I read on occasion, when I go over the recent entries list, when
 I post one. I usually don't recognize all the nicknames, so I can't tell if
-their diaries are intersting or not. (and I don't consider myself a blog 
-lurker, so there you go). 
+their diaries are intersting or not. (and I don't consider myself a blog
+lurker, so there you go).
 
 
 <p> <p> <p>
@@ -87,7 +87,7 @@ response to things I wrote here from people I did not know).
 <p> <p>
 I started reading the "Perl &amp; XML" book that I borrowed from the Perl Mongers Libary. It's a very good read, funny and interesting. And naturally, I learn some
 new things. So far, I highly recommend it to any Perl programmer. (but can only give a final verdict when I finish it) As for "Extending and Embedding Perl", I finally arrived at the chapter covering the Perl Internals, after skipping some less interesting material. I don't read it at bedtime, because I feel that I'm too
-tired to concentrate on this highly complicated topic, so 
+tired to concentrate on this highly complicated topic, so
 I'm not making too much progress.
 
 
@@ -131,23 +131,23 @@ I also added various bits and pieces for my homepage and related sites. I don't 
 <p> <p> <p><b>Politics #1: Normalizing Thorahic Education vs. Antiochus' Decrees</b>
 
 <p> <p> <p>
-Recently a suggestion was put forth to make sure the pupils who receive 
+Recently a suggestion was put forth to make sure the pupils who receive
 Thorahic education (among the Orthodox Jews in Israel), also receive general
 studies like the more secular Jews do. So one MP said it was unacceptable and
-in the wonderful spirit of Hanukkah compared it to Antiochus' Decrees during 
+in the wonderful spirit of Hanukkah compared it to Antiochus' Decrees during
 the time of the Macabees.
 
 
 <p> <p> <p>
 The problem here is that the Thorahic education are financed by the Government
-out of Tax Payer's money. If this was not the case and these Religious 
+out of Tax Payer's money. If this was not the case and these Religious
 Jews were self-staining, I wouldn't have cared less if they received general
-education or not, but this is far from being the case. As the financers of 
+education or not, but this is far from being the case. As the financers of
 this education, we have a right to pose conditions for them, and if they don't
 like it they can stop receiving funds and try to finance it on their own. If
 you ask me, an even better idea would be to stop financing education at all,
-and simply lower the taxation considerably. It is getting more and more 
-sub-standard anyhow, and privatized education is usually the only good 
+and simply lower the taxation considerably. It is getting more and more
+sub-standard anyhow, and privatized education is usually the only good
 long-term way to handle state-wide education.
 
 
@@ -163,37 +163,37 @@ So we have a deadlock.
 
 
 <p> <p> <p>
-Here I propose a way for the Israeli leaders to solve the problem once and 
-for all for the mutual happiness of both sides. Furthermore, this way is 
+Here I propose a way for the Israeli leaders to solve the problem once and
+for all for the mutual happiness of both sides. Furthermore, this way is
 very easy and simple. Here goes:
 
 
 <p> <p> <ol>
     <li>
     <p>
-    Give Israeli Soldiers a choice of whether they wish to protect the 
+    Give Israeli Soldiers a choice of whether they wish to protect the
     Israeli Settlements inside the West Bank or not. Soldiers may choose
     to stop protecting the settlements at any time, and will be relocated
     to inner-Israeli squads.
-    
+
     <p>
     Forcing someone to protect someone else is <b>wrong</b>, as any mandatory
     draft is in essence.
-    
-    
+
+
     <li>
-    The settlements can either remain using only their self-protection, or its 
-    settlers can choose to relocate to Israel, where they will be given an 
+    The settlements can either remain using only their self-protection, or its
+    settlers can choose to relocate to Israel, where they will be given an
     alternate home.
-    
+
     <li>
     Israel will stop giving food relief to the occupied territories. If this
     implies that a Palestinian State must be established, so be it. (I don't
     care if there's a Palestinian State or just a very hostile governing body)
-    
+
 </ol>
 
-<p> <p> <p><a href="http://www.tikkun.org/community/geneva/index.cfm">The 
+<p> <p> <p><a href="http://www.tikkun.org/community/geneva/index.cfm">The
     Geneva Accord</a> has three serious flaws:
 
 
@@ -205,34 +205,34 @@ very easy and simple. Here goes:
     they will be less afraid of the terror organizations, who in turn would
     be much more afraid of them. (you could allow all Israelis to carry
     arms as well, for good measure.)
-    
+
     <li>
     <p>
     It adovcates forcibly evacuating the Israeli settlements. By all means
     the Israeli Settlers have a <b>right to live there</b> as every lawful
     person has a right to live anywhere. The entire concept of immigration
     regulation and "fathers' land" is wrong.
-    
+
     <p>
-    What is wrong is forcing other people to protect them living there. (as 
+    What is wrong is forcing other people to protect them living there. (as
     force is always wrong) This distinction must be understood and followed.
-    
-    
+
+
     <li>
-    Last, but probably most important is that it requires the mutual 
+    Last, but probably most important is that it requires the mutual
     cooperation of both sides. One cannot expect the other side to follow
-    his part of the deal, while my suggestion does not require the 
+    his part of the deal, while my suggestion does not require the
     cooperation of the Palestinians.
-    
+
 </ol>
 
 <p> <p> <p>
 If all of this seems to be absurd to you, just remember that I'm just
-an everyday 
-<a href="http://www.catb.org/~esr/faqs/libertarianism.html">libertarian</a>. 
-(well <a href="http://www.neo-tech.com/">Neo-Tech</a> Objectivist to be 
+an everyday
+<a href="http://www.catb.org/~esr/faqs/libertarianism.html">libertarian</a>.
+(well <a href="http://www.neo-tech.com/">Neo-Tech</a> Objectivist to be
 exact, but the political agenda is the same). As such I am doing my best
-to be loyal to Justice, Freedom, Individual Rights and lack of Government 
+to be loyal to Justice, Freedom, Individual Rights and lack of Government
 Control. This suggestion is perfectly in accordance to it.
 
 
@@ -240,8 +240,8 @@ Control. This suggestion is perfectly in accordance to it.
 I'm not trying to classify myself as the (Nationalistic/Religious) Israeli
 Right-wings, or the (Pragmatic and Regulation-enacting) Israeli Left. Instead,
 I'm trying to be Just, Noble and Free. It's a bit hard in Israel, where most
-people do not know what Objectivism or Libertarianism are, or sometimes 
-even that this political option exists. But I'm handling it, as this is 
+people do not know what Objectivism or Libertarianism are, or sometimes
+even that this political option exists. But I'm handling it, as this is
 what my ideals dictate.
 
 2003-12-26 17:49:30

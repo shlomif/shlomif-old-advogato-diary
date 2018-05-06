@@ -10,7 +10,7 @@ I worked on it a bit alone, and I was able to add a navigation bar to the week v
 
 <p> <p>
 Presets, ahoy! Freecell Solver can now be "themed" using pre-defined configurations. And now instead of <a href="http://cvs.berlios.de/cgi-bin/viewcvs.cgi/fc-solve/fc-solve/presets/soft-threads/meta-moves/cool-jives.sh?rev=1.1&sortby=date&content-type=text/vnd.viewcvs-markup">
-this brain-damage</a> you can simply say <tt>fc-solve -l cool-jives</tt>. 
+this brain-damage</a> you can simply say <tt>fc-solve -l cool-jives</tt>.
 
 <p> <p>
 I added a few presets to the default installation of the program, so I can refer to them in the help pages, and to make it nice on the users.

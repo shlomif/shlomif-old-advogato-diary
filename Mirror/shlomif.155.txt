@@ -11,7 +11,7 @@ team will win, but even the losers get a score of 95 or so.
 Other than that I attended the final class hours for the subjects for
 this semester, and worked on the Financial Management homework. Evidently,
 it turned out that its solution was posted for us on its site. The semester
-is ending, and now the tests period start. I have a test of Financial 
+is ending, and now the tests period start. I have a test of Financial
 Management on Sunday, and afterwards a long break (two weeks IIRC) before the
 next test.
 
@@ -29,7 +29,7 @@ by the seminars management project.
 <p> <p><b>Haifux Meeting</b>
 
 <p> <p>
-On Monday, Shachar Shemesh gave an entertaining talk about 
+On Monday, Shachar Shemesh gave an entertaining talk about
 <a href="http://www.winehq.org/">WINE</a>. There were a few glitches during
 the demonstrations, but they were expected. It was fun meeting all the
 people again.

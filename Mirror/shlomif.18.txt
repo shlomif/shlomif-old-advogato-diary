@@ -46,6 +46,6 @@ completely.
 
 <p> <p>
 The equivalent of refactoring a code is taking out redundant
-or harmful laws out of the Law Canon. 
+or harmful laws out of the Law Canon.
 
 2001-12-30 06:56:57

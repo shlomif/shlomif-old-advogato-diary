@@ -2,20 +2,20 @@
 <p><b>Job Tracker Revamp</b>
 
 <p> <p>
-I've decided to take some time and revamp <a href="http://iglu.org.il/cgi-bin/jobs/main.pl">the iglu.org.il Job Tracker</a>. I first decided that since 
-practically everything I had in mind was going to be different, I'd be 
-better off starting from scratch. But, then I thought better of it, and 
-started from the code I already have, and don't regret it. I already 
-accomplished quite a bit and only been working on it for a couple of 
-hours net. 
+I've decided to take some time and revamp <a href="http://iglu.org.il/cgi-bin/jobs/main.pl">the iglu.org.il Job Tracker</a>. I first decided that since
+practically everything I had in mind was going to be different, I'd be
+better off starting from scratch. But, then I thought better of it, and
+started from the code I already have, and don't regret it. I already
+accomplished quite a bit and only been working on it for a couple of
+hours net.
 
 
 <p> <p>
 Yesterday, I went to sleep at 23:00 because I tried to track a couple of bugs.
-One of them ended being an Apache mis-configuration. Apparently, when 
+One of them ended being an Apache mis-configuration. Apparently, when
 you use <tt>ScriptAlias</tt> the plaintext non-executable .css files
 are not served from some reason. Trying to solve it, required writing
-an ugly configuration code, with a regular alias, and then association of 
+an ugly configuration code, with a regular alias, and then association of
 <tt>*.pl</tt> files with the <tt>cgi-script</tt> handler. But it works! (
 I wish I would remember more of "Apache: The Definitive Guide", but I don't)
 
@@ -31,17 +31,17 @@ In any case, here are a few insights from the process:
     job was posted. Someone volunteered to add it, and he created a workaround,
     that treated the "PostDate" field especially in the code. I still thought
     back then, that it was a good ad-hoc solution for a complex problem.
-    
+
     <p>
     When I did the change yesterday, I did it the right way, by designating the
     field in the fields' list with a few special directives, that were then
     treated by the code regardless of the field name. This took me exactly 5
     minutes. Go figure! (this reminds me of what Joel Spolsky told about
-    <a href="http://www.joelonsoftware.com/news/20030516.html">the Excel 
+    <a href="http://www.joelonsoftware.com/news/20030516.html">the Excel
         Drag&amp;Drop Prototype</a>).
-    
+
     <p>
-    
+
     <li>
     <p>
     Someone was unhappy with the jobs tracker before and suggested he would
@@ -50,22 +50,22 @@ In any case, here are a few insights from the process:
     because I don't know Python very well. So he told me that as an ex-Perl
     hacker, I wouldn't have any problem understanding his code. (I forgot
     to tell him that I would have a problem hacking his code).
-    
+
     <p>
     Anyway, with his attitude, I knew nothing would come out of it. Last
-    I heard of him, he said his code was "close to be finished", but he 
-    then neglected working on it. And my code is working perfectly right 
+    I heard of him, he said his code was "close to be finished", but he
+    then neglected working on it. And my code is working perfectly right
     now. (in Perl)
-    
-    
+
+
     <li>
     <p>
     More recently, some other hacker I met, said a completed system he wrote
     in Python could be used as a replacement for what we have now. However,
     he turned out to be quite unresponsive, so I don't have access to the code
     now.
-    
-    
+
+
 </ul>
 
 <p> <p><b>Reading</b>
@@ -75,7 +75,7 @@ I read Paul Graham's <a href="http://www.paulgraham.com/nerds.html">Why
     Nerds are Unpopular</a> article. It was quite a good read, but I got
 the central message right at the start, and then it continued chewing
 it. I also continued reading "Extending and Embedding Perl". It now covers
-the Perl 5 API, which has a lot of functions, and it is getting quite 
+the Perl 5 API, which has a lot of functions, and it is getting quite
 tedious. Nevertheless, it is probably a better reference and introduction
 than the Perl man pages on the subject.
 
@@ -84,12 +84,12 @@ than the Perl man pages on the subject.
 
 <p> <p>
 In Statistics, we have to submit each three consecutive exercises in the
-following lesson. Since I joined late, I had to prepare all of them in one 
+following lesson. Since I joined late, I had to prepare all of them in one
 week. It was quite a lot of concentrated work, but I did it.
 
 
 <p> <p>
-Other than that - it's fine. Thermodynamics seems quite easy so far and I 
+Other than that - it's fine. Thermodynamics seems quite easy so far and I
 understand almost everything. I hope this situation will last.
 
 
@@ -97,7 +97,7 @@ understand almost everything. I hope this situation will last.
 
 <p> <p>
 I received a few comments for the LM-Solve article. Ran Eilam (my former
-boss at Cortext) <a href="http://perl.org.il/pipermail/perl/2003-November/003497.html">commented</a> that it was very well-written and that he 
+boss at Cortext) <a href="http://perl.org.il/pipermail/perl/2003-November/003497.html">commented</a> that it was very well-written and that he
 understood everything. He did say that it raised many questions that will
 be addressed at the next meeting.
 
@@ -105,9 +105,9 @@ be addressed at the next meeting.
 <p> <p>
 A certain correspondant also responded, that a pattern found in the code
 was discussed in the perl6-language mailing list, but also that there's a
-more efficient algorithm (which he sent to me). I acknowledged this was the 
+more efficient algorithm (which he sent to me). I acknowledged this was the
 case, but said that I didn't want to invest time thinking how to do it right
-when I wrote the code, and also that the original code was conceptually 
+when I wrote the code, and also that the original code was conceptually
 simpler.
 
 
@@ -117,7 +117,7 @@ simpler.
 My comments regarding <a href="http://www.pti.co.il/yapcom.html">Yapcom</a>
 (the Perl Conference mangement software that Israel.PM is writing)
 sparked an interesting discussion between Gabor Szabo and I
-in its <a href="http://www.pti.co.il/archives/yapcom/">mailing list</a>. I 
+in its <a href="http://www.pti.co.il/archives/yapcom/">mailing list</a>. I
 commented a bit about the Subversion repository organization. I also had
 trouble getting all the tests to succeed, and was able to solve it with
 some consulting. Eventually, a patch of mine was accepted there.
@@ -132,26 +132,26 @@ are also strange:
 
 
 <p> <p>
-<i>Re-implementing what I designed in 1979 is not interesting to me 
-    personally. For kids who are 20 years younger than me, Linux is a 
-    great way to cut your teeth. It's a cultural phenomenon and a business 
-    phenomenon. Mac OS X is a rock-solid system that's beautifully designed. 
+<i>Re-implementing what I designed in 1979 is not interesting to me
+    personally. For kids who are 20 years younger than me, Linux is a
+    great way to cut your teeth. It's a cultural phenomenon and a business
+    phenomenon. Mac OS X is a rock-solid system that's beautifully designed.
     I much prefer it to Linux.</i>
 
 
 <p> <p>
 First of all, there has been much progress in Linux since what was the
-state of the art at 1979. Secondly, in a way Mac OS X benefits from the 
-progress done by the Linux community. Most Linux programs can run on Mac 
-OS X as well, just as much as they can run on other UNIXes. Hell, some 
-UNIX programs were also made to  run on Windows, so in a way Windows people 
+state of the art at 1979. Secondly, in a way Mac OS X benefits from the
+progress done by the Linux community. Most Linux programs can run on Mac
+OS X as well, just as much as they can run on other UNIXes. Hell, some
+UNIX programs were also made to  run on Windows, so in a way Windows people
 benefit from them, too.
 
 
 <p> <p>
 Thirdly, Linux still has some clear advantages over Mac OS X, and many features
-that are present in Linux are not present there. (and naturally, vice versa). 
-Finally, if you want to compete with Microsoft and Windows, Mac OS X is not 
+that are present in Linux are not present there. (and naturally, vice versa).
+Finally, if you want to compete with Microsoft and Windows, Mac OS X is not
 enough. You can't tell people that they need to buy a non-i386 computer
 just to run the alternative Operating System that they want. Linux can co-exist
 on the same x86 computer as Windows, which is not the case for Mac OS X.
@@ -159,10 +159,10 @@ on the same x86 computer as Windows, which is not the case for Mac OS X.
 
 <p> <p>
 I'm not the kind of guy who would immediately denounce Mac OS X, just because
-some of the GUI and the desktop there is not open source. Also, while being a 
+some of the GUI and the desktop there is not open source. Also, while being a
 big fan of the GNU extensions, I still accept other more minimalistic UNIXes.
 But saying "Mac OS X Rocks while Linux Sucks" is kind of like saying that
-"Windows XP Rocks while Windows 2000 Sucks". (or vice versa). 
+"Windows XP Rocks while Windows 2000 Sucks". (or vice versa).
 
 
 2003-11-22 12:44:22

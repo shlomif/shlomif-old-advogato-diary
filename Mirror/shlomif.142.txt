@@ -2,15 +2,15 @@
 
 <p> <p> <p>
 I wrote <a href="http://fc-solve.berlios.de/oss-fs/">an essay aims to introduce
-open source, and free software to beginners</a>. It covers the history, the 
-meaning of the terms and some issues and myths. It's a bit longish (14 A4 
+open source, and free software to beginners</a>. It covers the history, the
+meaning of the terms and some issues and myths. It's a bit longish (14 A4
 pages), but otherwise aims to be encompassing enough.
 
 
 <p> <p> <p>
-Chen Shapira has reviewed the early versions of the document, and gave some 
-very essential commentary (including how to trim them - they were even 
-longer than now). <a href="/person/nyh/">nyh</a> summarized the history of early UNIX 
+Chen Shapira has reviewed the early versions of the document, and gave some
+very essential commentary (including how to trim them - they were even
+longer than now). <a href="/person/nyh/">nyh</a> summarized the history of early UNIX
 and the BSDs for me, so I'm grateful for him as well as I was able to use
 it and link to it.
 
@@ -25,8 +25,8 @@ it would benefit both consumers and content owners (large and small).
 <p> <p> <p><b>IRC Chatting</b>
 
 <p> <p> <p>
-I spend quite a lot of time recently chatting on the IRC. I use the 
-irc.kernelnewbies.org network, and usually hang on on the #offtopic channel. 
+I spend quite a lot of time recently chatting on the IRC. I use the
+irc.kernelnewbies.org network, and usually hang on on the #offtopic channel.
 It's a cozy little channel with a good SNR, and some very enlightened and
 interesting people. It's a way to procrastinate I suppose, but then again,
 I don't have anything critical to do until I start studying.
@@ -35,11 +35,11 @@ I don't have anything critical to do until I start studying.
 <p> <p> <p>
 <a href="/person/wli/">wli</a> and I have actually fought about our keyboard preferences
 (Sun vs. PC). wli seems to be very knowledgable and interesting. It turned out
-that as opposed to me he started working on computers from UNIX workstations, 
+that as opposed to me he started working on computers from UNIX workstations,
 and later switched to Linux on PCs. I, OTOH, actually worked with DOS, Windows
 3.1, and various Win32 variants. I think that you appreciate UNIX much more
 after you work on some really sucky OSes like that. I kept knowing they were
-bad, but not knowing why, until I started working on UNIX, where I saw a 
+bad, but not knowing why, until I started working on UNIX, where I saw a
 sensible system for the first time in my life. :-)
 
 
@@ -49,7 +49,7 @@ sensible system for the first time in my life. :-)
 It's still raining on and off. Yesterday, I was able to bike twice, but today's
 its raining. I'm going to start studying a week from now on Monday. I eventually
 decided to take a semester off instead of a year off. At one point I believed
-I had enough recreation, but now it seems that I'll miss having all this 
+I had enough recreation, but now it seems that I'll miss having all this
 free time. Oh well, the Summer vacation is not far away, and there are some
 holidays and weekends as well.
 
@@ -64,7 +64,7 @@ I do wish to be able to hike sometime in the springtime. It's been a long time s
 
 
 <p> <p>
-As for BitKeeper: according to <a href="http://better-scm.berlios.de/bk/bk_suitability.html">my analysis</a> its gratis license is not suitable for open-source projects. (I do not wish to start a flame-war here). This stems 
+As for BitKeeper: according to <a href="http://better-scm.berlios.de/bk/bk_suitability.html">my analysis</a> its gratis license is not suitable for open-source projects. (I do not wish to start a flame-war here). This stems
 from my own unhappy experience, which was partly my fault, but nonetheless, could have been prevented if an unfortunate BitKeeper license change did not take place. Naturally, the subsequent non-compete clause, has made it impossible for me to even experience with it, and I believe this is the case for most hackers out there, who do not like BK enough to allow for it interfering with their further hacktivity. Furthermore, its license
 started from an almost free software one, and was changed several times in the past, making it very restricted now. There's no way to tell how it will be restricted in the future, which will make one unable to use it.
 

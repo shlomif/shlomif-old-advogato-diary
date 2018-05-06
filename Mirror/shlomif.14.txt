@@ -23,10 +23,10 @@ low priority.
 
 
 <p> <p>
-I coded such a beast for POSIX threads and you can find it 
+I coded such a beast for POSIX threads and you can find it
 <a href="http://vipe.technion.ac.il/~shlomif/rwlock/">here</a>.
 I did it mainly for fun and to see if the model I thought
-about for implementing it would work. It seems that it does. 
+about for implementing it would work. It seems that it does.
 
 
 <p> <p>
@@ -65,7 +65,7 @@ After having to do 5 exercises in "Structure and
 Interpretation of Computer Programs", I won't be surprised
 if I'll start dreaming in parenthesis. During the last
 lecture, I managed to correct the lecturer on one occasion.
-Read about it 
+Read about it
 <a href="http://groups.yahoo.com/group/hackers-il/message/1594">
 in this post I made to Hackers-IL</a>.
 

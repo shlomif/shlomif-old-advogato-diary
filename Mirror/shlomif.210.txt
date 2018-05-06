@@ -22,7 +22,7 @@ is OK, and then an approval of the degree will be sent in a few days.
 
 <p> <p>
 It arrived in the mail a few days ago. I graduated from the Technion with
-an average of 84.6 (higher than what was on my grades' list), and it was 
+an average of 84.6 (higher than what was on my grades' list), and it was
 said there that it is "with honours". So I am finally a Technion Graduate.
 
 
@@ -34,13 +34,13 @@ and the Win98 laptop, encountered a one month ahead clock-skew. From late
 April to late May. To fix it, I wrote a Perl script to scan my home directory,
 and modify the files's access time and modification time to their appropriate
 date, using the utime command. (which I learned about from good people on the
-IRC). 
+IRC).
 
 
 <p> <p>
 For the KMail mailboxes I had to write a different script that would convert
 the dates in the messages to their appropriate dates. I consulted the #perl
-guys further on this to learn about the format of maildir mailboxes. 
+guys further on this to learn about the format of maildir mailboxes.
 After that, everything worked fine.
 
 
@@ -73,22 +73,22 @@ I was able to eventually.
 <p> <p>
 After I did it, I tried to process the repositories of stalker with my local
 copy of subversion. It did not work. Someone at #svn told me that it could
-be because of a different libc or whatever. "Berkeley DB compatibility is 
+be because of a different libc or whatever. "Berkeley DB compatibility is
 subject to planetary arrangment.".
 
 
 <p> <p><b>Israel.PM Meeting</b>
 
 <p> <p>
-The meeting occured a long time ago, and since then I forgot a few things. 
-I recall it was a hot day, and that we mingled outside the building. We 
+The meeting occured a long time ago, and since then I forgot a few things.
+I recall it was a hot day, and that we mingled outside the building. We
 collected money to buy snacks, and were dismayed to discover that the shop
 we bought the drinks in moved to a different location, and we had to settle
 with the water fountain inside.
 
 
 <p> <p>
-Pinkhas Nisanov gave <a href="http://users.actcom.co.il/~nisanov/presentation/triz/html/slide_1.html">an 
+Pinkhas Nisanov gave <a href="http://users.actcom.co.il/~nisanov/presentation/triz/html/slide_1.html">an
     interesting presentation</a> about TRIZ - the theory of inventive problem
 solving. I could not quite understand how to actually use it, but it ended
 with the subset of the 40 basic principiles for contradiction resolution,
@@ -98,18 +98,18 @@ Israeli TRIZ association, which left after his presentation.
 
 <p> <p>
 Then Gaal Yahas gave a presentation about using Perl as an interaction
-language in a Java environment. He described a commercial system written in 
+language in a Java environment. He described a commercial system written in
 Java for helping to manage Internet equipment, and showed how he used Perl
-to parse and process Java code, generate an equivalent Perl code (with 
+to parse and process Java code, generate an equivalent Perl code (with
 accessors and all), and then use it to perform queries at run-time. There was
-also some XML involved there, in the queries and reports. It was pretty 
+also some XML involved there, in the queries and reports. It was pretty
 interesting.
 
 
 <p> <p>
 I was able to lend the "Design of Everyday Things" book to Yuval Kogman, and
 also to take a book: "Design and Analysis of Algorithms". I started reading
-the latter, but decided I was not interested in reading it and so just left 
+the latter, but decided I was not interested in reading it and so just left
 it on my desk, and will return it the next meeting.
 
 
@@ -118,7 +118,7 @@ it on my desk, and will return it the next meeting.
 <p> <p>
 There was a meeting of the Tel Aviv Linux Club about two weeks ago. Mike
 Almogy gave a presentation about Web Hosting. The presentation was interesting
-but a bit unfocused. The main problem was that there were many technical 
+but a bit unfocused. The main problem was that there were many technical
 glitches throughout the lecture. First of all, he was unable to connect
 his laptop, then we had to call the building's supervisors to log in into
 the computer for us. Finally, after the break, the computer was locked with
@@ -133,18 +133,18 @@ couldn't reach Eddie in time. Hopefully next times would be better.
 
 <p> <p><b>iglu.org.il Upgrade</b>
 
-<p> <p> 
+<p> <p>
 iglu.org.il was upgraded, from RedHat 6.2 (!) to Debian Stable about two
 weeks ago. The upgrade itself was done on Friday, and on Saturday, the machine
 responded. I was able to login as root and create an account for myself, but
 then the password was changed. To get the password, I sent the old one to
 <a href="/person/sun/">sun</a> encrypted with his GPG Public Key. He sent me an encrypted
-message back with the new password.  
+message back with the new password.
 
 
 <p> <p>
 After I got the password, I was able to restore my home directory, as well
-as restore accounts for some people who contacted me. Finally, and most 
+as restore accounts for some people who contacted me. Finally, and most
 importantly, I restored the web server. This involved quite a lot of work,
 as Debian is incompatible with RedHat as far as the httpd configuration is
 concerned. I had to start with the old configuration and gradually convert it
@@ -152,11 +152,11 @@ to the new one.
 
 
 <p> <p>
-What gave me trouble was the fact that I used a few CPAN modules in an 
-application I wrote for the server. I tried to use the perl CPAN.pm module, 
+What gave me trouble was the fact that I used a few CPAN modules in an
+application I wrote for the server. I tried to use the perl CPAN.pm module,
 but it turned out that outgoing connections were blocked. Someone found one
 of the modules (CGI::Application) in the Debian Packages pool, and I was
-able to install it using apt-get. But then I discovered it was an old 
+able to install it using apt-get. But then I discovered it was an old
 version of the module, while I was using a newer feature. So I installed
 the new version of the modules I needed on the script's local directory, (after
 scping and copying them - %-)), and then it worked.
@@ -172,17 +172,17 @@ to recompile everything (Berkeley DB 4.2, Apache+libapr, neon and Subversion).
 
 
 <p> <p>
-I had a few problems with running the programs after everything was ready. 
-Strangely enough, they were resolved after a few recompilations. Then, 
-however, I found out that the old repositories could still be accessed by 
+I had a few problems with running the programs after everything was ready.
+Strangely enough, they were resolved after a few recompilations. Then,
+however, I found out that the old repositories could still be accessed by
 the new configuration there, which was nice.
 
 
 <p> <p><b>Subversion Hacktivity</b>
 
 <p> <p>
-I've been doing some Subversion bug-squashing lately. In 
-<a href="http://subversion.tigris.org/issues/show_bug.cgi?id=1771">Issue 
+I've been doing some Subversion bug-squashing lately. In
+<a href="http://subversion.tigris.org/issues/show_bug.cgi?id=1771">Issue
     #1771</a> where paths with identical prefix of components were trimmed
 by the display of the diff command, I first wrote a shell script to fix the
 problem, and then wrote a regression test, and a fix, based on what was
@@ -192,9 +192,9 @@ suggested in the issue. The patch was eventually applied.
 <p> <p>
 In <a href="http://subversion.tigris.org/issues/show_bug.cgi?id=1851">Issue
     #1851</a>, I investigated the cause a bit and added a comment there. I also
-wrote a fix to <a href="http://subversion.tigris.org/issues/show_bug.cgi?id=1814">Issue 
-    #1814</a>, which was not applied yet. I also added a comment to 
-<a href="http://subversion.tigris.org/issues/show_bug.cgi?id=1043">issue 
+wrote a fix to <a href="http://subversion.tigris.org/issues/show_bug.cgi?id=1814">Issue
+    #1814</a>, which was not applied yet. I also added a comment to
+<a href="http://subversion.tigris.org/issues/show_bug.cgi?id=1043">issue
     1043</a>, claiming it is invalid. Again, there wasn't too much activity
 about it.
 
@@ -202,7 +202,7 @@ about it.
 <p> <p><b>Perl Quiz of the Week</b>
 
 <p> <p>
-I've been heavily involved with the resurrected 
+I've been heavily involved with the resurrected
 <a href="http://perl.plover.com/qotw/">Perl Quiz of the Week</a> lately. I've
 written solution for the two latest regular quizzes. Plus, I contributed
 <a href="http://article.gmane.org/gmane.comp.lang.perl.qotw.quiz-of-the-week/80">an

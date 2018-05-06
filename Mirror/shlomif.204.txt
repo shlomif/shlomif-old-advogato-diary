@@ -1,7 +1,7 @@
 <p><b>Israel.PM Meeting</b>
 
 <p> <p>
-The recent Israeli Perl Mongers meeting went very nicely. First of all, I had 
+The recent Israeli Perl Mongers meeting went very nicely. First of all, I had
 an opportunity to do a lot of Chit-Chat there, which is something I like a lot.
 We talked a bit about WWW::Form, Perl in Israeli Banks (some banks don't wish
 people to know they are using Perl, because most people don't know what it is),
@@ -12,8 +12,8 @@ and Microsoft Office features to correct them, and Microsoft Office in general
 
 <p> <p>
 Then came a lightning talk by Jason Elbaum. The first thing I noticed was that
-he had a strange accent. I guess I'm not very used to hearing Australian 
-Accents. He gave a lecture about making XML-TV listings out of Israeli 
+he had a strange accent. I guess I'm not very used to hearing Australian
+Accents. He gave a lecture about making XML-TV listings out of Israeli
 television listings on the Internet. The lecture was very interesting.
 
 
@@ -21,19 +21,19 @@ television listings on the Internet. The lecture was very interesting.
 Afterwards, I took the stage and gave the Template Toolkit presentation (in
 preparation with the YAPC one). It went quite well, but after it, Ran told me
 I should have focused on one part more and create more suspense. I'll keep that
-in mind for the YAPC. One question I received was how compatible was my 
+in mind for the YAPC. One question I received was how compatible was my
 solution with laymen, who don't know squat about programming. I answered that
-the philosophy of the Template Toolkit (and Perl in general) is that you 
-and your co-workers should know what you are doing. I previously encountered 
+the philosophy of the Template Toolkit (and Perl in general) is that you
+and your co-workers should know what you are doing. I previously encountered
 this mentality in talks I had with several PHP users.
 
 
 <p> <p>
 After that, Gabor took the stage and lectured about HTML, CGI, CGI::Application
-and HTML::Template. The lecture was very interesting and instructive and I 
+and HTML::Template. The lecture was very interesting and instructive and I
 enjoyed it a lot despite the fact it was quite long. I learned some things
 there: "&lt;form&gt;" without arguments in the HTML leads to the same URL,
-a bit more about CGI::Application, etc. We learned that the first language 
+a bit more about CGI::Application, etc. We learned that the first language
 Larry Wall designed had its code embedded in text, but luckily he came to his
 senses afterwards, and did not implement Perl this way.
 
@@ -41,7 +41,7 @@ senses afterwards, and did not implement Perl this way.
 <p> <p>
 Afterwards, most of the people there decided to go to the Bar and I took a
 ride back home with Ronen Kfir. I forgot my coat there, but when I got home,
-I called Gabor and he let me talk to Ran who took the coat with him. 
+I called Gabor and he let me talk to Ran who took the coat with him.
 Eventually, I was able to set up a time to take it a few days ago. My father
 drove me to his home in Northern Tel Aviv, and I took the coat, while being
 able to meet his wife and see his baby. (but not much besides)
@@ -60,13 +60,13 @@ very nice. The meat of the meeting was:
     <li>
     A presentation by <a href="/person/gby/">gby</a> about what was done in the past
     year of Hamakor. (current status)
-    
+
     <li>
     Short introductions by Hamakor members who wished to be elected.
-    
+
     <li>
     Elections for the new board and comptrollers committee.
-    
+
 </ol>
 
 <p> <p>
@@ -79,7 +79,7 @@ to find other ways in which I can get involved without being an official.
 <p> <p><b>New Homepage URL</b>
 
 <p> <p>
-I changed my homepage URL from t2.technion.ac.il/~shlomif/ to 
+I changed my homepage URL from t2.technion.ac.il/~shlomif/ to
 <a href="http://shlomif.il.eu.org/">http://shlomif.il.eu.org/</a>, thanks
 to the kind help of the il.eu.org hostmasters. The new domain gave me
 some trouble so far. Hopefully, it will be resolved in the near future.
@@ -94,32 +94,32 @@ and received some very useful input, which I also applied.
 
 
 <p> <p>
-Solving now stresses a completely different paradigm: instead of trying to 
+Solving now stresses a completely different paradigm: instead of trying to
 implement distributism in the government, I simply propose that individuals
 form competing leaderships, or support them, to make sure that people don't
 take the elected leadership for granted.
 
 
 <p> <p>
-I also did a lot of work on the 
+I also did a lot of work on the
 <a href="http://better-scm.berlios.de/">Better-SCM</a> site. With contributions
-from other people, I added Visual SourceSafe and CM Synergy, and perhaps other 
+from other people, I added Visual SourceSafe and CM Synergy, and perhaps other
 systems into the comparison there. I plan to put all the source in an online
 Subversion repository, which will make contributions easier.
 
 
 <p> <p>
-One thing that annoys me about Better-SCM is that people keep bugging me about 
+One thing that annoys me about Better-SCM is that people keep bugging me about
 darcs.
 
 
 <p> <p><b>Vocabulary Builder</b>
 
 <p> <p>
-I'm looking for a vocabulary builder with a certain behaviour. 
+I'm looking for a vocabulary builder with a certain behaviour.
 <a href="http://zgp.org/pipermail/linux-elitists/2004-February/009336.html">This
     post to linux-elitists</a> explains what the program I want has. I have yet
-to receive a satisfying answer. Meanwhile, the discussion there diverted to 
+to receive a satisfying answer. Meanwhile, the discussion there diverted to
 discuss whether Debian was indeed the Elitists distribution, and whether
 Debianists are simply too full of it. I am to blame for this. ;-).
 

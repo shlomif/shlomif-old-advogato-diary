@@ -1,7 +1,7 @@
 <p><b>A New Bike</b>
 
 <p> <p>
-I finally have a new bike which is a blue Raleigh A4 
+I finally have a new bike which is a blue Raleigh A4
 (yes, like the paper size). I rode it several times the past
 weekend and this one, and it feels pretty good. Some things
 in it are a bit of an over-kill, if you ask me, but all in
@@ -9,19 +9,19 @@ all I'm happy.
 
 
 <p> <p>
-I'm supposed to take it to the shop were I bought it after a 
+I'm supposed to take it to the shop were I bought it after a
 month or so, for some maintainance.
 
 
 <p> <p><b>User's Guide for the IP-Noise Project</b>
 
 <p> <p>
-Roy is finally through with his Milu'im. We decided that we can 
+Roy is finally through with his Milu'im. We decided that we can
 add more meat to our final report by writing a User's Guide. We decided
 to write it in HTML, after ruling out POD (which is very limited)
 , LaTeX (which is harder for MS-Word to import) and DocBook (which
-I still have to learn). POD is still great for writing man 
-pages, and Roy agreed with me that the nroff syntax is much more 
+I still have to learn). POD is still great for writing man
+pages, and Roy agreed with me that the nroff syntax is much more
 horrid.
 
 

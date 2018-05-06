@@ -2,7 +2,7 @@
 
 <p> <p>
 The Technion's connectivity is fine now, but has been a bit sporadic lately. (sometimes it congests). What does
-not work is my CVS repository at BerliOS. It seems that 
+not work is my CVS repository at BerliOS. It seems that
 I can't even login into the CVS server, even from shell.berlios.de. And the new CVS instructions on the project's page are lacking.
 
 
@@ -27,13 +27,13 @@ I received a user account on a Co-Op server and am going to set up a globally ac
 
 
 <p> <p>
-./configure and the compilation of C modules is very fast on this machine, so it must be a pretty spiffy one. I remember timing the Freecell Solver scans ran so much faster on the Pentium 4 1.7 gHz at the Com-Net Lab than it did on my P3 667 MHz workstations. Working on my home P3 600 MHz is also pretty nice and fast, but greater speed still makes you a bit less frustrated. 
+./configure and the compilation of C modules is very fast on this machine, so it must be a pretty spiffy one. I remember timing the Freecell Solver scans ran so much faster on the Pentium 4 1.7 gHz at the Com-Net Lab than it did on my P3 667 MHz workstations. Working on my home P3 600 MHz is also pretty nice and fast, but greater speed still makes you a bit less frustrated.
 
 
 <p> <p><b>Life</b>
 
 <p> <p>
-It's Hanukah now, so I light up the candles every evening, and we eat latkes. The weather has become quite cold at night. The Technion was closed yesterday and today, so I'll have to postpone doing my arrangements on Tuesday. 
+It's Hanukah now, so I light up the candles every evening, and we eat latkes. The weather has become quite cold at night. The Technion was closed yesterday and today, so I'll have to postpone doing my arrangements on Tuesday.
 
 
 <p> <p>
@@ -44,5 +44,5 @@ I have to check the "Hever" students' personnel company for available temporary 
 I got to bike twice yesterday. What I could not do was wash my hair, because we ran out of available shampoo and then there was a lack of hot water. I'm already three days late in washing my hair.
 
 
-<p> 
+<p>
 2002-12-02 03:20:09

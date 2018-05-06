@@ -19,7 +19,7 @@ that after they learn one of these languages, they should
 also learn ANSI C, because it gives a good grasp of machine language and how computers work.
 
 <p> <p>
-Then the lecture began. There were a few jokes (some of which on my expense) and Nadav helped a lot. Someone kept asking a lot of questions, which at least gave me confidence that the audience was following the lecture. All in all we were about 20-30 people. 
+Then the lecture began. There were a few jokes (some of which on my expense) and Nadav helped a lot. Someone kept asking a lot of questions, which at least gave me confidence that the audience was following the lecture. All in all we were about 20-30 people.
 
 <p> <p>
 After the lecture, he noted that this lecture may have thrown the kids into the hands of "the Microsoft devil" as the first lecture they attended dealt with such a complex subject as Autoconf, Automake and Libtool.
@@ -28,8 +28,8 @@ After the lecture, he noted that this lecture may have thrown the kids into the 
 One thing to note is that using the GNU Autotools is not a panacea as far as portability is concerned. The only way to make sure it builds everywhere is to try to build it everywhere.
 
 <p> <p>
-Just a small joke from the lecture, which I hope won't offend anyone: I showed them the Makefile.am file of the 
-<a href="/proj/FCFS%20RWLock/">FCFS RWLock</a>. Then someone asked why did I 
+Just a small joke from the lecture, which I hope won't offend anyone: I showed them the Makefile.am file of the
+<a href="/proj/FCFS%20RWLock/">FCFS RWLock</a>. Then someone asked why did I
 have to show my most complex Automake file todate. So I said: if you think this is complex, just wait till you see
 the automake file of Freecell Solver... ;-)
 

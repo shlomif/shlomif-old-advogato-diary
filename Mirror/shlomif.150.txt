@@ -42,7 +42,7 @@ I played the <a href="http://wouter.fov120.com/cube/">Cube 3D gaming engine</a> 
 I also started adapting the <a href="http://www.iglu.org.il/mailing-lists/">IGLU Mailing List Management Code</a> for public consumption. I only worked on it today, so I still have a lot of work ahead.
 
 <p> <p>
-Finally, a patch I wrote to perldata.pod 
+Finally, a patch I wrote to perldata.pod
 <a href="http://archive.develooper.com/perl5-porters@perl.org/msg98071.html">got accepted into perl5. Hoorah!
 </a>
 2003-05-28 14:32:59

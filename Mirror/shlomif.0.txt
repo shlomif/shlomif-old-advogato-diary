@@ -3,24 +3,24 @@ First entry here!
 
 
 <p> <p>
-I returned home from the Technion, after working on the 
-university project and arranging stuff for it most of the 
+I returned home from the Technion, after working on the
+university project and arranging stuff for it most of the
 week. The project in question is the
 <a href="http://comnet.technion.ac.il/~cn1w02/">
-Linux IP-Noise Simulator</a> which aims to be a 
+Linux IP-Noise Simulator</a> which aims to be a
 sophisticated simulator for Linux (and in the future,
 maybe other systems).
 
 
 <p> <p>
-I have several plans for the weekend, but I have to 
+I have several plans for the weekend, but I have to
 prioritize them to get things straight. Most burning things:
-write a Qt R2L plug-in (don't ask...) and get Hebrew LaTeX 
+write a Qt R2L plug-in (don't ask...) and get Hebrew LaTeX
 to work. And attend Moshe Zadka's lecture about CVS.
 
 
 <p> <p>
-I hope you enjoyed reading this entry as much as I enjoyed 
+I hope you enjoyed reading this entry as much as I enjoyed
 writing it. ;-)
 
 

@@ -61,7 +61,7 @@ A highly enjoyable evening which gave me a lot to know and to think about it.
 <p> <p><b>BitKeeper Advocacy</b>
 
 <p> <p>
-Check: 
+Check:
 <a href="http://better-scm.berlios.de/bk/">http://better-scm.berlios.de/bk/</a>
 
 <p> for some BitKeeper Advocacy articles I wrote. They are more rational than the last ones. I really need to organize the "Better SCM" site better, so it might be some WMLizing before too long. But then, I have some homework to do and it's on a higher priority.

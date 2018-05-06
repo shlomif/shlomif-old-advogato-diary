@@ -3,29 +3,29 @@
 <p> <p>
 Eran's parents have a Windows XP Computer, and would like to use it to play
 Music out of a speaker. They have a large collection of CD's (several hundreds)
-and Eran wants to track them all into mp3's or something similar, put them 
-on the computer's hard-disk, and play them into oblivion. The problem is that 
+and Eran wants to track them all into mp3's or something similar, put them
+on the computer's hard-disk, and play them into oblivion. The problem is that
 his parents are not computer "gurus" so to speak.
 
 
 <p> <p>
-He said that he downloaded <a href="http://www.musicmatch.com/">MusicMatch</a>, 
+He said that he downloaded <a href="http://www.musicmatch.com/">MusicMatch</a>,
 but that it keeps crashing or hanging. This is interesting because on my home
-shaky Windows 98 system, MusicMatch works very nicely. Then he said, the 
+shaky Windows 98 system, MusicMatch works very nicely. Then he said, the
 Windows Media Player knows how to track CD's into WMA's extra fine, but that
-it refuses to create mp3's out of them. He asked me how are WMA's different 
+it refuses to create mp3's out of them. He asked me how are WMA's different
 than mp3's, and I could only tell him that I believed they were a proprietary
-Microsoft format of better quality than normal mp3's and may not playback on 
+Microsoft format of better quality than normal mp3's and may not playback on
 Linux, without crazy Wine games.
 
 
 <p> <p>
 When we returned to Com-Net, we searched Google for it. "WMA" returned absolute
 junk (as can be expected from most 3-letter initials). But "WMA Windows Audio"
-returned <a href="http://www.litexmedia.com/">Litex Media</a> as the first 
-link. They are a shareware vendor and the site is very good looking yet 
-functional (works fine in Konqueror 3.0.4), and contains an "Audio Formats 
-Comparison Article". This gave us a useful 
+returned <a href="http://www.litexmedia.com/">Litex Media</a> as the first
+link. They are a shareware vendor and the site is very good looking yet
+functional (works fine in Konqueror 3.0.4), and contains an "Audio Formats
+Comparison Article". This gave us a useful
 <a href="http://www.litexmedia.com/article/audio_formats.html">Overview</a>
 of the Audio Formats around.
 
@@ -33,7 +33,7 @@ of the Audio Formats around.
 <p> <p>
 Another thing we discovered there was that they ship a program called "Fast CD
 Ripper" that can convert CD's into mp3's (or WMA's or Oggs for that matter)
-and is said to be fully compatible with Windows XP. All in all, I was very 
+and is said to be fully compatible with Windows XP. All in all, I was very
 impressed. I'm still intrigued why Music Match does not like XP (or vice versa)
 , but then again XP is not a very stable system.
 

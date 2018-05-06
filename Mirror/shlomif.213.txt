@@ -6,20 +6,20 @@ things he has been involved in.
 
 
 <p> <p> <p>
-I also wrote two new articles: an 
-<a href="http://www.advogato.org/article/786.html">interview with Ben 
-    Collins-Sussman</a> and 
-<a href="http://www.advogato.org/article/789.htm">Bazaar-style Movies 
+I also wrote two new articles: an
+<a href="http://www.advogato.org/article/786.html">interview with Ben
+    Collins-Sussman</a> and
+<a href="http://www.advogato.org/article/789.htm">Bazaar-style Movies
     Revisited</a>.
 
 
 <p> <p> <p><b>Slashdot Commenting</b>
 
 <p> <p> <p>
-It happened! I posted a few comments to Slashdot. Here's 
-<a href="http://slashdot.org/comments.pl?sid=117863&amp;cid=9962843">one 
-    that is a joke reply to another joke that was posted</a>. It was too 
-late for it to be rated highly. 
+It happened! I posted a few comments to Slashdot. Here's
+<a href="http://slashdot.org/comments.pl?sid=117863&amp;cid=9962843">one
+    that is a joke reply to another joke that was posted</a>. It was too
+late for it to be rated highly.
 <a href="http://slashdot.org/comments.pl?sid=118112&amp;cid=9982132">Another</a>
 is a question to ask Sam Greenblatt about Ingres. The latter was rated 5 and
 marked as Interesting.
@@ -43,7 +43,7 @@ imagine living without it. (periodically visiting web-sites - how barbaric!)
 
 <p> <p> <p>
 <a href="http://shlomif.il.eu.org/irc/logs/FreeNode-%23perl-karma-games.log">This
-    is a log of FreeNode's #perl channel with some heavy karma games</a>. 
+    is a log of FreeNode's #perl channel with some heavy karma games</a>.
 Namely I asked Chris62vw (perlbot's maintainer) for a feature which displays
 the top (or bottom) karmas, and he decided to implement it on the spot. And
 there was a lot of other silly discussion.
@@ -53,13 +53,13 @@ there was a lot of other silly discussion.
 
 <p> <p> <p>
 I set up a <a href="http://www.hackers.org.il/mediawiki/index.php/Main_Page">
-    MediaWiki for Hackers-IL</a>. It was surprisingly easy to set up, and 
+    MediaWiki for Hackers-IL</a>. It was surprisingly easy to set up, and
 worked very nicely so far. Then, I created <a href="http://www.hackers.org.il/mediawiki/index.php/Our_Logo">an Emblem for Hackers-IL</a> based on the Hackers
 Emblem by ESR, and the Israeli Flag.
 
 
 <p> <p> <p>
-I filled the wiki with a lot of content, and other people have created pages 
+I filled the wiki with a lot of content, and other people have created pages
 there of their own. It now also proves useful for coordination of W2L.
 
 
@@ -72,20 +72,20 @@ seems more people would like to use the ShareAlike one which is good too.
 
 <p> <p> <p>
 There was a Telux meeting about bootloaders by Ori Idan. He used PerlPoint for
-the first time for this lecture and prepared it in a haste, so he had a few 
+the first time for this lecture and prepared it in a haste, so he had a few
 glitches which I took record of some of them in my notebook. (and sent it to
 him after the lecture). The lecture was under-advertised and so we were only
-five people there. I think it would be a good idea for Ori to give it at a 
+five people there. I think it would be a good idea for Ori to give it at a
 later date.
 
 
 <p> <p> <p>
-Still, the lecture was very interesting, and some things raised some 
+Still, the lecture was very interesting, and some things raised some
 discussions. Ori is a good lecturer.
 
 
 <p> <p> <p>
-There was also <a href="http://www.perl.org.il/20040819.html">an 
+There was also <a href="http://www.perl.org.il/20040819.html">an
     Israeli Perl Mongers meeting</a> which was very nice. There's a report
 about it in the link.
 
@@ -93,7 +93,7 @@ about it in the link.
 <p> <p> <p><b>Books' Exchange with Talash</b>
 
 <p> <p> <p>
-<a href="http://www.livejournal.com/users/talash/">Michael 
+<a href="http://www.livejournal.com/users/talash/">Michael
     Perelmutter ("Talash")</a> is a really nice guy, who attended the
 TAU-Sec lectures and escorted me on the way back home as he lives nearby.
 While talking on IM, we decided to exchange books. So he dropped by my
@@ -104,19 +104,19 @@ offer.) He eventually took the following books:
 
 <p> <ul>
     <li><a href="http://www.amazon.com/exec/obidos/ASIN/0809058405/qid=1093086648/sr=ka-1/ref=pd_ka_1/002-1619547-2408035">Innumeracy by John Allen Paulos</a>
-    
+
     <li>
     <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0226650251/qid=1093086698/sr=1-1/ref=sr_1_1/002-1619547-2408035">Mathematics and Humor</a> (by the
     same author.
-    
+
     <li>
     <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0553377884/qid=1093086925/sr=1-1/ref=sr_1_1/002-1619547-2408035">Skinny Legs and All by Tom
         Robbins</a>
-    
+
     <li>
     He also took the Monkey Island 3 CDs so he can make a copy of, return
     them to me and play it. (I have already played it.)
-    
+
 </ul>
 <p>
 All in all, it's nice to meet such new people.
@@ -125,16 +125,16 @@ All in all, it's nice to meet such new people.
 <p> <p> <p><b>New Story</b>
 
 <p> <p> <p>
-Ssssshhh! Don't tell anyone, but I'm writing a new story. Surprisingly, I 
+Ssssshhh! Don't tell anyone, but I'm writing a new story. Surprisingly, I
 got the idea for the entire plot almost at once, and lately have been
 cutting some lose edges in my idea. (extraneous characters, etc.) The story
-is written in English, and focuses on high-school teenagers at present Los 
+is written in English, and focuses on high-school teenagers at present Los
 Angeles, California.
 
 <p> <p>
-It talks about one female open-source hacker who is a full guru, but a 
-self-made social outcast, and a punk, who tutors a female hacker wannabe, 
-(who is also the narrator of the story) who is a pop-culture and very solid 
+It talks about one female open-source hacker who is a full guru, but a
+self-made social outcast, and a punk, who tutors a female hacker wannabe,
+(who is also the narrator of the story) who is a pop-culture and very solid
 girl, who's at first only interested in open-source so she can get to a good
 college. There are then other twists to the plot.
 

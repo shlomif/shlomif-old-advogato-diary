@@ -3,21 +3,21 @@
 
 
 <p> <p>
-Well, today I came up with a new signature, which I think 
+Well, today I came up with a new signature, which I think
 is funnier than the previous one. It goes like this:
 
 
 <p> <p>
-"If A is A and A is not not-A, does it imply that B is 
+"If A is A and A is not not-A, does it imply that B is
 B and B is not not-B ?"
 
 
 <p> <p>
-Flame away! My problem is that I insist that all of my 
-signatures be original. It's not that I don't like many 
-quotes by other people, it's just that I am an 
-individualist. And I also want all my quotes to be funny. 
-And I refuse to use a randomizer. And I want to change it 
+Flame away! My problem is that I insist that all of my
+signatures be original. It's not that I don't like many
+quotes by other people, it's just that I am an
+individualist. And I also want all my quotes to be funny.
+And I refuse to use a randomizer. And I want to change it
 once in a while.
 
 
@@ -28,27 +28,27 @@ once in a while.
 
 
 <p> <p>
-That's what I decided should be the new name of the 
-IP-Noise project. Just kidding. In any case, we have a 
-fully working IP-Queue/Kernel Mode Arbitrator. It's only 
-show-stopping bug is a division by zero problem, which 
-I'll solve as soon as I meet with Roy again. 
+That's what I decided should be the new name of the
+IP-Noise project. Just kidding. In any case, we have a
+fully working IP-Queue/Kernel Mode Arbitrator. It's only
+show-stopping bug is a division by zero problem, which
+I'll solve as soon as I meet with Roy again.
 
 
 <p> <p>
-Roy and I prepared a list of notes for the final report, 
-and a wish-list (which we are toying with the idea of 
-out-sourcing a subset of it into a next project). Get 
-this: we have to give a final presentation, a final 
-demonstration and hand out a lengthy final report. 
+Roy and I prepared a list of notes for the final report,
+and a wish-list (which we are toying with the idea of
+out-sourcing a subset of it into a next project). Get
+this: we have to give a final presentation, a final
+demonstration and hand out a lengthy final report.
 
 
 <p> <p>
-The report would probably be in Word. I asked Roy to learn 
-LaTeX, so we can use it in the next project. It's not that 
-I hate Word... It's just that I can't stand using this 
-excuse for a Word-Processor. WordPerfect 5.1/6.0 was very 
-nice IMO, but LaTeX seems nice too. LaTeX has its quirks, 
+The report would probably be in Word. I asked Roy to learn
+LaTeX, so we can use it in the next project. It's not that
+I hate Word... It's just that I can't stand using this
+excuse for a Word-Processor. WordPerfect 5.1/6.0 was very
+nice IMO, but LaTeX seems nice too. LaTeX has its quirks,
 but it is by far better than Word.
 
 
@@ -61,19 +61,19 @@ Oh well, who is John Galt?
 
 
 <p> <p>
-I released Freecell Solver 1.10.0 onto the world. Freecell 
-Solver 1.11.0, which is also available, also includes 
-support for Yukon. Yukon has a much bigger number of 
-possible moves so the scan takes longer on average, but it 
-was able to solve all the games I had solved on PySol. 
-There are some cases, where I think it can potentially 
-lose, but I have to pinpoint such one. Which means I'll be 
+I released Freecell Solver 1.10.0 onto the world. Freecell
+Solver 1.11.0, which is also available, also includes
+support for Yukon. Yukon has a much bigger number of
+possible moves so the scan takes longer on average, but it
+was able to solve all the games I had solved on PySol.
+There are some cases, where I think it can potentially
+lose, but I have to pinpoint such one. Which means I'll be
 playing a lot of Yukon now.
 
 
 <p> <p>
-Yukon also tends to generate very long stacks, which only 
-only makes the Indirect Stack States&lt;tm&gt; make sense. 
+Yukon also tends to generate very long stacks, which only
+only makes the Indirect Stack States&lt;tm&gt; make sense.
 
 </b></b>
 2001-10-22 14:27:06

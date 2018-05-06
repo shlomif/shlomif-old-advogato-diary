@@ -1,10 +1,10 @@
 <p><b>Telux Meeting</b>
 
 <p> <p>
-We had a Tel Aviv Linux Club meeting the Sunday before the last on the 
+We had a Tel Aviv Linux Club meeting the Sunday before the last on the
 "Open Source development
 model and how non-programmers can contribute" given by Ori Idan and Shoshanah
-Forbes. The lecture was very nice and was finished quite early which gave 
+Forbes. The lecture was very nice and was finished quite early which gave
 us a lot of time to chat. (I was also able to return buying a soda to someone
 whom I lended money for a soda can from). Can't recall exactly what I talked
 about but it was fun.
@@ -13,9 +13,9 @@ about but it was fun.
 <p> <p><b>YAPC::Israel::2004</b>
 
 <p> <p>
-I've been to 
-<a href="http://www.perl.org.il/YAPC/2004/">YAPC::Israel::2004</a> 
-some time ago. I woke up early in the morning to catch my ride with Thomas 
+I've been to
+<a href="http://www.perl.org.il/YAPC/2004/">YAPC::Israel::2004</a>
+some time ago. I woke up early in the morning to catch my ride with Thomas
 Maier. We drove to Central Tel Aviv to pick up Ran Eilam. Ran was a little
 late, but he arrived at the end. Then we drove to the Interdisciplinary Center
 in Herzliya, where we got to the designated location. There we helped prepare
@@ -24,10 +24,10 @@ quite fun.
 
 
 <p> <p>
-Then came the introducory talks and the lightning talks. I enjoyed them a lot, 
-and one of them was my own that went very well. Next came the longer 
+Then came the introducory talks and the lightning talks. I enjoyed them a lot,
+and one of them was my own that went very well. Next came the longer
 presentations. Ran Eilam's presentation about the Aspect module was very nice,
-and introduced some Aspect-oriented-programming voodoo. Marth Greenberg's 
+and introduced some Aspect-oriented-programming voodoo. Marth Greenberg's
 "System Monitoring with Perl" was quite informative and interesting.
 
 
@@ -35,15 +35,15 @@ and introduced some Aspect-oriented-programming voodoo. Marth Greenberg's
 Next I attended Yuval Kogman's "Making your objects smell funny" presentation
 where he introduced some cool AUTOLOAD tricks. Afterwards I had to give my
 presentation about the LM-Solve module, but there was very little attendance
-in the hall. (3 people to be exact) I gave it anyway and finished up in due 
+in the hall. (3 people to be exact) I gave it anyway and finished up in due
 half the time, and was still able to catch half of Dov Grobgeld's presentation
-about the Perl/Gtk2 module. (I felt that my own presentation did not go too 
+about the Perl/Gtk2 module. (I felt that my own presentation did not go too
 well).
 
 
 <p> <p>
 Afterwards I attended Mikhael Goikhman's "Artificial Intelligence and Perl"
-which was a bit tedious. Then came the book giveaway's in which I was given a 
+which was a bit tedious. Then came the book giveaway's in which I was given a
 book about qmail as a present.
 
 
@@ -52,7 +52,7 @@ Then came the Speakers' Dinners and BOFs. It was at the Seven Stars Mall, in
 a coffee shop called English cake. There was a show for children nearby and all
 in all I did not feel very well. I called my father to pick me up from there.
 While he took the time to arrive, I went to the key-signing. The problem was
-that I was the only one who brought my key fingerprint from home and no-one 
+that I was the only one who brought my key fingerprint from home and no-one
 else seemed to do so. So I figure out that I'm not going to sign the keys of
 the other people. :-(
 
@@ -61,7 +61,7 @@ the other people. :-(
 
 <p> <p>
 My father upgraded his USB disk-on-key and gave me his old one. So I tried
-to get it to work with Linux. After trying to figure out why the 
+to get it to work with Linux. After trying to figure out why the
 appropriate SCSI disk could not be mounted with a simple mount command despite
 the fact it was present in the SCSI listing under /proc, I finally realized
 I did not have the SCSI disk module compiled. After compiling it in the
@@ -78,8 +78,8 @@ Hallelujah!
 <p> <p>
 Sodipodi had a problem that whenever text was typed, or the font dialog
 invoked, it would crash. It started happening only after I installed a large
-number of fonts. I reported the bug to their mailing list, but it did not 
-get me very far. After a long while, I discovered that inkscape, which is a 
+number of fonts. I reported the bug to their mailing list, but it did not
+get me very far. After a long while, I discovered that inkscape, which is a
 Sodipodi fork did not have this problem. Then I read an E-mail in its mailing
 list that said that someone else had this problem and fixed it.
 
@@ -101,7 +101,7 @@ of progress.
 
 <p> <p>
 Having been displeased with Chiq-Chaq for the wiki implementation, I've
-been looking for a different wiki. I've tried installing TWiki, but its 
+been looking for a different wiki. I've tried installing TWiki, but its
 installation could not be carried out by a mere mortal, especially if I
 don't have root. PerlJam on FreeNode's #perl suggested
 <a href="http://www.pmichaud.com/wiki/PmWiki/PmWiki">PmWiki</a>. I've tried
@@ -110,7 +110,7 @@ it out and found very easy to install and with a nice syntax.
 
 <p> <p>
 So, I set it up on BerliOS, and converted all the old content to the
-<a href="http://perl-begin.berlios.de/Wiki/pmwiki/pmwiki.php/Main/HomePage">new 
+<a href="http://perl-begin.berlios.de/Wiki/pmwiki/pmwiki.php/Main/HomePage">new
     wiki</a> (in one evening), and now the new wiki is set up and filled with
 the original content.
 

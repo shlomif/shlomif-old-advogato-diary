@@ -7,7 +7,7 @@ write. Well - better start somewhere - here goes:
 <p> <p><b>"The Great Kernel CVS Mutiny"</b>
 
 <p> <p>
-That was the name of 
+That was the name of
 <a
 href="http://plasma-gate.weizmann.ac.il/Linux/maillists/02/01/msg00429.html">
 a post</a> I made to the Linux-IL mailing-list, which
@@ -21,14 +21,14 @@ was managed:
 <ol>
 <li>
 That a source control mechanism be used by Linus and the
-other kernel 
+other kernel
 developers (hence the name)
 
 <li>
 That Linus will not necessarily OK all the patches that will
-go into the 
+go into the
 main kernel tree, but rather rely on the good judgement of
-the subsystem 
+the subsystem
 maintainers, the module maintainers, etc.
 
 </ol>
@@ -36,11 +36,11 @@ maintainers, the module maintainers, etc.
 
 <p> <p>
 Suggestion #1 seems to have been resolved (with or without
-my influence - IANA 
+my influence - IANA
 prominent kernel developer) by Linus' switch to BitKeeper.
-Suggestion #2 seems 
+Suggestion #2 seems
 to have been raised in the "Patch Penguin" post. I did not
-thoroughly read 
+thoroughly read
 either the original post or Torvalds' reply to it, so I
 cannot say right now
 whether or not it has been resolved the way I think it should.
@@ -48,7 +48,7 @@ whether or not it has been resolved the way I think it should.
 
 <p> <p>
 An interesting theme to my posts was an analogy I made to
-the story of Moses 
+the story of Moses
 and Jethero in the Exodus. Read the posts and be amused.
 
 

@@ -1,5 +1,5 @@
 <p>
-<a href="/person/lindsey/">lindsey</a>: if you are looking for a better replacement for CVS, check out <a href="http://www.bitkeeper.com/">BitKeeper, <a href="http://subversion.tigris.org/">Subversion, <a href="http://www.regexps.com/arch.html">Arch</a>, and 
+<a href="/person/lindsey/">lindsey</a>: if you are looking for a better replacement for CVS, check out <a href="http://www.bitkeeper.com/">BitKeeper, <a href="http://subversion.tigris.org/">Subversion, <a href="http://www.regexps.com/arch.html">Arch</a>, and
 <a href="http://aegis.sourceforge.net/">Aegis</a>. One of them should do the trick.
 </a></a>
 2002-07-16 14:51:27

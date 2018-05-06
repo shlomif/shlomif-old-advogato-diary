@@ -2,7 +2,7 @@
 
 <p> <p> <p>
 There was a Linux day this Wednesday organized by Haifux at the Technion.
-It involved an installation party, several instances of the 
+It involved an installation party, several instances of the
 <a href="http://vipe.technion.ac.il/~shlomif/lecture/W2L/Basic_Use/slides/">
     Basic Use lecture</a>, and a presentation about Instant Messaging tools
 for Linux.
@@ -15,7 +15,7 @@ we talked about Linux and Open Source. I arrived there at about 10:15, and
 had to go soon afterwards to a class until 12:20. Afterwards, I bought me
 something small to eat, took a book out from the Dean Library, and went back
 there. There were plenty of installers there, and most places were occupied
-by installations in progress so I did not have much to do. I was able to 
+by installations in progress so I did not have much to do. I was able to
 see Orr giving the Basic Use lecture, but not much besides. I eventually
 volunteered to carry an extra screen from Alon's room to the hall
 in the Student house were the insta-party took place. The screen was quite
@@ -33,7 +33,7 @@ rusty at these kind of things.
 
 
 <p> <p> <p>
-The next installation, was done on a computer without an Ethernet card and 
+The next installation, was done on a computer without an Ethernet card and
 so was installed from the CDs. The installation took about an hour and a half
 on a P3 733 MHz computer with a fast CD-drive. (perhaps because of a slow
 hard-disk). While the packages were installed, I talked with the lady for
@@ -47,7 +47,7 @@ the late hour.
 In the party I met (again, I think) Etzion's Girlfriend, who designed the
 covers for the CD. I heard her say something about the GIMP, and so approached
 her asking what she meant. She said she really liked it when she used it, and
-think it has a great potential. I told her I found it easier to use than 
+think it has a great potential. I told her I found it easier to use than
 Photoshop. Still, the CD covers were designed in Windows on Photoshop. (but
 I told her GIMP could run on Windows as well).
 
@@ -68,7 +68,7 @@ of insta-parties. There is an estimate that 40 installations were done.
 
 <p> <p> <p>
 I found the High-Speed digital systems course quite hard to understand
-and counter-intuitive for me. So I switched courses to "Introduction to 
+and counter-intuitive for me. So I switched courses to "Introduction to
 Statistics" (of Industrial Eng.). The course seems OK so far: a lot
 of Probability theory, with exercises that are not too hard. (but require
 some research as I did not attend the previous classes)
@@ -99,10 +99,10 @@ after I did something the Hebrew fonts did not appear at all.
 <p> <p> <p>
 Anxious to get it working (I had a homework to typeset and print), I started
 researching the source of the problem. It was a dvips problem and I played
-with the command lines it gave me until I found a command line argument to 
-gsftopk that could achieve it. But I could not tell dvips to use it. 
+with the command lines it gave me until I found a command line argument to
+gsftopk that could achieve it. But I could not tell dvips to use it.
 Eventually, after a few failed attempts I was able to modify the file
-<tt>/usr/share/texmf/web2c/updmap.cfg</tt> and add the map of the 
+<tt>/usr/share/texmf/web2c/updmap.cfg</tt> and add the map of the
 culmus fonts of ivritex there. Then it worked like a charm and my documents
 even look nicer than before.
 
@@ -110,7 +110,7 @@ even look nicer than before.
 The error message I got was:
 
 <p> <pre>
-kpathsea: Running mktexpk --mfmode ljfour --bdpi 8000 --mag 1+0/8000 --dpi 
+kpathsea: Running mktexpk --mfmode ljfour --bdpi 8000 --mag 1+0/8000 --dpi
 8000 rdavid
 mktexpk: don't know how to create bitmap font for rdavid.
 dvips: Font rdavid not found, characters will be left blank.
@@ -134,7 +134,7 @@ Next thing on my agenda: PDF table-of-contents.
 
 <p> <p> <p>
 The Mandrake 9.2 ISO files are available to the public. I downloaded them
-yesterday, partly overnight, and today discovered that their md5sum don't 
+yesterday, partly overnight, and today discovered that their md5sum don't
 match, and the file size are too long by about a 100 MB. Must be a wget -c
 problem.
 
@@ -146,9 +146,9 @@ rsync resolved the problem, but it took quite a long time to do so.
 
 <p> <p>
 I read the recent interview with Linus Torvalds, which was
-quite nice and entertaining. I also read Paul Graham's 
+quite nice and entertaining. I also read Paul Graham's
 <a href="http://www.paulgraham.com/hp.html">Hackers and
-Painters</a> which was also nice. As for paperware, I 
+Painters</a> which was also nice. As for paperware, I
 finished reading what I wanted out of "Writing Perl
 Modules for CPAN" and began reading "Extending and Embedding Perl". So far, this book has a complicated feel
 to it, as it covers the Perl 5 internal data-structures.
@@ -180,9 +180,9 @@ most computer science out there.
 
 
 <p> <p>
-I know Dijkstra said that "Computer Science is no more 
+I know Dijkstra said that "Computer Science is no more
 about Computers than Astronomy is about Telescopes", and
-I agree that it is partially true. But I think we 
+I agree that it is partially true. But I think we
 digress. I think that my claim that most Computer Science
 students did not came to the Technion to study the CS theory can be easily confirmed.
 

@@ -1,8 +1,8 @@
 <p><b>The Freecell Solver Win32 Build Script Fiasco</b>
 
 <p> <p>
-My Win32 Build Script sparked quite a fuss in 
-Hackers-IL, as people started criticizing it, saying downloading files from the Internet and then executing them was not a nice thing to do, does not check for out of disk space, not secure etc. etc. What they should realize is that it is an internally used software, and one that I do not intend to comply with any standards of robustness. 
+My Win32 Build Script sparked quite a fuss in
+Hackers-IL, as people started criticizing it, saying downloading files from the Internet and then executing them was not a nice thing to do, does not check for out of disk space, not secure etc. etc. What they should realize is that it is an internally used software, and one that I do not intend to comply with any standards of robustness.
 
 
 <p> <p>
@@ -10,7 +10,7 @@ I had to write it that way to comply with the fact that I cannot assume that the
 
 
 <p> <p>
-There are other interesting bits in 
+There are other interesting bits in
 <a href="http://groups.yahoo.com/group/hackers-il/message/2665">
 that discussion</a>, but it seems to have diverged into an NT vs. Linux war.
 

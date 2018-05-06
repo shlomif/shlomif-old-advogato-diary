@@ -18,19 +18,19 @@ She eventually E-mailed me that she had an urgent meeting and could not come
 to her reception hours that day, and so I should hand in my assignment at
 the class on Monday (two days from now). I also need to hand in another
 assignment then, but I don't know how to solve one of the questions because
-it covers material that I did not learn yet. Whatever, I solved the other 
+it covers material that I did not learn yet. Whatever, I solved the other
 question.
 
 <p> <p>
 At Wednesday I also photo-copied the Thermo lecture that took place at the
-hall without proper tables to write on, so I won't need to go through 
+hall without proper tables to write on, so I won't need to go through
 understanding my bad writing being even worse.
 
 
 <p> <p> <p><b>The Eternal Jew</b>
 
 <p> <p> <p>
-I might as well tell that the philosophical essay I worked on is 
+I might as well tell that the philosophical essay I worked on is
 <a href="http://t2.technion.ac.il/~shlomif/philosophy/the-eternal-jew/">The
     Eternal Jew</a>. It is complete now, and I sent it to several people
 for review, but none have responded yet. If you wish, you can read it
@@ -65,7 +65,7 @@ I now wrote the 10 last book reviews of the Israeli Perl mongers.
 <p> <p> <p><b>Quad-Pres Logo</b>
 
 <p> <p> <p>
-I've been working on <a href="http://stalker.iguide.co.il:8080/svn/lm-solve/quad-pres-logo/">a logo for Quad-Pres using the GIMP</a>. I started by 
+I've been working on <a href="http://stalker.iguide.co.il:8080/svn/lm-solve/quad-pres-logo/">a logo for Quad-Pres using the GIMP</a>. I started by
 constructing a wireframe text saying "Quad-Pres". I finished the Q and the
 u by now, but they are not perfect. Maybe I just need to look harder for a
 suitable font. I think I'll install "Print Shop Ensemble III" as it comes
@@ -76,9 +76,9 @@ with plenty of fonts.
 
 <p> <p> <p>
 I spent some time tracing and fixing some bugs that had to do with the
-GIMP Image Info Window. You can find the patches and discussion 
-in <a href="http://bugzilla.gnome.org/show_bug.cgi?id=118084">Bug 
-    #118084</a> and 
+GIMP Image Info Window. You can find the patches and discussion
+in <a href="http://bugzilla.gnome.org/show_bug.cgi?id=118084">Bug
+    #118084</a> and
 <a href="http://bugzilla.gnome.org/show_bug.cgi?id=132329">Bug
     #132329</a>.
 
@@ -87,14 +87,14 @@ in <a href="http://bugzilla.gnome.org/show_bug.cgi?id=118084">Bug
 
 <p> <p> <p>
 Despite the fact that my SpamAssassin installation is up-to-date, a lot
-of Spam on Vipe still slipped through. So I decided to enable its Bayesian 
+of Spam on Vipe still slipped through. So I decided to enable its Bayesian
 filtering. I invoked "sa-learn" with my ham and gradually had more and more
 spam to put there. Now it seems to be working better and better.
 
 
 <p> <p> <p>
 I don't have a spam filter on my home E-mail, but I may eventually. To prepare
-for this, I started collecting all my spam, so I'll later can input it into 
+for this, I started collecting all my spam, so I'll later can input it into
 the Bayesian filtering. I wonder if SpamAssassin can easily work with kmail,
 because it's very nice.
 
@@ -108,9 +108,9 @@ other SMTP servers. I still don't know if it's really an open relay or not.
 
 <p> <p> <p>
 The MySQL client library for versions 3.x of the product was LGPLed, and for
-versions 4.x it is GPLed, which does not allow proprietary applications to 
+versions 4.x it is GPLed, which does not allow proprietary applications to
 link against it, without purchasing a license. So, I decided to compare them
-to see how different they are and if the old one could be forward-ported to 
+to see how different they are and if the old one could be forward-ported to
 the other.
 
 

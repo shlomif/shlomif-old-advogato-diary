@@ -1,11 +1,11 @@
 <p><b>CLAN - The Comprehensive Linux Archive Network</b>
 
 <p> <p>
-I pondered an idea for this for some time. Yesterday I went to 
+I pondered an idea for this for some time. Yesterday I went to
 irc.kernelnewbies.org there, found <a href="/person/riel/">riel</a> and some other
-people and discussed it with it. He liked it so I wrote 
+people and discussed it with it. He liked it so I wrote
 <a href="http://fc-solve.berlios.de/clan/clan.html">whitepaper</a> and posted
-it to the Linux Kernel Mailing List. Tzafrir Cohen gave me some useful 
+it to the Linux Kernel Mailing List. Tzafrir Cohen gave me some useful
 commentary. What it does basically is allow to download, compile and install
 kernel modules incrementally while resolving dependencies. Something
 like Perl's CPAN or Debian Apt meets the Linux Kernel.
@@ -13,15 +13,15 @@ like Perl's CPAN or Debian Apt meets the Linux Kernel.
 
 <p> <p>
 Right now, I'm pondering how to implement it in a robust enough way, and maybe
-should start hacking on a SPEC. riel said hosting should not be a problem, 
+should start hacking on a SPEC. riel said hosting should not be a problem,
 but that I'll need to make sure I'm serious about it. If anyone wishes to do
 it instead of me, (or bring out ideas, SPEC portions, etc.) feel free to.
 
 
 <p> <p>
-On the IRC, riel and some other guys also discussed Perl modules and objects 
-and what you should use them, and also a system they wrote at Connective (where 
-Rik-van-riel) works that is something like dmoz meets Slashdot, and he claims 
+On the IRC, riel and some other guys also discussed Perl modules and objects
+and what you should use them, and also a system they wrote at Connective (where
+Rik-van-riel) works that is something like dmoz meets Slashdot, and he claims
 makes the support guys job much easier. He said something about the code being
 in Portugese (variables, function names, comments and all) and that they wish
 to clean it up before they releas it. I've seen a Freecell implementation (with
@@ -35,130 +35,130 @@ to understand. <tt>use English;</tt>!
 The lectures in the IBM Event where cum-si cum-sa. The Israeli Organization
 of Information Engineers guy told a nice joke, and made a useful comment
 about open-source in the government. Basically, the government should not be
-forced to use OSS because it can stand on its own merits technically and 
-philosophically. However, I do think the government should make sure its 
+forced to use OSS because it can stand on its own merits technically and
+philosophically. However, I do think the government should make sure its
 users will not be forced to use proprietary software which they'll have to
 pay for.
 
 
 <p> <p>
 An IIS and Oracle site that outputs valid HTML and looks fine in Mozilla, Konq
-, Opera, etc. is acceptable. MS Word documents for download (without PDFs or 
+, Opera, etc. is acceptable. MS Word documents for download (without PDFs or
 HTML) are not.
 
 
 <p> <p>
 Next came Moshe Bar's lecture which confused the hell out of the terms "free
-software" and "open source software". Generally Moshe Bar's lecture are pretty 
+software" and "open source software". Generally Moshe Bar's lecture are pretty
 good, but this time I was very disappointed. I tried to correct him sometimes,
 and he dismissed me and there's a discussion of it in the Linux-IL archives.
 
 
 <p> <p>
-Next came Theodor Ts'o lecture. He is not head of the IBM Linux Development 
-Center (or something like that) and talked about everything IBM is doing with 
-Linux and Open-Source. I hope Mr. Ts'o won't take it the wrong way but the 
+Next came Theodor Ts'o lecture. He is not head of the IBM Linux Development
+Center (or something like that) and talked about everything IBM is doing with
+Linux and Open-Source. I hope Mr. Ts'o won't take it the wrong way but the
 lecture was too long and there were too many names and numbers and not enough
 meat. I left it a couple of times. (but note my impression from Ted below)
 
 
 <p> <p>
-Next was a brief but to the point lecture about PHP and Zend Inc. which was 
+Next was a brief but to the point lecture about PHP and Zend Inc. which was
 very interesting. I did not learn anything too new but it was interesting.
 
 
 <p> <p>
-Next came a lecture about the Eclipse IDE project. The project has an 
+Next came a lecture about the Eclipse IDE project. The project has an
 interesting design and goals and is widely deployed, but since I'm not an avid
-IDE user (give me konsole, gvim, gcc, make, gdb, perl, perl -d, Subversion, etc.everyday) and found Eclipse exteremely unconventional to what I was used to, I 
+IDE user (give me konsole, gvim, gcc, make, gdb, perl, perl -d, Subversion, etc.everyday) and found Eclipse exteremely unconventional to what I was used to, I
 went away. I think the lecture was interesting, though.
 
 
 <p> <p>
 I met Ts'o outside, and we had a few chats. In one he explained to me that ext2
-uses the standard direct, indirect, indirect-&gt;indirect, etc. convention that 
-is common on the UFS, which I learned at at the course Structure of OS in the 
-Technion. We also talked about my IP-Noise project and if he can recommend 
+uses the standard direct, indirect, indirect-&gt;indirect, etc. convention that
+is common on the UFS, which I learned at at the course Structure of OS in the
+Technion. We also talked about my IP-Noise project and if he can recommend
 anyone who knows where I can forward a "call for adoption" notice. He instructed
-me to E-mail him which I did. Another chat (between him, me and several other people) was on Linux for the masses, Linux on PDAs, Life, the Universe and 
+me to E-mail him which I did. Another chat (between him, me and several other people) was on Linux for the masses, Linux on PDAs, Life, the Universe and
 Everything.
 
 
 <p> <p>
 He calls Linux "liynex" but otherwise is one hell of a nice guy from my first
-impression, and a good speaker. Ted, next time, please include concrete 
-examples in your lecture. All those graphs, facts, figures, etc. bored the 
+impression, and a good speaker. Ted, next time, please include concrete
+examples in your lecture. All those graphs, facts, figures, etc. bored the
 hell out of me.
 
 
 <p> <p>
-Right afterwards was a Linux dinner which we decided to do with RMS or without 
+Right afterwards was a Linux dinner which we decided to do with RMS or without
 it. (he did eventually came straight from the airport). I was disappointed from
-the RMS-part of the dinner, because I did not get to talk to him too much, and 
+the RMS-part of the dinner, because I did not get to talk to him too much, and
 was pre-empted. Other people were disappointed from me because I did not behave
 very well. What was interesting was the company.
 
 
 <p> <p>
 I met two Hebrew University students who work on the MOSIX team. I talked with
-one of them about open-source and then mentioned the Cathedral and the Bazaar. 
-He said he printed it the same day, and intended to read it. I hope 
-"Amnon Barak" reads it as well, and MOSIX will become a true open-source 
+one of them about open-source and then mentioned the Cathedral and the Bazaar.
+He said he printed it the same day, and intended to read it. I hope
+"Amnon Barak" reads it as well, and MOSIX will become a true open-source
 project and not just one of those projects with a free software license. Taking
-Freecell Solver - I did more than 95% of the work on the code. But it would 
-have advanced nowhere, if it were not for the users' feedback, motivation, 
+Freecell Solver - I did more than 95% of the work on the code. But it would
+have advanced nowhere, if it were not for the users' feedback, motivation,
 encouragement, ideas, compliments and even the occasional contribution. I'm not
-sure it was 100% Bazaar-style, but it was quite close. And even in most 
+sure it was 100% Bazaar-style, but it was quite close. And even in most
 Bazaar style projects the core group is very small - usually one or two people.
 
 
 <p> <p>
 openMOSIX was supposed to be a MOSIX fork that was done bazaar-style. Now Prof.
-Barak is a bit possessive about the source, and so shined away from it. I do 
-hope these projects merge in a certain point into one Bazaar-style project 
-headed by Barak (or an anarchy-style project like KDE). But at the time being 
+Barak is a bit possessive about the source, and so shined away from it. I do
+hope these projects merge in a certain point into one Bazaar-style project
+headed by Barak (or an anarchy-style project like KDE). But at the time being
 Prof. Barak won't accept patches to the code even if they are perfectly fine.
 
 
 <p> <p>
 I then met Mark Veltzer and few people I did not know, and started talking. We
 began discusssing the "Microsoft - Good or Evil" endless-discussion. I maintain
-that Microsoft should be left alone and suffer from their own mistakes and 
+that Microsoft should be left alone and suffer from their own mistakes and
 dogma. I also believe Microsoft is smarter than many think it is, and eventually
-port stuff to Linux, and adopt a more bazaar-like development style of its 
+port stuff to Linux, and adopt a more bazaar-like development style of its
 software. I don't think they will ever go entirely open-source, but I think they
 can survive to one extent or the other in an open-source dominated world.
 
 
 <p> <p>
 Making free software is not about getting rid of Microsoft. It's about changing
-the rules of the game and making people more free to choose their software, 
-and better be aware of their freedom. As was noted in the conference IBM is the 
-god-mother of proprietary software, distributed such a long time before 
+the rules of the game and making people more free to choose their software,
+and better be aware of their freedom. As was noted in the conference IBM is the
+god-mother of proprietary software, distributed such a long time before
 Microsoft, and still does. It is now one of the largest open-source developers.
-I think Microsoft can adapt as well as IBM can. It dumped DOS in favour of 
+I think Microsoft can adapt as well as IBM can. It dumped DOS in favour of
 Windows and MacOS, and can dump both in favour of Linux and MacOS X. This will
 give them all other UNIXes for free. (just re-compile) And Windows has become
-so over-engineered, over-complicated, over-x86-specific, over 
-backwards-compatible, over-bloated, and over-un-understood, that they have 
+so over-engineered, over-complicated, over-x86-specific, over
+backwards-compatible, over-bloated, and over-un-understood, that they have
 more profitable pathes to do with the elite group that is supposed to maintain
-the Windows XP code. (which is the Linux equivalent of the kernel, glibc, X, gtk+, half of GNOME, bash and a lot of the GNU fileutils etc., Mozilla (IE within),atd, CORBA, and maybe other things I forgot). 
+the Windows XP code. (which is the Linux equivalent of the kernel, glibc, X, gtk+, half of GNOME, bash and a lot of the GNU fileutils etc., Mozilla (IE within),atd, CORBA, and maybe other things I forgot).
 
 
 <p> <p>
 Granted, some things are nicer in Windows. Multi-threading for instance. But it
-would take less time to tweak gdb to better support threads, than it would be 
-to fix all the Windows brain-damage around. I once preferred using Win98 over 
-Linux for doing non-development stuff. Now I simply can't stand Windows, not 
-even Windows XP. My Mandrake system with KDE 3.x and everything on it gives me 
+would take less time to tweak gdb to better support threads, than it would be
+to fix all the Windows brain-damage around. I once preferred using Win98 over
+Linux for doing non-development stuff. Now I simply can't stand Windows, not
+even Windows XP. My Mandrake system with KDE 3.x and everything on it gives me
 so much more opportunities and is so much more comfortable. I can easily show
 that there are things that are trivial in Linux which are not possible in the
 Windows XP as it ships from Redmond. Many things.
 
 
 <p> <p>
-If Microsoft wants to beat Linux they would have to seriously hack on the 
-already bloated code. But sometimes, if you can't beat them - join them, and I 
+If Microsoft wants to beat Linux they would have to seriously hack on the
+already bloated code. But sometimes, if you can't beat them - join them, and I
 think that's what they'll eventually do.
 
 

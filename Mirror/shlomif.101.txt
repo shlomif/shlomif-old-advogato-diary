@@ -5,7 +5,7 @@ Someone have sent me a modified code of the Simple Simon modules with many impro
 
 
 <p> <p> <p>
-I decided to write a solution verifier for Simple Simon games, so it can go on testing the validity of solutions instead of me. I wrote it in Perl and placed it 
+I decided to write a solution verifier for Simple Simon games, so it can go on testing the validity of solutions instead of me. I wrote it in Perl and placed it
 <a href="http://cvs.berlios.de/cgi-bin/viewcvs.cgi/fc-solve/fc-solve/source/scripts/">in  the CVS</a>. It verified that all the solutions of the modified and corrected code up to PySol #500 were correct. Hallelujah!
 
 

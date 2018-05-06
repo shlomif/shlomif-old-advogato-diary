@@ -2,11 +2,11 @@
 
 <p> <p>
 The <a href="http://www.perl.org.il/YAPC/2004/presentations.html">presentations
-    list</a> for 
-the <a href="http://www.perl.org.il/YAPC/2004/presentations.html">"Yet 
-    Another Perl Conference" in Israel, 2004</a>. So, it's final that 
-I'm going to give a lightning talk about 
-<a href="http://www.perl.org.il/YAPC/2004/presentations.html">the 
+    list</a> for
+the <a href="http://www.perl.org.il/YAPC/2004/presentations.html">"Yet
+    Another Perl Conference" in Israel, 2004</a>. So, it's final that
+I'm going to give a lightning talk about
+<a href="http://www.perl.org.il/YAPC/2004/presentations.html">the
     Template Toolkit</a> and a 60-minutes long <a href="http://vipe.technion.ac.il/~shlomif/lecture/LM-Solve/slides/">presentation about LM-Solve</a>.
 
 
@@ -21,19 +21,19 @@ I'm waiting for the notice about which formats are acceptable for submission
 <p> <p>
 The "Konqueror" and "Home Directory" buttons of the KDE panel stopped working.
 I found out the very command line <tt>kfmclient openProfile webbrowsing</tt>
-did not work at all, not even from the konsole. (got a "KDEInit could not 
+did not work at all, not even from the konsole. (got a "KDEInit could not
 execute kfmexec" or something like that message). After some investigation,
 I realized that it worked for different users.
 
 
 <p> <p>
-At first I was able to resolve it by creating a 
+At first I was able to resolve it by creating a
 <tt>$HOME/.kde/share/kfmclientrc</tt> file with some settings there. (this
 is after some investigation of its source code). But then
 yesterday, it broke again. Renaming .kde to .kde-bak resolved the problem, but
 made me lose all the settings. So I started renaming directories inside it,
 and seeing if they change anything. After a long time I found out that renaming
-applnk-mdk resolved the problem. Then I tried just deleting the 
+applnk-mdk resolved the problem. Then I tried just deleting the
 konqueror.desktop file there which also made the problem disappear.
 
 
@@ -46,16 +46,16 @@ it happens again.
 <p> <p><b>Gimp Patch</b>
 
 <p> <p>
-Now I can tell that I <a href="http://www.mail-archive.com/gimp-developer@lists.xcf.berkeley.edu/msg05715.html">updated</a> my 
+Now I can tell that I <a href="http://www.mail-archive.com/gimp-developer@lists.xcf.berkeley.edu/msg05715.html">updated</a> my
 <a href="http://t2.technion.ac.il/~shlomif/grad-fu/">Gradient-Fu</a> patch to
 the latest development version of the GIMP. I received some helpful comments
-from the core developers on the mailing list and on the GimpNet #gimp IRC 
+from the core developers on the mailing list and on the GimpNet #gimp IRC
 channel.
 
 
 <p> <p>
 What this patch does is create Procedural Database functions for manipulating
-gradients, thus allowing them to be manipulated from withing scripts. Here is 
+gradients, thus allowing them to be manipulated from withing scripts. Here is
 <a href="http://bugzilla.gnome.org/show_bug.cgi?id=129675">the Gimp Bugzilla
     Issue</a> for it, where one can follow its development.
 
@@ -63,41 +63,41 @@ gradients, thus allowing them to be manipulated from withing scripts. Here is
 <p> <p>
 The patch is not complete yet, as there are some gradient manipulation routines
 that can still only be done in the gradient editor. But I'm getting there. The
-patch was scheduled for inclusing in Gimp 2.2, because the developers are 
+patch was scheduled for inclusing in Gimp 2.2, because the developers are
 anxious to get Gimp 2.0 out soon.
 
 
 <p> <p><b>What is "Computer Science"</b>
 
 <p> <p>
-<a href="http://www.advogato.org/person/kilmo/diary.html?start=67">kilmo</a>: 
-I think that defining "Computer Science" solely as "The science that deals 
-with the study, implementation and creation of algorithms" is incorrect and 
+<a href="http://www.advogato.org/person/kilmo/diary.html?start=67">kilmo</a>:
+I think that defining "Computer Science" solely as "The science that deals
+with the study, implementation and creation of algorithms" is incorrect and
 tries to convey some political agenda. By all means, "Computer Science" deals
-with the entire whole of programming for a computer, not just theoretical 
-algorithms. What you describe is better defined as "Algorithmics". 
+with the entire whole of programming for a computer, not just theoretical
+algorithms. What you describe is better defined as "Algorithmics".
 
 
 <p> <p>
-Let's look some definitions. The <a href="http://en2.wikipedia.org/wiki/Computer_science">Wikipedia entry</a> say: "In its most general sense, computer 
-science (CS) is the study of computation and information processing, both 
-in hardware and in software. In practice, computer science includes a variety 
-of topics relating to computers, which range from the abstract analysis of 
-algorithms to more concrete subjects like programming languages, software, 
-and computer hardware. As a scientific discipline, it is a very different 
-activity from computer programming and computer engineering, although the 
+Let's look some definitions. The <a href="http://en2.wikipedia.org/wiki/Computer_science">Wikipedia entry</a> say: "In its most general sense, computer
+science (CS) is the study of computation and information processing, both
+in hardware and in software. In practice, computer science includes a variety
+of topics relating to computers, which range from the abstract analysis of
+algorithms to more concrete subjects like programming languages, software,
+and computer hardware. As a scientific discipline, it is a very different
+activity from computer programming and computer engineering, although the
 three are often confused. ".
 
 
 <p> <p>
-The Free Dictionary says: "computer science - the branch of engineering 
-science that studies (with the aid of computers) computable processes 
-and structures". And you can <a href="http://www.google.com/search?q=definition%20of%20computer%20science&ie=UTF-8&oe=UTF-8">find 
+The Free Dictionary says: "computer science - the branch of engineering
+science that studies (with the aid of computers) computable processes
+and structures". And you can <a href="http://www.google.com/search?q=definition%20of%20computer%20science&ie=UTF-8&oe=UTF-8">find
     more in Google</a>.
 
 
 <p> <p>
-So limiting the definition of Computer Science to pure theoretical 
+So limiting the definition of Computer Science to pure theoretical
 Algorithmics is probably not a rational thing to do. By all means, it includes
 many areas that are more practical and applied.
 
@@ -105,10 +105,10 @@ many areas that are more practical and applied.
 <p> <p><b>A Productive Day</b>
 
 <p> <p>
-Yesterday was a productive day. I prepared several questions from the 
+Yesterday was a productive day. I prepared several questions from the
 pending Statistics homework, and also worked on the GIMP patch, managing to
-do a lot of work. Eventually, I was interrupted for a while by the KDE 
-problem, but I was still very productive. Today is a bit slower with 
+do a lot of work. Eventually, I was interrupted for a while by the KDE
+problem, but I was still very productive. Today is a bit slower with
 all the E-mail reading/web-surfing/arrangement stuff, but I hope to get
 on the swing soon.
 
@@ -119,7 +119,7 @@ on the swing soon.
 <a href="http://www.haifux.org/index.html">Haifux</a> has a new site courtesy
 of <a href="/person/ladypine/">ladypine</a>. It is based on her and mine original design
 of the <a href="/proj/syscalltrack/">syscalltrack</a> site. I also contributed some comments
-in <a href="http://www.mail-archive.com/haifux@haifux.org/msg00777.html">the 
+in <a href="http://www.mail-archive.com/haifux@haifux.org/msg00777.html">the
     discussion about it</a> in the mailing list.
 
 
@@ -128,7 +128,7 @@ in <a href="http://www.mail-archive.com/haifux@haifux.org/msg00777.html">the
 <p> <p>
 Recently I had to work with several Wikis, and I can testify that the syntax
 or implementation of several of them could made using them a bit frustrating
-at times. For instance, Chiq-Chaq's heavy reliance on JavaScript made it 
+at times. For instance, Chiq-Chaq's heavy reliance on JavaScript made it
 unusable on Konqueror. Also, Kwiki seems to have a relatively poor syntax,
 and some things are simply not possible in it. It is however, supposed to be
 very easy to set up.

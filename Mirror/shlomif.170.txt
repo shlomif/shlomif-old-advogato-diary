@@ -26,8 +26,8 @@ there.
 <p> <p>
 Finally, on Monday, there was a coordination meeting for the Haifa Linux Club
 Welcome to Linux series, which I volunteered to be responsible for some of
-the tasks there. They rejected my suggestion to make a shorter "Linux in 
-Action" series, claiming that the first lecture was about that already. I 
+the tasks there. They rejected my suggestion to make a shorter "Linux in
+Action" series, claiming that the first lecture was about that already. I
 still think the W2L as it is, wastes too much of our time, while giving
 very little in return to the beginners.
 
@@ -35,7 +35,7 @@ very little in return to the beginners.
 <p> <p><b>Hacktivity</b>
 
 <p> <p>
-This and that. I worked on implementing the Patsolve logic into Freecell 
+This and that. I worked on implementing the Patsolve logic into Freecell
 Solver. It is working now, but does not give as good results as Patsolve
 has. I'll have to analyze the results to see if there's a bug.
 
@@ -43,7 +43,7 @@ has. I'll have to analyze the results to see if there's a bug.
 <p> <p>
 I also worked on <a href="http://t2.technion.ac.il/~shlomif/Devel-LineTrace/">
     Devel::LineTrace</a> - a Perl module to assign callbacks to lines in the
-code without modifying it. (for debugging purposes, like adding prints). 
+code without modifying it. (for debugging purposes, like adding prints).
 
 
 <p> <p>
@@ -55,8 +55,8 @@ them and two of which (one which I forgot) crept up during the lecture. :-)
 
 <p> <p>
 vipe.technion.ac.il is disconnected because it's lying in the Technion's
-dormitories network which was entirely disconnected to facilitate dealing with 
-the worms attack. This means part of my homepage and the Haifa Linux Club 
+dormitories network which was entirely disconnected to facilitate dealing with
+the worms attack. This means part of my homepage and the Haifa Linux Club
 homepage and mailing lists are inaccessible, and I cannot read my primary
 E-mail account. The Technion staff is now on vacation so it's not going to
 be fixed until Sunday.
@@ -65,8 +65,8 @@ be fixed until Sunday.
 <p> <p><b>Reading</b>
 
 <p> <p>
-I read a lot from "The Art of Unix Programming", as well as some chapters 
-out of "The House of Arden". I also advanced a little in "Apache : The 
+I read a lot from "The Art of Unix Programming", as well as some chapters
+out of "The House of Arden". I also advanced a little in "Apache : The
 Definitive Guide". The latter seems a bit boring and technical to me,
 and I'm not entirely sure I need this information.
 

@@ -1,26 +1,26 @@
-<p>  
-I woke up today at 02:00 AM which is quite early for what I'm used  
-to. I then turned on the computer and started working on it, and  
-then tried to go back to sleep, but could not so I continued  
-working on it until breakfast.  
-  
-  
-<p>  
-I managed to finally be able to understand how to work with  
-BitKeeper. It requires quite a lot of commands just to commit  
-the changes into the master repository, so I'd better write scripts  
-to automate it (like Linus Torvalds did). I'll probably use it for  
-<a href="/proj/LM-Solve/">LM-Solve</a>, just to get a feel of how to work with it  
-and what it can do.  
-  
-  
-<p>  
-Other than that, I did all kinds of bit and pieces like making the 
-shoes of the BSD daemon a bit nicer. I went running at around 9 
-O'clock and close to home, I again encountered the same girl jogger 
-I saw yesterday (wearing a differentyl coloured set of clothes). 
-Maybe she has the habit of running everyday at around this time. 
- 
- 
- 
+<p>
+I woke up today at 02:00 AM which is quite early for what I'm used
+to. I then turned on the computer and started working on it, and
+then tried to go back to sleep, but could not so I continued
+working on it until breakfast.
+
+
+<p>
+I managed to finally be able to understand how to work with
+BitKeeper. It requires quite a lot of commands just to commit
+the changes into the master repository, so I'd better write scripts
+to automate it (like Linus Torvalds did). I'll probably use it for
+<a href="/proj/LM-Solve/">LM-Solve</a>, just to get a feel of how to work with it
+and what it can do.
+
+
+<p>
+Other than that, I did all kinds of bit and pieces like making the
+shoes of the BSD daemon a bit nicer. I went running at around 9
+O'clock and close to home, I again encountered the same girl jogger
+I saw yesterday (wearing a differentyl coloured set of clothes).
+Maybe she has the habit of running everyday at around this time.
+
+
+
 2002-06-01 08:18:56

@@ -8,14 +8,14 @@ here's what happened so far.
 <p> <p><b>Syscalltrack Home-site</b>
 
 <p> <p>
-I posted a request-for-comments for the Syscalltrack web-site on 
-<a href="http://www.webdesign-l.com/">webdesign-l</a> and received 
+I posted a request-for-comments for the Syscalltrack web-site on
+<a href="http://www.webdesign-l.com/">webdesign-l</a> and received
 some <a href="http://sourceforge.net/mailarchive/forum.php?thread_id=1479532&forum_id=714">useful comments</a>. The web-design people are really professional,
 and the posts there are of very good quality.
 
 
 <p> <p>
-Once thing I noted there is that they are recently littered with posts about 
+Once thing I noted there is that they are recently littered with posts about
 trying to get CSS2-based layout to work. This makes me happy that I'm using
 table-based layout for all my site.
 
@@ -33,23 +33,23 @@ promise anything as I have many other things to do.
 I also worked on a detailed and elaborated <a href="http://vipe.technion.ac.il/~shlomif/freecell-solver/to-do.html">to-do-list for Freecell Solver</a>.
 The original TODO list found in the main distribution and in the CVS is very
 brief and may only be understood by myself. The reason I did was in accordance
-with what <a href="http://www.tuxedo.org/~esr/writings/cathedral-bazaar/homesteading/ar01s11.html">ESR says in Homesteading the Noosphere</a>: "If one does 
+with what <a href="http://www.tuxedo.org/~esr/writings/cathedral-bazaar/homesteading/ar01s11.html">ESR says in Homesteading the Noosphere</a>: "If one does
 one's braggin through the code, and then says 'Well shucks, it doesn't do x, y, and z, so it can't be that good", patches for x,y, and z will often switfly follow."
 
 
 <p> <p>
-Whether it will indeed happen with Freecell Solver remains to be seen. A 
+Whether it will indeed happen with Freecell Solver remains to be seen. A
 problem is that I feel that Freecell Solver is a fairly complete package that
 satisfies the need of most "hobbyist" and "professional" Freecell gamers. It
-will remain satisfactory even if no added-features development takes place 
+will remain satisfactory even if no added-features development takes place
 (just like Perl, gcc, gvim, Mozilla or many other "complete" packages).
 
 
 <p> <p>
 Many times when developing it and releasing a release version, I felt that
 "damn, after I release x.y.0, all I'd like to do with it is purely speculative,
-so I can just leave it at that." But I kept discovering more and more things 
-to implement. I guess a project never ends, but I still can't see anything 
+so I can just leave it at that." But I kept discovering more and more things
+to implement. I guess a project never ends, but I still can't see anything
 pertinent I'd like to add to FCS after I integrate Patsolve's state ordering.
 Except maybe Patsolve's mixed bfs-dfs scan and what Bill Raymond wrote for his
 solver (should he agree to convert it to the new Freecell Solver architecture).
@@ -59,8 +59,8 @@ solver (should he agree to convert it to the new Freecell Solver architecture).
 
 <p> <p>
 Not to much in this direction. The autoconf-based installer is working and
-functional, but the functionality is still limited and the user documentation 
-is non-existent. I think I'll now begin to write some lectures and use the 
+functional, but the functionality is still limited and the user documentation
+is non-existent. I think I'll now begin to write some lectures and use the
 <tt>quadp</tt> command line interface exclusively (in accordance with the
 using your own dog-food principle). That may give me motivation to improve
 it further.
@@ -69,9 +69,9 @@ it further.
 <p> <p>
 I also have some craving to write my lectures using PerlPoint, because it
 is very brief. Maybe I should find a nice way to integrate it into Quad-Pres
-to create an hierarchy of pages. It has an API, but what could be a problem is 
-that the HTML it creates is quite non-standard and does not match my 
-conventions, and it places all the slides in one directory with names like 
+to create an hierarchy of pages. It has an API, but what could be a problem is
+that the HTML it creates is quite non-standard and does not match my
+conventions, and it places all the slides in one directory with names like
 "slide0003.html" regardless of their organization. But when there is a will,
 there is a way. The worse-case scenario is that I'll fork the code, or update
 the new version in CPAN.
@@ -79,7 +79,7 @@ the new version in CPAN.
 
 <p> <p>
 I should also check other presentation tools (there are dozens of them around)
-and rob good ideas out of them to integrate into Quad-Pres. But first, I'd 
+and rob good ideas out of them to integrate into Quad-Pres. But first, I'd
 better release Quad-Pres 0.8.0 and then make other changes I have in mind.
 
 
@@ -110,11 +110,11 @@ POD for man-pages and such small-scope documents.
 
 
 <p> <p>
-I also saw that there is a module in CPAN to convert POD to DocBook 
+I also saw that there is a module in CPAN to convert POD to DocBook
 (and the other way around). This is very cool, and should prove useful.
 
 
-<p> <p><b>Life</b> 
+<p> <p><b>Life</b>
 
 <p> <p>
 Our united-states friend Ron and Carol Sekura sent us their new years greeting
@@ -127,24 +127,24 @@ do it in Israel, but I wonder what I would write in mine:
 &lt;&lt;&lt;<br />
 At January 1, I was hard at work finishing the winter semester, and also tying
 the lose end-points with Roy Glasberg's and mine IP-Noise Simulator project. We
-eventually were able to finish on time, and our project got a perfect 100 
-score, and it was considered to represent the Com-Net lab in the Technion-wide 
+eventually were able to finish on time, and our project got a perfect 100
+score, and it was considered to represent the Com-Net lab in the Technion-wide
 project excellence contest. (eventually another project was chosen and it won)
 
 <p>
 The spring semester came with many interesting computer-related subjects, that
-I constructed especially. They all turned out to be very interesting. Also, 
+I constructed especially. They all turned out to be very interesting. Also,
 nother project of creating a web-interface for managing seminars Technion-wide.
-Roy and I did not have a lot of time to work on the project during the 
+Roy and I did not have a lot of time to work on the project during the
 semester. After my tests were finished (which I did pretty well in them), we
-set out to work on the project together, thus "ruining" the summer vacation 
+set out to work on the project together, thus "ruining" the summer vacation
 once again.
 
 
 <p> <p>
-The project was finished, and we eventually were graded 94. Now started the 
-winter semester, with many courses. My problem was that I kept changing my 
-schedule, and eventually decided that I'd better take a year off because I've 
+The project was finished, and we eventually were graded 94. Now started the
+winter semester, with many courses. My problem was that I kept changing my
+schedule, and eventually decided that I'd better take a year off because I've
 been studying consecutively for too long. After spending some time without
 scholastic responsibilites, I felt freshened up again to resume my studies,
 and so notified that I will return next semester.<br />
@@ -152,16 +152,16 @@ and so notified that I will return next semester.<br />
 
 
 <p> <p>
-Hah! and their cards are filled with trips and family visits, and other 
+Hah! and their cards are filled with trips and family visits, and other
 entirely recreational stuff. But this is the life of a Technion student, who
-is a computer nerd and does not have a dime for himself besides what his 
+is a computer nerd and does not have a dime for himself besides what his
 parents give him. Not that I think my life aren't exciting: by all means what
 I do in the Internet, and with my computer is very enlightening to me. I don't
 think you have to travel a lot in order to accomplish a lot.
 
 
 <p> <p>
-Besides, I did not mention the numerous Haifux meetings, the Welcome-to-Linux 
+Besides, I did not mention the numerous Haifux meetings, the Welcome-to-Linux
 series, my hacks and endeavours, etc. I don't know how many people who are not
 computer geeks would find them interesting.
 
@@ -170,9 +170,9 @@ computer geeks would find them interesting.
 
 <p> <p>
 There were a few good days which I took to bike in the afternoon and possible
-take a walk in the morning. It rained very heavily yesterday, though. Still, 
+take a walk in the morning. It rained very heavily yesterday, though. Still,
 in the early afternoon it stopped and there was some sunshine, so I biked to the
-end of the University road and back. 
+end of the University road and back.
 
 
 <p> <p><b>Advogato</b>

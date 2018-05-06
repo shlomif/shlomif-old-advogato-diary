@@ -1,16 +1,16 @@
 <p><b>Camel Book</b>
 
 <p> <p>
-I'm progressing nicely with it. I have just finished the chapter about 
-modules, and am on page 308. By skipping to the history part, I found out it 
+I'm progressing nicely with it. I have just finished the chapter about
+modules, and am on page 308. By skipping to the history part, I found out it
 was Perl's birthday today by coinicidence. Happy Birthday, Perl!
 
 
 <p> <p><b>Graham's Function Program</b>
 
 <p> <p>
-By profiling Perl using the Devel::DProf module, I found out that the 
-<tt>multiple_squaring_factors</tt> function takes out %40 of the run-time. 
+By profiling Perl using the Devel::DProf module, I found out that the
+<tt>multiple_squaring_factors</tt> function takes out %40 of the run-time.
 I tried to optimize it in several ways but they all proved to be worse
 than the original. Then I tried to code it in C, so I can give a lower
 bound to its CPU requirements. By using the Inline::C module I was able
@@ -39,7 +39,7 @@ SV * multiply_squaring_factors(SV * n_ref, SV * m_ref) {
 
 <p>         m_elem_proto = av_fetch(m, m_idx, 0);
         m_elem = SvIV(*m_elem_proto);
-                
+
         if (n_elem == m_elem)
         {
             n_idx++;
@@ -53,7 +53,7 @@ SV * multiply_squaring_factors(SV * n_ref, SV * m_ref) {
         else
         {
             av_push(ret, newSViv(m_elem));
-            m_idx++;            
+            m_idx++;
         }
     }
     while (n_idx &lt; n_len)
@@ -68,42 +68,42 @@ SV * multiply_squaring_factors(SV * n_ref, SV * m_ref) {
         av_push(ret, newSViv(SvIV(*m_elem_proto)));
         m_idx++;
     }
-    
+
     return newRV_noinc((SV *)ret);
 }
 </pre>
 
 
 <p> <p>
-This required a lot of consulting from the perlguts man page and the 
+This required a lot of consulting from the perlguts man page and the
 Inline::C-Cookbook one. After I ran the script using it, I found out its
-CPU usage was reduced to %10, which means the Perl implementation slows it 
+CPU usage was reduced to %10, which means the Perl implementation slows it
 down a bit. Using a C extension is cheating, but I still wanted to identify
 some bottlenceks.
 
 
 <p> <p>
-Aside from that I also implemented <a href="http://perl.plover.com/~alias/list.cgi?1:mss:1145:200212:mpejiicmbgakocfabgog">code 
-    to generate the sequence that compose the perfect squares.</a> Then I 
+Aside from that I also implemented <a href="http://perl.plover.com/~alias/list.cgi?1:mss:1145:200212:mpejiicmbgakocfabgog">code
+    to generate the sequence that compose the perfect squares.</a> Then I
 decided to see if I can generate the linear base of n+1 based on that of n,
-but I realized that the base generated was lossy, and so it will not give 
+but I realized that the base generated was lossy, and so it will not give
 good results.
 
 
 <p> <p>
-I go into an awful lot of trouble for this limited task. I'm positively 
-obsessed with it. I can't wait for Mark Jason Dominus to publish the 
+I go into an awful lot of trouble for this limited task. I'm positively
+obsessed with it. I can't wait for Mark Jason Dominus to publish the
 official solution so my mind will be relieved of it.
 
 
 <p> <p><b>Gimp Bug</b>
 
 <p> <p>
-I tried to hack on the CVS Gimp code to get gradient scriptability to work 
+I tried to hack on the CVS Gimp code to get gradient scriptability to work
 there. I looked at the gradients code a little, and sort of understood where
-it falls apart. Then, when playing with the gradient editor I discovered 
-<a href="http://bugzilla.gnome.org/show_bug.cgi?id=101521">a bug</a> which I 
-reported to the <a href="http://bugzilla.gnome.org/">GNOME Bugzilla</a>. It 
+it falls apart. Then, when playing with the gradient editor I discovered
+<a href="http://bugzilla.gnome.org/show_bug.cgi?id=101521">a bug</a> which I
+reported to the <a href="http://bugzilla.gnome.org/">GNOME Bugzilla</a>. It
 turned out to be a bug in glib (!) and is now resolved.
 
 

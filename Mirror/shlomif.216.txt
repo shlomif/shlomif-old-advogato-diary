@@ -3,8 +3,8 @@
 <p> <p>
 I did a lot of Work on the Israeli "Welcome to Linux" online resources. I
 set up <a href="http://welcome.linux.org.il/">site for it</a>, tweaked the
-registration form. I also had to set up an E-mail domain using the 
-eskimo.iglu.org.il qmail. I also helped a bit with revising the TeX 
+registration form. I also had to set up an E-mail domain using the
+eskimo.iglu.org.il qmail. I also helped a bit with revising the TeX
 documents from last year. Working on the sites was a lot of work, but I hope
 it was worth it.
 
@@ -12,13 +12,13 @@ it was worth it.
 <p> <p><b>Getting CPANPLUS to Send Mail</b>
 
 <p> <p>
-Following Gabor Szabo's presentation in the last Israel.PM meeting, I decided 
-to become <a href="http://search.cpan.org/dist/CPANPLUS/bin/cpansmoke">a CPAN 
+Following Gabor Szabo's presentation in the last Israel.PM meeting, I decided
+to become <a href="http://search.cpan.org/dist/CPANPLUS/bin/cpansmoke">a CPAN
     Smoke Tester</a>. So I set up a non-privileged account for this, and
-installed perl and the CPANPLUS module there. Then I had to set it up to 
+installed perl and the CPANPLUS module there. Then I had to set it up to
 send mail. Reading the docs of the modules, I found it that they could either
 send mail by using SMTP (which was more limited) or by using the sendmail or
-equivalent program. So I had to set up the sendmail replacement to work on my 
+equivalent program. So I had to set up the sendmail replacement to work on my
 system.
 
 
@@ -43,7 +43,7 @@ DATA
 Which contained cpan@localhost.localdomain in the MAIL FROM: instead of my
 real mail address. I tried to configure postfix to use the correct MAIL FROM,
 but to no avail. Then a simple Google search for "mandrake postfix" yielded
-<a href="http://rpgoldman.real-time.com/linux/postfix-linux.html">this 
+<a href="http://rpgoldman.real-time.com/linux/postfix-linux.html">this
     document about configuring Postfix</a> as the first result. This explained
 everything I needed to do, and afterwards it worked.
 
@@ -56,9 +56,9 @@ Google search.
 <p> <p><b>Bug Reporting Spree</b>
 
 <p> <p>
-I took two days to go on a bug reporting spree. There were a few bugs I 
+I took two days to go on a bug reporting spree. There were a few bugs I
 collected in <a href="http://www.shlomifish.org/bugs/SUMMARY/">a bug list</a>,
-and I reported them. There are still some bugs I haven't reported yet. 
+and I reported them. There are still some bugs I haven't reported yet.
 
 
 <p> <p><b>Blisters</b>
@@ -71,35 +71,35 @@ are gone now, after my mom and I took care of them.
 <p> <p><b>Perl 6 Critique Article</b>
 
 <p> <p>
-I published <a href="http://freshmeat.net/articles/view/1339/">a Perl 6 
+I published <a href="http://freshmeat.net/articles/view/1339/">a Perl 6
     Critique Article in Freshmeat</a>. You can also find disucssions of it
 <a href="http://www.nntp.perl.org/group/perl.advocacy/2153">in the
 
-<p>     perl-advocacy mailing list</a>, 
+<p>     perl-advocacy mailing list</a>,
 <a href="http://linmagazine.co.il/node/view/4478">in linmagazine</a> (in
-Hebrew), and 
+Hebrew), and
 <a href="http://www.perlmonks.org/index.pl?node_id=399745">in Perlmonks</a>.
 
 
 <p> <p><b>JLC Site</b>
 
 <p> <p>
-I did some work and created <a href="http://jlc.iglu.org.il/">a new and 
+I did some work and created <a href="http://jlc.iglu.org.il/">a new and
     improved site for the Jerusalem Linux Club</a>. It still lacks information
 about the Welcome to Linux series, and also Hebrew content.
 
 
 <p> <p>
-There's also <a href="http://jlc.shared.mirimar.net/">another site that 
+There's also <a href="http://jlc.shared.mirimar.net/">another site that
     someone created</a>, but I'm quite unhappy with it.
 
 
 <p> <p><b>Mandrake</b>
 
 <p> <p>
-There weren't any updates for the Mandrake 10.1 Community Edition from 
+There weren't any updates for the Mandrake 10.1 Community Edition from
 15-September to more than a month later. When the updates did come out, the
-hdlist.cz file (that concentrates the information about the packages) was 
+hdlist.cz file (that concentrates the information about the packages) was
 faulty. Eventually, the official edition came out, but they were delays
 in getting it.
 
@@ -114,14 +114,14 @@ when my system was out-of-date.
 <p> <p>
 My family has a digital camera. I tried to get it to work with Linux. It uses
 some memory cards and we have a memory card reader for this that connects
-to the computer via USB. So I connected it to the computer when it ran Linux 
+to the computer via USB. So I connected it to the computer when it ran Linux
 and tried to read it.
 
 <p>
 The USB device was detected in <tt>/proc/bus/usb/devices</tt> and appeared
 in the output of <tt>cdrecord -scanbus</tt>, but I was not able to mount it
-no matter what I tried. Eventually, I found out that I had to mount 
-<tt>/dev/sdc1</tt> instead of <tt>/dev/sdc</tt>. Afterwards it worked 
+no matter what I tried. Eventually, I found out that I had to mount
+<tt>/dev/sdc1</tt> instead of <tt>/dev/sdc</tt>. Afterwards it worked
 perfectly.
 
 
@@ -130,7 +130,7 @@ perfectly.
 <p> <p>
 The first W2L Meeting in Telux took place yesterday. Many people arrived and
 the room was packed. Eddie gave a nice "Blitz" lecture, and many questions
-were asked and answered. The main problem was that it lasted for a long time - 
+were asked and answered. The main problem was that it lasted for a long time -
 over 2 hours.
 
 

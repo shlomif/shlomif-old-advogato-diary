@@ -4,14 +4,14 @@
 I tried to resolve Subversion issue #1093. My <a href="http://www.contactor.se/~dast/svn/archive-2003-10/1414.shtml">uneducated attempt at it</a> received
 a complete depracation from C. Michael Pilato which followed with a discussion
 on how to best resolve it. The problem is that we need to efficiently trace
-the history of a file backwards, which can only be done in the repository 
+the history of a file backwards, which can only be done in the repository
 level.
 
 
 <p> <p> <p>
 So, the final question is whether to perform each such lookup for every
-remote operation that need to do it (which would require changing the 
-protocol in many places), or assigning a separate command to perform the 
+remote operation that need to do it (which would require changing the
+protocol in many places), or assigning a separate command to perform the
 lookup. The second option is simpler and would require fewer modifications,
 so we'll probably go with it.
 
@@ -19,8 +19,8 @@ so we'll probably go with it.
 <p> <p> <p><b>Talk with Ya'El (Orr's ex-Roommate)</b>
 
 <p> <p> <p>
-On the way to the Technion on a Thursday a week and a day ago, I met 
-Ya'El, who is Orr's former roommate and someone who studied Game Theory with 
+On the way to the Technion on a Thursday a week and a day ago, I met
+Ya'El, who is Orr's former roommate and someone who studied Game Theory with
 me. We talked when we were waiting for the Haifa local bus, and on the bus
 about various stuff. (details are in my private diary). But it was a fun
 talk and I enjoyed it a great deal. One thing she told me was that she
@@ -53,24 +53,24 @@ equations. Note that my code could still use a lot of modularization.
 
 
 <p> <p> <pre>
-\newcommand{\parens}[1]{\left(#1\right)} 
-\newcommand{\halfN}{\frac{N}{2}} 
-\newcommand{\hNpm}{\halfN+m} 
-\newcommand{\hNmm}{\halfN-m} 
-\newcommand{\tmN}{\frac{2m}{N}} 
-\newcommand{\osomething}[2]{\parens{1 #1 #2}} 
-\newcommand{\otmN}[1]{\osomething{#1}{\tmN}} 
-\newcommand{\ox}[1]{\osomething{#1}{x}} 
-\newcommand{\exprone}[1]{\parens{\halfN}\otmN{#1}\ln\left[\parens{\halfN}\otmN{#1}\right]} 
-\newcommand{\exprtwo}[1]{\parens{\halfN}\ox{#1}\ln\left[\parens{\halfN}\ox{#1}\right]} 
-\newcommand{\exprthree}[1]{\halfN\ox{#1}\ln\ox{#1}} 
+\newcommand{\parens}[1]{\left(#1\right)}
+\newcommand{\halfN}{\frac{N}{2}}
+\newcommand{\hNpm}{\halfN+m}
+\newcommand{\hNmm}{\halfN-m}
+\newcommand{\tmN}{\frac{2m}{N}}
+\newcommand{\osomething}[2]{\parens{1 #1 #2}}
+\newcommand{\otmN}[1]{\osomething{#1}{\tmN}}
+\newcommand{\ox}[1]{\osomething{#1}{x}}
+\newcommand{\exprone}[1]{\parens{\halfN}\otmN{#1}\ln\left[\parens{\halfN}\otmN{#1}\right]}
+\newcommand{\exprtwo}[1]{\parens{\halfN}\ox{#1}\ln\left[\parens{\halfN}\ox{#1}\right]}
+\newcommand{\exprthree}[1]{\halfN\ox{#1}\ln\ox{#1}}
 </pre>
 
 <p> <p> <p><b>Telux Meeting</b>
 
 <p> <p> <p>
-On Sunday we had a Telux meeting. Eddie Aronovich gave a nice intro to the 
-advancements in RPC technology from RPC through CORBA to Web Services. One 
+On Sunday we had a Telux meeting. Eddie Aronovich gave a nice intro to the
+advancements in RPC technology from RPC through CORBA to Web Services. One
 highlight from the lecture was that he prepared it on his laptop in Linux,
 and then discovered the screen had a problem there, so he had to switch it
 to Windows. So he converted the presentation from OpenOffice to PowerPoint.
@@ -88,7 +88,7 @@ We met yesterday for the monthly meeting of the Israeli Perl Mongers. Before
 the meeting there was some food and a lot of interesting conversations with
 many people. There was someone there named Jason who came to Israel from
 Australia. When people asked him why he came to Israel, when all Israelis
-would prefer to be in Australia, he said it was more interesting here. ("May 
+would prefer to be in Australia, he said it was more interesting here. ("May
 you live in interesting times"). We also discussed many of the books and other
 stuff.
 
@@ -104,17 +104,17 @@ the "Big Ball of Mud" syndrome, and how Extreme Programming solves it.
 
 
 <p> <p>
-A funny story that he told was that a manager once told the programmer to 
-create a prototype of a software for a deadline in which he needed to 
+A funny story that he told was that a manager once told the programmer to
+create a prototype of a software for a deadline in which he needed to
 demonstrate the software. So the programmer wrote something whose internals
-were lacking and gave it to the manager on schedule. After the manager 
+were lacking and gave it to the manager on schedule. After the manager
 returned from the meeting, the programmer asked him how did the software
 perform. "Great!" said the manager, "we need three more features by Monday".
 
 
 <p> <p>
 During the break, I also talked with some people like Oded Resnik, and Eli
-Marmor. I took with me two books from the library: "Writing Perl Modules for 
-CPAN" and "Extending and Embedding Perl". 
+Marmor. I took with me two books from the library: "Writing Perl Modules for
+CPAN" and "Extending and Embedding Perl".
 
 2003-11-07 18:56:57

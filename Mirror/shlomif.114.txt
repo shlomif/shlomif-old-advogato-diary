@@ -1,7 +1,7 @@
 <p><b>My Home-site and Internet Explorer - a war story</b>
 
 <p> <p> <p>
-I just discovered MSIE 5.5 ignores the padding-left, padding-bottom etc. CSS styles and so the navigation bar on 
+I just discovered MSIE 5.5 ignores the padding-left, padding-bottom etc. CSS styles and so the navigation bar on
 <a href="http://t2.technion.ac.il/~shlomif/">my homepage</a> is indented to the right. What should I do to fix it while still keeping my homepage XHTML 1.0 Strict (or at least XHTML 1.0 Transitional)?
 
 
@@ -16,7 +16,7 @@ Shrinkwrap and an internally-used program.</a>. If you distribute a program as o
 
 
 <p> <p>
-Otherwise, it is just a project which happens to be distributed under an open-source license. Not something 
+Otherwise, it is just a project which happens to be distributed under an open-source license. Not something
 that can compete in the market-place. If you don't feel this way about free software you right, then I don't think you
 understand why it is important.
 

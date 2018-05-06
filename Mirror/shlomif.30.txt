@@ -28,9 +28,9 @@ Solver</a></b>
 I released Freecell Solver 2.4.0, which a new stable
 release, that enables several scans to operate on the same
 states' collection. It required quite a large overhaul to
-the program's internals which was made easier by using 
+the program's internals which was made easier by using
 <a href="http://www.vim.org/">Vim</a>'s powerful features.
-The last time I tried doing it, I believe I used MS 
+The last time I tried doing it, I believe I used MS
 DevStudio, and it was a much harder process that bit me in
 unexpected places. The code was also made more prepared for
 the overhaul that the last time.
@@ -57,7 +57,7 @@ becomes involved in, always grown or remain constant.
 
 
 <p> <p>
-My latest venture started when I remembered the 
+My latest venture started when I remembered the
 <a href="http://www.logicmazes.com/theseus.html">Theseus and
 the Minotaur Puzzle</a> (check No. 14) which somebody
 referenced me to. After several good tens of minutes, I was
@@ -83,7 +83,7 @@ What I did eventually, was adapt the Minotaur script to
 solve a different kind of Logic Maze called Alice mazes,
 then I made the alice script more modular and clean, and
 eventually created a Minotaur sub-class. Now everything is
-generic enough for solving many kinds of puzzles. 
+generic enough for solving many kinds of puzzles.
 
 
 <p> <p>
@@ -99,7 +99,7 @@ minimal solutions.
 http://vipe.technion.ac.il/~shlomif/logic-mazes/
 </a>
 
-<p>  
+<p>
 <p><b>Getting a Central Source Control Repository</b>
 
 <p> <p>

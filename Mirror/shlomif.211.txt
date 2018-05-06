@@ -2,10 +2,10 @@
 
 <p> <p> <p>
 To keep up with GIMP development (also see below) I needed to install
-GIMP 2.1.x from the CVS Head. So far so good, only that it requires 
-Gtk-2.4.x, while Mandrake 10.0 ships only with version 2.2.x of it. I 
+GIMP 2.1.x from the CVS Head. So far so good, only that it requires
+Gtk-2.4.x, while Mandrake 10.0 ships only with version 2.2.x of it. I
 decided that in order to not mess too much with my system, I'll install
-it (and all the other dependencies) in a separate 
+it (and all the other dependencies) in a separate
 <tt>/usr/local/apps/gtk-2.4.x</tt> prefix.
 
 
@@ -23,7 +23,7 @@ dependencies), I got:
 </pre>
 
 <p> <p> <p>
-Someone on the IRC told me that it was because it linked against an older 
+Someone on the IRC told me that it was because it linked against an older
 version of glib. After some grepping the .la files, I found out that the atk
 .la file contained a reference to /usr/lib/glib. (the global un-upgraded glib).
 
@@ -43,7 +43,7 @@ LDFLAGS="-L/usr/local/apps/gtk-2.4.x/lib" ./configure --prefix=/usr/local/apps/g
 <p> <p> <p>
 That solved the problem. Afterwards, I had to install some support libraries
 that GIMP required. I eventually opted to use <tt>--with-svgz=no</tt> (no gzip
-compression) for librsvg, because otherwise it required a bootload of 
+compression) for librsvg, because otherwise it required a bootload of
 dependencies.
 
 
@@ -58,7 +58,7 @@ able to continue hacking on it.
 As the GIMP 2.1.x development started, integrating my gradient-fu patch was
 one of the first priorities. This patch, as you may remember, supplies the
 GIMP with PDB entries to manipulate gradients. So, early in the GIMP 2.1.x
-tree, Michael Natterer integrated the patch into the GIMP (with some 
+tree, Michael Natterer integrated the patch into the GIMP (with some
 cleanups and modifications to the API). Then, when I wanted to adapt
 a script I wrote to it a while back, I discovered it did not have functions
 to actually manage the gradients list (create, delete and rename gradients).
@@ -66,7 +66,7 @@ So I wrote one, and Naterrer added it after some modification.
 
 
 <p> <p> <p>
-I also adapted my old "Rainbow Strips" gradients' demonstration script to 
+I also adapted my old "Rainbow Strips" gradients' demonstration script to
 the new API. I also performed some general cleanups to the otherwise amateurish
 Scheme code I wrote back then. (not knowing better). It was eventually ready,
 but I don't think it's in the Gimp CVS head yet.
@@ -74,19 +74,19 @@ but I don't think it's in the Gimp CVS head yet.
 
 <p> <p> <p><b>My sister and UNIX</b>
 
-<p> <p> <p> 
+<p> <p> <p>
 My sister Noa had some C-shell assignments in her homework as part of her
 "Introduction to Systems Programming" course. I helped her in it. While I did
 that I explained to her about using basics: wildcard expansion ("*" into all
 files), program return code, argument values, etc. I also demonstrated some
-bash paradigms to her, and kept tauting its superiority over csh.  
+bash paradigms to her, and kept tauting its superiority over csh.
 
 
 <p> <p> <p>
 Some time ago, a record was broken: both my sisters were at the working room,
-and both were working on the Linux system, while I did not and could not. 
-Michal was playing the KDE game Kolor Lines on the desktop computer (where 
-the Linux system is installed), while Noa was using a VNC connection for her 
+and both were working on the Linux system, while I did not and could not.
+Michal was playing the KDE game Kolor Lines on the desktop computer (where
+the Linux system is installed), while Noa was using a VNC connection for her
 homework from the laptop. Amazing!
 
 
@@ -99,26 +99,26 @@ in various human resources agencies. So far, I had 4 job interviews.
 
 
 <p> <p> <p>
-The first one was for the DIMES project, which is a project in Tel Aviv 
-University, that aims to map the Internet, by volunteers installing clients on 
-their computers, and using them to send information to the server which 
+The first one was for the DIMES project, which is a project in Tel Aviv
+University, that aims to map the Internet, by volunteers installing clients on
+their computers, and using them to send information to the server which
 will concentrate them. I think the interview went pretty well, but they did
-not contact me since. (they had other candidates) Tel Aviv University is very 
+not contact me since. (they had other candidates) Tel Aviv University is very
 convenient for me, as I was able to walk there from home.
 
 
 <p> <p> <p>
-The second one (that took place last week), was at a 
-<a href="http://www.disksites.com/newsite/index.htm">startup called 
+The second one (that took place last week), was at a
+<a href="http://www.disksites.com/newsite/index.htm">startup called
     DiskSites</a>. They manufacture an embedded Linux box that caches files
-that are transported over remote-file-service protocols (like SMB) over a 
+that are transported over remote-file-service protocols (like SMB) over a
 WAN connection, so there will be less latency. The interviewer talked with
 me a bit about my past and then asked me a few technical questions. I did
 pretty well at it.
 
 
 <p> <p> <p>
-Today, I had a second job interview there, with the CTO (if I recall 
+Today, I had a second job interview there, with the CTO (if I recall
 correctly). He asked me about my professional past and wanted to learn some
 things about my personality. It also went pretty well, but since they probably
 have other candidates, I'm not sure I got the job. He told me that they will
@@ -128,7 +128,7 @@ let me know what their final decision regarding my employment is, at most two we
 <p> <p> <p>
 Then, I had a job testing application at a company called Flash Networks on
 Tuesday. The questions there were challenging, but I did well on the test. (
-except for the last question which required some TCP/IP zen). An employee 
+except for the last question which required some TCP/IP zen). An employee
 there called lately, when I wasn't available, but I don't know exactly when
 . I know it because I saw a sticky note my Mom wrote for it.
 
@@ -140,8 +140,8 @@ and not give up.
 
 
 <p> <p> <p>
-(BTW, the DiskSites office is located at Azrieli Center right next door to 
-Qlusters, which is a past workplace of several friends of mine - sometimes 
+(BTW, the DiskSites office is located at Azrieli Center right next door to
+Qlusters, which is a past workplace of several friends of mine - sometimes
 nicknamed "Clue-less" by them.)
 
 
@@ -150,7 +150,7 @@ nicknamed "Clue-less" by them.)
 <p> <p> <p>
 One day when I was biking, I stopped at my usual place next to the water
 fountain in the Yarkon Park. An Arab kid approached me, and kept requesting me
-if I could let him have a ride on my bike. I told him I was just drinking 
+if I could let him have a ride on my bike. I told him I was just drinking
 water and that then I'll go on. Still, he kept insisting. Then he asked me
 if I had a pump to fill the air in his bike's wheels. I did, so I helped
 him fill some air there.
@@ -159,7 +159,7 @@ him fill some air there.
 <p> <p> <p>
 While, I filled some air, he got on my bike (without receiving my permission),
 and rode it. I think he was too short for this bike, and he also rode on the
-lawns. But he eventually came back, thanked me and jokingly asked if we 
+lawns. But he eventually came back, thanked me and jokingly asked if we
 could switch bikes. This wouldn't have worked, naturally, as his bike was
 far too small for me.
 
@@ -169,8 +169,8 @@ Ahh! Kids these days...
 
 
 <p> <p> <p>
-In any case, my bike had a few other issues since then. First of all, 
-I changed the tire of a wheel, because the previous one got veryworned 
+In any case, my bike had a few other issues since then. First of all,
+I changed the tire of a wheel, because the previous one got veryworned
 out. Now, there's a problem that the pedals are jumping, and I have to
 take it to the bike fixer.
 
@@ -178,7 +178,7 @@ take it to the bike fixer.
 <p> <p> <p><b>Installing Maypole</b>
 
 <p> <p> <p>
-I was considering writing a better NNTP reader for 
+I was considering writing a better NNTP reader for
 <a href="http://www.nntp.perl.org/">the perl.org newsgroups/mailing lists</a>.
 I asked for help on FreeNode's #perl channel, and was told that the
 <a href="http://maypole.simon-cozens.org/">Maypole framework</a>
@@ -191,17 +191,17 @@ it. Well, easier said than done.
 Typing <tt>install Maypole</tt> at the CPAN.pm prompt failed to do the job.
 Eventually, it turned out I had to install a suitable driver for the DBI (for
 SQLite or whatever), and to temper with libapreq to get Apache::Request (which
-I think I eventually installed from RPM). Eventually, all the modules were 
-installed, but getting the sample application to run was also problematic. 
+I think I eventually installed from RPM). Eventually, all the modules were
+installed, but getting the sample application to run was also problematic.
 I had to configure Apache accordingly. Afterwards, it turned out I missed
-the part in the documentation where I had to put the templates, in the 
+the part in the documentation where I had to put the templates, in the
 appropriate path, and without it, it refused to work..
 
 
 <p> <p> <p>
 Then I got it to work, but the site looked considerably uglier than the
-screenshots at <a href="http://www.perl.com/pub/a/2004/04/15/maypole.html">the 
-    Perl.com article</a>. Possibly tweaking the templates and the CSS 
+screenshots at <a href="http://www.perl.com/pub/a/2004/04/15/maypole.html">the
+    Perl.com article</a>. Possibly tweaking the templates and the CSS
 stylesheets will make it look better.
 
 
@@ -232,11 +232,11 @@ It was incorporated immediately, which <a href="http://www.nntp.perl.org/group/p
 
 <p> <p> <p>
 I started preparing <a href="http://shlomif.il.eu.org/hebrew/common-errors/hebrew-common-errors.html">a list of common grammatical and syntactical errors in
-    Hebrew</a>. (the page is in Hebrew (naturally), sorry) After I finished 
+    Hebrew</a>. (the page is in Hebrew (naturally), sorry) After I finished
 some of them, I posted a message about it to the Hebrew translation mailing
 list, with a small rant saying that I was tired seeing errors like that
 times and again on Hebrew forums, which was why I wrote the article.
-Some reader of the translation list has <a href="http://www.whatsup.org.il/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=3183">Whatsupped 
+Some reader of the translation list has <a href="http://www.whatsup.org.il/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=3183">Whatsupped
     the document</a>, which caused an active discussion (if not flame-war).
 Some of the comments there were useful, but not too many. I think I'll continue
 working on the document, and hope it won't get whatsupped again, without me
@@ -250,37 +250,37 @@ Gimpressionist is one of my favourite GIMP plug-ins. What it does is take
 a picture and paint it using a specified brush and other parameters. A few
 days ago, I noticed it did not have a usable GIMP Procedural Database entry -
 you could not even specify one of the pre-defined preset. So I set
-out to correct it and 
-<a href="http://bugzilla.gnome.org/show_bug.cgi?id=144913">sent 
+out to correct it and
+<a href="http://bugzilla.gnome.org/show_bug.cgi?id=144913">sent
     this patch</a>. It was eventually applied by Michael Natterer.
 
 
 <p> <p> <p>
 As I did, I noticed that the gimpressionist code was very messy, and started
 to clean it up. I refactored it heavily (reminded me a lot of Joel Spolsky's
-<a href="http://www.joelonsoftware.com/articles/fog0000000348.html">Rub a Dub 
-    Dub article</a>) and also fixed many bugs. Most of my changes were 
-incoroporated into the GIMP CVS by Michael Natterer or Sven Neumann. 
+<a href="http://www.joelonsoftware.com/articles/fog0000000348.html">Rub a Dub
+    Dub article</a>) and also fixed many bugs. Most of my changes were
+incoroporated into the GIMP CVS by Michael Natterer or Sven Neumann.
 Eventually, they saw that I was consistent enough, and gave me a CVS account.
 
 
 <p> <p> <p>
-So now I can incorporate things on my own. There is a certain modified version 
-of gimpressionist available (of before I applied my modifications), by Bill 
+So now I can incorporate things on my own. There is a certain modified version
+of gimpressionist available (of before I applied my modifications), by Bill
 Skaggs that has some interesting ideas. I'd like to look into doing something
 similar starting from the current codebase.
 
 
 <p> <p> <p>
 As a long term goal, I thought that instead of generating a bitmap, that
-it could generate an SVG ("SVGimpressionst"), with one component for each 
+it could generate an SVG ("SVGimpressionst"), with one component for each
 stroke. Skaggs liked the idea quite a bit, but it's just long term.
 
 
 <p> <p> <p><b>Technion Graduation Ceremony</b>
 
 <p> <p> <p>
-My father, my mother, my sister and I attended the Technion graduation 
+My father, my mother, my sister and I attended the Technion graduation
 ceremony. It was scheduled at the exact time of the Israeli Perl Mongers
 meeting and so I was not able to attend. Instead, I went to see the ceremony.
 
@@ -288,31 +288,31 @@ meeting and so I was not able to attend. Instead, I went to see the ceremony.
 <p> <p> <p>
 Before the ceremony began, I met Eran there, who returned my "Programming
 Perl" book which he borrowed. We talked a bit, and it turned out he graduated
-with an average of 85%-86%, which was only slightly better than mine. I 
+with an average of 85%-86%, which was only slightly better than mine. I
 expected his average to be considerably higher than mine. He left before the
 ceremony started, because he did not want to attend it.
 
 
 <p> <p> <p>
-The ceremony was split into two parts: the Technion-wide ceremony, and 
+The ceremony was split into two parts: the Technion-wide ceremony, and
 the ceremonies of each department. The Technion-wide ceremony started
 by the Academic March of the various deans in their black graduation suits
 (a few collar colours were missing though). It was followed by speeches
-by various people. One of them told quite a few old jokes (and not very 
+by various people. One of them told quite a few old jokes (and not very
 well). There were also some performances by Technion students of three
-songs ("Take a Wife and Build a Home for Her" by Shalom Hanokh, 
-"In My Life" by the Beatles and "A New Beginning" by Yehuda Poliker). 
+songs ("Take a Wife and Build a Home for Her" by Shalom Hanokh,
+"In My Life" by the Beatles and "A New Beginning" by Yehuda Poliker).
 I like these songs and the performances were good, so it was quite nice.
 
 
 <p> <p> <p>
-What was stressed was that the Technion governmental budget has been 
+What was stressed was that the Technion governmental budget has been
 heavily decreased, which placed its future in jeopardy. A part I really
 liked was that one of professors said, that although only some of the
-students were cum laude students ("excelling" students in Hebrew), 
-due to the Technion academic requirements, all graduating studnets were 
+students were cum laude students ("excelling" students in Hebrew),
+due to the Technion academic requirements, all graduating studnets were
 excellent ones. I could not agree more, but I still think there are many
-unnecessary frustrations in Technion studying, that can be eliminated, 
+unnecessary frustrations in Technion studying, that can be eliminated,
 without lowering the academic level. Another thing that happened, was
 that the Summa Cum Laude students were awarded the degrees before the
 rest.
@@ -320,9 +320,9 @@ rest.
 
 <p> <p> <p>
 Then came the department ceremony. The department's dean speech
-was amusing with some nice jokes. (like "I know you are anxious to receive 
+was amusing with some nice jokes. (like "I know you are anxious to receive
 your degree, and I realize the only thing that delays that is me speaking
-here"). Then started the long process of giving the degrees: first to 
+here"). Then started the long process of giving the degrees: first to
 the Summa Cum Laude students, then to the Cum Laude ones, and finally to the
 other students.
 
@@ -368,30 +368,30 @@ finally was, because I invested quite a lot of work into it.
 <p> <p> <p><b>Telux Lecture</b>
 
 <p> <p> <p>
-I gave a lecture in Telux which was a <a href="http://vipe.technion.ac.il/~shlomif/lecture/Autotools/">re-run of my Haifux' 
+I gave a lecture in Telux which was a <a href="http://vipe.technion.ac.il/~shlomif/lecture/Autotools/">re-run of my Haifux'
     Autoconf/Automake/Libtool presentation</a>. Before the lecture, Eran
-called to inform me he had an interview in my area, and would like to meet. 
+called to inform me he had an interview in my area, and would like to meet.
 I told him I was going to give a presentation and invited him to hear it. He
 had some problems in getting there, but eventually attended it.
 
 
 <p> <p> <p>
-As far as I could tell the lecture went quite well. A few questions were 
-asked and answered, and I was able to give some interesting demonstrations. 
-(which were quite missing from the early one). Among the things I learned was 
-that there was no <tt>strdup()</tt> function in the ANSI C89 standard, and 
-only in C99 and in most UNIXes. This explains Autoconf has a macro to check 
+As far as I could tell the lecture went quite well. A few questions were
+asked and answered, and I was able to give some interesting demonstrations.
+(which were quite missing from the early one). Among the things I learned was
+that there was no <tt>strdup()</tt> function in the ANSI C89 standard, and
+only in C99 and in most UNIXes. This explains Autoconf has a macro to check
 for it.
 
 
 <p> <p> <p>
 After the lecture Eran and I went to Kanyon Ramat Aviv to grab a byte. On the
-way, while we were eating and afterwards, I told him about the history of 
+way, while we were eating and afterwards, I told him about the history of
 UNIX (AT&amp;T UNIX, the BSDs, System V's, GNU, Linux, etc.) and other things.
 Then we went to meet his sister, and as she was in Tel Aviv, but not familiar
 with the geography, we walked all the way to the Train Station (a very long
 walk, where I decided to escort Eran, even though my home was in the opposite
-direction), after which we had to walk somewhat more, and to enter her car on 
+direction), after which we had to walk somewhat more, and to enter her car on
 the road. I instructed them how to drop me at home, and to get to the Haifa
 highway.
 
@@ -405,11 +405,11 @@ It was nice meeting Eran again, and the lecture was also a fun event.
 <p> <p> <p>
 My sister has to prepare a C++ assignment for her homework. I instructed her
 how to do it, using what is left of my quite rusty C++ knowledge. One thing
-we tried was to use qsort() with giving as a callback an instance of a 
+we tried was to use qsort() with giving as a callback an instance of a
 template function. This worked perfectly in g++ 3.3.2 on Linux, but Visual
 C++ 6.0 gave some weird compilation error, which we could not understand. One
 guy on the IRC (FreeNode's #c channel) just instructed us to use a newer
-compiler. It's weird that there is this limitation, even in this version. 
+compiler. It's weird that there is this limitation, even in this version.
 It also worked fine in a newer version of DevStudio.
 
 
@@ -422,7 +422,7 @@ sure it runs nicely on older versions of DevStudio.
 <p> <p> <p><b>Perl Zen (2)</b>
 
 <p> <p> <p>
-Yesterday, I attended a FreeNode #perl discussion where someone (calling 
+Yesterday, I attended a FreeNode #perl discussion where someone (calling
 himself simcop2388) was trying to figure out why his Perl code was failing.
 It was generating some kind of regular expression to parse Assembler code,
 and Perl indicated there was an error in the regex. The error reported
@@ -437,7 +437,7 @@ concatenated two strings with the right string ending with ")", to STDERR.
 
 
 <p> <p> <p>
-After a while, I detected where it happened. The offending code looked 
+After a while, I detected where it happened. The offending code looked
 something like this:
 
 
@@ -452,9 +452,9 @@ $string .= ")";
 </pre>
 
 <p> <p> Now, chop will remove the last character, but if there are no @elements, then
-it will remove the beginning "(" and we get an extraneous ")". A more correct 
-way, is to either collect all the strings in an array, and use join, or to 
-use <tt>$string =~ s/|$//;</tt>. 
+it will remove the beginning "(" and we get an extraneous ")". A more correct
+way, is to either collect all the strings in an array, and use join, or to
+use <tt>$string =~ s/|$//;</tt>.
 
 
 <p> <p> <p>
@@ -476,18 +476,18 @@ f**king one as such...).
 I wrote a rant^H^H^H^H review of the Gtk+ 2.4.x file chooser and planned to
 post it here as well as on my site. However, after I've shown what I intended
 to post here to the good people at #gimp, I received some valuable input
-including <a href="http://www.gnome.org/~seth/designs/filechooser-spec/">a 
+including <a href="http://www.gnome.org/~seth/designs/filechooser-spec/">a
     reference to its informal specification</a>. So I'm still relative
-unhappy with its usability and "intuitiveness", but will have to revise my 
+unhappy with its usability and "intuitiveness", but will have to revise my
 report in accordance with the new things I've learned. So, stay tuned.
 
 
 <p> <p> <p><b>Advogato</b>
 
 <p> <p> <p>
-Certified <a href="/person/lewing/">lewing</a> as Master for his work in Ximian, and 
-naturally for creating the super-important 
-<a href="http://www.isc.tamu.edu/~lewing/linux/">Tux the Penguin image</a>. 
+Certified <a href="/person/lewing/">lewing</a> as Master for his work in Ximian, and
+naturally for creating the super-important
+<a href="http://www.isc.tamu.edu/~lewing/linux/">Tux the Penguin image</a>.
 ;-) Certified <a href="/person/neo/">neo</a> as Master for his work on the GIMP.
 Ditto for <a href="/person/carol/">carol</a> to Journeyer, and <a href="/person/mitch/">mitch</a>
 to Master. I certified <a href="/person/vidar/">vidar</a> as Journeyer for his work

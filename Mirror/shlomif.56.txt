@@ -25,7 +25,7 @@ It takes a lot of time to tweak Apache to do just what I want it to do. Still, I
 <p> <p><b>Studies</b>
 
 <p> <p>
-The grades for Lab 3 are on the grades board, but since 
+The grades for Lab 3 are on the grades board, but since
 I'm home right now, I can't check them out. Better ask Eran to do so, as he took the lab with me.
 
 

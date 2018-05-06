@@ -26,7 +26,7 @@ in anything in the same vain). But I'm not aware of any
 binding that allows it. Maybe, I'll get to it one day. I
 also wonder how much is Inventor dependant on Motif? I.e:
 how long will it take to make it available for Gtk+ or
-something else? 
+something else?
 
 
 <p> <p>

@@ -1,26 +1,26 @@
 <p><b>Linux Events</b>
 
 <p> <p> <p> <p>
-I attended Aviram Jenik's lecture on Sunday. Before the lecture I had enough 
+I attended Aviram Jenik's lecture on Sunday. Before the lecture I had enough
 time to give a quick appetizer in the form of my "Template Toolkit" Lightning
 Talk. I received one positive criticism, and two others that said that it
 was not very understoodable. I believe they were correct and I understood how
-to improve it. (but think it may make it into a seven minutes or ten 
+to improve it. (but think it may make it into a seven minutes or ten
 minutes talk).
 
 
 <p> <p> <p> <p>
-Immediately after I was finished (and before I had the chance to hear any 
+Immediately after I was finished (and before I had the chance to hear any
 feedback) Aviram came, and started with the lecture. The lecture was very good,
 funny, and interesting. I first believed it was going to be a "preaching to the
 choir" type of lecture, but it ended up also bringing up alternatives for
 full disclosure, and many cases from the security history. (some of which were
-very amusing) The room was crowded, and Shachar (who is also a humorist 
+very amusing) The room was crowded, and Shachar (who is also a humorist
 "behesed") also contributed things.
 
 
 <p> <p> <p> <p>
-There was also a Haifux Lecture on SMTP and Qmail by <a href="/person/kilmo/">kilmo</a>. 
+There was also a Haifux Lecture on SMTP and Qmail by <a href="/person/kilmo/">kilmo</a>.
 It seemed interesting and Eran was there, but I was very tired that day so
 I decided to leave prematurely. I dozed off at least twice during the ride
 back home, so I guess I couldn't have made it through the lecture.
@@ -46,41 +46,41 @@ talk with her on the way. We discussed many topics. Among them:
     vendors create incompatiblity on purpose so people will not want to port
     their databases to something else. I then told her of my (so far failed)
     Extended SQL initiative.
-    
+
     <li>
     <p>
     I told her about a Technion lecturer I know. When I came to see him
-    once he was running an old PC computer with fvwm on it probably running 
+    once he was running an old PC computer with fvwm on it probably running
     Linux. What he did was that he invoked one Emacs window and worked on it
     exclusively.
-    
+
     <p>
     When I came to meet him again, a year ago or so, his computer was upgraded.
-    Now, he had a Red Hat system with the Red Hat icon instead of the K, 
+    Now, he had a Red Hat system with the Red Hat icon instead of the K,
     anti-aliased graphics, flashy looking and all. What did he do? Invoke an
     Emacs session and worked in it exclusively.
-    
+
     <p>
     Of course, he was quite old and studied at MIT back then. I'm still very
     fond of him.
-    
-    
+
+
     <li>
-    <b>Software Management Stuff</b> - we discussed having private offices 
+    <b>Software Management Stuff</b> - we discussed having private offices
     (Peopleware, etc.) vs. two or three people in an office. I told her of
     a company I worked for, where people had to move their chairs to let me
     out and she said that was indeed unbearable. I told her that Microsoft
-    U.S.A. allocates an office even for interns. Like I said, she was a 
+    U.S.A. allocates an office even for interns. Like I said, she was a
     theoretical computer scientist, but she was still interested.
-    
+
     <li>
     <b>Her Thesis</b> - she said she and her instructor for the M.Sc. were
-    now writing a scientific article about the proof she did for his 
-    conjecture. She said she only used high-school Combinatorics there, but 
+    now writing a scientific article about the proof she did for his
+    conjecture. She said she only used high-school Combinatorics there, but
     there was a certain tricky part. I told her I wish to write an article
-    for a scientific journal about Freecell Solver, but said I would 
+    for a scientific journal about Freecell Solver, but said I would
     need someone to tutor me and instruct me exactly what to do.
-    
+
 </ol>
 <p><b>Forums Threads of Interests</b>
 <p>
@@ -88,26 +88,26 @@ My post to Hackers-IL's about <a href="http://groups.yahoo.com/group/hackers-il/
 First of all we came into conclusion that reading code was relatively neglected
 in university, even though it's a very important skill and can possibly teach
 students how to write better one. Otherwise, Tzahi Fadida said that some
-open source code (and non-open-source code) was very hard to read, and we 
-discussed what measures could be taken. We discussed the XP-belief that no 
+open source code (and non-open-source code) was very hard to read, and we
+discussed what measures could be taken. We discussed the XP-belief that no
 documentation should be written for the code, because the code needs to be
-self-explanatory. And we further discussed the validity of XP and how 
+self-explanatory. And we further discussed the validity of XP and how
 "scientific" it is or should be.
 
 <p> <p> <p>
-My post <a href="http://discuss.fogcreek.com/joelonsoftware/default.asp?cmd=show&ixPost=98229&ixReplies=3">Some 
+My post <a href="http://discuss.fogcreek.com/joelonsoftware/default.asp?cmd=show&ixPost=98229&ixReplies=3">Some
     Thoughts on FogBUGZ for Windows</a> on the Joel on Software forum
 may be of interest, because it contains a answer by Joel.
 
 <p> <p> <p>
 Here's another one: <a href="http://discuss.fogcreek.com/joelonsoftware/default.asp?cmd=show&ixPost=98232&ixReplies=36">More Linux Developers than Windows Ones
-</a>. This recent statistics, and what does it mean. (and what would be the 
+</a>. This recent statistics, and what does it mean. (and what would be the
 implications of open source on programmers) An offspring of this post is
 <a href="http://discuss.fogcreek.com/joelonsoftware/default.asp?cmd=show&ixPost=98337&ixReplies=23">Open source complexity Issue</a>.
 
 <p> <p> <p>
-There was an opinion piece in the Register that was Slashdotted and 
-discuss.fogcreek.com'ed. See <a href="http://discuss.fogcreek.com/joelonsoftware/default.asp?cmd=show&ixPost=98395&ixReplies=46">this thread on Joel on 
+There was an opinion piece in the Register that was Slashdotted and
+discuss.fogcreek.com'ed. See <a href="http://discuss.fogcreek.com/joelonsoftware/default.asp?cmd=show&ixPost=98395&ixReplies=46">this thread on Joel on
     Software</a> for some of my comments.
 
 <p> <p> <p>
@@ -117,7 +117,7 @@ forum (outsourcing and open source vs. the world) to one big conspiracy theory,
 
 <p> <p> <p>
 All in all, mailing lists, the Joel on Software forum and Whatsup.org.il are
-a huge productivity killers! But they do add some insights and understanding 
+a huge productivity killers! But they do add some insights and understanding
 even to very knowledgable persons.
 
 
@@ -138,16 +138,16 @@ default), but now everything is in order. (I'm writing this E-mail on 2.6.0)
 
 
 <p> <p> <p> <p>
-The mouse cursor however, became much faster after the upgrade. I found a good 
-workaround by issuing "xset m 10/10" (play around with the numbers), but 
+The mouse cursor however, became much faster after the upgrade. I found a good
+workaround by issuing "xset m 10/10" (play around with the numbers), but
 all in all it is quite frustrating, and I'm not sure I'm happy with it as it
 is now.
 
 
 <p> <p> <p> <p>
-Finally, an old problem which still was not resolved. When I play an mp3 file 
-using XMMS with artsd, then I must set my buffer size to over 1000ms 
-(precisely that - 999ms does not work) or else the sound sounds garbled. 
+Finally, an old problem which still was not resolved. When I play an mp3 file
+using XMMS with artsd, then I must set my buffer size to over 1000ms
+(precisely that - 999ms does not work) or else the sound sounds garbled.
 It does not happen with directly to ALSA playback or with KDE's Noatun. It is
 annoying because the music gets played for another second when I press the
 stop button or when a song is switched.
@@ -164,14 +164,14 @@ to something more likable. Now for the other apps.
 <p> <p> <p> <p>
 I populated some of the <a href="http://perl.org.il/kwiki/index.cgi">Israeli
     Perl Mongers Wiki</a> (created a page there for non-Perl Israeli Projects)
-and created <a href="http://benschmaus.com/cgi-bin/twiki/view/Main/WwwForm">a 
+and created <a href="http://benschmaus.com/cgi-bin/twiki/view/Main/WwwForm">a
     Wiki hypertext base for WWW::Form</a>. I also wrote some of the outline
-for the second draft of an essay I wrote a prelimary version of some time ago. 
+for the second draft of an essay I wrote a prelimary version of some time ago.
 Now comes the hard part of writing it in DocBook, entirely.
 
 
 <p> <p> <p> <p>
-I also wrote the <a href="http://discuss.fogcreek.com/joelonsoftware/default.asp?cmd=show&ixPost=99574&ixReplies=23">Cross-UNIX Portability - Facts 
+I also wrote the <a href="http://discuss.fogcreek.com/joelonsoftware/default.asp?cmd=show&ixPost=99574&ixReplies=23">Cross-UNIX Portability - Facts
     and Myths</a> technical article. (first on paper and then on computer - don't ask).
 
 
@@ -181,6 +181,6 @@ Too much time E-mailing. Far too less coding. Teh teh.
 <p> <p> <p><b>Certification</b>
 
 <p> <p> <p>
-Certified <a href="/person/graydon/">graydon</a> as Journeyer for his work on the Monotone version control system. 
+Certified <a href="/person/graydon/">graydon</a> as Journeyer for his work on the Monotone version control system.
 
 2004-01-05 19:11:01

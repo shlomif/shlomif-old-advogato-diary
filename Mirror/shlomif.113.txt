@@ -6,14 +6,14 @@ a background color so it will be entirely highlighted when the cursor
 is on it. Then I did a CSS2 trick, and changed the a:hover style
 inside the navigation bar to orange so it will look better with
 the yellowish-green background. Konqueror and Mozilla process it
-fine and so should MSIE too. (albeit I noticed IE indents the 
+fine and so should MSIE too. (albeit I noticed IE indents the
 navigation menu, which I don't understand why it should do so)
 
 
 <p> <p>
 Afterwards, I downloaded gif2png and converted the "Back to my Homepage"
-image from GIF to PNG. It went very smoothly and kept the transparency 
-and HTML behaviour fine. I then modified the WML template to refer to it 
+image from GIF to PNG. It went very smoothly and kept the transparency
+and HTML behaviour fine. I then modified the WML template to refer to it
 instead of the GIF. This is one step towards a GIF-free site. I don't think
 Unisys can tyrannize Israeli-hosted sites, but it would make the site more
 globally-friendly and can be thought of as a step towards solidarity with the
@@ -25,9 +25,9 @@ countries in which it does have a patent.
 <p> <p>
 Connectivity to the Technion is sporadic. Sometimes it works wonderfully;
 sometimes it does not work at all; sometimes it is very slow. The 012.net guys
-told me it had to do with the Technion. And strangely enough, the huji.ac.il 
+told me it had to do with the Technion. And strangely enough, the huji.ac.il
 domain works perfectly all the time. Very strange. And my iglu.org.il account
-at actcom seems to encounter the same problems the same time my home 
+at actcom seems to encounter the same problems the same time my home
 workstation does.
 
 
@@ -38,9 +38,9 @@ Something is wrong with the Technion's configuration.
 <p> <p><b>Hacktivity</b>
 
 <p> <p>
-I finished covering ESR's CatB in the "Solving - Origins and Orientation" 
-lecture. But I cannot upload it to vipe because of temporary Technion 
-connectivity problems. And I don't have my technion E-mail accounts either. 
+I finished covering ESR's CatB in the "Solving - Origins and Orientation"
+lecture. But I cannot upload it to vipe because of temporary Technion
+connectivity problems. And I don't have my technion E-mail accounts either.
 
 
 <p> <p>

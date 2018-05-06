@@ -13,8 +13,8 @@ I worked on some of my web-sites a bit and on the Solving lecture. I covered the
 
 
 <p> <p> <p>
-Other than that there isn't too much to show for. At the moment, I am very obsessed with solving the boards of StoneAge, an old DOS game I downloaded and play on my Win98 machine. I'm already at board No. 98 out of 100. Lately, I became obsessed with Mark Jason Dominus' 
-<a href="http://perl.plover.com/~alias/list.cgi?mss:41:200212:bmklodhglchflancfhlm">Perl 'Expert' Quiz-of-the-Week #8</a>, which is mind-boggling. I wrote a lot of Perl code to try to solve it, but all the 
+Other than that there isn't too much to show for. At the moment, I am very obsessed with solving the boards of StoneAge, an old DOS game I downloaded and play on my Win98 machine. I'm already at board No. 98 out of 100. Lately, I became obsessed with Mark Jason Dominus'
+<a href="http://perl.plover.com/~alias/list.cgi?mss:41:200212:bmklodhglchflancfhlm">Perl 'Expert' Quiz-of-the-Week #8</a>, which is mind-boggling. I wrote a lot of Perl code to try to solve it, but all the
 methods I tried do not yield very good results.
 
 
@@ -48,7 +48,7 @@ After a long time, I was finally able to finish Bridget Jones 2 ("Bridget Jones 
 
 
 <p> <p>
-Other than that: I borrowed the book "The God of the Machine" by Isabel Paterson from Chen and Omer, but so far have not started to read it. 
+Other than that: I borrowed the book "The God of the Machine" by Isabel Paterson from Chen and Omer, but so far have not started to read it.
 
 
 <p> <p><b>Update:</b> Today, I came up with a relatively efficient solution to the expert quiz of the week #8. You

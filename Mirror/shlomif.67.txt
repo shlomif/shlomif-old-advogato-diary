@@ -6,7 +6,7 @@ I released version 0.6.0 an hour ago or so. Not much changes since the 0.5.x tre
 <p> <p><b>WML Lecture</b>
 
 <p> <p>
-I finished most of what I wanted to demonstrate and am now looking for interesting APIs to demonstrate. So far I found the Table of Contents one and the grid one which is 
+I finished most of what I wanted to demonstrate and am now looking for interesting APIs to demonstrate. So far I found the Table of Contents one and the grid one which is
 a more convenient &lt;table&gt; abstractor.
 
 <p> <p>

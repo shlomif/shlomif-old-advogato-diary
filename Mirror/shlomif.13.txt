@@ -1,93 +1,93 @@
 <p><b>Freecell Solver</b>
 
 <p> <p>
-The refactoring of the code was eventually declared 
-successful. Since then I've added a few more changes. One 
-of them was to make sure that the fc-solve executable made 
-use of the freecell_solver_user library. This is 
-programmatically correct due to the "eating your dog food" 
-concept. Afterwards I spent some time implementing a 
-randomized Depth-First Search scan. The so-called 
-random-DFS scan sometimes yields very good results which 
-vary with the different seeds one gives it. 
+The refactoring of the code was eventually declared
+successful. Since then I've added a few more changes. One
+of them was to make sure that the fc-solve executable made
+use of the freecell_solver_user library. This is
+programmatically correct due to the "eating your dog food"
+concept. Afterwards I spent some time implementing a
+randomized Depth-First Search scan. The so-called
+random-DFS scan sometimes yields very good results which
+vary with the different seeds one gives it.
 
 <p> <p>
-Lastly, I coded a test_multi_parallel.c program that runs 
-several scans on one board simultaenously. From a 
-benchmarking I made it seems that it solves a range of 
-boards, much faster than a single-scan run. The next step 
-in this direction would be to allow for several 
-simultaneous scans to share the same states' collection. 
-I'll probably work on it for the next release of 
-<a href="/proj/Freecell%20Solver/">Freecell Solver</a> unless I find something more 
-pressing to implement. But I have higher priorities, like 
+Lastly, I coded a test_multi_parallel.c program that runs
+several scans on one board simultaenously. From a
+benchmarking I made it seems that it solves a range of
+boards, much faster than a single-scan run. The next step
+in this direction would be to allow for several
+simultaneous scans to share the same states' collection.
+I'll probably work on it for the next release of
+<a href="/proj/Freecell%20Solver/">Freecell Solver</a> unless I find something more
+pressing to implement. But I have higher priorities, like
 the studies that have just been re-initiated (see below).
 
 
 <p> <p><b>Michal Reading Ayn Rand's Books</b>
 
 <p> <p>
-My sister Michal finished to read the book "The 
-Fountainhead" by Ayn Rand. She said she enjoyed it very 
-much. Now she's reading "Atlas Shrugged" and for the time 
-finds it less intersting. We had a small discussion about 
-these books the other day. I told here that Atlas Shrugged 
-is purposely made more irritating as one goes on reading 
+My sister Michal finished to read the book "The
+Fountainhead" by Ayn Rand. She said she enjoyed it very
+much. Now she's reading "Atlas Shrugged" and for the time
+finds it less intersting. We had a small discussion about
+these books the other day. I told here that Atlas Shrugged
+is purposely made more irritating as one goes on reading
 it. But that's a good thing&lt;tm&gt;.
 
 
 <p> <p><b>The Technion</b>
 
 <p> <p>
-Well, studies so far have been incomplete due to the 
-lecturers' strike. But now the strike is over and 
-hopefully everything will be back on track. 
+Well, studies so far have been incomplete due to the
+lecturers' strike. But now the strike is over and
+hopefully everything will be back on track.
 
 
 <p> <p>
-There were some rumours about nasty things the lecturers 
-are going to do to compensate for the missing lectures. I 
+There were some rumours about nasty things the lecturers
+are going to do to compensate for the missing lectures. I
 sure hope those rumours are not true.
 
 
 
 <p> <p><b>SICP Amusements</b><p>
 
-<p> For those who do not know, SICP stands for "Structure and 
-Interpretation of Computer Programs" and is the name of a 
-book and <a 
-href="http://tiger.technion.ac.il/~ee044261/">a course in 
-the Technion</a> and in other universities. I had some fun 
-solving Problem Set No. 3. Basically, we had to draw 
-figures on the screen using one drawing primitive (that 
-draws a single point) and a lot of abstractions above it. 
-I'm considering playing with it some more and building 
-transformations for generating such shapes as the <a 
+<p> For those who do not know, SICP stands for "Structure and
+Interpretation of Computer Programs" and is the name of a
+book and <a
+href="http://tiger.technion.ac.il/~ee044261/">a course in
+the Technion</a> and in other universities. I had some fun
+solving Problem Set No. 3. Basically, we had to draw
+figures on the screen using one drawing primitive (that
+draws a single point) and a lot of abstractions above it.
+I'm considering playing with it some more and building
+transformations for generating such shapes as the <a
 href="http://www.geocities.com/CapeCanaveral/Lab/3550/cycloid.htm">
-cycloid</a>, the hyper-cycloid, an Escher-like condensing 
-pattern, etc. 
+cycloid</a>, the hyper-cycloid, an Escher-like condensing
+pattern, etc.
 
 
 <p> <p><b>The IP-Noise Project</b>
 
 <p> <p>
-Not much to report here. Roy said he sent me a draft of 
-the final report, but I did not recieve it. There's a 
-flow-chart I want to prepare for it in Visio. Otherwise, 
+Not much to report here. Roy said he sent me a draft of
+the final report, but I did not recieve it. There's a
+flow-chart I want to prepare for it in Visio. Otherwise,
 everything is set and ready for prime-time.
 
 
 <p> <p><b>The Image Processing Course's Test Appeal</b>
 
 <p> <p>
-I failed on my Moed Beith test and to make a long story 
-short, I agreed with the lecturer that I'll hand him 
-another appeal. I decided to print the whole test, and I 
-used LaTeX for this purpose. It did not came out half as 
-bad (much better than my hand-writing that's for sure). 
-And it went much faster than Word despite the fact that I 
-had to check out how to do a lot of things in LaTeX when I 
-needed them. God bless Google and the <a 
+I failed on my Moed Beith test and to make a long story
+short, I agreed with the lecturer that I'll hand him
+another appeal. I decided to print the whole test, and I
+used LaTeX for this purpose. It did not came out half as
+bad (much better than my hand-writing that's for sure).
+And it went much faster than Word despite the fact that I
+had to check out how to do a lot of things in LaTeX when I
+needed them. God bless Google and the <a
 href="http://linuxclub.il.eu.org/">Haifux</a> mailing list.
 
 

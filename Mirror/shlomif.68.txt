@@ -5,7 +5,7 @@ I managed to get User-Mode-Linux to behave nicely with some help from <a href="/
 
 
 <p> <p>
-In any case, it turns out my previous approach to making the lock FCFS was wrong. Matthew Wilcox, the current maintainer of the lock gave me instructions on how to do it. I had to fix the code a bit, but eventually it worked beautifully and it's a very small patch. 
+In any case, it turns out my previous approach to making the lock FCFS was wrong. Matthew Wilcox, the current maintainer of the lock gave me instructions on how to do it. I had to fix the code a bit, but eventually it worked beautifully and it's a very small patch.
 
 
 <p> <p>

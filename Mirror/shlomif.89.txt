@@ -10,8 +10,8 @@ I also released Freecell Solver version 2.8.0. It contains some usability featur
 <b>Rindolf</b>
 
 <p> <p>
-My feature was rejected from perl.com by its editor. I'd rather not mention his reasons here. Back to 
-<a href="http://use.perl.org/">use Perl;</a>, I guess. One good thing that came out of fighting with him is my decision to join perl5-porters and try to get the Rindolf features into Perl 5, somehow. 
+My feature was rejected from perl.com by its editor. I'd rather not mention his reasons here. Back to
+<a href="http://use.perl.org/">use Perl;</a>, I guess. One good thing that came out of fighting with him is my decision to join perl5-porters and try to get the Rindolf features into Perl 5, somehow.
 
 <p> <p>
 I just hope perl5-porters is not as bad as perl6-lang...

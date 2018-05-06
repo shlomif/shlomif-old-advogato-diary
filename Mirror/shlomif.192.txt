@@ -1,9 +1,9 @@
 <p><b>Computer Science and Software Engineering (cont.)</b>
 
 <p> <p> <p>
-<a href="/person/kilmo/">kilmo</a>: I agree with most of what you said in 
-<a href="http://www.advogato.org/person/kilmo/diary.html?start=66">your 
-    entry</a>. I agree that the CS department should teach theoretical 
+<a href="/person/kilmo/">kilmo</a>: I agree with most of what you said in
+<a href="http://www.advogato.org/person/kilmo/diary.html?start=66">your
+    entry</a>. I agree that the CS department should teach theoretical
 computer science, because these are the foundations that a good programmer
 eventually needs to know or at least understand. I don't agree that the
 definition of Computer Science is "the science that deals with the study,
@@ -15,9 +15,9 @@ a computer. (hence the name).
 
 
 <p> <p> <p>
-Between the time the algorithm is written in paper in pseudo-code, to the 
-time it runs inside the computer, many choices can be made that will affect 
-its performance and ease of integration. I remember one time where two 
+Between the time the algorithm is written in paper in pseudo-code, to the
+time it runs inside the computer, many choices can be made that will affect
+its performance and ease of integration. I remember one time where two
 optimizations I implemented in Freecell Solver made the program run about 50
 times as fast (in brute, with the overhead of executing a separate process
 for each of the inputs), while not decreasing the overall complexity at all.
@@ -25,10 +25,10 @@ for each of the inputs), while not decreasing the overall complexity at all.
 
 <p> <p> <p>
 And naturally, there is the art of designing a software right: choosing the
-right tools and APIs, creating good interfaces, writing modular code, etc. 
+right tools and APIs, creating good interfaces, writing modular code, etc.
 Then, of course, there is software management: working as a team, building
 a schedule, writing tests for the software, using version control, bug
-tracking procedures, and so on. All of these fall under Computer 
+tracking procedures, and so on. All of these fall under Computer
 Science. Unless, of course you want to claim that they (and CS) are included
 under Software Engineering, and then we can continue the argument over the
 meaning of terms ad infinitum. :-)
@@ -57,7 +57,7 @@ and fixed some bugs and made the interaction a bit nicer (added colours to
 the table rows, etc).
 
 <p> <p>
-Someone reported a bug in which transmitting an illegal parameter in the 
+Someone reported a bug in which transmitting an illegal parameter in the
 area, caused the server to display an "Internal Error" error. He initially
 thought it was an SQL injection bug, but I realized it was a non-harmful
 Perl bug, that could have been caused with any area that's not on the list.
@@ -78,12 +78,12 @@ the most common operating system for Intel servers.
 
 <p> <p> <p>
 This reminded me of a similar prediction in the C++ Programming HOWTO:
-"As memory (RAM) prices are dropping and CPU speeds are increasing, scripting 
-language like PIKE will EXPLODE in popularity. PIKE will become most the widely 
-used scripting language as it is object oriented and it's syntax is very 
+"As memory (RAM) prices are dropping and CPU speeds are increasing, scripting
+language like PIKE will EXPLODE in popularity. PIKE will become most the widely
+used scripting language as it is object oriented and it's syntax is very
 identical to that of C++ language. " Obviously, Perl, Python, PHP, Ruby and Tcl
 are more popular than Pike is, and there isn't a visible trend of Pike becoming
-more popular. Guess that similarity to C++ is not the top priority when 
+more popular. Guess that similarity to C++ is not the top priority when
 choosing a scripting language.
 
 

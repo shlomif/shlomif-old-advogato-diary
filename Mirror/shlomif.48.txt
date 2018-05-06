@@ -1,7 +1,7 @@
 <p><b>Web-sites Overhauling</b>
 
 <p> <p>
-I overhauled both the <a href="/proj/Freecell%20Solver/">Freecell Solver</a> and <a href="/proj/syscalltrack/">syscalltrack</a> web-sites by converting them to WebMetaLanguage. At the moment, neither site is online but they can be found in the projects' respective CVS repositories. 
+I overhauled both the <a href="/proj/Freecell%20Solver/">Freecell Solver</a> and <a href="/proj/syscalltrack/">syscalltrack</a> web-sites by converting them to WebMetaLanguage. At the moment, neither site is online but they can be found in the projects' respective CVS repositories.
 
 
 <p> <p>

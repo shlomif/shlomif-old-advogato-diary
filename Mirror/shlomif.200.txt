@@ -1,7 +1,7 @@
 <p><b>Studies</b>
 
 <p> <p>
-On Wednesday, there was some construction on the Tel-Aviv-&gt;Haifa road so 
+On Wednesday, there was some construction on the Tel-Aviv-&gt;Haifa road so
 the inter-city bus came late on Wednesday, and I had to take a later bus
 and arrived late at class. Nevertheless, it seems it just started, and I was
 able to write everything that had been written on the board in my notebook.
@@ -11,7 +11,7 @@ week in which I missed the lecture.
 
 <p> <p>
 Other than that, I've been a bit busy solving the exercises in Statistics.
-They seem to be pretty easy once you get the hang of them. Now, I have an 
+They seem to be pretty easy once you get the hang of them. Now, I have an
 exercise about Linear Regression which seems very easy, but the page with
 the formulas is a bit illegible.
 
@@ -20,27 +20,27 @@ the formulas is a bit illegible.
 
 <p> <p>
 Turns out my scanner (UMAX Astra 3450) works fine under Linux. I first tried
-it with kernel 2.4.x in which it did not work too well. After trying it in 
+it with kernel 2.4.x in which it did not work too well. After trying it in
 Windows, and then rebooting, it worked well again. With kernel 2.6.x, I needed
-to compile the USB sub-system and load some modules with various parameters. 
+to compile the USB sub-system and load some modules with various parameters.
 (which I did not do already, but now I have the right configuration file to do
-it). 
+it).
 
 
 <p> <p><b>WWW::Form</b>
 
 <p> <p>
 Ben Schmaus (WWW::Form's head developer) finally commited the most up-to-date
-files into <a href="http://stalker.iguide.co.il:8080/svn/www-form/www-form/">the WWW::Form 
-    repository</a>. I continued the work by first generalizing the "tr_class", 
-"tr_hint_class", etc. parameters to be "container_attributes" and 
+files into <a href="http://stalker.iguide.co.il:8080/svn/www-form/www-form/">the WWW::Form
+    repository</a>. I continued the work by first generalizing the "tr_class",
+"tr_hint_class", etc. parameters to be "container_attributes" and
 "hint_container_attributes". Then I documented everything that I added.
 
 
 <p> <p>
-Following that, I wrote a couple of tests to one of the utility functions 
+Following that, I wrote a couple of tests to one of the utility functions
 in the module, and hope to continue this trend of writing tests. Ben is a bit
-busy at work now, so he cannot invest a lot of time into it. We are still 
+busy at work now, so he cannot invest a lot of time into it. We are still
 discussing things via Instant Messaging, which is very convenient.
 
 
@@ -57,8 +57,8 @@ of non-Windows systems. Also pay attention to the large no-IE icon at the side-b
 <p> <p><b>Telux Meeting</b>
 
 <p> <p>
-I've been to <a href="/person/gby/">gby</a>'s Telux presentation on Sunday, about 
-Embedded Linux. He gave some guidelines for error-free development of 
+I've been to <a href="/person/gby/">gby</a>'s Telux presentation on Sunday, about
+Embedded Linux. He gave some guidelines for error-free development of
 Embedded Linux systems, and introduced uClibc (a libc that can be customized
 with just the right functionality), BusyBox (an all-in-one UNIX toolchain, that
 is also configurable to death), Kaction (formerly Tiny X), and FLTK (the Fast
@@ -68,21 +68,21 @@ Light Toolkit). It was very interesting and lasted only one hour.
 <p> <p><b>Egged Site</b>
 
 <p> <p>
-The <a href="http://www.egged.co.il/">new incarnation of Egged's (the 
+The <a href="http://www.egged.co.il/">new incarnation of Egged's (the
     Israeli national bus company)</a> stopped working with Konqueror, and
 only a basic functionality half-works with Mozilla. I filled in the feedback
 form (an E-mail to webmaster@egged.co.il did not work), and got this reply:
 
 
 <p> <p>
-"Hello Shlomi. I'm sorry, but the site is designed only for the Explorer 
+"Hello Shlomi. I'm sorry, but the site is designed only for the Explorer
 browser. I will thank you for your understanding."
 
 
 <p> <p>
-This answer is very laconic, and does not address half of my complaints 
-there, nor assured me that they were going to be fixed. I answered him in 
-return, but was not answered. Guess I'll have to find some other means of 
+This answer is very laconic, and does not address half of my complaints
+there, nor assured me that they were going to be fixed. I answered him in
+return, but was not answered. Guess I'll have to find some other means of
 complaining.
 
 2004-01-15 19:56:26

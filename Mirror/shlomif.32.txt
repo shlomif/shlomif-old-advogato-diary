@@ -1,71 +1,71 @@
 <p><b>Lost in the (GNU) Savannah</b>
 
 <p> <p> <p> <p>
-What does a developer who is otherwise productive and has 
-good intentions to do to get a web-site and a CVS for his 
-project? According to SourceForge and <a 
-href="http://developer.berlios.de">BerliOS</a>, nothing 
-else besides registering his project at their service. 
-According to GNU Savannah, however, he should go through 
+What does a developer who is otherwise productive and has
+good intentions to do to get a web-site and a CVS for his
+project? According to SourceForge and <a
+href="http://developer.berlios.de">BerliOS</a>, nothing
+else besides registering his project at their service.
+According to GNU Savannah, however, he should go through
 the nine levels of proving his FSF-wise purism.
 
 
 <p> <p> <p> <p>
-I have successfully used the services of both SF and 
-BerliOS to host projects in the past. However, I'm not too 
-fond of the fact that SourceForge concentrates too many 
-important projects, and I've had some logistic and 
-technical problems with what BerliOS gives me. So I decided 
-to give <a href="http://savannah.gnu.org/">Savannah</a> a 
+I have successfully used the services of both SF and
+BerliOS to host projects in the past. However, I'm not too
+fond of the fact that SourceForge concentrates too many
+important projects, and I've had some logistic and
+technical problems with what BerliOS gives me. So I decided
+to give <a href="http://savannah.gnu.org/">Savannah</a> a
 try.
 <p>
 
 <p> <p> <p> <p>
-I have tried to host two projects on GNU Savannah: Rindolf 
+I have tried to host two projects on GNU Savannah: Rindolf
 and <a href="http://vipe.technion.ac.il/~shlomif/logic-
-mazes/">lm-solve</a>. In both of them I had to fill the 
-registration forms at least two times only to see my 
-submission rejected from some reason. And they are still 
+mazes/">lm-solve</a>. In both of them I had to fill the
+registration forms at least two times only to see my
+submission rejected from some reason. And they are still
 not registered there.
 
 
 <p> <p> <p> <p>
-In Rindolf, I chose "Other" as the license of the project 
-and specified it would be the "Open Publication License". 
-At the moment, I'm only designing the SPECs of the 
-language, and do not actually produce a line of code. They 
-rejected it. Then I decided to choose MIT X11, and referred 
-them to the ad-hoc SPEC of the language. Then, they said 
-that it was not clear what is the license of the SPEC, and 
-asked me to re-submit the project. 
+In Rindolf, I chose "Other" as the license of the project
+and specified it would be the "Open Publication License".
+At the moment, I'm only designing the SPECs of the
+language, and do not actually produce a line of code. They
+rejected it. Then I decided to choose MIT X11, and referred
+them to the ad-hoc SPEC of the language. Then, they said
+that it was not clear what is the license of the SPEC, and
+asked me to re-submit the project.
 <p>
 
 <p> <p> <p>
-I told them the license of the SPEC was the OPL, and that 
-anyhow, it would not imply anything about the licesne the 
-codebase would be distributed in. (for instance, gcc is an 
-implementation of C the text of whose standard is 
-proprietary). Then they said, that Savannah is ment to host 
-free software and free documentation. Does this mean I'll 
+I told them the license of the SPEC was the OPL, and that
+anyhow, it would not imply anything about the licesne the
+codebase would be distributed in. (for instance, gcc is an
+implementation of C the text of whose standard is
+proprietary). Then they said, that Savannah is ment to host
+free software and free documentation. Does this mean I'll
 have to maintain pure free content on the site?
 
 
 <p> <p> <p>
-I eventually stopped working on Rindolf for a while, and 
-independently coded a program to solve <a 
-href="http://www.logicmazes.com/">some types of logic 
-mazes</a> which I now dubb lm-solve. So far, so good, but I 
-decided that I want it to have a public source control 
-repository. So I turned to Savannah again. I chose other 
+I eventually stopped working on Rindolf for a while, and
+independently coded a program to solve <a
+href="http://www.logicmazes.com/">some types of logic
+mazes</a> which I now dubb lm-solve. So far, so good, but I
+decided that I want it to have a public source control
+repository. So I turned to Savannah again. I chose other
 and specified that the license is Public Domain.
 
 
 <p> <p> <p>
-This time they complained that there the terms were not 
-specified in the package (they were not documented there, 
-true), and that I should have a COPYING file. I wrote 
-something which said it was public domain but also said 
-that the disclaimer of the X11 license applies to the 
+This time they complained that there the terms were not
+specified in the package (they were not documented there,
+true), and that I should have a COPYING file. I wrote
+something which said it was public domain but also said
+that the disclaimer of the X11 license applies to the
 package (until it gains a different license). And I re-
 submitted the project again. This time they:
 
@@ -73,82 +73,82 @@ submitted the project again. This time they:
 <p> <p> <ol>
 <li> Complained that it was not clear what license it is.
 
-<p> <li> Specified that every source file should have a 
+<p> <li> Specified that every source file should have a
 legalese header specifiying the license and the disclaimer.
 
 <p> <li>
-Criticized me for mocking the GPL in the COPYING file. (it 
-did start with "Relax! This is not the GPL but rather is a 
+Criticized me for mocking the GPL in the COPYING file. (it
+did start with "Relax! This is not the GPL but rather is a
 Public Domain software...".)
 
 <p> </ol>
 
 <p> <p> <p>
-This started a relatively good natured argument between me 
-and the Savannah Hackers. I said that I was allowed to 
-parody the GPL in my COPYING file, without them being 
-concerned by it. They thought it was in the project 
-submission for some reason. (I'm not responsible for them 
-actually opening the package). I also said, that one does 
-not have to specify the copyright (or in my case lack of) 
-in every file and that I usually like to put something a 
-bit less intimidating in the header. They did not like this 
-idea so much because they said it may complicate things 
+This started a relatively good natured argument between me
+and the Savannah Hackers. I said that I was allowed to
+parody the GPL in my COPYING file, without them being
+concerned by it. They thought it was in the project
+submission for some reason. (I'm not responsible for them
+actually opening the package). I also said, that one does
+not have to specify the copyright (or in my case lack of)
+in every file and that I usually like to put something a
+bit less intimidating in the header. They did not like this
+idea so much because they said it may complicate things
 legally.
 
 
 <p> <p>
-If I have to take all this crap just to register a project, 
-I'd hate to think what I'll have to put up with as the 
-projects' progress. I talked to an E-correspondant of mine, 
-and he said that he encountered similar paranoia from other 
-FSF activists. Meanwhile, I'll probably turn to ibiblio, or 
-some other service out there. Maybe I can get perl.org to 
-host me. I also seem to found CVS quite limiting, and would 
-probably register the project in <a 
-href="http://www.bitkeeper.com">BitKeeper</a> which AFAIK 
-is pretty much straightforward. I'm not really a free 
-software bigot, and BitKeeper is open-source "enough" for 
-most needs. 
+If I have to take all this crap just to register a project,
+I'd hate to think what I'll have to put up with as the
+projects' progress. I talked to an E-correspondant of mine,
+and he said that he encountered similar paranoia from other
+FSF activists. Meanwhile, I'll probably turn to ibiblio, or
+some other service out there. Maybe I can get perl.org to
+host me. I also seem to found CVS quite limiting, and would
+probably register the project in <a
+href="http://www.bitkeeper.com">BitKeeper</a> which AFAIK
+is pretty much straightforward. I'm not really a free
+software bigot, and BitKeeper is open-source "enough" for
+most needs.
 
 
 <p> <p>
-Strangely enough, I read in LWN, that they plan that the 
-service would be a starting point for a distributed 
-SourceForge-like service hosting many projects world-wide. 
-If they actually want it to happen they should first lose a 
-small amount of their paranoia, and actually trust the 
-hackers that would like to use the service. Registering a 
-project in SF or BerliOS is straightforward even if you 
-don't have any intention to actively pursue it. I realize 
-they don't want to be bother by "dead on arrival" projects 
-and actually make sure the project is usable to them. But 
-if a hacker sais the project is PD/MIT X11/GPL/LGPL/GPL and 
-Modified Artistic, etc. they should give him a break, tell 
-him to include a COPYING file that says so, accept his 
-project and let him start doing actually useful with 
+Strangely enough, I read in LWN, that they plan that the
+service would be a starting point for a distributed
+SourceForge-like service hosting many projects world-wide.
+If they actually want it to happen they should first lose a
+small amount of their paranoia, and actually trust the
+hackers that would like to use the service. Registering a
+project in SF or BerliOS is straightforward even if you
+don't have any intention to actively pursue it. I realize
+they don't want to be bother by "dead on arrival" projects
+and actually make sure the project is usable to them. But
+if a hacker sais the project is PD/MIT X11/GPL/LGPL/GPL and
+Modified Artistic, etc. they should give him a break, tell
+him to include a COPYING file that says so, accept his
+project and let him start doing actually useful with
 Savannah.
 
 
 <p> <p>
-Most hackers out there are not lawyers and wish to write 
-code or documentation rather than make sure their project 
-is a perfectly sound legally. (which from my understanding 
-of the legal system and the intellectual property law is 
-pretty much impossible). Maybe the Savannah admins have 
-good intentions, but if a project wishes to be successful 
+Most hackers out there are not lawyers and wish to write
+code or documentation rather than make sure their project
+is a perfectly sound legally. (which from my understanding
+of the legal system and the intellectual property law is
+pretty much impossible). Maybe the Savannah admins have
+good intentions, but if a project wishes to be successful
 it needs a large amount of good human engineering, too.
 
 
 <p> <p>
-I believe the reason Freecell Solver has had its niche, and 
-gained some popularity is not only because I invested a lot 
-of time in coding it, but was also a good human engineer: I 
-answered E-mails, even very trivial, politely and 
-informatively; I formed a mailing list, and actively helped 
-people who reviewed the code, or wished to integrate it 
-into their projects; and I actively thought of what the end 
-user would like to find there. I think Savannah should 
-follow suit, and actually trust their hackers for a change. 
+I believe the reason Freecell Solver has had its niche, and
+gained some popularity is not only because I invested a lot
+of time in coding it, but was also a good human engineer: I
+answered E-mails, even very trivial, politely and
+informatively; I formed a mailing list, and actively helped
+people who reviewed the code, or wished to integrate it
+into their projects; and I actively thought of what the end
+user would like to find there. I think Savannah should
+follow suit, and actually trust their hackers for a change.
 
 2002-04-08 10:59:22

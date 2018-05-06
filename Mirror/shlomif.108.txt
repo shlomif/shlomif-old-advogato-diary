@@ -12,7 +12,7 @@ I started to convert my home-site to a more organized WebMetaLanguage-based one.
 
 
 <p> <p>
-I need to find a way that my firewall will stay active and 
+I need to find a way that my firewall will stay active and
 only allow connections to the HTTP port. Some IP-Tables playing is in order.
 
 

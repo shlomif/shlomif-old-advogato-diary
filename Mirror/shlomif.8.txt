@@ -1,49 +1,49 @@
 <p>
-The presentation went pretty well. Roy brough snacks and 
-Ecclaires which his wife prepared, so it made a good 
-impression on the Lab staff who jokingly said that it set 
+The presentation went pretty well. Roy brough snacks and
+Ecclaires which his wife prepared, so it made a good
+impression on the Lab staff who jokingly said that it set
 a new standard for lab presentations.
 
 
 <p> <p>
-The coming week will feature Rosh-Hashana in Monday, 
-Tuesday and Wednesday, which does not leave much point in 
-going to the Technion. Nevertheless, Roy and I decided 
-that I will keep converting the arbitrator to C, and he 
+The coming week will feature Rosh-Hashana in Monday,
+Tuesday and Wednesday, which does not leave much point in
+going to the Technion. Nevertheless, Roy and I decided
+that I will keep converting the arbitrator to C, and he
 will work on the Mid-Term report.
 
 
 <p> <p>
-Thus, yesterday I finished converting the compiler's 
-interface to C and it works pretty well. I started working 
-on the switcher today, but did not finish yet. In any 
-case, I have an entire week for this. I also made a 
-diagram of the packet handler in 
-<a 
+Thus, yesterday I finished converting the compiler's
+interface to C and it works pretty well. I started working
+on the switcher today, but did not finish yet. In any
+case, I have an entire week for this. I also made a
+diagram of the packet handler in
+<a
 href="http://www.lysator.liu.se/~alla/dia/dia.html">Dia</a>,
 but I have to fix it a bit because it came out too large.
 
 
 <p> <p>
-I have a test the Sunday after the next in 
-<a href="http://tiger.technion.ac.il/~ee046200/">Image 
+I have a test the Sunday after the next in
+<a href="http://tiger.technion.ac.il/~ee046200/">Image
 Processing and Analysis</a>, so I am preparing for it too.
 
 
 <p> <p>
-I downloaded a couple of fortunes yesterday, namely the 
-ones from the Jargon File and some collections I found in 
-a site I spotted on Freshmeat (from the Simpsons, 
-Disc-World, Forrest Gump, the Hitchhiker's Guide to the 
+I downloaded a couple of fortunes yesterday, namely the
+ones from the Jargon File and some collections I found in
+a site I spotted on Freshmeat (from the Simpsons,
+Disc-World, Forrest Gump, the Hitchhiker's Guide to the
 Galaxy, and Star Wars).
 
 
 <p> <p>
-In the R2L front, I am still quite stuck with the KDE 
-applet. I'll try to dedicate some time this week to work 
-on it. I have yet to write a SPEC of the MAYBE simulator 
-internals, too. And I plan to add support for Simple Simon 
-to Freecell Solver. So, I still have some things in my 
+In the R2L front, I am still quite stuck with the KDE
+applet. I'll try to dedicate some time this week to work
+on it. I have yet to write a SPEC of the MAYBE simulator
+internals, too. And I plan to add support for Simple Simon
+to Freecell Solver. So, I still have some things in my
 task list.
 
 

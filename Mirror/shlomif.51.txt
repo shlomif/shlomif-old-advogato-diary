@@ -24,7 +24,7 @@ I had the "Design and Analysis of Algorithms" test on Sunday. It went well enoug
 <p> <p><b>Freecell Solver Book</b>
 
 <p> <p>
-So far, I have two subscribers on my book mailing list, and there is potentially another one. I have made quite a lot of progress writing down the book in DocBook/XML. However, I am now being slightly suspended because there seem to be some bugs in the PDF rendering. 
+So far, I have two subscribers on my book mailing list, and there is potentially another one. I have made quite a lot of progress writing down the book in DocBook/XML. However, I am now being slightly suspended because there seem to be some bugs in the PDF rendering.
 
 
 <p> <p>

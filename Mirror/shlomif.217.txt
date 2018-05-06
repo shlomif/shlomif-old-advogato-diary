@@ -10,15 +10,15 @@ but I plan to write an automated cross-poster.
 <p> <p>
 I sent my C.V. to someone and he told me the parenthesis were reversed there.
 Turns out the OpenOffice.org export to PDF is faulty again, and it reversed
-the parenthesis. I filed <a href="http://www.openoffice.org/issues/show_bug.cgi?id=36724">a bug report of it</a>. Meanwhile, I wrote my Hebrew C.V. in HTML 
+the parenthesis. I filed <a href="http://www.openoffice.org/issues/show_bug.cgi?id=36724">a bug report of it</a>. Meanwhile, I wrote my Hebrew C.V. in HTML
 format, which worked very well, without any bugs.
 
 
 <p> <p><b>CPANPLUS</b>
 
 <p> <p>
-While smoking CPAN, I had problems installing the 
-<a href="http://search.cpan.org/dist/Test-URI/">Test-URI</a> module. The 
+While smoking CPAN, I had problems installing the
+<a href="http://search.cpan.org/dist/Test-URI/">Test-URI</a> module. The
 developer claimed it was a bug in the CPANPLUS module. I tried to investigate,
 and hopefully correct it. Then, however it turned out the module was marked
 as a developer release (where no regular module was available). This is what
@@ -29,7 +29,7 @@ list.
 <p> <p><b>Wiki Overview Article</b>
 
 <p> <p>
-O'ReillyNet published 
+O'ReillyNet published
 <a href="http://www.onlamp.com/pub/a/onlamp/2004/11/04/which_wiki.html">my
     article comparing various Wiki implementations.</a>.
 
@@ -37,8 +37,8 @@ O'ReillyNet published
 <p> <p><b>Perl Empty Regex Catch</b>
 
 <p> <p>
-Check 
-<a href="http://perl.org.il/pipermail/perl/2004-November/006240.html">this 
+Check
+<a href="http://perl.org.il/pipermail/perl/2004-November/006240.html">this
     post I made to Israel.PM for a Perl catch regarding matching the empty
     regex</a>. I encountered it while working on my navigation menu module.
 
@@ -48,7 +48,7 @@ Check
 <p> <p>
 I helped someone called Amir who approached me on the Telux meetings, and said
 he had some problems with his Linux system. (X won't start). So I went to
-help him bringing with me a Knoppix disc. His problem was that X couldn't 
+help him bringing with me a Knoppix disc. His problem was that X couldn't
 start. It was Mandrakelinux 10.0, and the startx program reported a missing
 symbolic link. After I fixed the link, it still wasn't good enough, and I
 had to play a bit with XFdrake, which is the Mandrake X configuration tool.
@@ -68,12 +68,12 @@ and his system worked.
 Berlios.de only gives Subversion access via the svn:// protocol. So I wanted
 a web-interface to visualize things like is present in the http:// hosting.
 I looked for things like this, only there were either only for a local
-repository or presented too much information and so took a long time to 
+repository or presented too much information and so took a long time to
 process a page.
 
 
 <p> <p>
-So I wrote my own module, 
+So I wrote my own module,
 <a href="http://search.cpan.org/dist/SVN-RaWeb-Light/">SVN-RaWeb-Light</a>.
 It behaves much like the one for the Subversion hosting, but has a useful
 improvement, of being able to display different revisions of the repository
@@ -98,7 +98,7 @@ Afterwards, I discovered that not too much was lost.
 
 <p> <p>
 Someone reported a problem with one of the header files of Freecell Solver. To
-resolve it, I had to modify it and rebuild it. Only the rebuild failed. 
+resolve it, I had to modify it and rebuild it. Only the rebuild failed.
 Autoconf complained that some of the macros were deprecated. It turned out
 support for Autoconf 2.1x was removed from the libtool m4 macros some time ago.
 So, I had to upgrade to Autoconf 2.5x, just to build the distribution. I spent
@@ -110,26 +110,26 @@ must die!
 
 <p> <p>
 When I was working on <a href="http://www.perl.org.il/">the Israeli Perl
-    Mongers site</a> I noticed that the HTML had a lot of extraneous 
+    Mongers site</a> I noticed that the HTML had a lot of extraneous
 whitespace. I've looked in CPAN for a module that will do the job, but
-the only module I found (HTML-Clean) could damage whitespace inside 
-&lt;pre&gt; blocks. So I wrote one of my own - 
-<a href="http://search.cpan.org/dist/HTML-Strip-Whitespace/">HTML::Strip::Whitespace</a>. 
+the only module I found (HTML-Clean) could damage whitespace inside
+&lt;pre&gt; blocks. So I wrote one of my own -
+<a href="http://search.cpan.org/dist/HTML-Strip-Whitespace/">HTML::Strip::Whitespace</a>.
 
 <p>
 As it turned out, htmltidy can strip whitespace out of HTML. The webmaster of
 perl.org.il, however, insisted that the HTML on the site should be carefully
-indented, instead of whitespace-stripped and smaller, so I don't have an 
+indented, instead of whitespace-stripped and smaller, so I don't have an
 immediate use for this module.
 
 
 <p> <p><b>Music Downloading</b>
 
 <p> <p>
-I tried to download the song "Tears on My Pillow" performed by Kylie Minogue. 
+I tried to download the song "Tears on My Pillow" performed by Kylie Minogue.
 (which I have on cassette). However, almost all of the mp3 files I downloaded
-had a completely different song, only with the title I requested. What the 
-hell? 
+had a completely different song, only with the title I requested. What the
+hell?
 
 
 <p> <p>
@@ -145,8 +145,8 @@ The problem is that I did not want anyone to be able to subscribe to there.
 
 
 <p> <p>
-I searched and searched for it and eventually found <a href="http://66.102.9.104/search?q=cache:522XFhFmM7QJ:www.geocrawler.com/archives/3/505/2003/3/0/10399823/+ezmlm+%22reject+subscribe%22&hl=en">this 
-    post to a mailing list about ezmlm that explained how to do it.</a> 
+I searched and searched for it and eventually found <a href="http://66.102.9.104/search?q=cache:522XFhFmM7QJ:www.geocrawler.com/archives/3/505/2003/3/0/10399823/+ezmlm+%22reject+subscribe%22&hl=en">this
+    post to a mailing list about ezmlm that explained how to do it.</a>
 
 
 <p> <p><b>Job Hunting News</b>
@@ -157,14 +157,14 @@ I had no idea about it because I did not check it. So I called them back.
 
 
 <p> <p>
-In any case, I had two job interviews for 
-<a href="http://www.10levels.com/">a company called 
+In any case, I had two job interviews for
+<a href="http://www.10levels.com/">a company called
     "10 Levels"</a> and they eventually decided to hire me. So I worked
 for them yesterday and today. What I had to do was write some Perl scripts
 to automate an application written using PowerBuilder. I was able to do some
 of the tasks, but not the last one. I have a Win32 form with several fields,
 and I have to fill in the required fields. However, I cannot find a way to
-switch the focus to the second field. SetFocus() doesn't work. 
+switch the focus to the second field. SetFocus() doesn't work.
 SetActiveWindow() doesn't work and neither does a simulated mouse click.
 
 
@@ -172,10 +172,10 @@ SetActiveWindow() doesn't work and neither does a simulated mouse click.
 I also installed Windows XP and RHEL 3 on a computer today. Configuring the
 networking involved doing a few physical pluggings. Then I wanted to install
 packages of Red Hat Enterprise Linux from the command line. I tried installing
-apt and everything, but it could not install packages from the RedHat CDs. 
-After talking with people on the IRC, I found out that with RHEL, I need to 
-pay for a subscription for up2date to get the packages. (and cannot use apt 
-or yum). What the hell?  
+apt and everything, but it could not install packages from the RedHat CDs.
+After talking with people on the IRC, I found out that with RHEL, I need to
+pay for a subscription for up2date to get the packages. (and cannot use apt
+or yum). What the hell?
 
 
 <p> <p>

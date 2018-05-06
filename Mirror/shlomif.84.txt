@@ -1,7 +1,7 @@
 <p><b>Aegis - Full Throttle</b>
 
 <p> <p>
-<i>"Don't whine unless you are going to contribute"</i> - first rule of 
+<i>"Don't whine unless you are going to contribute"</i> - first rule of
 open-source programming. That's why I'd like to suggest the following
 to the good Aegis people and hopefully I will implement it myself:
 
@@ -9,41 +9,41 @@ to the good Aegis people and hopefully I will implement it myself:
 <ol>
     <li>
     The Logo is too dowpy and sexless. You need a similar wheel only smaller,
-    with the light behind it and with cool lights and shades games. 
+    with the light behind it and with cool lights and shades games.
     <a href="/person/ladypine/">ladypine</a>, would you be so kind as to ask your friend
     Smackware to do it. I can spare some time hacking with the gimp or with
     Corel-Draw, but I'm sure she'll do a better job.
-    
+
     <li>
-    You need a built-in permissions system. Relying on UNIX' one is a bad 
+    You need a built-in permissions system. Relying on UNIX' one is a bad
     idea. It should not be too hard to isolate it in one place and then
     subclass it accordingly.
-    
+
     <li>
     You need a native Win32 port, that does not require cygwin.
-    
+
     <li>
     You need to take every good BitKeeper feature there and duplicate it.
-    
+
     <li>
     You need to convert to the [MAJOR].[MINOR].[BUGFIX] scheme and release
     a version that only adds a few critical features.
-    
+
     <li>
     You need a server with a dedicated connection.
-    
+
     <li>
     You need a better homepage. I volunteer to design one with WebMetaLanguage. ( and needless to say volunteer to do everything else in time)
-    
+
     <li>
     You need integration with Emacs and MS Dev Studio, gvim and what not.
-    
+
     <li>
     You need an Aegis Kernel Cousin or an Aegis Weekly Report, etc.
-    
+
     <li>
     You need to be more Bazaar-style (a la CatB)
-    
+
 </ol>
 
 <p> <p><b>Programming is Done in the GUI...</b>
@@ -102,7 +102,7 @@ and then compress them and send them in one bulk.
 * a default "parent" repository so no need to remember which one to
 do a push or pull to.
 * Ability to work on a copy of the files, instead of a copy of a repository.
-* Work flawlessly on Windows - a native Win32 port. (VMS and MVS - also a 
+* Work flawlessly on Windows - a native Win32 port. (VMS and MVS - also a
 good idea, but of lesser priority)
 * Fast to work with. (no waiting for ages over an ADSL line for the
  "changeset" to get to BerliOS)

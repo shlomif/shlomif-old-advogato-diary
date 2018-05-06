@@ -4,7 +4,7 @@
 The first lecture about Embedded Linux was very good
 and interesting. The second lecture about TCP spoofing
 was good, but had a boring (IMO) topic so I drifted
-away. The first lecture took a bit too long so Orna 
+away. The first lecture took a bit too long so Orna
 told us to stay for the second one, but people voted
 with their feet. (later on I told her that cancelling recesses is usually a bad idea, and she agreed)
 

@@ -17,11 +17,11 @@ the fifth exercise. That's it, I guess.
 <p> <p><b>Hacktivity</b>
 
 <p> <p>
-I began to implement support for Hexagonal 
-<a href="http://www.clickmazes.com/planks/ixplanks.htm">Planks in the 
+I began to implement support for Hexagonal
+<a href="http://www.clickmazes.com/planks/ixplanks.htm">Planks in the
 Swamp Puzzles</a> into LM-Solve. After I was through, I tested it on
 one of the boards, and it wouldn't solve after a complete scan. To find
-out where the problem was, I decided to code a pseudo-implementation of 
+out where the problem was, I decided to code a pseudo-implementation of
 the plank puzzles, which would tell me what is the first state that the
 solver did not reach. I wrote it in Perl/Tk on Friday, and using it
 was able to find the bug. The problem was that a plank could have been
@@ -37,7 +37,7 @@ Other than that I continued to work on Chiq-Chaq's HTML Validation.
 
 <p> <p>
 The meeting went well and the lectures were very interesting. I returned
-Damian Conway's "Object Oriented Perl" and took home the book 
+Damian Conway's "Object Oriented Perl" and took home the book
 "Win32 Perl Programming". I met there someone who told me he learned Perl
 from my <a href="http://vipe.technion.ac.il/~shlomif/lecture/Perl/Newbies/">
 Perl for Newbies lectures</a>. Here's <a href="http://www.perl.org.il/20030612.html">More information about the meeting</a>.
@@ -59,8 +59,8 @@ made my /home partition the root, transferred all existing sub-dirs under /home
 there, and re-installed Mandrake there. Works like a charm.
 
 <p>
-I ran badblocks on the old partition, and it could not detect any error. 
-Also, all the old file operations that caused problems are no longer 
+I ran badblocks on the old partition, and it could not detect any error.
+Also, all the old file operations that caused problems are no longer
 problematic. Weird.
 
 

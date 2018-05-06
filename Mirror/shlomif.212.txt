@@ -3,25 +3,25 @@
 <p> <p> <p>
 My cousin and his wife had a baby a couple of weeks ago. They called him Matan,
 and the celebration of the Brith was after a while. The food there was good.
-At first the songs were quite cheesy and the volume was very loud, but 
+At first the songs were quite cheesy and the volume was very loud, but
 afterwards, they both improved. As usual in such occasions, the mother of the
 newborn, recited a cheesy poem she wrote. (I really would have preferred a
 a simple, non-verse, speech). I met there many of my relatives, and also
-met the daugter-in-law of my aunt (a different one) for the first time. I 
+met the daugter-in-law of my aunt (a different one) for the first time. I
 wanted to talk to her, but couldn't because of the loud music.
 
 
 <p> <p> <p><b>Tau-Sec Meetings</b>
 
 <p> <p> <p>
-I attended the first two meetings of the 
+I attended the first two meetings of the
 <a href="http://www.cs.tau.ac.il/tausec/">TAU Security Forum</a>. The first
-meeting feature Noam Ratheos (of Beyond Security) in a presentation about 
-Port Knocking. I met some familiar faces there, including 
+meeting feature Noam Ratheos (of Beyond Security) in a presentation about
+Port Knocking. I met some familiar faces there, including
 <a href="/person/Xantia/">Xantia</a>. This was the first event I saw her attending for a
 long time. The presentation was very interesting, and introduced me to
 this new security technique. After the presentation, Chen, Adi Stav,
-another guy called <a href="http://www.livejournal.com/~talash">Michael 
+another guy called <a href="http://www.livejournal.com/~talash">Michael
     "Talash" Perelmutter</a> and I went to a local Cafe to eat supper
 and talk. We discussed many topics. It turned out Michael lived right next
 to my house, so we walked together, and he gave me his contact information
@@ -33,15 +33,15 @@ The second meeting took place this Sunday. It started out with a general
 1 hour discussion about Spam, conducted by <a href="/person/sun/">sun</a>. The discussion
 was interesting, but it did not touch the surface of this complicated subject.
 Then he gave a presentation about Cross-Site Scripting exploits and SQL
-injections. It had a somewhat slow start, but got better after the break. I 
+injections. It had a somewhat slow start, but got better after the break. I
 did not learn anything new, but it was still fun seeing the exploitable
-code written and the exploits done in real-time. 
+code written and the exploits done in real-time.
 
 
 <p> <p> <p>
 Chen wasn't there, but Michael was and we walked all the way home, and
 this time ate Falafel at a restaurant close to my house. Michael and I
-exchanged a few E-mails since we met, and it's always nice become aquainted 
+exchanged a few E-mails since we met, and it's always nice become aquainted
 with someone new.
 
 
@@ -49,8 +49,8 @@ with someone new.
 
 <p> <p> <p>
 When it rains - it pours. When it shines - it is blazing hot. I was quite
-bored some time ago because I did not want to do anything. Now, however, 
-I don't have enough time to do everything. There are so many things I'd like 
+bored some time ago because I did not want to do anything. Now, however,
+I don't have enough time to do everything. There are so many things I'd like
 to do, and projects I'm involved in, and it seems that I don't have enough
 time. What I do is work a bit on one thing, and then switch to another. I
 seem to be multi-tasking very nicely like that.
@@ -61,15 +61,15 @@ seem to be multi-tasking very nicely like that.
 <p> <p> <p>
 I've done more gimpressionist cleanups and bug-fixing. Take a look at the
 GIMP's ChangeLog for more verbose information. Now perhaps the only thing
-left to do, before making some overhaul changes, is to rename more variables 
+left to do, before making some overhaul changes, is to rename more variables
 into more meaningful names. (most of them are already renamed), and fix
 the rest of the bugs in the bugzilla.
 
 
 <p> <p> <p>
 I also helped David Odin (aka dindinx) with converting plug-ins code
-from the depracated GtkPreview to the newer GimpPreviewArea widget. 
-I discovered <a href="http://bugzilla.gnome.org/show_bug.cgi?id=148929">a 
+from the depracated GtkPreview to the newer GimpPreviewArea widget.
+I discovered <a href="http://bugzilla.gnome.org/show_bug.cgi?id=148929">a
     bug in gflare</a> while I was doing the conversion.
 
 <p> <p>
@@ -89,8 +89,8 @@ sorry.
 <p> <p> <p><b>Wikipeders Meeting</b>
 
 <p> <p> <p>
-The <a href="http://he.wikipedia.org/">Hebrew Wikipedia</a> maintainers held a 
-meeting some time ago, to celebrate its one year anniversary. Out of the 
+The <a href="http://he.wikipedia.org/">Hebrew Wikipedia</a> maintainers held a
+meeting some time ago, to celebrate its one year anniversary. Out of the
 people who attended it, I was only familiar with Shoshannah Forbes and with
 Ofer Weisglass. Another thing that alienated me was that I barely touched
 the Hebrew version and just contributed some stuff to the English resources.
@@ -107,16 +107,16 @@ a good accomplishment.
 <p> <p> <p><b>August Penguin 3</b>
 
 <p> <p> <p>
-The yearly meeting of Israeli Linux Enthusiasts this year, known as 
+The yearly meeting of Israeli Linux Enthusiasts this year, known as
 August Penguin, took place last Friday. I got up early and was given
 a lift there to help with the reception. There I met some of the organizers
 (many of whom I personally know), and was assigned as one of the three
 reception people. Many people have arrived and there was a long line.
 But eventually, Arik Baratz, <a href="/person/ladypine/">ladypine</a> and I handled
 all the early comers, and we were free. Among the people who attended
-the conference, I saw for the first time, two people whom I knew from 
-online but never met face-to-face: Yotam Rubin (who created and maintained 
-the Freecell Solver Debian packages in their beginning), and Diego 
+the conference, I saw for the first time, two people whom I knew from
+online but never met face-to-face: Yotam Rubin (who created and maintained
+the Freecell Solver Debian packages in their beginning), and Diego
 Iastrubni (who translated Mandrake Linux to Hebrew, and is now translating
 KDE).
 
@@ -125,8 +125,8 @@ KDE).
 I started attending the first presentation about Co-Linux, did not find
 it very interesting, so I went out and instead hanged around in the lobby.
 I met some familiar people with, and had some short conversations with them.
-Then came the time for the second presentation, (about Embedded Linux) so I 
-sat on the floor, and listened to it. It was quite interesting, but shortly 
+Then came the time for the second presentation, (about Embedded Linux) so I
+sat on the floor, and listened to it. It was quite interesting, but shortly
 afterwards I was volunteered to man the Hamakor stand, and sell CDs to people
 (and give away one free to those who were already Hamakor members). This
 consumed most of the day until the key-signing party, and I missed the geek
@@ -135,16 +135,16 @@ trivia, the prizes giveaway, and the second presentation.
 
 <p> <p> <p>
 Despite the fact that I missed most of the attractions, I had a very good
-time, and enjoyed the conference a lot. It was also very successful as 
+time, and enjoyed the conference a lot. It was also very successful as
 240 people attended it, more than twice than last year.
 
 
 <p> <p> <p>
-Here are some English reports of the conference: 
+Here are some English reports of the conference:
 <a href="http://www.iglu.org.il/IGLU/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=54&amp;mode=thread&amp;order=0&amp;thold=0">by RRX</a>,
-<a href="http://www.iglu.org.il/IGLU/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=53&amp;mode=thread&amp;order=0&amp;thold=0">by 
-    Haggai E.</a>. And some Hebrew ones: 
-<a href="http://www.whatsup.org.il/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=3357">by Orna Agmon</a>, 
+<a href="http://www.iglu.org.il/IGLU/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=53&amp;mode=thread&amp;order=0&amp;thold=0">by
+    Haggai E.</a>. And some Hebrew ones:
+<a href="http://www.whatsup.org.il/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=3357">by Orna Agmon</a>,
 <a href="http://www.whatsup.org.il/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=3358">by HeyYal</a>,
 <a href="http://www.whatsup.org.il/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=3356">by yehuda</a>,
 <a href="http://www.whatsup.org.il/modules.php?op=modload&amp;name=News&amp;file=article&amp;sid=3355">by an anonymous penguin</a>,
@@ -154,15 +154,15 @@ Here are some English reports of the conference:
 <p> <p><b>GPG Script</b>
 
 <p> <p> <p>
-The August Penguin key-signing party was conducted in a way that the 
+The August Penguin key-signing party was conducted in a way that the
 a file containing the fingerprints was distributed to everybody, and was
-verified to be correct by its SHA1 hash. Then, <a href="/person/mulix/">mulix</a>, who 
+verified to be correct by its SHA1 hash. Then, <a href="/person/mulix/">mulix</a>, who
 organized it made the keyring available to the public. Now the question
 is whether the signatures in the keyring are the same as those in the file.
 
 
 <p> <p> <p>
-To resolve it, I wrote <a href="http://shlomif.il.eu.org/open-source/bits-and-bobs/gpg-verify.pl">a script</a> 
+To resolve it, I wrote <a href="http://shlomif.il.eu.org/open-source/bits-and-bobs/gpg-verify.pl">a script</a>
 that checks the signatures in the file and verify that they are the same
 as those reported by GPG in the key-ring. You can freely use it under
 the terms of the MIT X11 license.
@@ -178,16 +178,16 @@ times.
 <p> <p> <p><b>Better-SCM Work</b>
 
 <p> <p> <p>
-I went over the E-mails that were sent to me regarding the 
+I went over the E-mails that were sent to me regarding the
 <a href="http://better-scm.berlios.de/">Better-SCM site</a>, answered
-them, etc. I lost interest in it for quite a while and now I have a 
+them, etc. I lost interest in it for quite a while and now I have a
 renewed interest. Another thing I did was revamp the code that renders
 the comparison. At first I had two very similar scripts, one that
 converts the custom XML grammar to HTML, and the other one that does
-the same for DocBook. So, the duplicate code was eliminated by using 
-some common Perl classes. Then, I wrote an XSLT transformation for 
+the same for DocBook. So, the duplicate code was eliminated by using
+some common Perl classes. Then, I wrote an XSLT transformation for
 transforming it to HTML. For help I referred to Norman Walsh' tutorial,
-and to someone very knowledgable on FreeNode's #xml channel. The 
+and to someone very knowledgable on FreeNode's #xml channel. The
 resultant transformation was pretty nice, and I found the experience
 to be quite enlightening. I'm looking forward to working with XSLT more
 in the future.

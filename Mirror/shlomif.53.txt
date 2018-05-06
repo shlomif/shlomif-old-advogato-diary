@@ -18,7 +18,7 @@ I'm at home, and at rest. I am taking some time to go over the material of "Comp
 <p> <p><b>Freecell Solver Book</b>
 
 <p> <p>
-I finished the chapter about the architecture of FCS 0.2 and I'm now in the middle of the next chpater which covers the evolution of the states collection. With some help from the docbook-apps mailing list I was able to fix the table which was too wide (turned out I did correctly specify the number of columns). 
+I finished the chapter about the architecture of FCS 0.2 and I'm now in the middle of the next chpater which covers the evolution of the states collection. With some help from the docbook-apps mailing list I was able to fix the table which was too wide (turned out I did correctly specify the number of columns).
 
 
 <p> <p>

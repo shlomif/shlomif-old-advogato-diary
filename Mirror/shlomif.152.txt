@@ -1,18 +1,18 @@
 <p><b>Hacktivity</b>
 
 <p> <p>
-I did some work on making sure 
+I did some work on making sure
 <a href="http://chiqchaq.sourceforge.net/">Chiq-chaq</a>'s output HTML
-validated. It turned out to be a rather tedious work. While in the Technion, 
+validated. It turned out to be a rather tedious work. While in the Technion,
 I worked on the List of Mailing Lists Manager, and am now at the stage
-where, after I'll add documentation, it would be ready for public 
+where, after I'll add documentation, it would be ready for public
 consumption. It's great that I find time to hack on OSS while studying.
 
 
 <p> <p><b>Studies</b>
 
 <p> <p>
-During the weekend I worked on the Financial Management exercise and almost 
+During the weekend I worked on the Financial Management exercise and almost
 finished it. Today, I consulted my lecturer and using his help I would be
 able to finish the rest. I have to hand it tomorrow.
 
@@ -36,7 +36,7 @@ W2L series.
 
 
 <p> <p>
-Other than that, there's an <a href="http://www.perl.org.il/20030612.html">Israeli Perl Mongers meeting</a> 
-this Thursday. 
+Other than that, there's an <a href="http://www.perl.org.il/20030612.html">Israeli Perl Mongers meeting</a>
+this Thursday.
 
 2003-06-10 18:00:18

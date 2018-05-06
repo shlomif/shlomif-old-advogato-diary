@@ -1,7 +1,7 @@
 <p><b>Perl Meeting</b>
 
 <p> <p>
-Here's <a href="http://perl.org.il/pipermail/perl/2003-August/002851.html">a report I wrote</a> on the latest Israeli Perl Mongers, that took place on 
+Here's <a href="http://perl.org.il/pipermail/perl/2003-August/002851.html">a report I wrote</a> on the latest Israeli Perl Mongers, that took place on
 Thursday. My father drove me to the meeting, and at first I bought some Burekas
 in the nearby bakery. Then was the meeting. After the meeting Ronen Kfir drove
 me and Kfir Lavy home. Kfir and I chatted for a long time and ate supper
@@ -12,18 +12,18 @@ projects.
 <p> <p><b>Python Bindings</b>
 
 <p> <p>
-I've been toying up with the idea of integrating Freecell Solver into PySol. 
+I've been toying up with the idea of integrating Freecell Solver into PySol.
 Since Freecell Solver is written in C, and PySol is a Python program, I had
 to create bindings for it. At first I started using SWIG. This created very
-C'ish APIs without much trace of a native language behaviour. Then I 
+C'ish APIs without much trace of a native language behaviour. Then I
 realized it does not handle arrays well. So I set out
-to write Python in the native bindings language. I consulted the Python 
-tutorial, the Python extensions writing manual, and the people at the #python 
+to write Python in the native bindings language. I consulted the Python
+tutorial, the Python extensions writing manual, and the people at the #python
 channel on FreeNode and eventually got things to work nicely enough.
 
 
 <p> <p>
-I'm still a bit worried about memory leaks, but I suppose that Valgrind will 
+I'm still a bit worried about memory leaks, but I suppose that Valgrind will
 help me detect if they exist.
 
 
@@ -37,7 +37,7 @@ the translation is done without an entry existing in the .svn/entries file.
 
 
 <p> <p>
-Ben Collins-Sussman and I discussed the best way to resolve it on IRC. 
+Ben Collins-Sussman and I discussed the best way to resolve it on IRC.
 Our conclusion was that we should probably create another post-process routine
 that will do the translation after the entry is created (which is already the
 case, just that the translation is done beforehand). However, Ben thought

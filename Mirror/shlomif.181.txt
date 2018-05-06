@@ -18,7 +18,7 @@ but it was still a very amusing read.
 
 
 <p> <p>
-Finally, I started reading "Ender's Game", and read two or three chapters. 
+Finally, I started reading "Ender's Game", and read two or three chapters.
 It's a bit strange so far.
 
 
@@ -26,10 +26,10 @@ It's a bit strange so far.
 
 <p> <p>
 I decided to backup my Linux system. Due to the fact I have an IDE CD Writer,
-I had to install ide-scsi. So I followed the instructions in 
-<a href="http://www.troubleshooters.com/linux/cdrw.htm">the "Installing your 
-    ATAPI CDRW Drive in Linux" tutorial</a>, which involved rebooting the 
-computer (gasp! I thought in Linux we were never supposed to do that). 
+I had to install ide-scsi. So I followed the instructions in
+<a href="http://www.troubleshooters.com/linux/cdrw.htm">the "Installing your
+    ATAPI CDRW Drive in Linux" tutorial</a>, which involved rebooting the
+computer (gasp! I thought in Linux we were never supposed to do that).
 Eventually, after the reboot and setting a parameter in loadlin, it worked on
 the first try, and I have a burned CD with some backups.
 
@@ -55,7 +55,7 @@ Then when I fixed a bug (that the rendering process did not stop on the first
 Finally, I added a module to channel Getopt::Long and make sure it can use
 an array besides <tt>@ARGV</tt>. (a kludge, if you ask me, but that's life).
 And I added a unit test for this as well. After I got the test to work, I found
-out I had a bug in my code (!) because of it. 
+out I had a bug in my code (!) because of it.
 
 
 <p> <p>

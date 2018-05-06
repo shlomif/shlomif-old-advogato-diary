@@ -2,14 +2,14 @@
 
 <p> <p> <p>
 IBM has recently bought Rational, the producers of Rational ClearCase, which
-is an SCM system competing with BitKeeper. Does it mean all IBM employees 
+is an SCM system competing with BitKeeper. Does it mean all IBM employees
 (including many Linux kernel hackers) are forbidden from using BitKeeper? ;-)
 
 
 <p> <p> <p>
 I suppose only Larry McVoy can tell. I talked about it on the IRC with
 some people and they said IBM is so large, that it can hardly be considered
-as one entity. Still, I'm not sure it is a separate entity as far as 
+as one entity. Still, I'm not sure it is a separate entity as far as
 copyright law is concerned.
 
 
@@ -17,21 +17,21 @@ copyright law is concerned.
 
 <p> <p> <p>
 Various bits and pieces. I worked a bit on <a href="http://perl-begin.berlios.de/">perl-begin</a>, compiling it again after
-the move to the new computer. Then, I added some links to web-forums 
-there. I also worked a bit on the Haskell for Perl Programmers lecture, 
-adding stuff on arrays. 
+the move to the new computer. Then, I added some links to web-forums
+there. I also worked a bit on the Haskell for Perl Programmers lecture,
+adding stuff on arrays.
 
 
 <p> <p> <p>
 I worked on the Homesteading the Noosphere translation. I finished the chapter
-"Ownership Rights and Reputation Incentives", replaced my own translation 
+"Ownership Rights and Reputation Incentives", replaced my own translation
 with a corrected first chapter I received from someone else, and also went
 over the existing translation and corrected various stuff.
 
 
 <p> <p> <p>
-I also modified my homepage to include <a href="http://t2.technion.ac.il/~shlomif/open-source/interviews/">the interviews section</a>, and placed Adrian 
-Ettlinger's interview online. You probably know of it from the front-page 
+I also modified my homepage to include <a href="http://t2.technion.ac.il/~shlomif/open-source/interviews/">the interviews section</a>, and placed Adrian
+Ettlinger's interview online. You probably know of it from the front-page
 article.
 
 
